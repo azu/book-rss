@@ -5,6 +5,7 @@ Generate RSS Feed for newer Book using [Google Books APIs](https://developers.go
 ## Usage
 
 - Visit <https://azu.github.io/book-rss>
+- Subscribe RSS Feed in your rss reader
 
 ## How to add Feed?
 

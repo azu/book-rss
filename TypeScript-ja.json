@@ -1,7 +1,7 @@
 {
     "version": "https://jsonfeed.org/version/1",
     "title": "TypeScript on Google Book",
-    "home_page_url": "https://azu.github.io/book-rss/TypeScript.json",
+    "home_page_url": "https://azu.github.io/book-rss/TypeScript-ja.json",
     "description": "TypeScript on Google Book",
     "items": [
         {

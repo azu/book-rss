@@ -88,6 +88,9 @@ if (require.main === module) {
 <ul>
 ${links}
 </ul>
+<footer>
+<a href="https://github.com/azu/book-rss">Source Code</a>
+</footer>
 </body>
 </html>
 `

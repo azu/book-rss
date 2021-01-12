@@ -86,6 +86,7 @@ if (require.main === module) {
     <title>Book-RSS</title>
 </head>
 <body>
+<p>These RSS Feed is search result of Google Books. Your RSS reader need to support JSON RSS.</p>
 <ul>
 ${links}
 </ul>

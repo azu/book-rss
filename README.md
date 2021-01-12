@@ -1,6 +1,6 @@
 # book-rss
 
-Generate RSS Feed for newer Book using [Google Books APIs](https://developers.google.com/books/docs/v1/using?hl=ja)
+Generate RSS Feed for latest Book using [Google Books APIs](https://developers.google.com/books/docs/v1/using?hl=ja)
 
 - Update [RSS Feeds](./src/rss.ts) at 00:00 everyday
 

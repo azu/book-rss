@@ -45,7 +45,7 @@ export const generateRSS = (response: SearchKeywordResponse, options: GenerateRS
             date: dayjs(item.volumeInfo.publishedDate, "YYYY-MM-DD").toDate()
         });
     });
-    return feed.rss2();
+    return feed.atom1();
 };
 
 export type BookRSSItem = {

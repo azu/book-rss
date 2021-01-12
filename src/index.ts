@@ -6,8 +6,10 @@ import { BOOK_FEEDS } from "./rss";
 import * as fs from "fs/promises";
 import path from "path";
 
-export const searchKeyword = (query: string): Promise<SearchKeywordResponse> => {
-    const API = `https://www.googleapis.com/books/v1/volumes?q=${encodeURIComponent(query)}&orderBy=newest`;
+export const searchKeyword = (query: string, lang: string): Promise<SearchKeywordResponse> => {
+    const API = `https://www.googleapis.com/books/v1/volumes?q=${encodeURIComponent(
+        query
+    )}&langRestrict=${lang}&orderBy=newest`;
     return fetch(API).then((res) => res.json());
 };
 
@@ -55,6 +57,7 @@ export const generateRSS = (response: SearchKeywordResponse, options: GenerateRS
 
 export type BookRSSItem = {
     query: string;
+    lang: string;
 } & Omit<GenerateRSSOptions, "updated" | "title" | "description">;
 if (require.main === module) {
     const distDir = path.join(__dirname, "../dist");
@@ -63,8 +66,8 @@ if (require.main === module) {
             recursive: true
         });
         for (const item of BOOK_FEEDS) {
-            const { query, ...options } = item;
-            const json = await searchKeyword(query);
+            const { query, lang, ...options } = item;
+            const json = await searchKeyword(query, lang);
             const rss = generateRSS(json, {
                 title: query + " on Google Book",
                 description: query + " on Google Book",

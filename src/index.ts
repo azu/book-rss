@@ -75,28 +75,26 @@ if (require.main === module) {
             await fs.writeFile(path.join(distDir, fileName), rss, "utf-8");
         }
         const links = BOOK_FEEDS.map((feed) => {
-            return `<li>${feed.query} : <a href = "${feed.link}" >${feed.link}</a></li > `;
+            return `<li>${feed.query}: <a href="${feed.link}">${feed.link}</a></li>`;
         }).join("\n");
         const index = {
             html: `
-            < !DOCTYPE
-        html >
-        <html lang = "en" >
-        <head>
-            <meta charset = "UTF-8" >
-        <title>Book - RSS < /title>
-        < /head>
-        < body >
-        <ul>
-            ${links}
-            </ul>
-        < footer >
-        <a href = "https://github.com/azu/book-rss" > Source;
-        Code < /a>
-        < /footer>
-        < /body>
-        < /html>
-            `
+            <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Book-RSS</title>
+</head>
+<body>
+<ul>
+${links}
+</ul>
+<footer>
+<a href="https://github.com/azu/book-rss">Source Code</a>
+</footer>
+</body>
+</html>
+`
         };
         await fs.writeFile(path.join(distDir, "index.html"), index.html, "utf-8");
     })();

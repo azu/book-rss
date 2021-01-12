@@ -1,5 +1,8 @@
 name: book-rss
 on:
+  push:
+    branches:
+      - main  # Set a branch name to trigger deployment
   schedule:
     - cron:  '0 * * * *'
 jobs:

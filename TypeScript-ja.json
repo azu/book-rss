@@ -1,8 +1,8 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "TypeScript on Google Book",
+    "title": "TypeScript(ja) on Google Book",
     "home_page_url": "https://azu.github.io/book-rss/TypeScript-ja.json",
-    "description": "TypeScript on Google Book",
+    "description": "TypeScript(ja) on Google Book",
     "items": [
         {
             "content_html": "本書は、Web ブラウザにおける本格的な GUI の入門書です。Web ブラウザに期待される役割は年々増してきています。ネイティブアプリ顔負けのデザインツールや、ドラッグアンドドロップでの操作が必要なフォームを作りたくなったとして、我々は何に気をつけるべきなのでしょうか？これまで HTML / CSS / JavaScript で実装するのが大変だった UI をどう実装するべきなのでしょうか？この点を本書は重点的に扱います。本書では定番のセレクトボックスやヘッダーレイアウトの他、バウンディングボックスやツリーといったドラッグを伴う UI なども実装していきます。苦しくも楽しい、Webブラウザの複雑なGUIの世界に、エディタとブラウザを開きながら足を踏み入れてみましょう。 【目次】 第1章 フルスクラッチGUI入門 第2章 バウンディングボックスことはじめ──移動・拡縮・回転 第3章 スクロールに連動して高さが変わるヘッダビューを作る 第4章 ドラッグ＆ドロップ並び替え入門 第5章 座談会──STUDIO CPOとするGUIの話<br><blockquote>本書は、Web ブラウザにおける本格的な GUI の入門書です。Web ブラウザに期待される役割は年々増してきています。ネイティブアプリ顔負けのデザインツールや、ドラッグアンド ...</blockquote>",

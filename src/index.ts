@@ -69,8 +69,8 @@ if (require.main === module) {
             const { query, lang, ...options } = item;
             const json = await searchKeyword(query, lang);
             const rss = generateRSS(json, {
-                title: query + " on Google Book",
-                description: query + " on Google Book",
+                title: `${query}(${lang}) on Google Book`,
+                description: `${query}(${lang}) on Google Book`,
                 ...options,
                 updated: new Date()
             });

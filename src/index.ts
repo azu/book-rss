@@ -36,10 +36,11 @@ export const generateRSS = (response: SearchKeywordResponse, options: GenerateRS
     const filter = options.filter;
     const filteredItems = filter ? response.items.filter((item) => filter(item)) : response.items;
     filteredItems.forEach((item) => {
+        const textSnippet = item?.searchInfo?.textSnippet;
         feed.addItem({
             title: item.volumeInfo.title,
             description: item.volumeInfo.description,
-            content: item.searchInfo.textSnippet,
+            content: item.volumeInfo.description + (textSnippet ? `<br><blockquote>${textSnippet}</blockquote>` : ""),
             link: item.volumeInfo.previewLink,
             image: item.volumeInfo.imageLinks.thumbnail,
             date: dayjs(item.volumeInfo.publishedDate, "YYYY-MM-DD").toDate()
@@ -65,8 +66,8 @@ if (require.main === module) {
             const { query, ...options } = item;
             const json = await searchKeyword(query);
             const rss = generateRSS(json, {
-                title: "Search for " + query,
-                description: "Search for " + query,
+                title: query + " on Google Book",
+                description: query + " on Google Book",
                 ...options,
                 updated: new Date()
             });
@@ -74,26 +75,28 @@ if (require.main === module) {
             await fs.writeFile(path.join(distDir, fileName), rss, "utf-8");
         }
         const links = BOOK_FEEDS.map((feed) => {
-            return `<li>${feed.query}: <a href="${feed.link}">${feed.link}</a></li>`;
+            return `<li>${feed.query} : <a href = "${feed.link}" >${feed.link}</a></li > `;
         }).join("\n");
         const index = {
             html: `
-            <!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>Book-RSS</title>
-</head>
-<body>
-<ul>
-${links}
-</ul>
-<footer>
-<a href="https://github.com/azu/book-rss">Source Code</a>
-</footer>
-</body>
-</html>
-`
+            < !DOCTYPE
+        html >
+        <html lang = "en" >
+        <head>
+            <meta charset = "UTF-8" >
+        <title>Book - RSS < /title>
+        < /head>
+        < body >
+        <ul>
+            ${links}
+            </ul>
+        < footer >
+        <a href = "https://github.com/azu/book-rss" > Source;
+        Code < /a>
+        < /footer>
+        < /body>
+        < /html>
+            `
         };
         await fs.writeFile(path.join(distDir, "index.html"), index.html, "utf-8");
     })();

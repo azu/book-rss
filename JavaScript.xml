@@ -4,7 +4,7 @@
         <title>Search for JavaScript</title>
         <link>https://azu.github.io/book-rss/JavaScript.xml</link>
         <description>Search for JavaScript</description>
-        <lastBuildDate>Tue, 12 Jan 2021 14:17:33 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Jan 2021 14:17:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>book-rss</generator>
         <copyright>book-rss</copyright>
@@ -39,7 +39,7 @@
             <title><![CDATA[JavaScript Made Easy]]></title>
             <link>http://books.google.com/books?id=WubuBQAAQBAJ&amp;pg=PA44&amp;dq=JavaScript&amp;hl=&amp;cd=4&amp;source=gbs_api</link>
             <guid>http://books.google.com/books?id=WubuBQAAQBAJ&amp;pg=PA44&amp;dq=JavaScript&amp;hl=&amp;cd=4&amp;source=gbs_api</guid>
-            <pubDate>Tue, 12 Jan 2021 14:17:33 GMT</pubDate>
+            <pubDate>Tue, 12 Jan 2021 14:17:49 GMT</pubDate>
             <description><![CDATA[JavaScript Made Easy covers the basics of JavaScript. It comprises many interesting sample scripts. The book was written in simple and plain English to help you master JavaScript easily . By reading this book, you should be able to use JavaScript in developing powerful and interactive websites.]]></description>
             <content:encoded><![CDATA[<b>JavaScript</b>. Tutorial. Text with typewriter style : <b>JavaScript</b> Tutorial Subscript text: <br>
 <b>JavaScript</b> Tutorial Superscript text:JavaScriptTutorial Strike-thru text: <br>
@@ -50,7 +50,7 @@ JavaScriptTutorial Red color text: <b>JavaScript</b> Tutorial Fontsize +3:&nbsp;
             <title><![CDATA[JavaScript Made Easy]]></title>
             <link>http://books.google.com/books?id=WubuBQAAQBAJ&amp;pg=PA52&amp;dq=JavaScript&amp;hl=&amp;cd=5&amp;source=gbs_api</link>
             <guid>http://books.google.com/books?id=WubuBQAAQBAJ&amp;pg=PA52&amp;dq=JavaScript&amp;hl=&amp;cd=5&amp;source=gbs_api</guid>
-            <pubDate>Tue, 12 Jan 2021 14:17:33 GMT</pubDate>
+            <pubDate>Tue, 12 Jan 2021 14:17:49 GMT</pubDate>
             <description><![CDATA[JavaScript Made Easy covers the basics of JavaScript. It comprises many interesting sample scripts. The book was written in simple and plain English to help you master JavaScript easily . By reading this book, you should be able to use JavaScript in developing powerful and interactive websites.]]></description>
             <content:encoded><![CDATA[Example 9.2 &lt;html&gt; &lt;head&gt; &lt;title&gt;Example 9.2: <b>JavaScript</b> event-onmouseover&lt;<br>
 /title&gt; &lt;/head&gt; &lt;body&gt; &lt;script language=&quot;<b>javascript</b>&quot;&gt; function mylink() {alert(&quot;<br>

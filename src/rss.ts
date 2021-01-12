@@ -8,7 +8,7 @@ const BASE_URL = "https://azu.github.io/book-rss";
 export const BOOK_FEEDS: BookRSSItem[] = [
     {
         query: "JavaScript",
-        link: `${BASE_URL}/JavaScript.xml`,
+        link: `${BASE_URL}/JavaScript.json`,
         filter: (item) => {
             // Ignore searchInfo.textSnippet matching
             const hasJavaScript =
@@ -19,6 +19,6 @@ export const BOOK_FEEDS: BookRSSItem[] = [
     },
     {
         query: "TypeScript",
-        link: `${BASE_URL}/TypeScript.xml`
+        link: `${BASE_URL}/TypeScript.json`
     }
 ];

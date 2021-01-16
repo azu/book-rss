@@ -101,5 +101,8 @@ ${links}
 `
         };
         await fs.writeFile(path.join(distDir, "index.html"), index.html, "utf-8");
-    })();
+    })().catch((error) => {
+        console.error(error);
+        process.exit(1);
+    });
 }

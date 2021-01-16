@@ -8,10 +8,10 @@ import path from "path";
 
 const fetchWithRetry = async (url: RequestInfo, init?: RequestInit, retry: number = 3): Promise<Response> => {
     try {
-        return fetch(url, init);
+        return await fetch(url, init);
     } catch (err) {
         if (retry === 1) throw err;
-        return fetchWithRetry(url, init, retry - 1);
+        return await fetchWithRetry(url, init, retry - 1);
     }
 };
 export const searchKeyword = (query: string, lang: string): Promise<SearchKeywordResponse> => {

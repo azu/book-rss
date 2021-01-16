@@ -68,6 +68,9 @@ if (require.main === module) {
         for (const item of BOOK_FEEDS) {
             const { query, lang, ...options } = item;
             const json = await searchKeyword(query, lang);
+            if (!json) {
+                throw new Error("Can not search:" + query);
+            }
             const rss = generateRSS(json, {
                 title: `${query}(${lang}) on Google Book`,
                 description: `${query}(${lang}) on Google Book`,

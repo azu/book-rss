@@ -10,7 +10,7 @@ const fetchWithRetry = async (url: RequestInfo, init?: RequestInit, retry: numbe
     try {
         return await fetch(url, init);
     } catch (err) {
-        if (retry === 1) throw err;
+        if (retry === 0) throw err;
         return await fetchWithRetry(url, init, retry - 1);
     }
 };

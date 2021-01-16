@@ -1,4 +1,4 @@
-import fetch from "node-fetch";
+import fetch, { RequestInfo, RequestInit, Response } from "node-fetch";
 import { Item, SearchKeywordResponse } from "./type";
 import { Feed } from "feed";
 import dayjs from "dayjs";
@@ -6,11 +6,19 @@ import { BOOK_FEEDS } from "./rss";
 import * as fs from "fs/promises";
 import path from "path";
 
+const fetchWithRetry = async (url: RequestInfo, init?: RequestInit, retry: number = 3): Promise<Response> => {
+    try {
+        return fetch(url, init);
+    } catch (err) {
+        if (retry === 1) throw err;
+        return fetchWithRetry(url, init, retry - 1);
+    }
+};
 export const searchKeyword = (query: string, lang: string): Promise<SearchKeywordResponse> => {
     const API = `https://www.googleapis.com/books/v1/volumes?q=${encodeURIComponent(
         query
     )}&langRestrict=${lang}&orderBy=newest`;
-    return fetch(API).then((res) => res.json());
+    return fetchWithRetry(API).then((res) => res.json());
 };
 
 export type GenerateRSSOptions = {

@@ -47,12 +47,13 @@ export const generateRSS = (response: SearchKeywordResponse, options: GenerateRS
     const filteredItems = filter ? response.items.filter((item) => filter(item)) : response.items;
     filteredItems.forEach((item) => {
         const textSnippet = item?.searchInfo?.textSnippet;
+        const description = item.volumeInfo.description ?? "";
         feed.addItem({
             title: item.volumeInfo.title,
-            description: item.volumeInfo.description,
-            content: item.volumeInfo.description + (textSnippet ? `<br><blockquote>${textSnippet}</blockquote>` : ""),
-            link: item.volumeInfo.previewLink,
-            image: item.volumeInfo.imageLinks.thumbnail,
+            description: description,
+            content: description + (textSnippet ? `<br><blockquote>${textSnippet}</blockquote>` : ""),
+            link: item.volumeInfo?.previewLink,
+            image: item.volumeInfo?.imageLinks?.thumbnail,
             date: dayjs(item.volumeInfo.publishedDate, "YYYY-MM-DD").toDate()
         });
     });

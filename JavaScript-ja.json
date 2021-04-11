@@ -5,16 +5,8 @@
     "description": "JavaScript(ja) on Google Book",
     "items": [
         {
-            "content_html": "本書はマイコン向けJavaScriptプラットフォーム「Moddable」の解説書です。「マイコンでもJavaScriptでアプリが書けたら…」は、Web開発者だれもが抱く夢でした。そこで登場したのがModdableです！Moddableは、さまざまなマイクロコントローラ向けのアプリケーションをJavaScriptで開発できるプラットフォームです。本書ではModdableとM5Stackを使ったアプリケーション開発方法を紹介します。環境構築とサンプルアプリの製作、そして「JavaScriptでIoT」な他のプラットフォーム達との比較を通じて、Moddableの魅力をお伝えします。あなたもModdableと一緒にJavaScriptでIoTアプリ開発を始めましょう！ 【目次】 第1章 Moddable 概説 第2章 Moddableをはじめよう 付録A Moddable を他プラットフォームとくらべてみた 付録B JavaScriptの開発支援ツールをModdableで使う<br><blockquote>本書はマイコン向けJavaScriptプラットフォーム「Moddable」の解説書です。「マイコンでもJavaScriptでアプリが書けたら…」は、Web開発者だれもが抱く夢でした。そこで登場したのがMo ...</blockquote>",
-            "url": "http://books.google.com/books?id=1vn6DwAAQBAJ&printsec=frontcover&dq=JavaScript&hl=&cd=2&source=gbs_api",
-            "title": "実践Moddable　JavaScriptではじめるIoTアプリケーション",
-            "summary": "本書はマイコン向けJavaScriptプラットフォーム「Moddable」の解説書です。「マイコンでもJavaScriptでアプリが書けたら…」は、Web開発者だれもが抱く夢でした。そこで登場したのがModdableです！Moddableは、さまざまなマイクロコントローラ向けのアプリケーションをJavaScriptで開発できるプラットフォームです。本書ではModdableとM5Stackを使ったアプリケーション開発方法を紹介します。環境構築とサンプルアプリの製作、そして「JavaScriptでIoT」な他のプラットフォーム達との比較を通じて、Moddableの魅力をお伝えします。あなたもModdableと一緒にJavaScriptでIoTアプリ開発を始めましょう！ 【目次】 第1章 Moddable 概説 第2章 Moddableをはじめよう 付録A Moddable を他プラットフォームとくらべてみた 付録B JavaScriptの開発支援ツールをModdableで使う",
-            "image": "http://books.google.com/books/content?id=1vn6DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-            "date_modified": "2020-09-11T00:00:00.000Z"
-        },
-        {
             "content_html": "本書は、Web ブラウザにおける本格的な GUI の入門書です。Web ブラウザに期待される役割は年々増してきています。ネイティブアプリ顔負けのデザインツールや、ドラッグアンドドロップでの操作が必要なフォームを作りたくなったとして、我々は何に気をつけるべきなのでしょうか？これまで HTML / CSS / JavaScript で実装するのが大変だった UI をどう実装するべきなのでしょうか？この点を本書は重点的に扱います。本書では定番のセレクトボックスやヘッダーレイアウトの他、バウンディングボックスやツリーといったドラッグを伴う UI なども実装していきます。苦しくも楽しい、Webブラウザの複雑なGUIの世界に、エディタとブラウザを開きながら足を踏み入れてみましょう。 【目次】 第1章 フルスクラッチGUI入門 第2章 バウンディングボックスことはじめ──移動・拡縮・回転 第3章 スクロールに連動して高さが変わるヘッダビューを作る 第4章 ドラッグ＆ドロップ並び替え入門 第5章 座談会──STUDIO CPOとするGUIの話<br><blockquote>本書は、Web ブラウザにおける本格的な GUI の入門書です。Web ブラウザに期待される役割は年々増してきています。ネイティブアプリ顔負けのデザインツールや、ドラッグアンド ...</blockquote>",
-            "url": "http://books.google.com/books?id=0Pn6DwAAQBAJ&printsec=frontcover&dq=JavaScript&hl=&cd=3&source=gbs_api",
+            "url": "http://books.google.com/books?id=0Pn6DwAAQBAJ&printsec=frontcover&dq=JavaScript&hl=&cd=2&source=gbs_api",
             "title": "入門GUI",
             "summary": "本書は、Web ブラウザにおける本格的な GUI の入門書です。Web ブラウザに期待される役割は年々増してきています。ネイティブアプリ顔負けのデザインツールや、ドラッグアンドドロップでの操作が必要なフォームを作りたくなったとして、我々は何に気をつけるべきなのでしょうか？これまで HTML / CSS / JavaScript で実装するのが大変だった UI をどう実装するべきなのでしょうか？この点を本書は重点的に扱います。本書では定番のセレクトボックスやヘッダーレイアウトの他、バウンディングボックスやツリーといったドラッグを伴う UI なども実装していきます。苦しくも楽しい、Webブラウザの複雑なGUIの世界に、エディタとブラウザを開きながら足を踏み入れてみましょう。 【目次】 第1章 フルスクラッチGUI入門 第2章 バウンディングボックスことはじめ──移動・拡縮・回転 第3章 スクロールに連動して高さが変わるヘッダビューを作る 第4章 ドラッグ＆ドロップ並び替え入門 第5章 座談会──STUDIO CPOとするGUIの話",
             "image": "http://books.google.com/books/content?id=0Pn6DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
@@ -22,7 +14,7 @@
         },
         {
             "content_html": "本書は2018年インプレスR&Dより刊行した書籍『ドリル形式で楽しく学ぶ Processing-Python』を全面的に見直した改訂版です。 本書は、著者が教えるプログラミング教室で実際に教材として使用しているものをもとに追加編集したものです。教室で教えていても、生徒が本当に理解したのか知ることは難しいものがあります。生徒自身もどこまで理解したのかわからないこともあるでしょう。そこで、授業ではドリル（演習）を行い、確実に基礎を習得できるようにしています。 実行環境はProcessingです。Processingは表現力に優れ、敷居が低いのでアート・美術分野で注目されがちですが、Java、JavaScript、Pythonといった本格的なプログラミング言語をサポートしています。本書では、基本的な描画命令に始まり、変数、演算、for文、if文、イベント処理、配列、リスト、クラスなどプログラミングで基礎となる内容をカバーしているので、ほかの言語を学習する際にもきっと役に立つはずです。 （本書は『ドリル形式で楽しく学ぶ Processing-Java改訂版』をPythonに移植したものです） 【目次】 第1問｜国旗を描こう 第2問｜文字と変数 第3問｜動きを加える 第4問｜おでんを描く 第5問｜ifによる条件分岐 第6問｜for文を使った繰り返し 第7問｜変数のスコープ 第8問｜画像の描画 第9問｜イベント 第10問｜ヘリコプター 第11問｜月面着陸 第12問｜虫たたきゲーム 第13問｜宝箱 第14問｜おみくじ 第15問｜キャラクターの移動 第16問｜シルエットクイズ 第17問｜リンゴキャッチ 第18問｜ゴールキーパー 第19問｜迷路 第20問｜都道府県クイズ 第21問｜はなび 第22問｜Alphabet Soup 第23問｜タイピング 第24問｜追いかけっこ 第25問｜弓矢 第26問｜もぐらたたき 第27問｜スロットマシン 第28問｜たまご運び 第29問｜棒人間ジャンプ 第30問｜シューティング<br><blockquote>本書は2018年インプレスR&amp;Dより刊行した書籍『ドリル形式で楽しく学ぶ Processing-Python』を全面的に見直した改訂版です。 ...</blockquote>",
-            "url": "http://books.google.com/books?id=SSv3DwAAQBAJ&printsec=frontcover&dq=JavaScript&hl=&cd=5&source=gbs_api",
+            "url": "http://books.google.com/books?id=SSv3DwAAQBAJ&printsec=frontcover&dq=JavaScript&hl=&cd=4&source=gbs_api",
             "title": "ドリル形式で楽しく学ぶ　Processing-Python　改訂版",
             "summary": "本書は2018年インプレスR&Dより刊行した書籍『ドリル形式で楽しく学ぶ Processing-Python』を全面的に見直した改訂版です。 本書は、著者が教えるプログラミング教室で実際に教材として使用しているものをもとに追加編集したものです。教室で教えていても、生徒が本当に理解したのか知ることは難しいものがあります。生徒自身もどこまで理解したのかわからないこともあるでしょう。そこで、授業ではドリル（演習）を行い、確実に基礎を習得できるようにしています。 実行環境はProcessingです。Processingは表現力に優れ、敷居が低いのでアート・美術分野で注目されがちですが、Java、JavaScript、Pythonといった本格的なプログラミング言語をサポートしています。本書では、基本的な描画命令に始まり、変数、演算、for文、if文、イベント処理、配列、リスト、クラスなどプログラミングで基礎となる内容をカバーしているので、ほかの言語を学習する際にもきっと役に立つはずです。 （本書は『ドリル形式で楽しく学ぶ Processing-Java改訂版』をPythonに移植したものです） 【目次】 第1問｜国旗を描こう 第2問｜文字と変数 第3問｜動きを加える 第4問｜おでんを描く 第5問｜ifによる条件分岐 第6問｜for文を使った繰り返し 第7問｜変数のスコープ 第8問｜画像の描画 第9問｜イベント 第10問｜ヘリコプター 第11問｜月面着陸 第12問｜虫たたきゲーム 第13問｜宝箱 第14問｜おみくじ 第15問｜キャラクターの移動 第16問｜シルエットクイズ 第17問｜リンゴキャッチ 第18問｜ゴールキーパー 第19問｜迷路 第20問｜都道府県クイズ 第21問｜はなび 第22問｜Alphabet Soup 第23問｜タイピング 第24問｜追いかけっこ 第25問｜弓矢 第26問｜もぐらたたき 第27問｜スロットマシン 第28問｜たまご運び 第29問｜棒人間ジャンプ 第30問｜シューティング",
             "image": "http://books.google.com/books/content?id=SSv3DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
@@ -30,7 +22,7 @@
         },
         {
             "content_html": "本書は入門書の次に読むことを想定にした、中級者へのステップアップを目指すNode.js解説書です。主にNode.jsに対する技術的な内容を扱います。本書を読むことによって、Node.jsに対する理解を深めることができます。Node.jsの副読本として活用ください。 【目次】 第1章 Node.jsの全体像 第2章 npm(Node Package Manager) 第3章 サーバーとしてのNode.js 第4章 イベントループ 第5章 非同期プログラミング（コールバック） 第6章 コールバック地獄の解消 第7章 Stream 第8章 AltJSとTypeScriptを使った開発 第9章 コーディングガイドラインとESLint 第10章 Node.jsとセキュリティ 第11章 Node.jsのコアには、どのようなモジュールがあるのか 第12章 JavaScript & Node.js Tips集 付録A Node.jsの習得に役立つ情報を得るには 付録B ES2015(ES6) 付録C ES2016 付録D ES2017 付録E ES2018 付録F ES2019 付録G Node.js v13とv14について<br><blockquote>本書は入門書の次に読むことを想定にした、中級者へのステップアップを目指すNode.js解説書です。主にNode.jsに対する技術的な内容を扱います。本書を読むことによって、Node ...</blockquote>",
-            "url": "http://books.google.com/books?id=hZ_qDwAAQBAJ&printsec=frontcover&dq=JavaScript&hl=&cd=7&source=gbs_api",
+            "url": "http://books.google.com/books?id=hZ_qDwAAQBAJ&printsec=frontcover&dq=JavaScript&hl=&cd=6&source=gbs_api",
             "title": "レベルアップNode.js",
             "summary": "本書は入門書の次に読むことを想定にした、中級者へのステップアップを目指すNode.js解説書です。主にNode.jsに対する技術的な内容を扱います。本書を読むことによって、Node.jsに対する理解を深めることができます。Node.jsの副読本として活用ください。 【目次】 第1章 Node.jsの全体像 第2章 npm(Node Package Manager) 第3章 サーバーとしてのNode.js 第4章 イベントループ 第5章 非同期プログラミング（コールバック） 第6章 コールバック地獄の解消 第7章 Stream 第8章 AltJSとTypeScriptを使った開発 第9章 コーディングガイドラインとESLint 第10章 Node.jsとセキュリティ 第11章 Node.jsのコアには、どのようなモジュールがあるのか 第12章 JavaScript & Node.js Tips集 付録A Node.jsの習得に役立つ情報を得るには 付録B ES2015(ES6) 付録C ES2016 付録D ES2017 付録E ES2018 付録F ES2019 付録G Node.js v13とv14について",
             "image": "http://books.google.com/books/content?id=hZ_qDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
@@ -38,19 +30,19 @@
         },
         {
             "content_html": "『プログラミング問題集シリーズ』の電子版がついに登場！ 『プログラミング問題集シリーズ』の印刷版が絶版となりましたが、再販売に関するお問い合わせが多かったため、このたび電子版を発行しました。 ユニークなプログラム作成課題を満載！ 文法書だけではマスターできない、プログラム作成練習のための新しい学習書！ プログラムの本と言えば、文法書の類がほとんど。初学者の悩みは、プログラムの作成練習をしたいけれど、なんのプログラムを作ったらよいか分からないこと。そんな方々のために登場したプログラム作成課題満載の新しい学習書！ 大学や専門学校のプログラミング授業のネタ本としても大好評！！ 問題集1,2 【JavaScript】 問題集3,4 【Java JFC/swing】 問題集5 【Visual Basic .NET】 ３種類の言語で５冊のラインナップ。併せて読めば、同種類の問題の、異なる言語による比較学習もできます！<br><blockquote>『プログラミング問題集シリーズ』の電子版がついに登場！ 『プログラミング問題集シリーズ』の印刷版が絶版となりましたが、再販売に関するお問い合わせが多かったため、 ...</blockquote>",
-            "url": "http://books.google.com/books?id=biqVDwAAQBAJ&printsec=frontcover&dq=JavaScript&hl=&cd=8&source=gbs_api",
+            "url": "http://books.google.com/books?id=biqVDwAAQBAJ&printsec=frontcover&dq=JavaScript&hl=&cd=7&source=gbs_api",
             "title": "プログラミング問題集１ Java Script版 空の巻",
             "summary": "『プログラミング問題集シリーズ』の電子版がついに登場！ 『プログラミング問題集シリーズ』の印刷版が絶版となりましたが、再販売に関するお問い合わせが多かったため、このたび電子版を発行しました。 ユニークなプログラム作成課題を満載！ 文法書だけではマスターできない、プログラム作成練習のための新しい学習書！ プログラムの本と言えば、文法書の類がほとんど。初学者の悩みは、プログラムの作成練習をしたいけれど、なんのプログラムを作ったらよいか分からないこと。そんな方々のために登場したプログラム作成課題満載の新しい学習書！ 大学や専門学校のプログラミング授業のネタ本としても大好評！！ 問題集1,2 【JavaScript】 問題集3,4 【Java JFC/swing】 問題集5 【Visual Basic .NET】 ３種類の言語で５冊のラインナップ。併せて読めば、同種類の問題の、異なる言語による比較学習もできます！",
             "image": "http://books.google.com/books/content?id=biqVDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
             "date_modified": "2019-04-25T00:00:00.000Z"
         },
         {
-            "content_html": "信頼されるエンジニアになるための学習書 本書はJavaScriptによるプログラミングを基本から学べる教科書です。 Part-1（基礎編）では、小コードを書きながら、 変数、演算子、配列、関数、正規表現、オブジェクト、DOMといった JavaScriptの基本を学びます。 Part-2（実践編）では、サンプルを使って、 jQuery、JSON、クッキー、アニメーションといった、 実践的な技術を学びます。 Appendix（付録）では、フレームワークなど、 現場で役立つ知識も学べます。 また、サンプルコードはクラウドサービス「CodePen」を活用できるので、 いつでもどこでも学べる仕組みになっています。 初学者からスキルアップを目指す方まで、 これだけ知っていれば現場に出て困らない、 JavaScriptの基本と応用を学べる一冊です。 ＜こんな方のための本です＞ ・初学者 ・Webデザイナー ・HTML/CSSマークアップエンジニア ・JavaScriptで一度挫折したことがある方 ・仕事として役立つスキルを身につけたい方<br><blockquote>信頼されるエンジニアになるための学習書 本書はJavaScriptによるプログラミングを基本から学べる教科書です。 Part-1（基礎編）では、小コードを書きながら、 ...</blockquote>",
-            "url": "http://books.google.com/books?id=Ivp6DwAAQBAJ&printsec=frontcover&dq=JavaScript&hl=&cd=10&source=gbs_api",
-            "title": "入門JavaScript フロントエンドエンジニアになるための基本と実践スキル",
-            "summary": "信頼されるエンジニアになるための学習書 本書はJavaScriptによるプログラミングを基本から学べる教科書です。 Part-1（基礎編）では、小コードを書きながら、 変数、演算子、配列、関数、正規表現、オブジェクト、DOMといった JavaScriptの基本を学びます。 Part-2（実践編）では、サンプルを使って、 jQuery、JSON、クッキー、アニメーションといった、 実践的な技術を学びます。 Appendix（付録）では、フレームワークなど、 現場で役立つ知識も学べます。 また、サンプルコードはクラウドサービス「CodePen」を活用できるので、 いつでもどこでも学べる仕組みになっています。 初学者からスキルアップを目指す方まで、 これだけ知っていれば現場に出て困らない、 JavaScriptの基本と応用を学べる一冊です。 ＜こんな方のための本です＞ ・初学者 ・Webデザイナー ・HTML/CSSマークアップエンジニア ・JavaScriptで一度挫折したことがある方 ・仕事として役立つスキルを身につけたい方",
-            "image": "http://books.google.com/books/content?id=Ivp6DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-            "date_modified": "2018-11-28T00:00:00.000Z"
+            "content_html": "【複雑化したフロントエンド開発環境の構築がこの１冊でさらっとわかる！】 本書は、ReactやVue.jsなどに代表される新しいフレームワークの到来により最適化されたWebアプリの開発ができるようになったにもかかわらず、それぞれの開発環境の構築が複雑化したことで技術選定に苦労しているエンジニアに向けた「サクッとわかる」開発環境構築ガイドです。ベストプラクティスを提示するのではなく、環境構築に慣れていないエンジニアがとりあえず自分なりの最適なツールを選ぶための入り口に立つことができる入門書です。 《本書の対象読者》 ・モダンなJavaScriptを書きたいが、書き方がよくわからない ・BabelやWebpackの設定方法がいまいちわかっていない ・ESLint、Flow、Jestなどを導入したいが、方法がわからない 【目次】 第1章 まずは準備から 1.1 package.jsonファイルの作成 1.2 ディレクトリー構成について 1.3 EditorConfigを導入する 第2章 JavaScriptを動かす 2.1 Babel 2.2 webpack 第3章 JavaScriptのためのパワフルなツール 3.1 ESLint 3.2 Prettier 3.3 Flow 第4章 Reactをはじめる 4.1 Reactをブラウザーで表示させるための準備 4.2 最初で最後のReactコンポーネント 第5章 CSSを適用する 5.1 webpackの設定 5.2 CSSファイルの作成 5.3 StyleLint 5.4 PostCSS 第6章 ReactとCSSの連携 6.1 CSSをコンポーネントに適用する 6.2 CSSModules 第7章 爆速でテストを書く 7.1 Jestで始めるユニットテスト 7.2 コンポーネントはスナップショットテストで 7.3 コードカバレッジを見る 第8章 プロダクションコードの生成 8.1 webpackの設定を分離する 8.2 CSSをminifyする<br><blockquote>【複雑化したフロントエンド開発環境の構築がこの１冊でさらっとわかる！】 本書は、ReactやVue ...</blockquote>",
+            "url": "http://books.google.com/books?id=wS1xDwAAQBAJ&printsec=frontcover&dq=JavaScript&hl=&cd=10&source=gbs_api",
+            "title": "ネコミミでもわかるフロントエンド開発環境構築",
+            "summary": "【複雑化したフロントエンド開発環境の構築がこの１冊でさらっとわかる！】 本書は、ReactやVue.jsなどに代表される新しいフレームワークの到来により最適化されたWebアプリの開発ができるようになったにもかかわらず、それぞれの開発環境の構築が複雑化したことで技術選定に苦労しているエンジニアに向けた「サクッとわかる」開発環境構築ガイドです。ベストプラクティスを提示するのではなく、環境構築に慣れていないエンジニアがとりあえず自分なりの最適なツールを選ぶための入り口に立つことができる入門書です。 《本書の対象読者》 ・モダンなJavaScriptを書きたいが、書き方がよくわからない ・BabelやWebpackの設定方法がいまいちわかっていない ・ESLint、Flow、Jestなどを導入したいが、方法がわからない 【目次】 第1章 まずは準備から 1.1 package.jsonファイルの作成 1.2 ディレクトリー構成について 1.3 EditorConfigを導入する 第2章 JavaScriptを動かす 2.1 Babel 2.2 webpack 第3章 JavaScriptのためのパワフルなツール 3.1 ESLint 3.2 Prettier 3.3 Flow 第4章 Reactをはじめる 4.1 Reactをブラウザーで表示させるための準備 4.2 最初で最後のReactコンポーネント 第5章 CSSを適用する 5.1 webpackの設定 5.2 CSSファイルの作成 5.3 StyleLint 5.4 PostCSS 第6章 ReactとCSSの連携 6.1 CSSをコンポーネントに適用する 6.2 CSSModules 第7章 爆速でテストを書く 7.1 Jestで始めるユニットテスト 7.2 コンポーネントはスナップショットテストで 7.3 コードカバレッジを見る 第8章 プロダクションコードの生成 8.1 webpackの設定を分離する 8.2 CSSをminifyする",
+            "image": "http://books.google.com/books/content?id=wS1xDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+            "date_modified": "2018-10-12T00:00:00.000Z"
         }
     ]
 }

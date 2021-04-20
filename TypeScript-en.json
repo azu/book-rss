@@ -30,15 +30,7 @@
         },
         {
             "content_html": "A polymath and author of Laws of Form, George Spencer Brown, brought together mathematics, electronics, engineering and philosophy to form an unlikely bond. This book investigates Design with NOR, the title of the yet unpublished 1961 typescript by Spencer Brown.<br><blockquote>This book investigates Design with NOR, the title of the yet unpublished 1961 typescript by Spencer Brown.</blockquote>",
-            "url": "http://books.google.com/books?id=iKYgEAAAQBAJ&printsec=frontcover&dq=TypeScript&hl=&cd=4&source=gbs_api",
-            "title": "George Spencer Brown’s “Design with the NOR”",
-            "summary": "A polymath and author of Laws of Form, George Spencer Brown, brought together mathematics, electronics, engineering and philosophy to form an unlikely bond. This book investigates Design with NOR, the title of the yet unpublished 1961 typescript by Spencer Brown.",
-            "image": "http://books.google.com/books/content?id=iKYgEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-            "date_modified": "2021-03-08T00:00:00.000Z"
-        },
-        {
-            "content_html": "A polymath and author of Laws of Form, George Spencer Brown, brought together mathematics, electronics, engineering and philosophy to form an unlikely bond. This book investigates Design with NOR, the title of the yet unpublished 1961 typescript by Spencer Brown.<br><blockquote>This book investigates Design with NOR, the title of the yet unpublished 1961 typescript by Spencer Brown.</blockquote>",
-            "url": "http://books.google.com/books?id=mKYgEAAAQBAJ&printsec=frontcover&dq=TypeScript&hl=&cd=5&source=gbs_api",
+            "url": "http://books.google.com/books?id=mKYgEAAAQBAJ&printsec=frontcover&dq=TypeScript&hl=&cd=4&source=gbs_api",
             "title": "George Spencer Brown’s “Design with the NOR”",
             "summary": "A polymath and author of Laws of Form, George Spencer Brown, brought together mathematics, electronics, engineering and philosophy to form an unlikely bond. This book investigates Design with NOR, the title of the yet unpublished 1961 typescript by Spencer Brown.",
             "image": "http://books.google.com/books/content?id=mKYgEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
@@ -46,7 +38,7 @@
         },
         {
             "content_html": "ASP.NET Core is a powerful framework for architecting a resilient backend for scalable web applications. When combined with the solid frontend development capabilities of React, it enables you to build robust full-stack web applications. This book shows .NET developers how to harness the full potential of React using ASP.NET Core as the backbone.<br><blockquote>With React at the frontend, you can build robust full-stack web applications. This book shows .NET developers how to harness the full potential of React using ASP.NET Core as the backbone</blockquote>",
-            "url": "http://books.google.com/books?id=PkUTEAAAQBAJ&printsec=frontcover&dq=TypeScript&hl=&cd=6&source=gbs_api",
+            "url": "http://books.google.com/books?id=PkUTEAAAQBAJ&printsec=frontcover&dq=TypeScript&hl=&cd=5&source=gbs_api",
             "title": "ASP.NET Core 5 and React",
             "summary": "ASP.NET Core is a powerful framework for architecting a resilient backend for scalable web applications. When combined with the solid frontend development capabilities of React, it enables you to build robust full-stack web applications. This book shows .NET developers how to harness the full potential of React using ASP.NET Core as the backbone.",
             "image": "http://books.google.com/books/content?id=PkUTEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
@@ -54,7 +46,7 @@
         },
         {
             "content_html": "TypeScript is among the fastest-growing languages, helping developers build full-stack apps by integrating with powerful frameworks such as React and Node.js. With this book, you’ll get started with TypeScript and build an SPA with React and middleware using Node.js and Express. Finally, you’ll be able to package your web app and deploy it on AWS.<br><blockquote>With this book, you’ll get started with TypeScript and build an SPA with React and middleware using Node.js and Express. Finally, you’ll be able to package your web app and deploy it on AWS.</blockquote>",
-            "url": "http://books.google.com/books?id=uUMQEAAAQBAJ&printsec=frontcover&dq=TypeScript&hl=&cd=7&source=gbs_api",
+            "url": "http://books.google.com/books?id=uUMQEAAAQBAJ&printsec=frontcover&dq=TypeScript&hl=&cd=6&source=gbs_api",
             "title": "Full-Stack React, TypeScript, and Node",
             "summary": "TypeScript is among the fastest-growing languages, helping developers build full-stack apps by integrating with powerful frameworks such as React and Node.js. With this book, you’ll get started with TypeScript and build an SPA with React and middleware using Node.js and Express. Finally, you’ll be able to package your web app and deploy it on AWS.",
             "image": "http://books.google.com/books/content?id=uUMQEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
@@ -62,7 +54,7 @@
         },
         {
             "content_html": "Whether you are a complete beginner or you have some knowledge of JavaScript, this book will guide you from the basics of the language to all the new features introduced until 2021. At the end of each chapter test your knowledge with quizzes.Included in the book is an introduction to TypeScript, a must-know for every JavaScript developer.<br><blockquote>Whether you are a complete beginner or you have some knowledge of JavaScript, this book will guide you from the basics of the language to all the new features introduced until 2021.</blockquote>",
-            "url": "http://books.google.com/books?id=-uxTzgEACAAJ&dq=TypeScript&hl=&cd=8&source=gbs_api",
+            "url": "http://books.google.com/books?id=-uxTzgEACAAJ&dq=TypeScript&hl=&cd=7&source=gbs_api",
             "title": "Complete Guide to Modern JavaScript",
             "summary": "Whether you are a complete beginner or you have some knowledge of JavaScript, this book will guide you from the basics of the language to all the new features introduced until 2021. At the end of each chapter test your knowledge with quizzes.Included in the book is an introduction to TypeScript, a must-know for every JavaScript developer.",
             "image": "http://books.google.com/books/content?id=-uxTzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
@@ -70,7 +62,7 @@
         },
         {
             "content_html": "ASP.NET Core is a powerful framework for architecting a resilient backend for scalable web applications. When combined with the solid frontend development capabilities of React, it enables you to build robust full-stack web applications. This book shows .NET developers how to harness the full potential of<br><blockquote>When combined with the solid frontend development capabilities of React, it enables you to build robust full-stack web applications. This book shows .NET developers how to harness the full potential of</blockquote>",
-            "url": "http://books.google.com/books?id=UIX3zQEACAAJ&dq=TypeScript&hl=&cd=9&source=gbs_api",
+            "url": "http://books.google.com/books?id=UIX3zQEACAAJ&dq=TypeScript&hl=&cd=8&source=gbs_api",
             "title": "ASP.NET Core 5 and React - Second Edition",
             "summary": "ASP.NET Core is a powerful framework for architecting a resilient backend for scalable web applications. When combined with the solid frontend development capabilities of React, it enables you to build robust full-stack web applications. This book shows .NET developers how to harness the full potential of",
             "image": "http://books.google.com/books/content?id=UIX3zQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
@@ -78,11 +70,19 @@
         },
         {
             "content_html": "Vue.js is an open-source JavaScript library for building modern, interactive web applications. From basic to advanced recipes, this book arms you with practical solutions to common tasks in building complete Vue.js web applications and helps you migrate to Vue.js 3 with a practical introduction to TypeScript and its latest features.<br><blockquote>From basic to advanced recipes, this book arms you with practical solutions to common tasks in building complete Vue.js web applications and helps you migrate to Vue.js 3 with a practical introduction to TypeScript and its latest features.</blockquote>",
-            "url": "http://books.google.com/books?id=wED-DwAAQBAJ&printsec=frontcover&dq=TypeScript&hl=&cd=10&source=gbs_api",
+            "url": "http://books.google.com/books?id=wED-DwAAQBAJ&printsec=frontcover&dq=TypeScript&hl=&cd=9&source=gbs_api",
             "title": "Vue.js 3 Cookbook",
             "summary": "Vue.js is an open-source JavaScript library for building modern, interactive web applications. From basic to advanced recipes, this book arms you with practical solutions to common tasks in building complete Vue.js web applications and helps you migrate to Vue.js 3 with a practical introduction to TypeScript and its latest features.",
             "image": "http://books.google.com/books/content?id=wED-DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
             "date_modified": "2020-09-18T00:00:00.000Z"
+        },
+        {
+            "content_html": "If you want to build cross-platform web applications using the robust Angular web framework, this book is for you. Learning Angular will cover the core concepts of frontend web development using easy-to-follow instructions to help you get up and running with Angular web development in no time.<br><blockquote>If you want to build cross-platform web applications using the robust Angular web framework, this book is for you.</blockquote>",
+            "url": "http://books.google.com/books?id=y-D7DwAAQBAJ&printsec=frontcover&dq=TypeScript&hl=&cd=10&source=gbs_api",
+            "title": "Learning Angular",
+            "summary": "If you want to build cross-platform web applications using the robust Angular web framework, this book is for you. Learning Angular will cover the core concepts of frontend web development using easy-to-follow instructions to help you get up and running with Angular web development in no time.",
+            "image": "http://books.google.com/books/content?id=y-D7DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+            "date_modified": "2020-09-07T00:00:00.000Z"
         }
     ]
 }

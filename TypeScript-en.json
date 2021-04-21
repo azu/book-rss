@@ -21,16 +21,40 @@
             "date_modified": "2021-05-24T00:00:00.000Z"
         },
         {
+            "content_html": "Work with Typescript and get the most from this versatile open source language. Author Christoper Rucker begins this book by describing Typescript and the benefits it offers, and goes on to show you how to use TypeScript in realistic scenarios, going in-depth to give you the knowledge you need. Starting from the nuts-and-bolts and building up to the most advanced and sophisticated features, you will learn how TypeScript builds on the JavaScript type system to create a safer and more productive development experience and understand how TypeScript can be used to create applications using popular frameworks, including Node.js, Angular, React, and Vue.js.Each topic is covered clearly and concisely and is packed with the details you need to learn to be truly effective. The most important features are given a no-nonsense in-depth treatment and chapters include common problems and details of how to avoid them.What You Will Learn Gain a solid understanding of the TypeScript language and tools Use TypeScript for client- and server-side development Extend and customize TypeScript Debug and unit test your TypeScript codeWho This Book Is ForDevelopers who want to start using TypeScript, for example to create rich web applications using Angular, React, or Vue.js<br><blockquote>Author Christoper Rucker begins this book by describing Typescript and the benefits it offers, and goes on to show you how to use TypeScript in realistic scenarios, going in-depth to give you the knowledge you need.</blockquote>",
+            "url": "http://books.google.com/books?id=I5JczgEACAAJ&dq=TypeScript&hl=&cd=3&source=gbs_api",
+            "title": "Understanding Typescript For Starters",
+            "summary": "Work with Typescript and get the most from this versatile open source language. Author Christoper Rucker begins this book by describing Typescript and the benefits it offers, and goes on to show you how to use TypeScript in realistic scenarios, going in-depth to give you the knowledge you need. Starting from the nuts-and-bolts and building up to the most advanced and sophisticated features, you will learn how TypeScript builds on the JavaScript type system to create a safer and more productive development experience and understand how TypeScript can be used to create applications using popular frameworks, including Node.js, Angular, React, and Vue.js.Each topic is covered clearly and concisely and is packed with the details you need to learn to be truly effective. The most important features are given a no-nonsense in-depth treatment and chapters include common problems and details of how to avoid them.What You Will Learn Gain a solid understanding of the TypeScript language and tools Use TypeScript for client- and server-side development Extend and customize TypeScript Debug and unit test your TypeScript codeWho This Book Is ForDevelopers who want to start using TypeScript, for example to create rich web applications using Angular, React, or Vue.js",
+            "image": "http://books.google.com/books/content?id=I5JczgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+            "date_modified": "2021-04-01T00:00:00.000Z"
+        },
+        {
             "content_html": "Create professional and progressive web apps with the native HTML API on the latest technology stack. This book describes the basics of web components and how to create them using plain JavaScript as well as how to make professional applications based on web components using TypeScript. Developing Web Components with TypeScript looks at APIs using examples, techniques, and tricks. You will start with a brief introduction to web components, including slots and templates, handling custom events, and styling components with or without shadow DOM. Then, it introduces TypeScript as part of the tool set. It shows the internal construction of a professional thin library. It also helps you learn how to deal with web components in real-life projects; this includes techniques such as creating a single-page app without framework code. All code samples used here are supported by all modern browsers for you to follow along. Library code and examples are available on GitHub. What You Will Learn Create isolated web components using shadow DOM, slots, and templates Understand the advantage of an enhanced toolset, especially TypeScript Pick up styles and customizations Master professional web apps using native APIs Understand the life cycle of a component Who This Book Is For Professional developers who want to move from desktop to web and away from fat frameworks to achieve their goal.<br><blockquote>This book describes the basics of web components and how to create them using plain JavaScript as well as how to make professional applications based on web components using TypeScript.</blockquote>",
-            "url": "http://books.google.com/books?id=bgoZzgEACAAJ&dq=TypeScript&hl=&cd=3&source=gbs_api",
+            "url": "http://books.google.com/books?id=bgoZzgEACAAJ&dq=TypeScript&hl=&cd=4&source=gbs_api",
             "title": "Developing Web Components with TypeScript",
             "summary": "Create professional and progressive web apps with the native HTML API on the latest technology stack. This book describes the basics of web components and how to create them using plain JavaScript as well as how to make professional applications based on web components using TypeScript. Developing Web Components with TypeScript looks at APIs using examples, techniques, and tricks. You will start with a brief introduction to web components, including slots and templates, handling custom events, and styling components with or without shadow DOM. Then, it introduces TypeScript as part of the tool set. It shows the internal construction of a professional thin library. It also helps you learn how to deal with web components in real-life projects; this includes techniques such as creating a single-page app without framework code. All code samples used here are supported by all modern browsers for you to follow along. Library code and examples are available on GitHub. What You Will Learn Create isolated web components using shadow DOM, slots, and templates Understand the advantage of an enhanced toolset, especially TypeScript Pick up styles and customizations Master professional web apps using native APIs Understand the life cycle of a component Who This Book Is For Professional developers who want to move from desktop to web and away from fat frameworks to achieve their goal.",
             "image": "http://books.google.com/books/content?id=bgoZzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
             "date_modified": "2021-07-12T00:00:00.000Z"
         },
         {
+            "content_html": "Deno Web Development is the definitive guide to starting to write, test, and deploy reliable Deno applications. You’ll be able to apply Deno to common use cases from simple command-line interface (CLI) utilities to multi-featured APIs. By the end of this Deno book, you’ll be comfortable with using Deno for real-world web application development.<br><blockquote>Deno Web Development is the definitive guide to starting to write, test, and deploy reliable Deno applications.</blockquote>",
+            "url": "http://books.google.com/books?id=gIwmEAAAQBAJ&printsec=frontcover&dq=TypeScript&hl=&cd=5&source=gbs_api",
+            "title": "Deno Web Development",
+            "summary": "Deno Web Development is the definitive guide to starting to write, test, and deploy reliable Deno applications. You’ll be able to apply Deno to common use cases from simple command-line interface (CLI) utilities to multi-featured APIs. By the end of this Deno book, you’ll be comfortable with using Deno for real-world web application development.",
+            "image": "http://books.google.com/books/content?id=gIwmEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+            "date_modified": "2021-03-26T00:00:00.000Z"
+        },
+        {
             "content_html": "A polymath and author of Laws of Form, George Spencer Brown, brought together mathematics, electronics, engineering and philosophy to form an unlikely bond. This book investigates Design with NOR, the title of the yet unpublished 1961 typescript by Spencer Brown.<br><blockquote>This book investigates Design with NOR, the title of the yet unpublished 1961 typescript by Spencer Brown.</blockquote>",
-            "url": "http://books.google.com/books?id=mKYgEAAAQBAJ&printsec=frontcover&dq=TypeScript&hl=&cd=4&source=gbs_api",
+            "url": "http://books.google.com/books?id=iKYgEAAAQBAJ&printsec=frontcover&dq=TypeScript&hl=&cd=6&source=gbs_api",
+            "title": "George Spencer Brown’s “Design with the NOR”",
+            "summary": "A polymath and author of Laws of Form, George Spencer Brown, brought together mathematics, electronics, engineering and philosophy to form an unlikely bond. This book investigates Design with NOR, the title of the yet unpublished 1961 typescript by Spencer Brown.",
+            "image": "http://books.google.com/books/content?id=iKYgEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+            "date_modified": "2021-03-08T00:00:00.000Z"
+        },
+        {
+            "content_html": "A polymath and author of Laws of Form, George Spencer Brown, brought together mathematics, electronics, engineering and philosophy to form an unlikely bond. This book investigates Design with NOR, the title of the yet unpublished 1961 typescript by Spencer Brown.<br><blockquote>This book investigates Design with NOR, the title of the yet unpublished 1961 typescript by Spencer Brown.</blockquote>",
+            "url": "http://books.google.com/books?id=mKYgEAAAQBAJ&printsec=frontcover&dq=TypeScript&hl=&cd=7&source=gbs_api",
             "title": "George Spencer Brown’s “Design with the NOR”",
             "summary": "A polymath and author of Laws of Form, George Spencer Brown, brought together mathematics, electronics, engineering and philosophy to form an unlikely bond. This book investigates Design with NOR, the title of the yet unpublished 1961 typescript by Spencer Brown.",
             "image": "http://books.google.com/books/content?id=mKYgEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
@@ -38,51 +62,27 @@
         },
         {
             "content_html": "ASP.NET Core is a powerful framework for architecting a resilient backend for scalable web applications. When combined with the solid frontend development capabilities of React, it enables you to build robust full-stack web applications. This book shows .NET developers how to harness the full potential of React using ASP.NET Core as the backbone.<br><blockquote>With React at the frontend, you can build robust full-stack web applications. This book shows .NET developers how to harness the full potential of React using ASP.NET Core as the backbone</blockquote>",
-            "url": "http://books.google.com/books?id=PkUTEAAAQBAJ&printsec=frontcover&dq=TypeScript&hl=&cd=5&source=gbs_api",
+            "url": "http://books.google.com/books?id=PkUTEAAAQBAJ&printsec=frontcover&dq=TypeScript&hl=&cd=8&source=gbs_api",
             "title": "ASP.NET Core 5 and React",
             "summary": "ASP.NET Core is a powerful framework for architecting a resilient backend for scalable web applications. When combined with the solid frontend development capabilities of React, it enables you to build robust full-stack web applications. This book shows .NET developers how to harness the full potential of React using ASP.NET Core as the backbone.",
             "image": "http://books.google.com/books/content?id=PkUTEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
             "date_modified": "2021-01-08T00:00:00.000Z"
         },
         {
-            "content_html": "TypeScript is among the fastest-growing languages, helping developers build full-stack apps by integrating with powerful frameworks such as React and Node.js. With this book, you’ll get started with TypeScript and build an SPA with React and middleware using Node.js and Express. Finally, you’ll be able to package your web app and deploy it on AWS.<br><blockquote>With this book, you’ll get started with TypeScript and build an SPA with React and middleware using Node.js and Express. Finally, you’ll be able to package your web app and deploy it on AWS.</blockquote>",
-            "url": "http://books.google.com/books?id=uUMQEAAAQBAJ&printsec=frontcover&dq=TypeScript&hl=&cd=6&source=gbs_api",
-            "title": "Full-Stack React, TypeScript, and Node",
-            "summary": "TypeScript is among the fastest-growing languages, helping developers build full-stack apps by integrating with powerful frameworks such as React and Node.js. With this book, you’ll get started with TypeScript and build an SPA with React and middleware using Node.js and Express. Finally, you’ll be able to package your web app and deploy it on AWS.",
-            "image": "http://books.google.com/books/content?id=uUMQEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-            "date_modified": "2020-12-18T00:00:00.000Z"
-        },
-        {
             "content_html": "Whether you are a complete beginner or you have some knowledge of JavaScript, this book will guide you from the basics of the language to all the new features introduced until 2021. At the end of each chapter test your knowledge with quizzes.Included in the book is an introduction to TypeScript, a must-know for every JavaScript developer.<br><blockquote>Whether you are a complete beginner or you have some knowledge of JavaScript, this book will guide you from the basics of the language to all the new features introduced until 2021.</blockquote>",
-            "url": "http://books.google.com/books?id=-uxTzgEACAAJ&dq=TypeScript&hl=&cd=7&source=gbs_api",
+            "url": "http://books.google.com/books?id=-uxTzgEACAAJ&dq=TypeScript&hl=&cd=9&source=gbs_api",
             "title": "Complete Guide to Modern JavaScript",
             "summary": "Whether you are a complete beginner or you have some knowledge of JavaScript, this book will guide you from the basics of the language to all the new features introduced until 2021. At the end of each chapter test your knowledge with quizzes.Included in the book is an introduction to TypeScript, a must-know for every JavaScript developer.",
             "image": "http://books.google.com/books/content?id=-uxTzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
             "date_modified": "2021-03-07T00:00:00.000Z"
         },
         {
-            "content_html": "ASP.NET Core is a powerful framework for architecting a resilient backend for scalable web applications. When combined with the solid frontend development capabilities of React, it enables you to build robust full-stack web applications. This book shows .NET developers how to harness the full potential of<br><blockquote>When combined with the solid frontend development capabilities of React, it enables you to build robust full-stack web applications. This book shows .NET developers how to harness the full potential of</blockquote>",
-            "url": "http://books.google.com/books?id=UIX3zQEACAAJ&dq=TypeScript&hl=&cd=8&source=gbs_api",
-            "title": "ASP.NET Core 5 and React - Second Edition",
-            "summary": "ASP.NET Core is a powerful framework for architecting a resilient backend for scalable web applications. When combined with the solid frontend development capabilities of React, it enables you to build robust full-stack web applications. This book shows .NET developers how to harness the full potential of",
-            "image": "http://books.google.com/books/content?id=UIX3zQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-            "date_modified": "2021-01-08T00:00:00.000Z"
-        },
-        {
-            "content_html": "Vue.js is an open-source JavaScript library for building modern, interactive web applications. From basic to advanced recipes, this book arms you with practical solutions to common tasks in building complete Vue.js web applications and helps you migrate to Vue.js 3 with a practical introduction to TypeScript and its latest features.<br><blockquote>From basic to advanced recipes, this book arms you with practical solutions to common tasks in building complete Vue.js web applications and helps you migrate to Vue.js 3 with a practical introduction to TypeScript and its latest features.</blockquote>",
-            "url": "http://books.google.com/books?id=wED-DwAAQBAJ&printsec=frontcover&dq=TypeScript&hl=&cd=9&source=gbs_api",
-            "title": "Vue.js 3 Cookbook",
-            "summary": "Vue.js is an open-source JavaScript library for building modern, interactive web applications. From basic to advanced recipes, this book arms you with practical solutions to common tasks in building complete Vue.js web applications and helps you migrate to Vue.js 3 with a practical introduction to TypeScript and its latest features.",
-            "image": "http://books.google.com/books/content?id=wED-DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-            "date_modified": "2020-09-18T00:00:00.000Z"
-        },
-        {
-            "content_html": "If you want to build cross-platform web applications using the robust Angular web framework, this book is for you. Learning Angular will cover the core concepts of frontend web development using easy-to-follow instructions to help you get up and running with Angular web development in no time.<br><blockquote>If you want to build cross-platform web applications using the robust Angular web framework, this book is for you.</blockquote>",
-            "url": "http://books.google.com/books?id=y-D7DwAAQBAJ&printsec=frontcover&dq=TypeScript&hl=&cd=10&source=gbs_api",
-            "title": "Learning Angular",
-            "summary": "If you want to build cross-platform web applications using the robust Angular web framework, this book is for you. Learning Angular will cover the core concepts of frontend web development using easy-to-follow instructions to help you get up and running with Angular web development in no time.",
-            "image": "http://books.google.com/books/content?id=y-D7DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-            "date_modified": "2020-09-07T00:00:00.000Z"
+            "content_html": "TypeScript is among the fastest-growing languages, helping developers build full-stack apps by integrating with powerful frameworks such as React and Node.js. With this book, you’ll get started with TypeScript and build an SPA with React and middleware using Node.js and Express. Finally, you’ll be able to package your web app and deploy it on AWS.<br><blockquote>With this book, you’ll get started with TypeScript and build an SPA with React and middleware using Node.js and Express. Finally, you’ll be able to package your web app and deploy it on AWS.</blockquote>",
+            "url": "http://books.google.com/books?id=uUMQEAAAQBAJ&printsec=frontcover&dq=TypeScript&hl=&cd=10&source=gbs_api",
+            "title": "Full-Stack React, TypeScript, and Node",
+            "summary": "TypeScript is among the fastest-growing languages, helping developers build full-stack apps by integrating with powerful frameworks such as React and Node.js. With this book, you’ll get started with TypeScript and build an SPA with React and middleware using Node.js and Express. Finally, you’ll be able to package your web app and deploy it on AWS.",
+            "image": "http://books.google.com/books/content?id=uUMQEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+            "date_modified": "2020-12-18T00:00:00.000Z"
         }
     ]
 }

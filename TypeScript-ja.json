@@ -77,12 +77,10 @@
             "date_modified": "2018-03-30T00:00:00.000Z"
         },
         {
-            "content_html": "【環境構築から、サーバーサイドにExpress、フロントエンドにAngularを使った実際の開発手順を解説！】 本書はJavaScriptエンジニアを対象とした、TypeScriptの解説から環境構築、実際にシングルページアプリケーションを作るまでのサーバーサイド・フロントエンドの開発手順までを紹介した入門書です。この１冊で、TypeScriptをさくっと使いこなしましょう！ 【目次】 はじめに─なぜTypeScriptなのか 第1章 TypeScriptとは 1.1 インタフェース 1.2 型アノテーション 1.3 アクセス修飾子 1.4 構造的部分型 1.5 列挙型 第2章 環境構築からHello Worldまで 2.1 Node.jsのインストール 2.2 TypeScriptのインストール 2.3 エディタについて 2.4 Hello World 第3章 シングルページアプリケーションの作成 3.1 データベースの準備 3.2 サーバーサイドの開発 3.3 フロントエンドの開発 3.4 スクリプト実行手順<br><blockquote>【環境構築から、サーバーサイドにExpress、フロントエンドにAngularを使った実際の開発手順を解説！】 ...</blockquote>",
-            "url": "http://books.google.com/books?id=q6JSDwAAQBAJ&printsec=frontcover&dq=TypeScript&hl=&cd=10&source=gbs_api",
-            "title": "TypeScriptで作るシングルページアプリケーション",
-            "summary": "【環境構築から、サーバーサイドにExpress、フロントエンドにAngularを使った実際の開発手順を解説！】 本書はJavaScriptエンジニアを対象とした、TypeScriptの解説から環境構築、実際にシングルページアプリケーションを作るまでのサーバーサイド・フロントエンドの開発手順までを紹介した入門書です。この１冊で、TypeScriptをさくっと使いこなしましょう！ 【目次】 はじめに─なぜTypeScriptなのか 第1章 TypeScriptとは 1.1 インタフェース 1.2 型アノテーション 1.3 アクセス修飾子 1.4 構造的部分型 1.5 列挙型 第2章 環境構築からHello Worldまで 2.1 Node.jsのインストール 2.2 TypeScriptのインストール 2.3 エディタについて 2.4 Hello World 第3章 シングルページアプリケーションの作成 3.1 データベースの準備 3.2 サーバーサイドの開発 3.3 フロントエンドの開発 3.4 スクリプト実行手順",
-            "image": "http://books.google.com/books/content?id=q6JSDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-            "date_modified": "2018-03-30T00:00:00.000Z"
+            "content_html": "",
+            "url": "http://books.google.com/books?id=581bzgEACAAJ&dq=TypeScript&hl=&cd=10&source=gbs_api",
+            "title": "実践TypeScript",
+            "date_modified": "2019-01-01T00:00:00.000Z"
         }
     ]
 }

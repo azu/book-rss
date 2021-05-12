@@ -14,7 +14,7 @@
         },
         {
             "content_html": "これからはじめたい人のための超入門JavaScript!サンプルの作成を通してプログラミングに入門しよう!<br><blockquote>これからはじめたい人のための超入門JavaScript!サンプルの作成を通してプログラミングに入門しよう!</blockquote>",
-            "url": "http://books.google.com/books?id=rewsEAAAQBAJ&printsec=frontcover&dq=JavaScript&hl=&cd=2&source=gbs_api",
+            "url": "http://books.google.com/books?id=rewsEAAAQBAJ&pg=PP1&dq=JavaScript&hl=&cd=2&source=gbs_api",
             "title": "図解!JavaScriptのﾂﾎﾞとｺﾂがｾﾞｯﾀｲにわかる本“超”入門編",
             "summary": "これからはじめたい人のための超入門JavaScript!サンプルの作成を通してプログラミングに入門しよう!",
             "image": "http://books.google.com/books/content?id=rewsEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
@@ -54,7 +54,7 @@
         },
         {
             "content_html": "オリジナルSlackアプリを 作ってみよう！ 【Slackとは】 Slackはリアルタイムでやりとりができる チャットツールです。 在宅勤務が多くなるなか ビジネスの現場で利用が広がっています。 【Slackアプリ開発の特徴】 Slackには開発者にとって利用しやすい高機能APIが多数用意されています。 社内用のツールやチャットボット、外部情報の共有、パフォーマンスのチェックなど、 さまざまなアプリの開発が可能です。 【本書の概要】 本書はSlack APIやBoltフレームワークを利用して オリジナル機能を追加したSlackアプリを開発する手法を 丁寧に解説した書籍です。 オリジナル機能を加えてより便利な コミュニケーションツールを開発できます。 【対象読者】 Webアプリ開発者 【開発言語】 JavaScript 【主な開発環境】 ・OS：macOS ・SDK：Bolt for JavaScript ・API：Slack API ・Node.js （JavaScript実行環境） ・npm（パッケージ管理ツール） ・ngrok（外部公開用のURL） 【本書のポイント】 現役のヤフーのエンジニアがおすすめする、 ・ランチをのお店をおすすめするボット ・申請フォーム ・Giphyアプリ ・リマインダーアプリ など、多彩なSlackアプリの開発方法がわかります。 【著者】 伊藤 康太、道内 尊正、吉谷 優介。 いずれもヤフーのエンジニア。<br><blockquote>オリジナルSlackアプリを 作ってみよう！ 【Slackとは】 Slackはリアルタイムでやりとりができる チャットツールです。 在宅勤務が多くなるなか ...</blockquote>",
-            "url": "http://books.google.com/books?id=sB4MEAAAQBAJ&printsec=frontcover&dq=JavaScript&hl=&cd=7&source=gbs_api",
+            "url": "http://books.google.com/books?id=sB4MEAAAQBAJ&pg=PP1&dq=JavaScript&hl=&cd=7&source=gbs_api",
             "title": "動かして学ぶ！Slackアプリ開発入門",
             "summary": "オリジナルSlackアプリを 作ってみよう！ 【Slackとは】 Slackはリアルタイムでやりとりができる チャットツールです。 在宅勤務が多くなるなか ビジネスの現場で利用が広がっています。 【Slackアプリ開発の特徴】 Slackには開発者にとって利用しやすい高機能APIが多数用意されています。 社内用のツールやチャットボット、外部情報の共有、パフォーマンスのチェックなど、 さまざまなアプリの開発が可能です。 【本書の概要】 本書はSlack APIやBoltフレームワークを利用して オリジナル機能を追加したSlackアプリを開発する手法を 丁寧に解説した書籍です。 オリジナル機能を加えてより便利な コミュニケーションツールを開発できます。 【対象読者】 Webアプリ開発者 【開発言語】 JavaScript 【主な開発環境】 ・OS：macOS ・SDK：Bolt for JavaScript ・API：Slack API ・Node.js （JavaScript実行環境） ・npm（パッケージ管理ツール） ・ngrok（外部公開用のURL） 【本書のポイント】 現役のヤフーのエンジニアがおすすめする、 ・ランチをのお店をおすすめするボット ・申請フォーム ・Giphyアプリ ・リマインダーアプリ など、多彩なSlackアプリの開発方法がわかります。 【著者】 伊藤 康太、道内 尊正、吉谷 優介。 いずれもヤフーのエンジニア。",
             "image": "http://books.google.com/books/content?id=sB4MEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
@@ -77,8 +77,8 @@
             "date_modified": "2021-02-26T00:00:00.000Z"
         },
         {
-            "content_html": "アプリを作りながらReact Nativeを学ぼう!基本の仕組みから実践までを徹底解説! ReactとJavaScriptによるWebアプリケーション開発に近いお作法で、 AndroidやiOSのアプリ開発ができるツール「React Native」。 本書では、このReact Nativeの基本的な仕組みや使い方を解説し、 React Nativeを使ったアプリケーション開発を通して、より理解を深めることができます。 「一度の実装で複数のプラットフォームにアプリを提供したい」といったエンジニアはもちろん、 Webサービスに携わる開発者におすすめの1冊です! 【対象読者】 ・JavaScriptとWeb開発の基礎に理解がある方 ・Reactを用いたJavaScriptアプリケーション開発の経験者 ・Androidアプリ開発の経験者 ・iOSアプリ開発の経験者 ※本電子書籍は同名オンデマンド出版物を底本として作成しました。記載内容は印刷出版当時のものです。 ※印刷出版再現のため電子書籍としては不要な情報を含んでいる場合があります。 ※印刷出版とは異なる表記・表現の場合があります。予めご了承ください。 ※プレビューにてお手持ちの電子端末での表示状態をご確認の上、商品をお買い求めください。 (翔泳社) ※本電子書籍は同名オンデマンド出版物を底本として作成しました。記載内容は印刷出版当時のものです。 ※印刷出版再現のため電子書籍としては不要な情報を含んでいる場合があります。 ※印刷出版とは異なる表記・表現の場合があります。予めご了承ください。 ※プレビューにてお手持ちの電子端末での表示状態をご確認の上、商品をお買い求めください。 (翔泳社)<br><blockquote>アプリを作りながらReact Nativeを学ぼう!基本の仕組みから実践までを徹底解説!</blockquote>",
-            "url": "http://books.google.com/books?id=r2AdEAAAQBAJ&dq=JavaScript&hl=&cd=10&source=gbs_api",
+            "content_html": "アプリを作りながらReact Nativeを学ぼう!基本の仕組みから実践までを徹底解説! ReactとJavaScriptによるWebアプリケーション開発に近いお作法で、 AndroidやiOSのアプリ開発ができるツール「React Native」。 本書では、このReact Nativeの基本的な仕組みや使い方を解説し、 React Nativeを使ったアプリケーション開発を通して、より理解を深めることができます。 「一度の実装で複数のプラットフォームにアプリを提供したい」といったエンジニアはもちろん、 Webサービスに携わる開発者におすすめの1冊です! 【対象読者】 ・JavaScriptとWeb開発の基礎に理解がある方 ・Reactを用いたJavaScriptアプリケーション開発の経験者 ・Androidアプリ開発の経験者 ・iOSアプリ開発の経験者 ※本電子書籍は同名オンデマンド出版物を底本として作成しました。記載内容は印刷出版当時のものです。 ※印刷出版再現のため電子書籍としては不要な情報を含んでいる場合があります。 ※印刷出版とは異なる表記・表現の場合があります。予めご了承ください。 ※プレビューにてお手持ちの電子端末での表示状態をご確認の上、商品をお買い求めください。 (翔泳社) ※本電子書籍は同名オンデマンド出版物を底本として作成しました。記載内容は印刷出版当時のものです。 ※印刷出版再現のため電子書籍としては不要な情報を含んでいる場合があります。 ※印刷出版とは異なる表記・表現の場合があります。予めご了承ください。 ※プレビューにてお手持ちの電子端末での表示状態をご確認の上、商品をお買い求めください。 (翔泳社)",
+            "url": "http://books.google.com/books?id=r2AdEAAAQBAJ&pg=PA1&dq=JavaScript&hl=&cd=10&source=gbs_api",
             "title": "基礎から学ぶReact Native入門",
             "summary": "アプリを作りながらReact Nativeを学ぼう!基本の仕組みから実践までを徹底解説! ReactとJavaScriptによるWebアプリケーション開発に近いお作法で、 AndroidやiOSのアプリ開発ができるツール「React Native」。 本書では、このReact Nativeの基本的な仕組みや使い方を解説し、 React Nativeを使ったアプリケーション開発を通して、より理解を深めることができます。 「一度の実装で複数のプラットフォームにアプリを提供したい」といったエンジニアはもちろん、 Webサービスに携わる開発者におすすめの1冊です! 【対象読者】 ・JavaScriptとWeb開発の基礎に理解がある方 ・Reactを用いたJavaScriptアプリケーション開発の経験者 ・Androidアプリ開発の経験者 ・iOSアプリ開発の経験者 ※本電子書籍は同名オンデマンド出版物を底本として作成しました。記載内容は印刷出版当時のものです。 ※印刷出版再現のため電子書籍としては不要な情報を含んでいる場合があります。 ※印刷出版とは異なる表記・表現の場合があります。予めご了承ください。 ※プレビューにてお手持ちの電子端末での表示状態をご確認の上、商品をお買い求めください。 (翔泳社) ※本電子書籍は同名オンデマンド出版物を底本として作成しました。記載内容は印刷出版当時のものです。 ※印刷出版再現のため電子書籍としては不要な情報を含んでいる場合があります。 ※印刷出版とは異なる表記・表現の場合があります。予めご了承ください。 ※プレビューにてお手持ちの電子端末での表示状態をご確認の上、商品をお買い求めください。 (翔泳社)",
             "image": "http://books.google.com/books/content?id=r2AdEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",

@@ -61,18 +61,20 @@
             "date_modified": "2018-03-30T00:00:00.000Z"
         },
         {
-            "content_html": "",
-            "url": "http://books.google.com/books?id=581bzgEACAAJ&dq=TypeScript&hl=&cd=8&source=gbs_api",
-            "title": "実践TypeScript",
-            "date_modified": "2019-01-01T00:00:00.000Z"
-        },
-        {
             "content_html": "データ型、オブジェクト指向プログラミング、制御文、配列、非同期処理、ジェネリック、etc.TypeScriptの仕様から使い方までわかりやすく解説!<br><blockquote>データ型、オブジェクト指向プログラミング、制御文、配列、非同期処理、ジェネリック、etc.TypeScriptの仕様から使い方までわかりやすく解説!</blockquote>",
-            "url": "http://books.google.com/books?id=hr6dswEACAAJ&dq=TypeScript&hl=&cd=9&source=gbs_api",
+            "url": "http://books.google.com/books?id=hr6dswEACAAJ&dq=TypeScript&hl=&cd=8&source=gbs_api",
             "title": "TypeScript実践マスター",
             "summary": "データ型、オブジェクト指向プログラミング、制御文、配列、非同期処理、ジェネリック、etc.TypeScriptの仕様から使い方までわかりやすく解説!",
             "image": "http://books.google.com/books/content?id=hr6dswEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
             "date_modified": "2017-12-01T00:00:00.000Z"
+        },
+        {
+            "content_html": "本書では、「Angular」の最新バージョン「4」の導入から始めて、簡単なWebアプリを作りながら「Angular」の使い方の基本を学んでいきます。<br><blockquote>本書では、「Angular」の最新バージョン「4」の導入から始めて、簡単なWebアプリを作りながら「Angular」の使い方の基本を学んでいきます。</blockquote>",
+            "url": "http://books.google.com/books?id=xIdcswEACAAJ&dq=TypeScript&hl=&cd=9&source=gbs_api",
+            "title": "はじめてのAngular4",
+            "summary": "本書では、「Angular」の最新バージョン「4」の導入から始めて、簡単なWebアプリを作りながら「Angular」の使い方の基本を学んでいきます。",
+            "image": "http://books.google.com/books/content?id=xIdcswEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+            "date_modified": "2017-05-01T00:00:00.000Z"
         },
         {
             "content_html": "※この商品はタブレットなど大きいディスプレイを備えた端末で読むことに適しています。また、文字だけを拡大することや、文字列のハイライト、検索、辞書の参照、引用などの機能が使用できません。 本書は、「Angular2 によるモダンWeb 開発～TypeScriptを使った基本プログラミング～」の続編です。この前書で得た知識を土台に対象範囲をブラウザ内からWebサーバーやデータベースなどのバックエンド連携を含むシステム全体に広げ、大規模システムの構築にも対応する実践的知識の習得を目指します。AngularやモダンWeb開発に興味を持つ個人から、プロの開発者まで幅広くお読みいただけます。 ネット検索で入手できるAngular単体の技術解説ではなく、実装パターンや外部ライブラリとの統合など、本格的なモダンWebシステムの開発を成功させるための情報を網羅し、以下の特徴を持った内容としました。 ●モダンWebを体感するサンプルアプリ ●様々なツールを使用した読者参加型の学習体験 ●モダンWeb開発のトラブル回避 ●新技術への対応 ●バックエンド関連用語(付録)",

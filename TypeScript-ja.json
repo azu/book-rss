@@ -29,58 +29,60 @@
             "date_modified": "2019-06-26T00:00:00.000Z"
         },
         {
+            "content_html": "本格的なスマホゲームをHTML5&JavaScriptで開発するためのノウハウを網羅した1冊<br><blockquote>本格的なスマホゲームをHTML5&amp;JavaScriptで開発するためのノウハウを網羅した1冊</blockquote>",
+            "url": "http://books.google.com/books?id=B57CyQEACAAJ&dq=TypeScript&hl=&cd=4&source=gbs_api",
+            "title": "HTML5ゲーム開発の教科書",
+            "summary": "本格的なスマホゲームをHTML5&JavaScriptで開発するためのノウハウを網羅した1冊",
+            "image": "http://books.google.com/books/content?id=B57CyQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+            "date_modified": "2019-09-01T00:00:00.000Z"
+        },
+        {
             "content_html": "※この商品はタブレットなど大きいディスプレイを備えた端末で読むことに適しています。また、文字だけを拡大することや、文字列のハイライト、検索、辞書の参照、引用などの機能が使用できません。 Angularは、Googleが中心となって開発する、PWA開発のための強力なフロントエンドフレームワークです。数年前に世に出て以後、猛烈な勢いで進化し、プロの間で高評価を得ています。本書は、Angularを使ってPWA（プログレッシブWebアプリ）開発の基礎と、サービス、通信、ナビゲーションなどの機能を学ぶ入門書です。Angularの基本は意外と簡単です。あなたも最初の一歩を踏み出しましょう。初心者も安心のTypeScript超入門を収録！",
-            "url": "http://books.google.com/books?id=HNuoDwAAQBAJ&pg=PP1&dq=TypeScript&hl=&cd=4&source=gbs_api",
+            "url": "http://books.google.com/books?id=HNuoDwAAQBAJ&pg=PP1&dq=TypeScript&hl=&cd=5&source=gbs_api",
             "title": "Angular超入門",
             "summary": "※この商品はタブレットなど大きいディスプレイを備えた端末で読むことに適しています。また、文字だけを拡大することや、文字列のハイライト、検索、辞書の参照、引用などの機能が使用できません。 Angularは、Googleが中心となって開発する、PWA開発のための強力なフロントエンドフレームワークです。数年前に世に出て以後、猛烈な勢いで進化し、プロの間で高評価を得ています。本書は、Angularを使ってPWA（プログレッシブWebアプリ）開発の基礎と、サービス、通信、ナビゲーションなどの機能を学ぶ入門書です。Angularの基本は意外と簡単です。あなたも最初の一歩を踏み出しましょう。初心者も安心のTypeScript超入門を収録！",
             "image": "http://books.google.com/books/content?id=HNuoDwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
             "date_modified": "2019-06-25T00:00:00.000Z"
         },
         {
+            "content_html": "【IonicとFirebaseでWebアプリを作る入門書！】 AngularをベースとしたHTML5アプリケーション開発フレームワークIonicとFirebaseのパワーを借りて、HTML/CSS/JavaScriptを使ってチュートリアル形式にアプリケーションを作って遊べる入門書です。HTMLとCSS、JavaScriptの基本的な構文が分かれば、本の通りにすすめるといつのまにかアプリが完成します。普段はコーディングをしているけど、ちょっとアプリ開発もしてみたいと思っている方や、JavaScriptの入門書を読んでみたけど、次は何か１つ作ってみたいと思っている方に最適な１冊です。 〈本書の対象読者〉 ・HTML／CSSは分かる ・JavaScriptの基本的な構文は一応分かる（ES2015以降の書き方がわかればなおよい） ・ターミナルの基本的な操作ができる 【目次】 第1章 Ionicって一体……？ Ionic（アイオニック）とは/CordovaとCapacitorをざっくり知ろう 他 第2章 開発環境を設定しよう Node.jsのインストール/Ionic CLIとCordovaのインストール/gitのインストール 第3章 Ionicを動かしてみよう はじめてのIonicプロジェクト！/Ionicアプリケーションを動かしてみよう 他 第4章 ここからが本番！Ionicアプリケーションを作ろう どんなアプリを作るんでしょうか/どんな感じで作っていくの？ 他 第5章 ひとまずメッセージボードを作ってみよう！ メッセージボード用にIonicプロジェクトを作ろう/見た目から作っていきます/入力した投稿も表示させてみよう 他 第6章 Firebaseでユーザー認証しよう Firebaseって一体なんなの？/Firebaseのセットアップをしよう/FirebaseのAuthenticationを設定しよう 他 第7章 Firebaseでデータを永続化しよう Firestoreを使う準備をしていこう/メッセージボードのデータをFirestoreに保存しよう 第8章 メッセージボードの機能を改善しよう！ いつ投稿されたのかをちゃんと表示しよう/ログアウトも実装しておこう/ログイン認証を無視したアクセスを断ち切ろう！ 他 第9章 アプリケーションついに完成 iOSシミュレーターで動かしてみよう/アプリケーションをWeb用にデプロイしてみよう<br><blockquote>【IonicとFirebaseでWebアプリを作る入門書！】 AngularをベースとしたHTML5アプリケーション開発フレームワークIonicとFirebaseのパワーを借りて、HTML/CSS/JavaScriptを使ってチュートリアル ...</blockquote>",
+            "url": "http://books.google.com/books?id=WgGDDwAAQBAJ&printsec=frontcover&dq=TypeScript&hl=&cd=6&source=gbs_api",
+            "title": "初心者でも大丈夫!! IonicとFirebaseでゼロからはじめるアプリ開発",
+            "summary": "【IonicとFirebaseでWebアプリを作る入門書！】 AngularをベースとしたHTML5アプリケーション開発フレームワークIonicとFirebaseのパワーを借りて、HTML/CSS/JavaScriptを使ってチュートリアル形式にアプリケーションを作って遊べる入門書です。HTMLとCSS、JavaScriptの基本的な構文が分かれば、本の通りにすすめるといつのまにかアプリが完成します。普段はコーディングをしているけど、ちょっとアプリ開発もしてみたいと思っている方や、JavaScriptの入門書を読んでみたけど、次は何か１つ作ってみたいと思っている方に最適な１冊です。 〈本書の対象読者〉 ・HTML／CSSは分かる ・JavaScriptの基本的な構文は一応分かる（ES2015以降の書き方がわかればなおよい） ・ターミナルの基本的な操作ができる 【目次】 第1章 Ionicって一体……？ Ionic（アイオニック）とは/CordovaとCapacitorをざっくり知ろう 他 第2章 開発環境を設定しよう Node.jsのインストール/Ionic CLIとCordovaのインストール/gitのインストール 第3章 Ionicを動かしてみよう はじめてのIonicプロジェクト！/Ionicアプリケーションを動かしてみよう 他 第4章 ここからが本番！Ionicアプリケーションを作ろう どんなアプリを作るんでしょうか/どんな感じで作っていくの？ 他 第5章 ひとまずメッセージボードを作ってみよう！ メッセージボード用にIonicプロジェクトを作ろう/見た目から作っていきます/入力した投稿も表示させてみよう 他 第6章 Firebaseでユーザー認証しよう Firebaseって一体なんなの？/Firebaseのセットアップをしよう/FirebaseのAuthenticationを設定しよう 他 第7章 Firebaseでデータを永続化しよう Firestoreを使う準備をしていこう/メッセージボードのデータをFirestoreに保存しよう 第8章 メッセージボードの機能を改善しよう！ いつ投稿されたのかをちゃんと表示しよう/ログアウトも実装しておこう/ログイン認証を無視したアクセスを断ち切ろう！ 他 第9章 アプリケーションついに完成 iOSシミュレーターで動かしてみよう/アプリケーションをWeb用にデプロイしてみよう",
+            "image": "http://books.google.com/books/content?id=WgGDDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+            "date_modified": "2019-01-18T00:00:00.000Z"
+        },
+        {
             "content_html": "【Visual Studio Code解説の言語と設定ファイル解説！】 本書は、プログラマ向けエディター「Visual Studio Code（VSCode）」のデバッグ機能解説書です。各種言語でのデバッグを行う上で必要となる設定ファイルの内容、それぞれの言語でのデバッグ機能を比較評価しています。（本書は、次世代出版メソッド「NextPublishing」を使用し、出版されています。） 〈本書の対象読者〉 VSCodeのデバッグ機能の仕組みを知りたいプログラマ VSCodeで各種言語でのプログラミングを行うプログラマ 【目次】 第1章 デバッグ機能とは 1.1 VSCode（Visual Studio Code）について 1.2 デバッグ機能とは 1.3 デバッガを実現するためには 1.4 GDB（GNUデバッガ） 1.5 VSCodeのデバッグ機能のアーキテクチャ 第2章 Debugger UI 2.1 画面構成 2.2 Debugメニュー 2.3 ブレークポイント 2.4 ステップ実行 2.5 データインスペクション 2.6 コールスタック 2.7 デバッグコンソール 2.8 読み込み済みのスクリプト 2.9 コードレンズ 2.10 launch.json 2.11 マルチターゲットデバッグ 2.12 デバッグ実行における標準キーボードショートカット 第3章 デバッグフレームワーク 3.1 package.jsonの実装 3.2 DebugSessionの実装 3.3 初期化要求の実装 3.4 ブレークポイント要求の実装 3.5 停止イベントの通知 3.6 スタックトレース要求の実装 3.7 変数要求の実装 3.8 ステップ実行の実装 3.9 デバッグコンソールの実装 3.10 デバッグプロトコルを総覧して 第4章 各言語のデバッグの機能調査 第5章 Go 第6章 Google App Engine Go 第7章 Node.js: JavaScript and TypeScript for Server-Side 第8章 Chrome: JavaScript and TypeScript for Web Front-End 第9章 React: JavaScript and TypeScript for SPA 第10章 Electron: JavaScript and TypeScript for PC Appliction 第11章 C/C++ 第12章 Python 第13章 Ruby 第14章 Ruby on Rails 第15章 PHP 第16章 Java 第17章 C# (.NET Core) 第18章 Bash: シェルスクリプト<br><blockquote>【Visual Studio Code解説の言語と設定ファイル解説！】 本書は、プログラマ向けエディター「Visual Studio ...</blockquote>",
-            "url": "http://books.google.com/books?id=sPd7DwAAQBAJ&printsec=frontcover&dq=TypeScript&hl=&cd=5&source=gbs_api",
+            "url": "http://books.google.com/books?id=sPd7DwAAQBAJ&printsec=frontcover&dq=TypeScript&hl=&cd=7&source=gbs_api",
             "title": "Visual Studio Codeデバッグ技術",
             "summary": "【Visual Studio Code解説の言語と設定ファイル解説！】 本書は、プログラマ向けエディター「Visual Studio Code（VSCode）」のデバッグ機能解説書です。各種言語でのデバッグを行う上で必要となる設定ファイルの内容、それぞれの言語でのデバッグ機能を比較評価しています。（本書は、次世代出版メソッド「NextPublishing」を使用し、出版されています。） 〈本書の対象読者〉 VSCodeのデバッグ機能の仕組みを知りたいプログラマ VSCodeで各種言語でのプログラミングを行うプログラマ 【目次】 第1章 デバッグ機能とは 1.1 VSCode（Visual Studio Code）について 1.2 デバッグ機能とは 1.3 デバッガを実現するためには 1.4 GDB（GNUデバッガ） 1.5 VSCodeのデバッグ機能のアーキテクチャ 第2章 Debugger UI 2.1 画面構成 2.2 Debugメニュー 2.3 ブレークポイント 2.4 ステップ実行 2.5 データインスペクション 2.6 コールスタック 2.7 デバッグコンソール 2.8 読み込み済みのスクリプト 2.9 コードレンズ 2.10 launch.json 2.11 マルチターゲットデバッグ 2.12 デバッグ実行における標準キーボードショートカット 第3章 デバッグフレームワーク 3.1 package.jsonの実装 3.2 DebugSessionの実装 3.3 初期化要求の実装 3.4 ブレークポイント要求の実装 3.5 停止イベントの通知 3.6 スタックトレース要求の実装 3.7 変数要求の実装 3.8 ステップ実行の実装 3.9 デバッグコンソールの実装 3.10 デバッグプロトコルを総覧して 第4章 各言語のデバッグの機能調査 第5章 Go 第6章 Google App Engine Go 第7章 Node.js: JavaScript and TypeScript for Server-Side 第8章 Chrome: JavaScript and TypeScript for Web Front-End 第9章 React: JavaScript and TypeScript for SPA 第10章 Electron: JavaScript and TypeScript for PC Appliction 第11章 C/C++ 第12章 Python 第13章 Ruby 第14章 Ruby on Rails 第15章 PHP 第16章 Java 第17章 C# (.NET Core) 第18章 Bash: シェルスクリプト",
             "image": "http://books.google.com/books/content?id=sPd7DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
             "date_modified": "2018-12-07T00:00:00.000Z"
         },
         {
+            "content_html": "【環境構築から、サーバーサイドにExpress、フロントエンドにAngularを使った実際の開発手順を解説！】 本書はJavaScriptエンジニアを対象とした、TypeScriptの解説から環境構築、実際にシングルページアプリケーションを作るまでのサーバーサイド・フロントエンドの開発手順までを紹介した入門書です。この１冊で、TypeScriptをさくっと使いこなしましょう！ 【目次】 はじめに─なぜTypeScriptなのか 第1章 TypeScriptとは 1.1 インタフェース 1.2 型アノテーション 1.3 アクセス修飾子 1.4 構造的部分型 1.5 列挙型 第2章 環境構築からHello Worldまで 2.1 Node.jsのインストール 2.2 TypeScriptのインストール 2.3 エディタについて 2.4 Hello World 第3章 シングルページアプリケーションの作成 3.1 データベースの準備 3.2 サーバーサイドの開発 3.3 フロントエンドの開発 3.4 スクリプト実行手順<br><blockquote>はじめに─なぜ<b>TypeScript</b>なのか <b>TypeScript</b>はMicrosoftが開発している、<br>\nJavaScriptを拡張した静的型付けプログラミング言語です。 <b>TypeScript</b>で書かれ<br>\nたソースコードは、そのままではブラウザやNode.jsで実行できません。そのため<br>\n、&nbsp;...</blockquote>",
+            "url": "http://books.google.com/books?id=q6JSDwAAQBAJ&pg=PT3&dq=TypeScript&hl=&cd=8&source=gbs_api",
+            "title": "TypeScriptで作るシングルページアプリケーション",
+            "summary": "【環境構築から、サーバーサイドにExpress、フロントエンドにAngularを使った実際の開発手順を解説！】 本書はJavaScriptエンジニアを対象とした、TypeScriptの解説から環境構築、実際にシングルページアプリケーションを作るまでのサーバーサイド・フロントエンドの開発手順までを紹介した入門書です。この１冊で、TypeScriptをさくっと使いこなしましょう！ 【目次】 はじめに─なぜTypeScriptなのか 第1章 TypeScriptとは 1.1 インタフェース 1.2 型アノテーション 1.3 アクセス修飾子 1.4 構造的部分型 1.5 列挙型 第2章 環境構築からHello Worldまで 2.1 Node.jsのインストール 2.2 TypeScriptのインストール 2.3 エディタについて 2.4 Hello World 第3章 シングルページアプリケーションの作成 3.1 データベースの準備 3.2 サーバーサイドの開発 3.3 フロントエンドの開発 3.4 スクリプト実行手順",
+            "image": "http://books.google.com/books/content?id=q6JSDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+            "date_modified": "2018-03-30T00:00:00.000Z"
+        },
+        {
+            "content_html": "【環境構築から、サーバーサイドにExpress、フロントエンドにAngularを使った実際の開発手順を解説！】 本書はJavaScriptエンジニアを対象とした、TypeScriptの解説から環境構築、実際にシングルページアプリケーションを作るまでのサーバーサイド・フロントエンドの開発手順までを紹介した入門書です。この１冊で、TypeScriptをさくっと使いこなしましょう！ 【目次】 はじめに─なぜTypeScriptなのか 第1章 TypeScriptとは 1.1 インタフェース 1.2 型アノテーション 1.3 アクセス修飾子 1.4 構造的部分型 1.5 列挙型 第2章 環境構築からHello Worldまで 2.1 Node.jsのインストール 2.2 TypeScriptのインストール 2.3 エディタについて 2.4 Hello World 第3章 シングルページアプリケーションの作成 3.1 データベースの準備 3.2 サーバーサイドの開発 3.3 フロントエンドの開発 3.4 スクリプト実行手順<br><blockquote>【環境構築から、サーバーサイドにExpress、フロントエンドにAngularを使った実際の開発手順を解説！】 ...</blockquote>",
+            "url": "http://books.google.com/books?id=q6JSDwAAQBAJ&printsec=frontcover&dq=TypeScript&hl=&cd=9&source=gbs_api",
+            "title": "TypeScriptで作るシングルページアプリケーション",
+            "summary": "【環境構築から、サーバーサイドにExpress、フロントエンドにAngularを使った実際の開発手順を解説！】 本書はJavaScriptエンジニアを対象とした、TypeScriptの解説から環境構築、実際にシングルページアプリケーションを作るまでのサーバーサイド・フロントエンドの開発手順までを紹介した入門書です。この１冊で、TypeScriptをさくっと使いこなしましょう！ 【目次】 はじめに─なぜTypeScriptなのか 第1章 TypeScriptとは 1.1 インタフェース 1.2 型アノテーション 1.3 アクセス修飾子 1.4 構造的部分型 1.5 列挙型 第2章 環境構築からHello Worldまで 2.1 Node.jsのインストール 2.2 TypeScriptのインストール 2.3 エディタについて 2.4 Hello World 第3章 シングルページアプリケーションの作成 3.1 データベースの準備 3.2 サーバーサイドの開発 3.3 フロントエンドの開発 3.4 スクリプト実行手順",
+            "image": "http://books.google.com/books/content?id=q6JSDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+            "date_modified": "2018-03-30T00:00:00.000Z"
+        },
+        {
             "content_html": "データ型、オブジェクト指向プログラミング、制御文、配列、非同期処理、ジェネリック、etc.TypeScriptの仕様から使い方までわかりやすく解説!<br><blockquote>データ型、オブジェクト指向プログラミング、制御文、配列、非同期処理、ジェネリック、etc.TypeScriptの仕様から使い方までわかりやすく解説!</blockquote>",
-            "url": "http://books.google.com/books?id=hr6dswEACAAJ&dq=TypeScript&hl=&cd=6&source=gbs_api",
+            "url": "http://books.google.com/books?id=hr6dswEACAAJ&dq=TypeScript&hl=&cd=10&source=gbs_api",
             "title": "TypeScript実践マスター",
             "summary": "データ型、オブジェクト指向プログラミング、制御文、配列、非同期処理、ジェネリック、etc.TypeScriptの仕様から使い方までわかりやすく解説!",
             "image": "http://books.google.com/books/content?id=hr6dswEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
             "date_modified": "2017-12-01T00:00:00.000Z"
-        },
-        {
-            "content_html": "",
-            "url": "http://books.google.com/books?id=581bzgEACAAJ&dq=TypeScript&hl=&cd=7&source=gbs_api",
-            "title": "実践TypeScript",
-            "date_modified": "2019-01-01T00:00:00.000Z"
-        },
-        {
-            "content_html": "※この商品はタブレットなど大きいディスプレイを備えた端末で読むことに適しています。また、文字だけを拡大することや、文字列のハイライト、検索、辞書の参照、引用などの機能が使用できません。 本書は、「Angular2 によるモダンWeb 開発～TypeScriptを使った基本プログラミング～」の続編です。この前書で得た知識を土台に対象範囲をブラウザ内からWebサーバーやデータベースなどのバックエンド連携を含むシステム全体に広げ、大規模システムの構築にも対応する実践的知識の習得を目指します。AngularやモダンWeb開発に興味を持つ個人から、プロの開発者まで幅広くお読みいただけます。 ネット検索で入手できるAngular単体の技術解説ではなく、実装パターンや外部ライブラリとの統合など、本格的なモダンWebシステムの開発を成功させるための情報を網羅し、以下の特徴を持った内容としました。 ●モダンWebを体感するサンプルアプリ ●様々なツールを使用した読者参加型の学習体験 ●モダンWeb開発のトラブル回避 ●新技術への対応 ●バックエンド関連用語(付録)",
-            "url": "http://books.google.com/books?id=UNmjDwAAQBAJ&pg=PP1&dq=TypeScript&hl=&cd=8&source=gbs_api",
-            "title": "AngularによるモダンWeb開発　実践編　実際の開発で必要な知識を凝縮",
-            "summary": "※この商品はタブレットなど大きいディスプレイを備えた端末で読むことに適しています。また、文字だけを拡大することや、文字列のハイライト、検索、辞書の参照、引用などの機能が使用できません。 本書は、「Angular2 によるモダンWeb 開発～TypeScriptを使った基本プログラミング～」の続編です。この前書で得た知識を土台に対象範囲をブラウザ内からWebサーバーやデータベースなどのバックエンド連携を含むシステム全体に広げ、大規模システムの構築にも対応する実践的知識の習得を目指します。AngularやモダンWeb開発に興味を持つ個人から、プロの開発者まで幅広くお読みいただけます。 ネット検索で入手できるAngular単体の技術解説ではなく、実装パターンや外部ライブラリとの統合など、本格的なモダンWebシステムの開発を成功させるための情報を網羅し、以下の特徴を持った内容としました。 ●モダンWebを体感するサンプルアプリ ●様々なツールを使用した読者参加型の学習体験 ●モダンWeb開発のトラブル回避 ●新技術への対応 ●バックエンド関連用語(付録)",
-            "image": "http://books.google.com/books/content?id=UNmjDwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-            "date_modified": "2017-11-25T00:00:00.000Z"
-        },
-        {
-            "content_html": "本書では、「Angular」の最新バージョン「4」の導入から始めて、簡単なWebアプリを作りながら「Angular」の使い方の基本を学んでいきます。<br><blockquote>本書では、「Angular」の最新バージョン「4」の導入から始めて、簡単なWebアプリを作りながら「Angular」の使い方の基本を学んでいきます。</blockquote>",
-            "url": "http://books.google.com/books?id=xIdcswEACAAJ&dq=TypeScript&hl=&cd=9&source=gbs_api",
-            "title": "はじめてのAngular4",
-            "summary": "本書では、「Angular」の最新バージョン「4」の導入から始めて、簡単なWebアプリを作りながら「Angular」の使い方の基本を学んでいきます。",
-            "image": "http://books.google.com/books/content?id=xIdcswEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-            "date_modified": "2017-05-01T00:00:00.000Z"
-        },
-        {
-            "content_html": "本書は、「Angular2によるモダンWeb開発―TypeScriptを使った基本プログラミング」の続編です。この前書で得た知識を土台に対象範囲をブラウザ内からWebサーバーやデータベースなどのバックエンド連携を含むシステム全体に広げ、大規模システムの構築にも対応する実践的知識の習得を目指します。読者として、AngularやモダンWeb開発に興味を持つ個人から、プロの開発者まで幅広く想定しています。ネット検索で入手できるAngular単体の技術解説ではなく、実装パターンや外部ライブラリとの統合など、本格的なモダンWebシステムの開発を成功させるための情報を網羅しました。<br><blockquote>本書は、「Angular2によるモダンWeb開発―TypeScriptを使った基本プログラミング」の続編です。この前書で得た知識を土台に対象範囲をブラウザ内からWebサーバーやデータベースなど ...</blockquote>",
-            "url": "http://books.google.com/books?id=Hah_swEACAAJ&dq=TypeScript&hl=&cd=10&source=gbs_api",
-            "title": "AngularによるモダンWeb開発実践編",
-            "summary": "本書は、「Angular2によるモダンWeb開発―TypeScriptを使った基本プログラミング」の続編です。この前書で得た知識を土台に対象範囲をブラウザ内からWebサーバーやデータベースなどのバックエンド連携を含むシステム全体に広げ、大規模システムの構築にも対応する実践的知識の習得を目指します。読者として、AngularやモダンWeb開発に興味を持つ個人から、プロの開発者まで幅広く想定しています。ネット検索で入手できるAngular単体の技術解説ではなく、実装パターンや外部ライブラリとの統合など、本格的なモダンWebシステムの開発を成功させるための情報を網羅しました。",
-            "image": "http://books.google.com/books/content?id=Hah_swEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-            "date_modified": "2017-11-01T00:00:00.000Z"
         }
     ]
 }

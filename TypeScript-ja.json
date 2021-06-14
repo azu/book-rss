@@ -5,16 +5,8 @@
     "description": "TypeScript(ja) on Google Book",
     "items": [
         {
-            "content_html": "本書は業務設計に必要な基本的な考え方と、ITツールの実装に関する解説書です。最新ツールを入れたのに経理業務が効率化されない、そもそも最適な業務フローがわからない。そんな悩みはありませんか？経営管理のプロである会計士がGoogle Apps ScriptやSaaSのAPIを組み合わせた活用方法をレクチャーします。また、Google Apps Scriptをモダンに書くためのTypeScript導入方法も掲載しており、プログラミング入門としても活用できます。 【目次】 第1章 はじめに 1.1 経営管理の概要 1.2 経理業務とは 1.3 経理の現状の問題 1.4 解決手段 1.5 経営管理のあるべき姿 1.6 現状を理解する 1.7 業務改善を行う 1.8 さいごに 第2章 Google Apps Script 入門 2.1 Google Apps Script(GAS)とは 2.2 GASの導入方法 2.3 文法編 2.4 Google Apps を操作してみよう 2.5 よく使用する関数 2.6 さいごに 第3章 API入門 3.1 Web API とは何か 3.2 経営管理とAPI 3.3 APIの使い方 3.4 APIと認可 3.5 さいごに 第4章 freeeAPI を活用した実例 4.1 はじめに 4.2 事前準備 4.3 アクセストークンを取得する 4.4 実践例 4.5 さいごに 第5章 ケーススタディ 5.1 プロジェクト概要 5.2 さいごに 第6章 Google Apps Script をローカルで書くための環境をインストールしよう 6.1 はじめに 6.2 Node.js npm 6.3 clasp とは 6.4 @types とは 6.5 Prettierとは 6.6 ESLintとは 6.7 さいごに 第7章 ES6(ECMA2015) 7.1 ES6 とは 7.2 ES6で追加された文法一覧 7.3 さいごに 第8章 TypeScript 入門 8.1 TypeScript とは 8.2 TypeScriptのメインの型 8.3 関数の型定義 8.4 さいごに 第9章 TypeScriptでコードを書いてみよう 9.1 FSを取得する 9.2 変更した部分 9.3 TypeScriptをトランスパイルした結果 9.4 さいごに<br><blockquote>本書は業務設計に必要な基本的な考え方と、ITツールの実装に関する解説書です。最新ツールを入れたのに経理業務が効率化されない、そもそも最適な業務フローがわからない。 ...</blockquote>",
-            "url": "http://books.google.com/books?id=ZnXRDwAAQBAJ&printsec=frontcover&dq=TypeScript&hl=&cd=1&source=gbs_api",
-            "title": "現役公認会計士が解説！GASで自動化する経営管理",
-            "summary": "本書は業務設計に必要な基本的な考え方と、ITツールの実装に関する解説書です。最新ツールを入れたのに経理業務が効率化されない、そもそも最適な業務フローがわからない。そんな悩みはありませんか？経営管理のプロである会計士がGoogle Apps ScriptやSaaSのAPIを組み合わせた活用方法をレクチャーします。また、Google Apps Scriptをモダンに書くためのTypeScript導入方法も掲載しており、プログラミング入門としても活用できます。 【目次】 第1章 はじめに 1.1 経営管理の概要 1.2 経理業務とは 1.3 経理の現状の問題 1.4 解決手段 1.5 経営管理のあるべき姿 1.6 現状を理解する 1.7 業務改善を行う 1.8 さいごに 第2章 Google Apps Script 入門 2.1 Google Apps Script(GAS)とは 2.2 GASの導入方法 2.3 文法編 2.4 Google Apps を操作してみよう 2.5 よく使用する関数 2.6 さいごに 第3章 API入門 3.1 Web API とは何か 3.2 経営管理とAPI 3.3 APIの使い方 3.4 APIと認可 3.5 さいごに 第4章 freeeAPI を活用した実例 4.1 はじめに 4.2 事前準備 4.3 アクセストークンを取得する 4.4 実践例 4.5 さいごに 第5章 ケーススタディ 5.1 プロジェクト概要 5.2 さいごに 第6章 Google Apps Script をローカルで書くための環境をインストールしよう 6.1 はじめに 6.2 Node.js npm 6.3 clasp とは 6.4 @types とは 6.5 Prettierとは 6.6 ESLintとは 6.7 さいごに 第7章 ES6(ECMA2015) 7.1 ES6 とは 7.2 ES6で追加された文法一覧 7.3 さいごに 第8章 TypeScript 入門 8.1 TypeScript とは 8.2 TypeScriptのメインの型 8.3 関数の型定義 8.4 さいごに 第9章 TypeScriptでコードを書いてみよう 9.1 FSを取得する 9.2 変更した部分 9.3 TypeScriptをトランスパイルした結果 9.4 さいごに",
-            "image": "http://books.google.com/books/content?id=ZnXRDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-            "date_modified": "2020-02-28T00:00:00.000Z"
-        },
-        {
             "content_html": "本書はレガシーなフロントエンドコードを安全かつ確実にモダンに改善していくためのノウハウをまとめた一冊です。筆者が経験したフロントエンドの改善経験をベースに、実践的で現場で使える内容になっています。また、jQueryで書かれたレガシーコードにVue.js/TypeScript/Jestなどを段階的に導入する流れを各章毎に「実践編」として掲載しており、実際に手を動かしながら学べます。改善のための考え方や手法を知りたい方はもちろん、モダンなアーキテクチャーそのものを学びたい方にも最適の一冊です。 【目次】 第1章 改善の前に 第2章 レガシーコードを理解する 第3章 パッケージ管理 第4章 テストコードを用意する 第5章 ESLint/Prettier 第6章 TypeScript 第7章 モジュール分割 第8章 Vue.js（セットアップ） 第9章 Vue.js（移行の予備知識） 第10章 Vue.js（移行編） 第11章 リリースまでを安全に 第12章 改善できた、次はどうする？<br><blockquote>本書はレガシーなフロントエンドコードを安全かつ確実にモダンに改善していくためのノウハウをまとめた一冊です。筆者が経験したフロントエンドの改善経験をベースに、実践 ...</blockquote>",
-            "url": "http://books.google.com/books?id=8gC8DwAAQBAJ&printsec=frontcover&dq=TypeScript&hl=&cd=2&source=gbs_api",
+            "url": "http://books.google.com/books?id=8gC8DwAAQBAJ&printsec=frontcover&dq=TypeScript&hl=&cd=1&source=gbs_api",
             "title": "迷わない！困らない！レガシーフロントエンド安全改善ガイド",
             "summary": "本書はレガシーなフロントエンドコードを安全かつ確実にモダンに改善していくためのノウハウをまとめた一冊です。筆者が経験したフロントエンドの改善経験をベースに、実践的で現場で使える内容になっています。また、jQueryで書かれたレガシーコードにVue.js/TypeScript/Jestなどを段階的に導入する流れを各章毎に「実践編」として掲載しており、実際に手を動かしながら学べます。改善のための考え方や手法を知りたい方はもちろん、モダンなアーキテクチャーそのものを学びたい方にも最適の一冊です。 【目次】 第1章 改善の前に 第2章 レガシーコードを理解する 第3章 パッケージ管理 第4章 テストコードを用意する 第5章 ESLint/Prettier 第6章 TypeScript 第7章 モジュール分割 第8章 Vue.js（セットアップ） 第9章 Vue.js（移行の予備知識） 第10章 Vue.js（移行編） 第11章 リリースまでを安全に 第12章 改善できた、次はどうする？",
             "image": "http://books.google.com/books/content?id=8gC8DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
@@ -22,7 +14,7 @@
         },
         {
             "content_html": "本格的なスマホゲームをHTML5&JavaScriptで開発するためのノウハウを網羅した1冊<br><blockquote>本格的なスマホゲームをHTML5&amp;JavaScriptで開発するためのノウハウを網羅した1冊</blockquote>",
-            "url": "http://books.google.com/books?id=B57CyQEACAAJ&dq=TypeScript&hl=&cd=3&source=gbs_api",
+            "url": "http://books.google.com/books?id=B57CyQEACAAJ&dq=TypeScript&hl=&cd=2&source=gbs_api",
             "title": "HTML5ゲーム開発の教科書",
             "summary": "本格的なスマホゲームをHTML5&JavaScriptで開発するためのノウハウを網羅した1冊",
             "image": "http://books.google.com/books/content?id=B57CyQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
@@ -30,7 +22,7 @@
         },
         {
             "content_html": "※この商品はタブレットなど大きいディスプレイを備えた端末で読むことに適しています。また、文字だけを拡大することや、文字列のハイライト、検索、辞書の参照、引用などの機能が使用できません。 本書は、TypeScriptの「型システム」に関する知識を体系的に学ぶための一冊です。TypeScriptやJavaScriptで、ある程度のアプリケーションを作った経験がある人を対象としているため、アプリケーション構築に必要なノウハウなどは提供していません。TypeScriptの型システムにフォーカスし、その基礎からフレームワークと連携した活用方法まで、より深く解説しています。 本書を読めば「TypeScriptは、スピーディーに品質の高いサービスを開発する上では欠かせない最高のパートナー」だということがわかるはずです。よいライブラリを使えば自動的によいアプリケーションが作れるわけではないように、型定義も個人の力量とアイディアが重要です。本書は、そういった「型定義」のスキルアップを目指すには最適の一冊です。",
-            "url": "http://books.google.com/books?id=U4O3DwAAQBAJ&pg=PP1&dq=TypeScript&hl=&cd=4&source=gbs_api",
+            "url": "http://books.google.com/books?id=U4O3DwAAQBAJ&pg=PP1&dq=TypeScript&hl=&cd=3&source=gbs_api",
             "title": "実践TypeScript",
             "summary": "※この商品はタブレットなど大きいディスプレイを備えた端末で読むことに適しています。また、文字だけを拡大することや、文字列のハイライト、検索、辞書の参照、引用などの機能が使用できません。 本書は、TypeScriptの「型システム」に関する知識を体系的に学ぶための一冊です。TypeScriptやJavaScriptで、ある程度のアプリケーションを作った経験がある人を対象としているため、アプリケーション構築に必要なノウハウなどは提供していません。TypeScriptの型システムにフォーカスし、その基礎からフレームワークと連携した活用方法まで、より深く解説しています。 本書を読めば「TypeScriptは、スピーディーに品質の高いサービスを開発する上では欠かせない最高のパートナー」だということがわかるはずです。よいライブラリを使えば自動的によいアプリケーションが作れるわけではないように、型定義も個人の力量とアイディアが重要です。本書は、そういった「型定義」のスキルアップを目指すには最適の一冊です。",
             "image": "http://books.google.com/books/content?id=U4O3DwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
@@ -38,7 +30,7 @@
         },
         {
             "content_html": "※この商品はタブレットなど大きいディスプレイを備えた端末で読むことに適しています。また、文字だけを拡大することや、文字列のハイライト、検索、辞書の参照、引用などの機能が使用できません。 Angularは、Googleが中心となって開発する、PWA開発のための強力なフロントエンドフレームワークです。数年前に世に出て以後、猛烈な勢いで進化し、プロの間で高評価を得ています。本書は、Angularを使ってPWA（プログレッシブWebアプリ）開発の基礎と、サービス、通信、ナビゲーションなどの機能を学ぶ入門書です。Angularの基本は意外と簡単です。あなたも最初の一歩を踏み出しましょう。初心者も安心のTypeScript超入門を収録！<br><blockquote>※この商品はタブレットなど大きいディスプレイを備えた端末で読むことに適しています。また、文字だけを拡大することや、文字列のハイライト、検索、辞書の参照、引用など ...</blockquote>",
-            "url": "http://books.google.com/books?id=HNuoDwAAQBAJ&dq=TypeScript&hl=&cd=5&source=gbs_api",
+            "url": "http://books.google.com/books?id=HNuoDwAAQBAJ&dq=TypeScript&hl=&cd=4&source=gbs_api",
             "title": "Angular超入門",
             "summary": "※この商品はタブレットなど大きいディスプレイを備えた端末で読むことに適しています。また、文字だけを拡大することや、文字列のハイライト、検索、辞書の参照、引用などの機能が使用できません。 Angularは、Googleが中心となって開発する、PWA開発のための強力なフロントエンドフレームワークです。数年前に世に出て以後、猛烈な勢いで進化し、プロの間で高評価を得ています。本書は、Angularを使ってPWA（プログレッシブWebアプリ）開発の基礎と、サービス、通信、ナビゲーションなどの機能を学ぶ入門書です。Angularの基本は意外と簡単です。あなたも最初の一歩を踏み出しましょう。初心者も安心のTypeScript超入門を収録！",
             "image": "http://books.google.com/books/content?id=HNuoDwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
@@ -46,7 +38,7 @@
         },
         {
             "content_html": "【IonicとFirebaseでWebアプリを作る入門書！】 AngularをベースとしたHTML5アプリケーション開発フレームワークIonicとFirebaseのパワーを借りて、HTML/CSS/JavaScriptを使ってチュートリアル形式にアプリケーションを作って遊べる入門書です。HTMLとCSS、JavaScriptの基本的な構文が分かれば、本の通りにすすめるといつのまにかアプリが完成します。普段はコーディングをしているけど、ちょっとアプリ開発もしてみたいと思っている方や、JavaScriptの入門書を読んでみたけど、次は何か１つ作ってみたいと思っている方に最適な１冊です。 〈本書の対象読者〉 ・HTML／CSSは分かる ・JavaScriptの基本的な構文は一応分かる（ES2015以降の書き方がわかればなおよい） ・ターミナルの基本的な操作ができる 【目次】 第1章 Ionicって一体……？ Ionic（アイオニック）とは/CordovaとCapacitorをざっくり知ろう 他 第2章 開発環境を設定しよう Node.jsのインストール/Ionic CLIとCordovaのインストール/gitのインストール 第3章 Ionicを動かしてみよう はじめてのIonicプロジェクト！/Ionicアプリケーションを動かしてみよう 他 第4章 ここからが本番！Ionicアプリケーションを作ろう どんなアプリを作るんでしょうか/どんな感じで作っていくの？ 他 第5章 ひとまずメッセージボードを作ってみよう！ メッセージボード用にIonicプロジェクトを作ろう/見た目から作っていきます/入力した投稿も表示させてみよう 他 第6章 Firebaseでユーザー認証しよう Firebaseって一体なんなの？/Firebaseのセットアップをしよう/FirebaseのAuthenticationを設定しよう 他 第7章 Firebaseでデータを永続化しよう Firestoreを使う準備をしていこう/メッセージボードのデータをFirestoreに保存しよう 第8章 メッセージボードの機能を改善しよう！ いつ投稿されたのかをちゃんと表示しよう/ログアウトも実装しておこう/ログイン認証を無視したアクセスを断ち切ろう！ 他 第9章 アプリケーションついに完成 iOSシミュレーターで動かしてみよう/アプリケーションをWeb用にデプロイしてみよう<br><blockquote>【IonicとFirebaseでWebアプリを作る入門書！】 AngularをベースとしたHTML5アプリケーション開発フレームワークIonicとFirebaseのパワーを借りて、HTML/CSS/JavaScriptを使ってチュートリアル ...</blockquote>",
-            "url": "http://books.google.com/books?id=WgGDDwAAQBAJ&printsec=frontcover&dq=TypeScript&hl=&cd=6&source=gbs_api",
+            "url": "http://books.google.com/books?id=WgGDDwAAQBAJ&printsec=frontcover&dq=TypeScript&hl=&cd=5&source=gbs_api",
             "title": "初心者でも大丈夫!! IonicとFirebaseでゼロからはじめるアプリ開発",
             "summary": "【IonicとFirebaseでWebアプリを作る入門書！】 AngularをベースとしたHTML5アプリケーション開発フレームワークIonicとFirebaseのパワーを借りて、HTML/CSS/JavaScriptを使ってチュートリアル形式にアプリケーションを作って遊べる入門書です。HTMLとCSS、JavaScriptの基本的な構文が分かれば、本の通りにすすめるといつのまにかアプリが完成します。普段はコーディングをしているけど、ちょっとアプリ開発もしてみたいと思っている方や、JavaScriptの入門書を読んでみたけど、次は何か１つ作ってみたいと思っている方に最適な１冊です。 〈本書の対象読者〉 ・HTML／CSSは分かる ・JavaScriptの基本的な構文は一応分かる（ES2015以降の書き方がわかればなおよい） ・ターミナルの基本的な操作ができる 【目次】 第1章 Ionicって一体……？ Ionic（アイオニック）とは/CordovaとCapacitorをざっくり知ろう 他 第2章 開発環境を設定しよう Node.jsのインストール/Ionic CLIとCordovaのインストール/gitのインストール 第3章 Ionicを動かしてみよう はじめてのIonicプロジェクト！/Ionicアプリケーションを動かしてみよう 他 第4章 ここからが本番！Ionicアプリケーションを作ろう どんなアプリを作るんでしょうか/どんな感じで作っていくの？ 他 第5章 ひとまずメッセージボードを作ってみよう！ メッセージボード用にIonicプロジェクトを作ろう/見た目から作っていきます/入力した投稿も表示させてみよう 他 第6章 Firebaseでユーザー認証しよう Firebaseって一体なんなの？/Firebaseのセットアップをしよう/FirebaseのAuthenticationを設定しよう 他 第7章 Firebaseでデータを永続化しよう Firestoreを使う準備をしていこう/メッセージボードのデータをFirestoreに保存しよう 第8章 メッセージボードの機能を改善しよう！ いつ投稿されたのかをちゃんと表示しよう/ログアウトも実装しておこう/ログイン認証を無視したアクセスを断ち切ろう！ 他 第9章 アプリケーションついに完成 iOSシミュレーターで動かしてみよう/アプリケーションをWeb用にデプロイしてみよう",
             "image": "http://books.google.com/books/content?id=WgGDDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
@@ -54,7 +46,7 @@
         },
         {
             "content_html": "【環境構築から、サーバーサイドにExpress、フロントエンドにAngularを使った実際の開発手順を解説！】 本書はJavaScriptエンジニアを対象とした、TypeScriptの解説から環境構築、実際にシングルページアプリケーションを作るまでのサーバーサイド・フロントエンドの開発手順までを紹介した入門書です。この１冊で、TypeScriptをさくっと使いこなしましょう！ 【目次】 はじめに─なぜTypeScriptなのか 第1章 TypeScriptとは 1.1 インタフェース 1.2 型アノテーション 1.3 アクセス修飾子 1.4 構造的部分型 1.5 列挙型 第2章 環境構築からHello Worldまで 2.1 Node.jsのインストール 2.2 TypeScriptのインストール 2.3 エディタについて 2.4 Hello World 第3章 シングルページアプリケーションの作成 3.1 データベースの準備 3.2 サーバーサイドの開発 3.3 フロントエンドの開発 3.4 スクリプト実行手順<br><blockquote>はじめに─なぜ<b>TypeScript</b>なのか <b>TypeScript</b>はMicrosoftが開発している、<br>\nJavaScriptを拡張した静的型付けプログラミング言語です。 <b>TypeScript</b>で書かれ<br>\nたソースコードは、そのままではブラウザやNode.jsで実行できません。そのため<br>\n、&nbsp;...</blockquote>",
-            "url": "http://books.google.com/books?id=q6JSDwAAQBAJ&pg=PT3&dq=TypeScript&hl=&cd=7&source=gbs_api",
+            "url": "http://books.google.com/books?id=q6JSDwAAQBAJ&pg=PT3&dq=TypeScript&hl=&cd=6&source=gbs_api",
             "title": "TypeScriptで作るシングルページアプリケーション",
             "summary": "【環境構築から、サーバーサイドにExpress、フロントエンドにAngularを使った実際の開発手順を解説！】 本書はJavaScriptエンジニアを対象とした、TypeScriptの解説から環境構築、実際にシングルページアプリケーションを作るまでのサーバーサイド・フロントエンドの開発手順までを紹介した入門書です。この１冊で、TypeScriptをさくっと使いこなしましょう！ 【目次】 はじめに─なぜTypeScriptなのか 第1章 TypeScriptとは 1.1 インタフェース 1.2 型アノテーション 1.3 アクセス修飾子 1.4 構造的部分型 1.5 列挙型 第2章 環境構築からHello Worldまで 2.1 Node.jsのインストール 2.2 TypeScriptのインストール 2.3 エディタについて 2.4 Hello World 第3章 シングルページアプリケーションの作成 3.1 データベースの準備 3.2 サーバーサイドの開発 3.3 フロントエンドの開発 3.4 スクリプト実行手順",
             "image": "http://books.google.com/books/content?id=q6JSDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
@@ -62,7 +54,7 @@
         },
         {
             "content_html": "【環境構築から、サーバーサイドにExpress、フロントエンドにAngularを使った実際の開発手順を解説！】 本書はJavaScriptエンジニアを対象とした、TypeScriptの解説から環境構築、実際にシングルページアプリケーションを作るまでのサーバーサイド・フロントエンドの開発手順までを紹介した入門書です。この１冊で、TypeScriptをさくっと使いこなしましょう！ 【目次】 はじめに─なぜTypeScriptなのか 第1章 TypeScriptとは 1.1 インタフェース 1.2 型アノテーション 1.3 アクセス修飾子 1.4 構造的部分型 1.5 列挙型 第2章 環境構築からHello Worldまで 2.1 Node.jsのインストール 2.2 TypeScriptのインストール 2.3 エディタについて 2.4 Hello World 第3章 シングルページアプリケーションの作成 3.1 データベースの準備 3.2 サーバーサイドの開発 3.3 フロントエンドの開発 3.4 スクリプト実行手順<br><blockquote>【環境構築から、サーバーサイドにExpress、フロントエンドにAngularを使った実際の開発手順を解説！】 ...</blockquote>",
-            "url": "http://books.google.com/books?id=q6JSDwAAQBAJ&printsec=frontcover&dq=TypeScript&hl=&cd=8&source=gbs_api",
+            "url": "http://books.google.com/books?id=q6JSDwAAQBAJ&printsec=frontcover&dq=TypeScript&hl=&cd=7&source=gbs_api",
             "title": "TypeScriptで作るシングルページアプリケーション",
             "summary": "【環境構築から、サーバーサイドにExpress、フロントエンドにAngularを使った実際の開発手順を解説！】 本書はJavaScriptエンジニアを対象とした、TypeScriptの解説から環境構築、実際にシングルページアプリケーションを作るまでのサーバーサイド・フロントエンドの開発手順までを紹介した入門書です。この１冊で、TypeScriptをさくっと使いこなしましょう！ 【目次】 はじめに─なぜTypeScriptなのか 第1章 TypeScriptとは 1.1 インタフェース 1.2 型アノテーション 1.3 アクセス修飾子 1.4 構造的部分型 1.5 列挙型 第2章 環境構築からHello Worldまで 2.1 Node.jsのインストール 2.2 TypeScriptのインストール 2.3 エディタについて 2.4 Hello World 第3章 シングルページアプリケーションの作成 3.1 データベースの準備 3.2 サーバーサイドの開発 3.3 フロントエンドの開発 3.4 スクリプト実行手順",
             "image": "http://books.google.com/books/content?id=q6JSDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
@@ -70,7 +62,7 @@
         },
         {
             "content_html": "データ型、オブジェクト指向プログラミング、制御文、配列、非同期処理、ジェネリック、etc.TypeScriptの仕様から使い方までわかりやすく解説!<br><blockquote>データ型、オブジェクト指向プログラミング、制御文、配列、非同期処理、ジェネリック、etc.TypeScriptの仕様から使い方までわかりやすく解説!</blockquote>",
-            "url": "http://books.google.com/books?id=hr6dswEACAAJ&dq=TypeScript&hl=&cd=9&source=gbs_api",
+            "url": "http://books.google.com/books?id=hr6dswEACAAJ&dq=TypeScript&hl=&cd=8&source=gbs_api",
             "title": "TypeScript実践マスター",
             "summary": "データ型、オブジェクト指向プログラミング、制御文、配列、非同期処理、ジェネリック、etc.TypeScriptの仕様から使い方までわかりやすく解説!",
             "image": "http://books.google.com/books/content?id=hr6dswEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
@@ -78,11 +70,19 @@
         },
         {
             "content_html": "※この商品はタブレットなど大きいディスプレイを備えた端末で読むことに適しています。また、文字だけを拡大することや、文字列のハイライト、検索、辞書の参照、引用などの機能が使用できません。 本書は、「Angular2 によるモダンWeb 開発～TypeScriptを使った基本プログラミング～」の続編です。この前書で得た知識を土台に対象範囲をブラウザ内からWebサーバーやデータベースなどのバックエンド連携を含むシステム全体に広げ、大規模システムの構築にも対応する実践的知識の習得を目指します。AngularやモダンWeb開発に興味を持つ個人から、プロの開発者まで幅広くお読みいただけます。 ネット検索で入手できるAngular単体の技術解説ではなく、実装パターンや外部ライブラリとの統合など、本格的なモダンWebシステムの開発を成功させるための情報を網羅し、以下の特徴を持った内容としました。 ●モダンWebを体感するサンプルアプリ ●様々なツールを使用した読者参加型の学習体験 ●モダンWeb開発のトラブル回避 ●新技術への対応 ●バックエンド関連用語(付録)<br><blockquote>※この商品はタブレットなど大きいディスプレイを備えた端末で読むことに適しています。また、文字だけを拡大することや、文字列のハイライト、検索、辞書の参照、引用など ...</blockquote>",
-            "url": "http://books.google.com/books?id=UNmjDwAAQBAJ&dq=TypeScript&hl=&cd=10&source=gbs_api",
+            "url": "http://books.google.com/books?id=UNmjDwAAQBAJ&dq=TypeScript&hl=&cd=9&source=gbs_api",
             "title": "AngularによるモダンWeb開発　実践編　実際の開発で必要な知識を凝縮",
             "summary": "※この商品はタブレットなど大きいディスプレイを備えた端末で読むことに適しています。また、文字だけを拡大することや、文字列のハイライト、検索、辞書の参照、引用などの機能が使用できません。 本書は、「Angular2 によるモダンWeb 開発～TypeScriptを使った基本プログラミング～」の続編です。この前書で得た知識を土台に対象範囲をブラウザ内からWebサーバーやデータベースなどのバックエンド連携を含むシステム全体に広げ、大規模システムの構築にも対応する実践的知識の習得を目指します。AngularやモダンWeb開発に興味を持つ個人から、プロの開発者まで幅広くお読みいただけます。 ネット検索で入手できるAngular単体の技術解説ではなく、実装パターンや外部ライブラリとの統合など、本格的なモダンWebシステムの開発を成功させるための情報を網羅し、以下の特徴を持った内容としました。 ●モダンWebを体感するサンプルアプリ ●様々なツールを使用した読者参加型の学習体験 ●モダンWeb開発のトラブル回避 ●新技術への対応 ●バックエンド関連用語(付録)",
             "image": "http://books.google.com/books/content?id=UNmjDwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
             "date_modified": "2017-11-25T00:00:00.000Z"
+        },
+        {
+            "content_html": "本書では、「Angular」の最新バージョン「4」の導入から始めて、簡単なWebアプリを作りながら「Angular」の使い方の基本を学んでいきます。<br><blockquote>本書では、「Angular」の最新バージョン「4」の導入から始めて、簡単なWebアプリを作りながら「Angular」の使い方の基本を学んでいきます。</blockquote>",
+            "url": "http://books.google.com/books?id=xIdcswEACAAJ&dq=TypeScript&hl=&cd=10&source=gbs_api",
+            "title": "はじめてのAngular4",
+            "summary": "本書では、「Angular」の最新バージョン「4」の導入から始めて、簡単なWebアプリを作りながら「Angular」の使い方の基本を学んでいきます。",
+            "image": "http://books.google.com/books/content?id=xIdcswEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+            "date_modified": "2017-05-01T00:00:00.000Z"
         }
     ]
 }

@@ -13,12 +13,12 @@
             "date_modified": "2021-04-01T00:00:00.000Z"
         },
         {
-            "content_html": "これからはじめたい人のための超入門JavaScript!サンプルの作成を通してプログラミングに入門しよう!<br><blockquote>これからはじめたい人のための超入門JavaScript!サンプルの作成を通してプログラミングに入門しよう!</blockquote>",
-            "url": "http://books.google.com/books?id=rewsEAAAQBAJ&printsec=frontcover&dq=JavaScript&hl=&cd=2&source=gbs_api",
-            "title": "図解!JavaScriptのﾂﾎﾞとｺﾂがｾﾞｯﾀｲにわかる本“超”入門編",
-            "summary": "これからはじめたい人のための超入門JavaScript!サンプルの作成を通してプログラミングに入門しよう!",
-            "image": "http://books.google.com/books/content?id=rewsEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-            "date_modified": "2021-03-01T00:00:00.000Z"
+            "content_html": "本書はDartやJavaScriptといった言語ではなく、iOS/Androidエンジニアに馴染みのKotlinやSwiftを用いたクロスプラットフォームアプリの開発方法を紹介します。具体的には、Kotlin/Nativeを利用したケースと、Swift for Androidを利用したケースをピックアップしています。馴染みのある言語で、iOS/Androidどちらでも動くクロスプラットフォームアプリを開発してみましょう。 【目次】 第一部 Kotlin/Nativeを利用したクロスプラットフォームアプリ開発 第1章：Kotlin/Nativeの紹介 第2章：Kotlin/Nativeの実行環境の構築 第3章：Kotlin/Nativeプロジェクトの作り方 第4章：Kotlin/Nativeプロジェクトにおけるテスト実行環境の構築方法 第5章：ライブラリを追加する方法 第6章：既存のプロジェクトに導入していくには 第二部 Swift for Androidを利用したクロスプラットフォームアプリ開発 第7章：Swift for Androidとは 第8章：Swift Packageの共有：開発環境とプロジェクト構成 第9章：Swift Packageの共有：プロジェクトの作成方法 第10章：他のSwift Packageを参照する 第11章：Swift Packageの共有：メリットとデメリット 第12章：Scadeとは 第13章：ScadeのHello World 第14章：Scadeを使ったTODOアプリ開発<br><blockquote>本書はDartやJavaScriptといった言語ではなく、iOS/Androidエンジニアに馴染みのKotlinやSwiftを用いたクロスプラットフォームアプリの開発方法を紹介します。具体的には、Kotlin/Nativeを ...</blockquote>",
+            "url": "http://books.google.com/books?id=ufMfEAAAQBAJ&printsec=frontcover&dq=JavaScript&hl=&cd=2&source=gbs_api",
+            "title": "Kotlin & Swiftで始めるクロスプラットフォームアプリ開発入門",
+            "summary": "本書はDartやJavaScriptといった言語ではなく、iOS/Androidエンジニアに馴染みのKotlinやSwiftを用いたクロスプラットフォームアプリの開発方法を紹介します。具体的には、Kotlin/Nativeを利用したケースと、Swift for Androidを利用したケースをピックアップしています。馴染みのある言語で、iOS/Androidどちらでも動くクロスプラットフォームアプリを開発してみましょう。 【目次】 第一部 Kotlin/Nativeを利用したクロスプラットフォームアプリ開発 第1章：Kotlin/Nativeの紹介 第2章：Kotlin/Nativeの実行環境の構築 第3章：Kotlin/Nativeプロジェクトの作り方 第4章：Kotlin/Nativeプロジェクトにおけるテスト実行環境の構築方法 第5章：ライブラリを追加する方法 第6章：既存のプロジェクトに導入していくには 第二部 Swift for Androidを利用したクロスプラットフォームアプリ開発 第7章：Swift for Androidとは 第8章：Swift Packageの共有：開発環境とプロジェクト構成 第9章：Swift Packageの共有：プロジェクトの作成方法 第10章：他のSwift Packageを参照する 第11章：Swift Packageの共有：メリットとデメリット 第12章：Scadeとは 第13章：ScadeのHello World 第14章：Scadeを使ったTODOアプリ開発",
+            "image": "http://books.google.com/books/content?id=ufMfEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+            "date_modified": "2021-03-05T00:00:00.000Z"
         },
         {
             "content_html": "※この商品はタブレットなど大きいディスプレイを備えた端末で読むことに適しています。また、文字だけを拡大することや、文字列のハイライト、検索、辞書の参照、引用などの機能が使用できません。 大学での情報処理の授業向けの教科書です。パソコンやOfficeアプリケーションの単なる利用方法ではなく、授業における課題をこなしていくためにどのように利用すればいいか、コンピュータでどのように問題を解決していくか、という実践的な観点で解説します。また、HTMLやCSSによるWebページの作成、JavaScriptによるプログラミングの基礎についても学びます。 資料の検索と収集、レポートの執筆、表やグラフの作成、調査内容の発表、Webを使った公開、という「やるべきこと」で章を構成し、それに付随する形でアプリケーションの説明をしていきます。<br><blockquote>※この商品はタブレットなど大きいディスプレイを備えた端末で読むことに適しています。また、文字だけを拡大することや、文字列のハイライト、検索、辞書の参照、引用など ...</blockquote>",

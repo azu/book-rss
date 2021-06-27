@@ -77,12 +77,12 @@
             "date_modified": "2017-11-25T00:00:00.000Z"
         },
         {
-            "content_html": "本書では、「Angular」の最新バージョン「4」の導入から始めて、簡単なWebアプリを作りながら「Angular」の使い方の基本を学んでいきます。<br><blockquote>本書では、「Angular」の最新バージョン「4」の導入から始めて、簡単なWebアプリを作りながら「Angular」の使い方の基本を学んでいきます。</blockquote>",
-            "url": "http://books.google.com/books?id=xIdcswEACAAJ&dq=TypeScript&hl=&cd=10&source=gbs_api",
-            "title": "はじめてのAngular4",
-            "summary": "本書では、「Angular」の最新バージョン「4」の導入から始めて、簡単なWebアプリを作りながら「Angular」の使い方の基本を学んでいきます。",
-            "image": "http://books.google.com/books/content?id=xIdcswEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-            "date_modified": "2017-05-01T00:00:00.000Z"
+            "content_html": "本書は、「Angular2によるモダンWeb開発―TypeScriptを使った基本プログラミング」の続編です。この前書で得た知識を土台に対象範囲をブラウザ内からWebサーバーやデータベースなどのバックエンド連携を含むシステム全体に広げ、大規模システムの構築にも対応する実践的知識の習得を目指します。読者として、AngularやモダンWeb開発に興味を持つ個人から、プロの開発者まで幅広く想定しています。ネット検索で入手できるAngular単体の技術解説ではなく、実装パターンや外部ライブラリとの統合など、本格的なモダンWebシステムの開発を成功させるための情報を網羅しました。<br><blockquote>本書は、「Angular2によるモダンWeb開発―TypeScriptを使った基本プログラミング」の続編です。この前書で得た知識を土台に対象範囲をブラウザ内からWebサーバーやデータベースなど ...</blockquote>",
+            "url": "http://books.google.com/books?id=Hah_swEACAAJ&dq=TypeScript&hl=&cd=10&source=gbs_api",
+            "title": "AngularによるモダンWeb開発実践編",
+            "summary": "本書は、「Angular2によるモダンWeb開発―TypeScriptを使った基本プログラミング」の続編です。この前書で得た知識を土台に対象範囲をブラウザ内からWebサーバーやデータベースなどのバックエンド連携を含むシステム全体に広げ、大規模システムの構築にも対応する実践的知識の習得を目指します。読者として、AngularやモダンWeb開発に興味を持つ個人から、プロの開発者まで幅広く想定しています。ネット検索で入手できるAngular単体の技術解説ではなく、実装パターンや外部ライブラリとの統合など、本格的なモダンWebシステムの開発を成功させるための情報を網羅しました。",
+            "image": "http://books.google.com/books/content?id=Hah_swEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+            "date_modified": "2017-11-01T00:00:00.000Z"
         }
     ]
 }

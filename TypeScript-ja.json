@@ -53,16 +53,8 @@
             "date_modified": "2018-03-30T00:00:00.000Z"
         },
         {
-            "content_html": "【環境構築から、サーバーサイドにExpress、フロントエンドにAngularを使った実際の開発手順を解説！】 本書はJavaScriptエンジニアを対象とした、TypeScriptの解説から環境構築、実際にシングルページアプリケーションを作るまでのサーバーサイド・フロントエンドの開発手順までを紹介した入門書です。この１冊で、TypeScriptをさくっと使いこなしましょう！ 【目次】 はじめに─なぜTypeScriptなのか 第1章 TypeScriptとは 1.1 インタフェース 1.2 型アノテーション 1.3 アクセス修飾子 1.4 構造的部分型 1.5 列挙型 第2章 環境構築からHello Worldまで 2.1 Node.jsのインストール 2.2 TypeScriptのインストール 2.3 エディタについて 2.4 Hello World 第3章 シングルページアプリケーションの作成 3.1 データベースの準備 3.2 サーバーサイドの開発 3.3 フロントエンドの開発 3.4 スクリプト実行手順<br><blockquote>目次電子書籍閲覧に関するご注意はじめに─なぜ<b>TypeScript</b>なのか本書の構成<br>\n検証環境謝辞表記関係について免責事項底本について第1章 <b>TypeScript</b>とは 1.1 <br>\nインタフェース 1.2 型アノテーション 1.3 アクセス修飾子 1.4 構造的部分型 1.5 <br>\n列挙&nbsp;...</blockquote>",
-            "url": "http://books.google.com/books?id=q6JSDwAAQBAJ&pg=PT2&dq=TypeScript&hl=&cd=7&source=gbs_api",
-            "title": "TypeScriptで作るシングルページアプリケーション",
-            "summary": "【環境構築から、サーバーサイドにExpress、フロントエンドにAngularを使った実際の開発手順を解説！】 本書はJavaScriptエンジニアを対象とした、TypeScriptの解説から環境構築、実際にシングルページアプリケーションを作るまでのサーバーサイド・フロントエンドの開発手順までを紹介した入門書です。この１冊で、TypeScriptをさくっと使いこなしましょう！ 【目次】 はじめに─なぜTypeScriptなのか 第1章 TypeScriptとは 1.1 インタフェース 1.2 型アノテーション 1.3 アクセス修飾子 1.4 構造的部分型 1.5 列挙型 第2章 環境構築からHello Worldまで 2.1 Node.jsのインストール 2.2 TypeScriptのインストール 2.3 エディタについて 2.4 Hello World 第3章 シングルページアプリケーションの作成 3.1 データベースの準備 3.2 サーバーサイドの開発 3.3 フロントエンドの開発 3.4 スクリプト実行手順",
-            "image": "http://books.google.com/books/content?id=q6JSDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-            "date_modified": "2018-03-30T00:00:00.000Z"
-        },
-        {
             "content_html": "【環境構築から、サーバーサイドにExpress、フロントエンドにAngularを使った実際の開発手順を解説！】 本書はJavaScriptエンジニアを対象とした、TypeScriptの解説から環境構築、実際にシングルページアプリケーションを作るまでのサーバーサイド・フロントエンドの開発手順までを紹介した入門書です。この１冊で、TypeScriptをさくっと使いこなしましょう！ 【目次】 はじめに─なぜTypeScriptなのか 第1章 TypeScriptとは 1.1 インタフェース 1.2 型アノテーション 1.3 アクセス修飾子 1.4 構造的部分型 1.5 列挙型 第2章 環境構築からHello Worldまで 2.1 Node.jsのインストール 2.2 TypeScriptのインストール 2.3 エディタについて 2.4 Hello World 第3章 シングルページアプリケーションの作成 3.1 データベースの準備 3.2 サーバーサイドの開発 3.3 フロントエンドの開発 3.4 スクリプト実行手順<br><blockquote>【環境構築から、サーバーサイドにExpress、フロントエンドにAngularを使った実際の開発手順を解説！】 ...</blockquote>",
-            "url": "http://books.google.com/books?id=q6JSDwAAQBAJ&printsec=frontcover&dq=TypeScript&hl=&cd=8&source=gbs_api",
+            "url": "http://books.google.com/books?id=q6JSDwAAQBAJ&printsec=frontcover&dq=TypeScript&hl=&cd=7&source=gbs_api",
             "title": "TypeScriptで作るシングルページアプリケーション",
             "summary": "【環境構築から、サーバーサイドにExpress、フロントエンドにAngularを使った実際の開発手順を解説！】 本書はJavaScriptエンジニアを対象とした、TypeScriptの解説から環境構築、実際にシングルページアプリケーションを作るまでのサーバーサイド・フロントエンドの開発手順までを紹介した入門書です。この１冊で、TypeScriptをさくっと使いこなしましょう！ 【目次】 はじめに─なぜTypeScriptなのか 第1章 TypeScriptとは 1.1 インタフェース 1.2 型アノテーション 1.3 アクセス修飾子 1.4 構造的部分型 1.5 列挙型 第2章 環境構築からHello Worldまで 2.1 Node.jsのインストール 2.2 TypeScriptのインストール 2.3 エディタについて 2.4 Hello World 第3章 シングルページアプリケーションの作成 3.1 データベースの準備 3.2 サーバーサイドの開発 3.3 フロントエンドの開発 3.4 スクリプト実行手順",
             "image": "http://books.google.com/books/content?id=q6JSDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
@@ -70,7 +62,7 @@
         },
         {
             "content_html": "データ型、オブジェクト指向プログラミング、制御文、配列、非同期処理、ジェネリック、etc.TypeScriptの仕様から使い方までわかりやすく解説!<br><blockquote>データ型、オブジェクト指向プログラミング、制御文、配列、非同期処理、ジェネリック、etc.TypeScriptの仕様から使い方までわかりやすく解説!</blockquote>",
-            "url": "http://books.google.com/books?id=hr6dswEACAAJ&dq=TypeScript&hl=&cd=9&source=gbs_api",
+            "url": "http://books.google.com/books?id=hr6dswEACAAJ&dq=TypeScript&hl=&cd=8&source=gbs_api",
             "title": "TypeScript実践マスター",
             "summary": "データ型、オブジェクト指向プログラミング、制御文、配列、非同期処理、ジェネリック、etc.TypeScriptの仕様から使い方までわかりやすく解説!",
             "image": "http://books.google.com/books/content?id=hr6dswEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
@@ -78,11 +70,19 @@
         },
         {
             "content_html": "※この商品はタブレットなど大きいディスプレイを備えた端末で読むことに適しています。また、文字だけを拡大することや、文字列のハイライト、検索、辞書の参照、引用などの機能が使用できません。 本書は、「Angular2 によるモダンWeb 開発～TypeScriptを使った基本プログラミング～」の続編です。この前書で得た知識を土台に対象範囲をブラウザ内からWebサーバーやデータベースなどのバックエンド連携を含むシステム全体に広げ、大規模システムの構築にも対応する実践的知識の習得を目指します。AngularやモダンWeb開発に興味を持つ個人から、プロの開発者まで幅広くお読みいただけます。 ネット検索で入手できるAngular単体の技術解説ではなく、実装パターンや外部ライブラリとの統合など、本格的なモダンWebシステムの開発を成功させるための情報を網羅し、以下の特徴を持った内容としました。 ●モダンWebを体感するサンプルアプリ ●様々なツールを使用した読者参加型の学習体験 ●モダンWeb開発のトラブル回避 ●新技術への対応 ●バックエンド関連用語(付録)<br><blockquote>※この商品はタブレットなど大きいディスプレイを備えた端末で読むことに適しています。また、文字だけを拡大することや、文字列のハイライト、検索、辞書の参照、引用など ...</blockquote>",
-            "url": "http://books.google.com/books?id=UNmjDwAAQBAJ&dq=TypeScript&hl=&cd=10&source=gbs_api",
+            "url": "http://books.google.com/books?id=UNmjDwAAQBAJ&dq=TypeScript&hl=&cd=9&source=gbs_api",
             "title": "AngularによるモダンWeb開発　実践編　実際の開発で必要な知識を凝縮",
             "summary": "※この商品はタブレットなど大きいディスプレイを備えた端末で読むことに適しています。また、文字だけを拡大することや、文字列のハイライト、検索、辞書の参照、引用などの機能が使用できません。 本書は、「Angular2 によるモダンWeb 開発～TypeScriptを使った基本プログラミング～」の続編です。この前書で得た知識を土台に対象範囲をブラウザ内からWebサーバーやデータベースなどのバックエンド連携を含むシステム全体に広げ、大規模システムの構築にも対応する実践的知識の習得を目指します。AngularやモダンWeb開発に興味を持つ個人から、プロの開発者まで幅広くお読みいただけます。 ネット検索で入手できるAngular単体の技術解説ではなく、実装パターンや外部ライブラリとの統合など、本格的なモダンWebシステムの開発を成功させるための情報を網羅し、以下の特徴を持った内容としました。 ●モダンWebを体感するサンプルアプリ ●様々なツールを使用した読者参加型の学習体験 ●モダンWeb開発のトラブル回避 ●新技術への対応 ●バックエンド関連用語(付録)",
             "image": "http://books.google.com/books/content?id=UNmjDwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
             "date_modified": "2017-11-25T00:00:00.000Z"
+        },
+        {
+            "content_html": "本書は、「Angular2によるモダンWeb開発―TypeScriptを使った基本プログラミング」の続編です。この前書で得た知識を土台に対象範囲をブラウザ内からWebサーバーやデータベースなどのバックエンド連携を含むシステム全体に広げ、大規模システムの構築にも対応する実践的知識の習得を目指します。読者として、AngularやモダンWeb開発に興味を持つ個人から、プロの開発者まで幅広く想定しています。ネット検索で入手できるAngular単体の技術解説ではなく、実装パターンや外部ライブラリとの統合など、本格的なモダンWebシステムの開発を成功させるための情報を網羅しました。<br><blockquote>本書は、「Angular2によるモダンWeb開発―TypeScriptを使った基本プログラミング」の続編です。この前書で得た知識を土台に対象範囲をブラウザ内からWebサーバーやデータベースなど ...</blockquote>",
+            "url": "http://books.google.com/books?id=Hah_swEACAAJ&dq=TypeScript&hl=&cd=10&source=gbs_api",
+            "title": "AngularによるモダンWeb開発実践編",
+            "summary": "本書は、「Angular2によるモダンWeb開発―TypeScriptを使った基本プログラミング」の続編です。この前書で得た知識を土台に対象範囲をブラウザ内からWebサーバーやデータベースなどのバックエンド連携を含むシステム全体に広げ、大規模システムの構築にも対応する実践的知識の習得を目指します。読者として、AngularやモダンWeb開発に興味を持つ個人から、プロの開発者まで幅広く想定しています。ネット検索で入手できるAngular単体の技術解説ではなく、実装パターンや外部ライブラリとの統合など、本格的なモダンWebシステムの開発を成功させるための情報を網羅しました。",
+            "image": "http://books.google.com/books/content?id=Hah_swEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+            "date_modified": "2017-11-01T00:00:00.000Z"
         }
     ]
 }

@@ -29,16 +29,8 @@
             "date_modified": "2021-04-23T00:00:00.000Z"
         },
         {
-            "content_html": "This book is a guide to the TypeScript language, from basic concepts to advanced features, and will get you up and running quickly. You'll learn TypeScript programming in depth as you use popular application frameworks and utilize modern design patterns and architectural patterns to build modular, testable and enterprise-ready applications.<br><blockquote>What we have seen in this section of the chapter is that the type rules and typing <br>\ntechniques that <b>TypeScript</b> provides can all be used within declaration files. The <br>\npurpose of a declaration file is to tell the <b>TypeScript</b> compiler ahead of time what<br>\n&nbsp;...</blockquote>",
-            "url": "http://books.google.com/books?id=O2wrEAAAQBAJ&pg=PA197&dq=TypeScript&hl=&cd=4&source=gbs_api",
-            "title": "Mastering TypeScript",
-            "summary": "This book is a guide to the TypeScript language, from basic concepts to advanced features, and will get you up and running quickly. You'll learn TypeScript programming in depth as you use popular application frameworks and utilize modern design patterns and architectural patterns to build modular, testable and enterprise-ready applications.",
-            "image": "http://books.google.com/books/content?id=O2wrEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-            "date_modified": "2021-04-23T00:00:00.000Z"
-        },
-        {
             "content_html": "This book is a guide to the TypeScript language, from basic concepts to advanced features, and will get you up and running quickly. You'll learn TypeScript programming in depth as you use popular application frameworks and utilize modern design patterns and architectural patterns to build modular, testable and enterprise-ready applications.<br><blockquote>This book is a guide to the TypeScript language, from basic concepts to advanced features, and will get you up and running quickly.</blockquote>",
-            "url": "http://books.google.com/books?id=O2wrEAAAQBAJ&printsec=frontcover&dq=TypeScript&hl=&cd=5&source=gbs_api",
+            "url": "http://books.google.com/books?id=O2wrEAAAQBAJ&printsec=frontcover&dq=TypeScript&hl=&cd=4&source=gbs_api",
             "title": "Mastering TypeScript",
             "summary": "This book is a guide to the TypeScript language, from basic concepts to advanced features, and will get you up and running quickly. You'll learn TypeScript programming in depth as you use popular application frameworks and utilize modern design patterns and architectural patterns to build modular, testable and enterprise-ready applications.",
             "image": "http://books.google.com/books/content?id=O2wrEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
@@ -46,7 +38,7 @@
         },
         {
             "content_html": "Deno Web Development is the definitive guide to starting to write, test, and deploy reliable Deno applications. You’ll be able to apply Deno to common use cases from simple command-line interface (CLI) utilities to multi-featured APIs. By the end of this Deno book, you’ll be comfortable with using Deno for real-world web application development.<br><blockquote>Deno Web Development is the definitive guide to starting to write, test, and deploy reliable Deno applications.</blockquote>",
-            "url": "http://books.google.com/books?id=gIwmEAAAQBAJ&pg=PP1&dq=TypeScript&hl=&cd=6&source=gbs_api",
+            "url": "http://books.google.com/books?id=gIwmEAAAQBAJ&printsec=frontcover&dq=TypeScript&hl=&cd=5&source=gbs_api",
             "title": "Deno Web Development",
             "summary": "Deno Web Development is the definitive guide to starting to write, test, and deploy reliable Deno applications. You’ll be able to apply Deno to common use cases from simple command-line interface (CLI) utilities to multi-featured APIs. By the end of this Deno book, you’ll be comfortable with using Deno for real-world web application development.",
             "image": "http://books.google.com/books/content?id=gIwmEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
@@ -54,7 +46,7 @@
         },
         {
             "content_html": "ASP.NET Core is a powerful framework for architecting a resilient backend for scalable web applications. When combined with the solid frontend development capabilities of React, it enables you to build robust full-stack web applications. This book shows .NET developers how to harness the full potential of React using ASP.NET Core as the backbone.<br><blockquote>With React at the frontend, you can build robust full-stack web applications. This book shows .NET developers how to harness the full potential of React using ASP.NET Core as the backbone</blockquote>",
-            "url": "http://books.google.com/books?id=PkUTEAAAQBAJ&printsec=frontcover&dq=TypeScript&hl=&cd=7&source=gbs_api",
+            "url": "http://books.google.com/books?id=PkUTEAAAQBAJ&printsec=frontcover&dq=TypeScript&hl=&cd=6&source=gbs_api",
             "title": "ASP.NET Core 5 and React",
             "summary": "ASP.NET Core is a powerful framework for architecting a resilient backend for scalable web applications. When combined with the solid frontend development capabilities of React, it enables you to build robust full-stack web applications. This book shows .NET developers how to harness the full potential of React using ASP.NET Core as the backbone.",
             "image": "http://books.google.com/books/content?id=PkUTEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
@@ -62,7 +54,15 @@
         },
         {
             "content_html": "TypeScript is among the fastest-growing languages, helping developers build full-stack apps by integrating with powerful frameworks such as React and Node.js. With this book, you’ll get started with TypeScript and build an SPA with React and middleware using Node.js and Express. Finally, you’ll be able to package your web app and deploy it on AWS.<br><blockquote>Build cloud-ready web applications using React 17 with Hooks and GraphQL <br>\nDavid Choi. In this chapter, we&#39;re going to cover the following main topics: • What <br>\nis <b>TypeScript</b>? • Why is <b>TypeScript</b> necessary?</blockquote>",
-            "url": "http://books.google.com/books?id=uUMQEAAAQBAJ&pg=PA16&dq=TypeScript&hl=&cd=8&source=gbs_api",
+            "url": "http://books.google.com/books?id=uUMQEAAAQBAJ&pg=PA16&dq=TypeScript&hl=&cd=7&source=gbs_api",
+            "title": "Full-Stack React, TypeScript, and Node",
+            "summary": "TypeScript is among the fastest-growing languages, helping developers build full-stack apps by integrating with powerful frameworks such as React and Node.js. With this book, you’ll get started with TypeScript and build an SPA with React and middleware using Node.js and Express. Finally, you’ll be able to package your web app and deploy it on AWS.",
+            "image": "http://books.google.com/books/content?id=uUMQEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+            "date_modified": "2020-12-18T00:00:00.000Z"
+        },
+        {
+            "content_html": "TypeScript is among the fastest-growing languages, helping developers build full-stack apps by integrating with powerful frameworks such as React and Node.js. With this book, you’ll get started with TypeScript and build an SPA with React and middleware using Node.js and Express. Finally, you’ll be able to package your web app and deploy it on AWS.<br><blockquote>So then, if <b>TypeScript</b> has no runtime, how do developers get running code? <br>\n<b>TypeScript</b> uses a process called transpilation. Transpilation is a method where <br>\ncode from one language is &quot;compiled&quot; or converted into another language. What <br>\nthis&nbsp;...</blockquote>",
+            "url": "http://books.google.com/books?id=uUMQEAAAQBAJ&pg=PA17&dq=TypeScript&hl=&cd=8&source=gbs_api",
             "title": "Full-Stack React, TypeScript, and Node",
             "summary": "TypeScript is among the fastest-growing languages, helping developers build full-stack apps by integrating with powerful frameworks such as React and Node.js. With this book, you’ll get started with TypeScript and build an SPA with React and middleware using Node.js and Express. Finally, you’ll be able to package your web app and deploy it on AWS.",
             "image": "http://books.google.com/books/content?id=uUMQEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",

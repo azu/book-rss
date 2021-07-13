@@ -30,7 +30,7 @@
         },
         {
             "content_html": "This book is a guide to the TypeScript language, from basic concepts to advanced features, and will get you up and running quickly. You'll learn TypeScript programming in depth as you use popular application frameworks and utilize modern design patterns and architectural patterns to build modular, testable and enterprise-ready applications.<br><blockquote>This book is a guide to the TypeScript language, from basic concepts to advanced features, and will get you up and running quickly.</blockquote>",
-            "url": "http://books.google.com/books?id=O2wrEAAAQBAJ&printsec=frontcover&dq=TypeScript&hl=&cd=4&source=gbs_api",
+            "url": "http://books.google.com/books?id=O2wrEAAAQBAJ&pg=PP1&dq=TypeScript&hl=&cd=4&source=gbs_api",
             "title": "Mastering TypeScript",
             "summary": "This book is a guide to the TypeScript language, from basic concepts to advanced features, and will get you up and running quickly. You'll learn TypeScript programming in depth as you use popular application frameworks and utilize modern design patterns and architectural patterns to build modular, testable and enterprise-ready applications.",
             "image": "http://books.google.com/books/content?id=O2wrEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
@@ -46,7 +46,7 @@
         },
         {
             "content_html": "ASP.NET Core is a powerful framework for architecting a resilient backend for scalable web applications. When combined with the solid frontend development capabilities of React, it enables you to build robust full-stack web applications. This book shows .NET developers how to harness the full potential of React using ASP.NET Core as the backbone.<br><blockquote>With React at the frontend, you can build robust full-stack web applications. This book shows .NET developers how to harness the full potential of React using ASP.NET Core as the backbone</blockquote>",
-            "url": "http://books.google.com/books?id=PkUTEAAAQBAJ&printsec=frontcover&dq=TypeScript&hl=&cd=6&source=gbs_api",
+            "url": "http://books.google.com/books?id=PkUTEAAAQBAJ&pg=PP1&dq=TypeScript&hl=&cd=6&source=gbs_api",
             "title": "ASP.NET Core 5 and React",
             "summary": "ASP.NET Core is a powerful framework for architecting a resilient backend for scalable web applications. When combined with the solid frontend development capabilities of React, it enables you to build robust full-stack web applications. This book shows .NET developers how to harness the full potential of React using ASP.NET Core as the backbone.",
             "image": "http://books.google.com/books/content?id=PkUTEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
@@ -70,7 +70,7 @@
         },
         {
             "content_html": "Vue.js is an open-source JavaScript library for building modern, interactive web applications. From basic to advanced recipes, this book arms you with practical solutions to common tasks in building complete Vue.js web applications and helps you migrate to Vue.js 3 with a practical introduction to TypeScript and its latest features.<br><blockquote>From basic to advanced recipes, this book arms you with practical solutions to common tasks in building complete Vue.js web applications and helps you migrate to Vue.js 3 with a practical introduction to TypeScript and its latest features.</blockquote>",
-            "url": "http://books.google.com/books?id=wED-DwAAQBAJ&printsec=frontcover&dq=TypeScript&hl=&cd=9&source=gbs_api",
+            "url": "http://books.google.com/books?id=wED-DwAAQBAJ&pg=PP1&dq=TypeScript&hl=&cd=9&source=gbs_api",
             "title": "Vue.js 3 Cookbook",
             "summary": "Vue.js is an open-source JavaScript library for building modern, interactive web applications. From basic to advanced recipes, this book arms you with practical solutions to common tasks in building complete Vue.js web applications and helps you migrate to Vue.js 3 with a practical introduction to TypeScript and its latest features.",
             "image": "http://books.google.com/books/content?id=wED-DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",

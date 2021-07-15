@@ -70,7 +70,7 @@
         },
         {
             "content_html": "本書はレガシーなフロントエンドコードを安全かつ確実にモダンに改善していくためのノウハウをまとめた一冊です。筆者が経験したフロントエンドの改善経験をベースに、実践的で現場で使える内容になっています。また、jQueryで書かれたレガシーコードにVue.js/TypeScript/Jestなどを段階的に導入する流れを各章毎に「実践編」として掲載しており、実際に手を動かしながら学べます。改善のための考え方や手法を知りたい方はもちろん、モダンなアーキテクチャーそのものを学びたい方にも最適の一冊です。 【目次】 第1章 改善の前に 第2章 レガシーコードを理解する 第3章 パッケージ管理 第4章 テストコードを用意する 第5章 ESLint/Prettier 第6章 TypeScript 第7章 モジュール分割 第8章 Vue.js（セットアップ） 第9章 Vue.js（移行の予備知識） 第10章 Vue.js（移行編） 第11章 リリースまでを安全に 第12章 改善できた、次はどうする？<br><blockquote>本書はレガシーなフロントエンドコードを安全かつ確実にモダンに改善していくためのノウハウをまとめた一冊です。筆者が経験したフロントエンドの改善経験をベースに、実践 ...</blockquote>",
-            "url": "http://books.google.com/books?id=8gC8DwAAQBAJ&printsec=frontcover&dq=TypeScript&hl=&cd=9&source=gbs_api",
+            "url": "http://books.google.com/books?id=8gC8DwAAQBAJ&pg=PP1&dq=TypeScript&hl=&cd=9&source=gbs_api",
             "title": "迷わない！困らない！レガシーフロントエンド安全改善ガイド",
             "summary": "本書はレガシーなフロントエンドコードを安全かつ確実にモダンに改善していくためのノウハウをまとめた一冊です。筆者が経験したフロントエンドの改善経験をベースに、実践的で現場で使える内容になっています。また、jQueryで書かれたレガシーコードにVue.js/TypeScript/Jestなどを段階的に導入する流れを各章毎に「実践編」として掲載しており、実際に手を動かしながら学べます。改善のための考え方や手法を知りたい方はもちろん、モダンなアーキテクチャーそのものを学びたい方にも最適の一冊です。 【目次】 第1章 改善の前に 第2章 レガシーコードを理解する 第3章 パッケージ管理 第4章 テストコードを用意する 第5章 ESLint/Prettier 第6章 TypeScript 第7章 モジュール分割 第8章 Vue.js（セットアップ） 第9章 Vue.js（移行の予備知識） 第10章 Vue.js（移行編） 第11章 リリースまでを安全に 第12章 改善できた、次はどうする？",
             "image": "http://books.google.com/books/content?id=8gC8DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",

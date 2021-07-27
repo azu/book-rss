@@ -29,8 +29,8 @@
             "date_modified": "2020-10-01T00:00:00.000Z"
         },
         {
-            "content_html": "本書はReactをテーマに、Webフロントエンド開発の環境構築を1つ1つ丁寧に解説します。特に設定が足りない状態で動かすとどうなるのか、なぜその設定が必要なのかについて踏み込んで説明しています。環境構築の難しさは、設定をどれか1つでも間違えると動かないことにあります。そのため、環境構築をする際は1つ1つの設定で自分が何をしているのかを正確に把握しなければいけません。この本では暗黙的に「そういうものだから」と思われがちな設定に注目し、解説します。どの設定を足さなければ動かないのか、サンプルコードを示しながら学ぶことができます。 【目次】 第1章 Node.jsを使ったビルド環境整備 第2章 Babelを使ったトランスパイル 第3章 TypeScriptを使ったコンパイル 第4章 webpackを使ったバンドルとビルド 第5章 ESLintを使った静的解析 第6章 Prettierを使ったフォーマット 第7章 Storybookを使ったコンポーネント管理 第8章 Jestを使ったテスト 第9章 0から環境を作ってみる 付録A バージョンの追従<br><blockquote>... <b>typescript</b> - eslint / eslint - plugin &quot; : &quot; ^ 2.25.0 &quot; , &quot; @ <b>typescript</b> - eslint / parser &quot; : &quot; ^ 2.25.0 &quot; , &quot; babel - loader &quot; : &quot; ^ 8.1.0 &quot;&nbsp;...</blockquote>",
-            "url": "http://books.google.com/books?id=VSv3DwAAQBAJ&pg=PT82&dq=TypeScript&hl=&cd=4&source=gbs_api",
+            "content_html": "本書はReactをテーマに、Webフロントエンド開発の環境構築を1つ1つ丁寧に解説します。特に設定が足りない状態で動かすとどうなるのか、なぜその設定が必要なのかについて踏み込んで説明しています。環境構築の難しさは、設定をどれか1つでも間違えると動かないことにあります。そのため、環境構築をする際は1つ1つの設定で自分が何をしているのかを正確に把握しなければいけません。この本では暗黙的に「そういうものだから」と思われがちな設定に注目し、解説します。どの設定を足さなければ動かないのか、サンプルコードを示しながら学ぶことができます。 【目次】 第1章 Node.jsを使ったビルド環境整備 第2章 Babelを使ったトランスパイル 第3章 TypeScriptを使ったコンパイル 第4章 webpackを使ったバンドルとビルド 第5章 ESLintを使った静的解析 第6章 Prettierを使ったフォーマット 第7章 Storybookを使ったコンポーネント管理 第8章 Jestを使ったテスト 第9章 0から環境を作ってみる 付録A バージョンの追従<br><blockquote>8.1.4 <b>TypeScript</b>への対応 <b>TypeScript</b>をJestで用いる際も、設定が必要です。Babelを使ったときでも問題になりましたが、<b>TypeScript</b>でテストを書く際も、モジュールの&nbsp;...</blockquote>",
+            "url": "http://books.google.com/books?id=VSv3DwAAQBAJ&pg=PT51&dq=TypeScript&hl=&cd=4&source=gbs_api",
             "title": "React環境構築の教科書",
             "summary": "本書はReactをテーマに、Webフロントエンド開発の環境構築を1つ1つ丁寧に解説します。特に設定が足りない状態で動かすとどうなるのか、なぜその設定が必要なのかについて踏み込んで説明しています。環境構築の難しさは、設定をどれか1つでも間違えると動かないことにあります。そのため、環境構築をする際は1つ1つの設定で自分が何をしているのかを正確に把握しなければいけません。この本では暗黙的に「そういうものだから」と思われがちな設定に注目し、解説します。どの設定を足さなければ動かないのか、サンプルコードを示しながら学ぶことができます。 【目次】 第1章 Node.jsを使ったビルド環境整備 第2章 Babelを使ったトランスパイル 第3章 TypeScriptを使ったコンパイル 第4章 webpackを使ったバンドルとビルド 第5章 ESLintを使った静的解析 第6章 Prettierを使ったフォーマット 第7章 Storybookを使ったコンポーネント管理 第8章 Jestを使ったテスト 第9章 0から環境を作ってみる 付録A バージョンの追従",
             "image": "http://books.google.com/books/content?id=VSv3DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
@@ -77,12 +77,12 @@
             "date_modified": "2019-08-23T00:00:00.000Z"
         },
         {
-            "content_html": "※この商品はタブレットなど大きいディスプレイを備えた端末で読むことに適しています。また、文字だけを拡大することや、文字列のハイライト、検索、辞書の参照、引用などの機能が使用できません。 本書は、TypeScriptの「型システム」に関する知識を体系的に学ぶための一冊です。TypeScriptやJavaScriptで、ある程度のアプリケーションを作った経験がある人を対象としているため、アプリケーション構築に必要なノウハウなどは提供していません。TypeScriptの型システムにフォーカスし、その基礎からフレームワークと連携した活用方法まで、より深く解説しています。 本書を読めば「TypeScriptは、スピーディーに品質の高いサービスを開発する上では欠かせない最高のパートナー」だということがわかるはずです。よいライブラリを使えば自動的によいアプリケーションが作れるわけではないように、型定義も個人の力量とアイディアが重要です。本書は、そういった「型定義」のスキルアップを目指すには最適の一冊です。<br><blockquote>※この商品はタブレットなど大きいディスプレイを備えた端末で読むことに適しています。また、文字だけを拡大することや、文字列のハイライト、検索、辞書の参照、引用など ...</blockquote>",
-            "url": "http://books.google.com/books?id=U4O3DwAAQBAJ&dq=TypeScript&hl=&cd=10&source=gbs_api",
-            "title": "実践TypeScript",
-            "summary": "※この商品はタブレットなど大きいディスプレイを備えた端末で読むことに適しています。また、文字だけを拡大することや、文字列のハイライト、検索、辞書の参照、引用などの機能が使用できません。 本書は、TypeScriptの「型システム」に関する知識を体系的に学ぶための一冊です。TypeScriptやJavaScriptで、ある程度のアプリケーションを作った経験がある人を対象としているため、アプリケーション構築に必要なノウハウなどは提供していません。TypeScriptの型システムにフォーカスし、その基礎からフレームワークと連携した活用方法まで、より深く解説しています。 本書を読めば「TypeScriptは、スピーディーに品質の高いサービスを開発する上では欠かせない最高のパートナー」だということがわかるはずです。よいライブラリを使えば自動的によいアプリケーションが作れるわけではないように、型定義も個人の力量とアイディアが重要です。本書は、そういった「型定義」のスキルアップを目指すには最適の一冊です。",
-            "image": "http://books.google.com/books/content?id=U4O3DwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-            "date_modified": "2019-06-26T00:00:00.000Z"
+            "content_html": "本格的なスマホゲームをHTML5&JavaScriptで開発するためのノウハウを網羅した1冊<br><blockquote>本格的なスマホゲームをHTML5&amp;JavaScriptで開発するためのノウハウを網羅した1冊</blockquote>",
+            "url": "http://books.google.com/books?id=B57CyQEACAAJ&dq=TypeScript&hl=&cd=10&source=gbs_api",
+            "title": "HTML5ゲーム開発の教科書",
+            "summary": "本格的なスマホゲームをHTML5&JavaScriptで開発するためのノウハウを網羅した1冊",
+            "image": "http://books.google.com/books/content?id=B57CyQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+            "date_modified": "2019-09-01T00:00:00.000Z"
         }
     ]
 }

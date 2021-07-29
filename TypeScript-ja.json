@@ -11,8 +11,56 @@
             "date_modified": "2021-09-21T00:00:00.000Z"
         },
         {
+            "content_html": "Webのしくみを理解することはITの基本を理解すること 確かな知識がつく「使える教科書」 【本書のポイント】 ・解説とイラストがセットで理解しやすい ・WebサイトとWebアプリ、さらにやや複雑なWebシステムのそれぞれを明確に分けて解説 ・他のシステムとの比較も含めて開発と運用、セキュリティについても解説 ・キーワードから知りたい項目を調べやすい ・現場の実態や出来事など、最新動向にもしっかり対応！ ・ビジネスパーソンに必須の知識に絞って解説！ ・管理者にも開発者にも役立つ基本がわかる こんな方におすすめ！ ・Web技術全体の概要を知りたい方 ・Webに関連する技術のイメージがわかなくて困っている方 ・Webに関わる技術と機器の役割を知りたい方 ・現場の実態や出来事など、最新動向についても知りたい方 【内容紹介】 Web技術は、個人の視点に立つと、日常的に利用しているWebサイトや検索エンジン、 SNS、オンラインショッピングなどのように、最も身近な情報システムです。 そこで、本書では見開きで 1つのテーマを取り上げ、 図解を交えて解説しています。 最初から順に読んで 体系的な知識を得るのはもちろん、 気になるテーマやキーワードに 注目しながら読むなど、 状況に合わせて活用しましょう。 【目次】 第1章 Web技術の基本～ブラウザとWebサーバーなどの登場人物～ 第2章 Web独自のしくみ～進化するWebサイトの裏側～ 第3章 Webを支えるしくみ～Webを取り巻く機能とサーバーの構築～ 第4章 Webの普及と広がり～拡大を続ける利用者と市場～ 第5章 Webと異なるシステム～Webに載らない、載せないシステム～ 第6章 クラウドとの関係～現在のWebシステムの基盤を理解する～ 第7章 Webサイトの開設に際して～確認してほしい事項～ 第8章 Webシステムの開発～使えるものは使って動かす～ 第9章 セキュリティと運用～Web固有とシステム全般と～<br><blockquote>JavaScriptと<b>TypeScript</b>、ASP.NETの原型 JavaScriptは1990年代から現在に至るまで使われ続けています。それに対して、<b>TypeScript</b>はマイクロソフトが2010年代前半に発表&nbsp;...</blockquote>",
+            "url": "http://books.google.com/books?id=cHsnEAAAQBAJ&pg=PA58&dq=TypeScript&hl=&cd=2&source=gbs_api",
+            "title": "図解まるわかり Web技術のしくみ",
+            "summary": "Webのしくみを理解することはITの基本を理解すること 確かな知識がつく「使える教科書」 【本書のポイント】 ・解説とイラストがセットで理解しやすい ・WebサイトとWebアプリ、さらにやや複雑なWebシステムのそれぞれを明確に分けて解説 ・他のシステムとの比較も含めて開発と運用、セキュリティについても解説 ・キーワードから知りたい項目を調べやすい ・現場の実態や出来事など、最新動向にもしっかり対応！ ・ビジネスパーソンに必須の知識に絞って解説！ ・管理者にも開発者にも役立つ基本がわかる こんな方におすすめ！ ・Web技術全体の概要を知りたい方 ・Webに関連する技術のイメージがわかなくて困っている方 ・Webに関わる技術と機器の役割を知りたい方 ・現場の実態や出来事など、最新動向についても知りたい方 【内容紹介】 Web技術は、個人の視点に立つと、日常的に利用しているWebサイトや検索エンジン、 SNS、オンラインショッピングなどのように、最も身近な情報システムです。 そこで、本書では見開きで 1つのテーマを取り上げ、 図解を交えて解説しています。 最初から順に読んで 体系的な知識を得るのはもちろん、 気になるテーマやキーワードに 注目しながら読むなど、 状況に合わせて活用しましょう。 【目次】 第1章 Web技術の基本～ブラウザとWebサーバーなどの登場人物～ 第2章 Web独自のしくみ～進化するWebサイトの裏側～ 第3章 Webを支えるしくみ～Webを取り巻く機能とサーバーの構築～ 第4章 Webの普及と広がり～拡大を続ける利用者と市場～ 第5章 Webと異なるシステム～Webに載らない、載せないシステム～ 第6章 クラウドとの関係～現在のWebシステムの基盤を理解する～ 第7章 Webサイトの開設に際して～確認してほしい事項～ 第8章 Webシステムの開発～使えるものは使って動かす～ 第9章 セキュリティと運用～Web固有とシステム全般と～",
+            "image": "http://books.google.com/books/content?id=cHsnEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+            "date_modified": "2021-04-07T00:00:00.000Z"
+        },
+        {
+            "content_html": "近年、静的サイトジェネレーターGatsbyをはじめNext.jsでのウェブサイト構築が増えています。しかし、その土台となるJavaScript用ライブラリのReactは本来アプリケーション開発を想定しており、現状の入門本もアプリケーションを作るための学習を目的としたものになっています。本書では、Gatsbyでサイトを作ることをゴールとし、その過程でReactの学習を行います。本来Reactの入門本では必須と思われるhooksやcontext、fluxに関してもほとんどスキップし、コンポーネントの書き方やCSS Modulesといったマークアップに近い内容を重点的に紹介します。今後、更に増えてくるであろうReactのマークアップやGatsby、Next.jsでのウェブサイト制作への入門を考えている方に向けた一冊です。2021年3月2日リリースのGatsby v3にも最速で対応しています！ 【目次】 第1章 React開発入門 第2章 Gatsby入門 第3章 Headless CMSを用いたウェブサイト制作 第4章 ステップアップ<br><blockquote>IndexPageQuery&gt; = (props) =&gt; { //略}ここまでの作業が正しく行えていると、props.dataの中身に適切な型が付与されます。 gatsby-node.js等の<b>TypeScript</b>対応&nbsp;...</blockquote>",
+            "url": "http://books.google.com/books?id=wZElEAAAQBAJ&pg=PT108&dq=TypeScript&hl=&cd=3&source=gbs_api",
+            "title": "React & Gatsby開発入門",
+            "summary": "近年、静的サイトジェネレーターGatsbyをはじめNext.jsでのウェブサイト構築が増えています。しかし、その土台となるJavaScript用ライブラリのReactは本来アプリケーション開発を想定しており、現状の入門本もアプリケーションを作るための学習を目的としたものになっています。本書では、Gatsbyでサイトを作ることをゴールとし、その過程でReactの学習を行います。本来Reactの入門本では必須と思われるhooksやcontext、fluxに関してもほとんどスキップし、コンポーネントの書き方やCSS Modulesといったマークアップに近い内容を重点的に紹介します。今後、更に増えてくるであろうReactのマークアップやGatsby、Next.jsでのウェブサイト制作への入門を考えている方に向けた一冊です。2021年3月2日リリースのGatsby v3にも最速で対応しています！ 【目次】 第1章 React開発入門 第2章 Gatsby入門 第3章 Headless CMSを用いたウェブサイト制作 第4章 ステップアップ",
+            "image": "http://books.google.com/books/content?id=wZElEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+            "date_modified": "2021-04-02T00:00:00.000Z"
+        },
+        {
+            "content_html": "最近の開発で必須のフロントエンド。Vue.jsやAngularやReactなど複雑化する内容をすっきり理解し効率的な開発を。<br><blockquote>たとえば上記のような <b>TypeScript</b> で書かれた React 向けのコードを用意しました。コード自体の理解が進まなくても今は大丈夫です。フォーマットが一致していない、可&nbsp;...</blockquote>",
+            "url": "http://books.google.com/books?id=Q-oLEAAAQBAJ&pg=PA87&dq=TypeScript&hl=&cd=4&source=gbs_api",
+            "title": "ﾌﾛﾝﾄｴﾝﾄﾞ開発入門ﾌﾟﾛﾌｪｯｼｮﾅﾙな開発ﾂｰﾙと設計･実装",
+            "summary": "最近の開発で必須のフロントエンド。Vue.jsやAngularやReactなど複雑化する内容をすっきり理解し効率的な開発を。",
+            "image": "http://books.google.com/books/content?id=Q-oLEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+            "date_modified": "2020-10-01T00:00:00.000Z"
+        },
+        {
+            "content_html": "本書はReactをテーマに、Webフロントエンド開発の環境構築を1つ1つ丁寧に解説します。特に設定が足りない状態で動かすとどうなるのか、なぜその設定が必要なのかについて踏み込んで説明しています。環境構築の難しさは、設定をどれか1つでも間違えると動かないことにあります。そのため、環境構築をする際は1つ1つの設定で自分が何をしているのかを正確に把握しなければいけません。この本では暗黙的に「そういうものだから」と思われがちな設定に注目し、解説します。どの設定を足さなければ動かないのか、サンプルコードを示しながら学ぶことができます。 【目次】 第1章 Node.jsを使ったビルド環境整備 第2章 Babelを使ったトランスパイル 第3章 TypeScriptを使ったコンパイル 第4章 webpackを使ったバンドルとビルド 第5章 ESLintを使った静的解析 第6章 Prettierを使ったフォーマット 第7章 Storybookを使ったコンポーネント管理 第8章 Jestを使ったテスト 第9章 0から環境を作ってみる 付録A バージョンの追従<br><blockquote>8.1.4 <b>TypeScript</b>への対応 <b>TypeScript</b>をJestで用いる際も、設定が必要です。Babelを使ったときでも問題になりましたが、<b>TypeScript</b>でテストを書く際も、モジュールの&nbsp;...</blockquote>",
+            "url": "http://books.google.com/books?id=VSv3DwAAQBAJ&pg=PT51&dq=TypeScript&hl=&cd=5&source=gbs_api",
+            "title": "React環境構築の教科書",
+            "summary": "本書はReactをテーマに、Webフロントエンド開発の環境構築を1つ1つ丁寧に解説します。特に設定が足りない状態で動かすとどうなるのか、なぜその設定が必要なのかについて踏み込んで説明しています。環境構築の難しさは、設定をどれか1つでも間違えると動かないことにあります。そのため、環境構築をする際は1つ1つの設定で自分が何をしているのかを正確に把握しなければいけません。この本では暗黙的に「そういうものだから」と思われがちな設定に注目し、解説します。どの設定を足さなければ動かないのか、サンプルコードを示しながら学ぶことができます。 【目次】 第1章 Node.jsを使ったビルド環境整備 第2章 Babelを使ったトランスパイル 第3章 TypeScriptを使ったコンパイル 第4章 webpackを使ったバンドルとビルド 第5章 ESLintを使った静的解析 第6章 Prettierを使ったフォーマット 第7章 Storybookを使ったコンポーネント管理 第8章 Jestを使ったテスト 第9章 0から環境を作ってみる 付録A バージョンの追従",
+            "image": "http://books.google.com/books/content?id=VSv3DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+            "date_modified": "2020-08-21T00:00:00.000Z"
+        },
+        {
+            "content_html": "本書は入門書の次に読むことを想定にした、中級者へのステップアップを目指すNode.js解説書です。主にNode.jsに対する技術的な内容を扱います。本書を読むことによって、Node.jsに対する理解を深めることができます。Node.jsの副読本として活用ください。 【目次】 第1章 Node.jsの全体像 第2章 npm(Node Package Manager) 第3章 サーバーとしてのNode.js 第4章 イベントループ 第5章 非同期プログラミング（コールバック） 第6章 コールバック地獄の解消 第7章 Stream 第8章 AltJSとTypeScriptを使った開発 第9章 コーディングガイドラインとESLint 第10章 Node.jsとセキュリティ 第11章 Node.jsのコアには、どのようなモジュールがあるのか 第12章 JavaScript & Node.js Tips集 付録A Node.jsの習得に役立つ情報を得るには 付録B ES2015(ES6) 付録C ES2016 付録D ES2017 付録E ES2018 付録F ES2019 付録G Node.js v13とv14について<br><blockquote>(y/N) <b>TypeScript</b>を使うかどうかの質問です。もともと<b>TypeScript</b>ではTSLintと呼ばれるツールがあったのですが、これは非推奨となりESLintに統合される予定です。</blockquote>",
+            "url": "http://books.google.com/books?id=hZ_qDwAAQBAJ&pg=PA43&dq=TypeScript&hl=&cd=6&source=gbs_api",
+            "title": "レベルアップNode.js",
+            "summary": "本書は入門書の次に読むことを想定にした、中級者へのステップアップを目指すNode.js解説書です。主にNode.jsに対する技術的な内容を扱います。本書を読むことによって、Node.jsに対する理解を深めることができます。Node.jsの副読本として活用ください。 【目次】 第1章 Node.jsの全体像 第2章 npm(Node Package Manager) 第3章 サーバーとしてのNode.js 第4章 イベントループ 第5章 非同期プログラミング（コールバック） 第6章 コールバック地獄の解消 第7章 Stream 第8章 AltJSとTypeScriptを使った開発 第9章 コーディングガイドラインとESLint 第10章 Node.jsとセキュリティ 第11章 Node.jsのコアには、どのようなモジュールがあるのか 第12章 JavaScript & Node.js Tips集 付録A Node.jsの習得に役立つ情報を得るには 付録B ES2015(ES6) 付録C ES2016 付録D ES2017 付録E ES2018 付録F ES2019 付録G Node.js v13とv14について",
+            "image": "http://books.google.com/books/content?id=hZ_qDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+            "date_modified": "2020-06-19T00:00:00.000Z"
+        },
+        {
+            "content_html": "本書は業務設計に必要な基本的な考え方と、ITツールの実装に関する解説書です。最新ツールを入れたのに経理業務が効率化されない、そもそも最適な業務フローがわからない。そんな悩みはありませんか？経営管理のプロである会計士がGoogle Apps ScriptやSaaSのAPIを組み合わせた活用方法をレクチャーします。また、Google Apps Scriptをモダンに書くためのTypeScript導入方法も掲載しており、プログラミング入門としても活用できます。 【目次】 第1章 はじめに 1.1 経営管理の概要 1.2 経理業務とは 1.3 経理の現状の問題 1.4 解決手段 1.5 経営管理のあるべき姿 1.6 現状を理解する 1.7 業務改善を行う 1.8 さいごに 第2章 Google Apps Script 入門 2.1 Google Apps Script(GAS)とは 2.2 GASの導入方法 2.3 文法編 2.4 Google Apps を操作してみよう 2.5 よく使用する関数 2.6 さいごに 第3章 API入門 3.1 Web API とは何か 3.2 経営管理とAPI 3.3 APIの使い方 3.4 APIと認可 3.5 さいごに 第4章 freeeAPI を活用した実例 4.1 はじめに 4.2 事前準備 4.3 アクセストークンを取得する 4.4 実践例 4.5 さいごに 第5章 ケーススタディ 5.1 プロジェクト概要 5.2 さいごに 第6章 Google Apps Script をローカルで書くための環境をインストールしよう 6.1 はじめに 6.2 Node.js npm 6.3 clasp とは 6.4 @types とは 6.5 Prettierとは 6.6 ESLintとは 6.7 さいごに 第7章 ES6(ECMA2015) 7.1 ES6 とは 7.2 ES6で追加された文法一覧 7.3 さいごに 第8章 TypeScript 入門 8.1 TypeScript とは 8.2 TypeScriptのメインの型 8.3 関数の型定義 8.4 さいごに 第9章 TypeScriptでコードを書いてみよう 9.1 FSを取得する 9.2 変更した部分 9.3 TypeScriptをトランスパイルした結果 9.4 さいごに<br><blockquote>第8章 <b>TypeScript</b> 入門この章では<b>TypeScript</b>の基本を書いていこうかと思います。<b>TypeScript</b>はマイクロソフトが開発したオープンソース言語で、「型定義が&nbsp;...</blockquote>",
+            "url": "http://books.google.com/books?id=ZnXRDwAAQBAJ&pg=PT90&dq=TypeScript&hl=&cd=7&source=gbs_api",
+            "title": "現役公認会計士が解説！GASで自動化する経営管理",
+            "summary": "本書は業務設計に必要な基本的な考え方と、ITツールの実装に関する解説書です。最新ツールを入れたのに経理業務が効率化されない、そもそも最適な業務フローがわからない。そんな悩みはありませんか？経営管理のプロである会計士がGoogle Apps ScriptやSaaSのAPIを組み合わせた活用方法をレクチャーします。また、Google Apps Scriptをモダンに書くためのTypeScript導入方法も掲載しており、プログラミング入門としても活用できます。 【目次】 第1章 はじめに 1.1 経営管理の概要 1.2 経理業務とは 1.3 経理の現状の問題 1.4 解決手段 1.5 経営管理のあるべき姿 1.6 現状を理解する 1.7 業務改善を行う 1.8 さいごに 第2章 Google Apps Script 入門 2.1 Google Apps Script(GAS)とは 2.2 GASの導入方法 2.3 文法編 2.4 Google Apps を操作してみよう 2.5 よく使用する関数 2.6 さいごに 第3章 API入門 3.1 Web API とは何か 3.2 経営管理とAPI 3.3 APIの使い方 3.4 APIと認可 3.5 さいごに 第4章 freeeAPI を活用した実例 4.1 はじめに 4.2 事前準備 4.3 アクセストークンを取得する 4.4 実践例 4.5 さいごに 第5章 ケーススタディ 5.1 プロジェクト概要 5.2 さいごに 第6章 Google Apps Script をローカルで書くための環境をインストールしよう 6.1 はじめに 6.2 Node.js npm 6.3 clasp とは 6.4 @types とは 6.5 Prettierとは 6.6 ESLintとは 6.7 さいごに 第7章 ES6(ECMA2015) 7.1 ES6 とは 7.2 ES6で追加された文法一覧 7.3 さいごに 第8章 TypeScript 入門 8.1 TypeScript とは 8.2 TypeScriptのメインの型 8.3 関数の型定義 8.4 さいごに 第9章 TypeScriptでコードを書いてみよう 9.1 FSを取得する 9.2 変更した部分 9.3 TypeScriptをトランスパイルした結果 9.4 さいごに",
+            "image": "http://books.google.com/books/content?id=ZnXRDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+            "date_modified": "2020-02-28T00:00:00.000Z"
+        },
+        {
             "content_html": "本書は業務設計に必要な基本的な考え方と、ITツールの実装に関する解説書です。最新ツールを入れたのに経理業務が効率化されない、そもそも最適な業務フローがわからない。そんな悩みはありませんか？経営管理のプロである会計士がGoogle Apps ScriptやSaaSのAPIを組み合わせた活用方法をレクチャーします。また、Google Apps Scriptをモダンに書くためのTypeScript導入方法も掲載しており、プログラミング入門としても活用できます。 【目次】 第1章 はじめに 1.1 経営管理の概要 1.2 経理業務とは 1.3 経理の現状の問題 1.4 解決手段 1.5 経営管理のあるべき姿 1.6 現状を理解する 1.7 業務改善を行う 1.8 さいごに 第2章 Google Apps Script 入門 2.1 Google Apps Script(GAS)とは 2.2 GASの導入方法 2.3 文法編 2.4 Google Apps を操作してみよう 2.5 よく使用する関数 2.6 さいごに 第3章 API入門 3.1 Web API とは何か 3.2 経営管理とAPI 3.3 APIの使い方 3.4 APIと認可 3.5 さいごに 第4章 freeeAPI を活用した実例 4.1 はじめに 4.2 事前準備 4.3 アクセストークンを取得する 4.4 実践例 4.5 さいごに 第5章 ケーススタディ 5.1 プロジェクト概要 5.2 さいごに 第6章 Google Apps Script をローカルで書くための環境をインストールしよう 6.1 はじめに 6.2 Node.js npm 6.3 clasp とは 6.4 @types とは 6.5 Prettierとは 6.6 ESLintとは 6.7 さいごに 第7章 ES6(ECMA2015) 7.1 ES6 とは 7.2 ES6で追加された文法一覧 7.3 さいごに 第8章 TypeScript 入門 8.1 TypeScript とは 8.2 TypeScriptのメインの型 8.3 関数の型定義 8.4 さいごに 第9章 TypeScriptでコードを書いてみよう 9.1 FSを取得する 9.2 変更した部分 9.3 TypeScriptをトランスパイルした結果 9.4 さいごに<br><blockquote>本書は業務設計に必要な基本的な考え方と、ITツールの実装に関する解説書です。最新ツールを入れたのに経理業務が効率化されない、そもそも最適な業務フローがわからない。 ...</blockquote>",
-            "url": "http://books.google.com/books?id=ZnXRDwAAQBAJ&pg=PP1&dq=TypeScript&hl=&cd=2&source=gbs_api",
+            "url": "http://books.google.com/books?id=ZnXRDwAAQBAJ&pg=PP1&dq=TypeScript&hl=&cd=8&source=gbs_api",
             "title": "現役公認会計士が解説！GASで自動化する経営管理",
             "summary": "本書は業務設計に必要な基本的な考え方と、ITツールの実装に関する解説書です。最新ツールを入れたのに経理業務が効率化されない、そもそも最適な業務フローがわからない。そんな悩みはありませんか？経営管理のプロである会計士がGoogle Apps ScriptやSaaSのAPIを組み合わせた活用方法をレクチャーします。また、Google Apps Scriptをモダンに書くためのTypeScript導入方法も掲載しており、プログラミング入門としても活用できます。 【目次】 第1章 はじめに 1.1 経営管理の概要 1.2 経理業務とは 1.3 経理の現状の問題 1.4 解決手段 1.5 経営管理のあるべき姿 1.6 現状を理解する 1.7 業務改善を行う 1.8 さいごに 第2章 Google Apps Script 入門 2.1 Google Apps Script(GAS)とは 2.2 GASの導入方法 2.3 文法編 2.4 Google Apps を操作してみよう 2.5 よく使用する関数 2.6 さいごに 第3章 API入門 3.1 Web API とは何か 3.2 経営管理とAPI 3.3 APIの使い方 3.4 APIと認可 3.5 さいごに 第4章 freeeAPI を活用した実例 4.1 はじめに 4.2 事前準備 4.3 アクセストークンを取得する 4.4 実践例 4.5 さいごに 第5章 ケーススタディ 5.1 プロジェクト概要 5.2 さいごに 第6章 Google Apps Script をローカルで書くための環境をインストールしよう 6.1 はじめに 6.2 Node.js npm 6.3 clasp とは 6.4 @types とは 6.5 Prettierとは 6.6 ESLintとは 6.7 さいごに 第7章 ES6(ECMA2015) 7.1 ES6 とは 7.2 ES6で追加された文法一覧 7.3 さいごに 第8章 TypeScript 入門 8.1 TypeScript とは 8.2 TypeScriptのメインの型 8.3 関数の型定義 8.4 さいごに 第9章 TypeScriptでコードを書いてみよう 9.1 FSを取得する 9.2 変更した部分 9.3 TypeScriptをトランスパイルした結果 9.4 さいごに",
             "image": "http://books.google.com/books/content?id=ZnXRDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
@@ -20,66 +68,19 @@
         },
         {
             "content_html": "本書はレガシーなフロントエンドコードを安全かつ確実にモダンに改善していくためのノウハウをまとめた一冊です。筆者が経験したフロントエンドの改善経験をベースに、実践的で現場で使える内容になっています。また、jQueryで書かれたレガシーコードにVue.js/TypeScript/Jestなどを段階的に導入する流れを各章毎に「実践編」として掲載しており、実際に手を動かしながら学べます。改善のための考え方や手法を知りたい方はもちろん、モダンなアーキテクチャーそのものを学びたい方にも最適の一冊です。 【目次】 第1章 改善の前に 第2章 レガシーコードを理解する 第3章 パッケージ管理 第4章 テストコードを用意する 第5章 ESLint/Prettier 第6章 TypeScript 第7章 モジュール分割 第8章 Vue.js（セットアップ） 第9章 Vue.js（移行の予備知識） 第10章 Vue.js（移行編） 第11章 リリースまでを安全に 第12章 改善できた、次はどうする？<br><blockquote>ESLintとTSLint <b>TypeScript</b>でLintによるコード検査を行う場合、<b>TypeScript</b> ESLintを利用します。・https://github.com/<b>typescript</b>-eslint/<b>typescript</b>-eslint&nbsp;...</blockquote>",
-            "url": "http://books.google.com/books?id=8gC8DwAAQBAJ&pg=PT79&dq=TypeScript&hl=&cd=3&source=gbs_api",
+            "url": "http://books.google.com/books?id=8gC8DwAAQBAJ&pg=PT79&dq=TypeScript&hl=&cd=9&source=gbs_api",
             "title": "迷わない！困らない！レガシーフロントエンド安全改善ガイド",
             "summary": "本書はレガシーなフロントエンドコードを安全かつ確実にモダンに改善していくためのノウハウをまとめた一冊です。筆者が経験したフロントエンドの改善経験をベースに、実践的で現場で使える内容になっています。また、jQueryで書かれたレガシーコードにVue.js/TypeScript/Jestなどを段階的に導入する流れを各章毎に「実践編」として掲載しており、実際に手を動かしながら学べます。改善のための考え方や手法を知りたい方はもちろん、モダンなアーキテクチャーそのものを学びたい方にも最適の一冊です。 【目次】 第1章 改善の前に 第2章 レガシーコードを理解する 第3章 パッケージ管理 第4章 テストコードを用意する 第5章 ESLint/Prettier 第6章 TypeScript 第7章 モジュール分割 第8章 Vue.js（セットアップ） 第9章 Vue.js（移行の予備知識） 第10章 Vue.js（移行編） 第11章 リリースまでを安全に 第12章 改善できた、次はどうする？",
             "image": "http://books.google.com/books/content?id=8gC8DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
             "date_modified": "2019-11-08T00:00:00.000Z"
         },
         {
-            "content_html": "本格的なスマホゲームをHTML5&JavaScriptで開発するためのノウハウを網羅した1冊<br><blockquote>本格的なスマホゲームをHTML5&amp;JavaScriptで開発するためのノウハウを網羅した1冊</blockquote>",
-            "url": "http://books.google.com/books?id=B57CyQEACAAJ&dq=TypeScript&hl=&cd=4&source=gbs_api",
-            "title": "HTML5ゲーム開発の教科書",
-            "summary": "本格的なスマホゲームをHTML5&JavaScriptで開発するためのノウハウを網羅した1冊",
-            "image": "http://books.google.com/books/content?id=B57CyQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-            "date_modified": "2019-09-01T00:00:00.000Z"
-        },
-        {
-            "content_html": "【環境構築から、サーバーサイドにExpress、フロントエンドにAngularを使った実際の開発手順を解説！】 本書はJavaScriptエンジニアを対象とした、TypeScriptの解説から環境構築、実際にシングルページアプリケーションを作るまでのサーバーサイド・フロントエンドの開発手順までを紹介した入門書です。この１冊で、TypeScriptをさくっと使いこなしましょう！ 【目次】 はじめに─なぜTypeScriptなのか 第1章 TypeScriptとは 1.1 インタフェース 1.2 型アノテーション 1.3 アクセス修飾子 1.4 構造的部分型 1.5 列挙型 第2章 環境構築からHello Worldまで 2.1 Node.jsのインストール 2.2 TypeScriptのインストール 2.3 エディタについて 2.4 Hello World 第3章 シングルページアプリケーションの作成 3.1 データベースの準備 3.2 サーバーサイドの開発 3.3 フロントエンドの開発 3.4 スクリプト実行手順<br><blockquote>はじめに─なぜ<b>TypeScript</b>なのか <b>TypeScript</b>はMicrosoftが開発している、JavaScriptを拡張した静的型付けプログラミング言語です。 <b>TypeScript</b>で書かれたソースコード&nbsp;...</blockquote>",
-            "url": "http://books.google.com/books?id=q6JSDwAAQBAJ&pg=PT3&dq=TypeScript&hl=&cd=5&source=gbs_api",
-            "title": "TypeScriptで作るシングルページアプリケーション",
-            "summary": "【環境構築から、サーバーサイドにExpress、フロントエンドにAngularを使った実際の開発手順を解説！】 本書はJavaScriptエンジニアを対象とした、TypeScriptの解説から環境構築、実際にシングルページアプリケーションを作るまでのサーバーサイド・フロントエンドの開発手順までを紹介した入門書です。この１冊で、TypeScriptをさくっと使いこなしましょう！ 【目次】 はじめに─なぜTypeScriptなのか 第1章 TypeScriptとは 1.1 インタフェース 1.2 型アノテーション 1.3 アクセス修飾子 1.4 構造的部分型 1.5 列挙型 第2章 環境構築からHello Worldまで 2.1 Node.jsのインストール 2.2 TypeScriptのインストール 2.3 エディタについて 2.4 Hello World 第3章 シングルページアプリケーションの作成 3.1 データベースの準備 3.2 サーバーサイドの開発 3.3 フロントエンドの開発 3.4 スクリプト実行手順",
-            "image": "http://books.google.com/books/content?id=q6JSDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-            "date_modified": "2018-03-30T00:00:00.000Z"
-        },
-        {
-            "content_html": "【環境構築から、サーバーサイドにExpress、フロントエンドにAngularを使った実際の開発手順を解説！】 本書はJavaScriptエンジニアを対象とした、TypeScriptの解説から環境構築、実際にシングルページアプリケーションを作るまでのサーバーサイド・フロントエンドの開発手順までを紹介した入門書です。この１冊で、TypeScriptをさくっと使いこなしましょう！ 【目次】 はじめに─なぜTypeScriptなのか 第1章 TypeScriptとは 1.1 インタフェース 1.2 型アノテーション 1.3 アクセス修飾子 1.4 構造的部分型 1.5 列挙型 第2章 環境構築からHello Worldまで 2.1 Node.jsのインストール 2.2 TypeScriptのインストール 2.3 エディタについて 2.4 Hello World 第3章 シングルページアプリケーションの作成 3.1 データベースの準備 3.2 サーバーサイドの開発 3.3 フロントエンドの開発 3.4 スクリプト実行手順<br><blockquote>【環境構築から、サーバーサイドにExpress、フロントエンドにAngularを使った実際の開発手順を解説！】 ...</blockquote>",
-            "url": "http://books.google.com/books?id=q6JSDwAAQBAJ&pg=PP1&dq=TypeScript&hl=&cd=6&source=gbs_api",
-            "title": "TypeScriptで作るシングルページアプリケーション",
-            "summary": "【環境構築から、サーバーサイドにExpress、フロントエンドにAngularを使った実際の開発手順を解説！】 本書はJavaScriptエンジニアを対象とした、TypeScriptの解説から環境構築、実際にシングルページアプリケーションを作るまでのサーバーサイド・フロントエンドの開発手順までを紹介した入門書です。この１冊で、TypeScriptをさくっと使いこなしましょう！ 【目次】 はじめに─なぜTypeScriptなのか 第1章 TypeScriptとは 1.1 インタフェース 1.2 型アノテーション 1.3 アクセス修飾子 1.4 構造的部分型 1.5 列挙型 第2章 環境構築からHello Worldまで 2.1 Node.jsのインストール 2.2 TypeScriptのインストール 2.3 エディタについて 2.4 Hello World 第3章 シングルページアプリケーションの作成 3.1 データベースの準備 3.2 サーバーサイドの開発 3.3 フロントエンドの開発 3.4 スクリプト実行手順",
-            "image": "http://books.google.com/books/content?id=q6JSDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-            "date_modified": "2018-03-30T00:00:00.000Z"
-        },
-        {
-            "content_html": "※この商品はタブレットなど大きいディスプレイを備えた端末で読むことに適しています。また、文字だけを拡大することや、文字列のハイライト、検索、辞書の参照、引用などの機能が使用できません。 Angularは、Googleが中心となって開発する、PWA開発のための強力なフロントエンドフレームワークです。数年前に世に出て以後、猛烈な勢いで進化し、プロの間で高評価を得ています。本書は、Angularを使ってPWA（プログレッシブWebアプリ）開発の基礎と、サービス、通信、ナビゲーションなどの機能を学ぶ入門書です。Angularの基本は意外と簡単です。あなたも最初の一歩を踏み出しましょう。初心者も安心のTypeScript超入門を収録！<br><blockquote>※この商品はタブレットなど大きいディスプレイを備えた端末で読むことに適しています。また、文字だけを拡大することや、文字列のハイライト、検索、辞書の参照、引用など ...</blockquote>",
-            "url": "http://books.google.com/books?id=HNuoDwAAQBAJ&dq=TypeScript&hl=&cd=7&source=gbs_api",
-            "title": "Angular超入門",
-            "summary": "※この商品はタブレットなど大きいディスプレイを備えた端末で読むことに適しています。また、文字だけを拡大することや、文字列のハイライト、検索、辞書の参照、引用などの機能が使用できません。 Angularは、Googleが中心となって開発する、PWA開発のための強力なフロントエンドフレームワークです。数年前に世に出て以後、猛烈な勢いで進化し、プロの間で高評価を得ています。本書は、Angularを使ってPWA（プログレッシブWebアプリ）開発の基礎と、サービス、通信、ナビゲーションなどの機能を学ぶ入門書です。Angularの基本は意外と簡単です。あなたも最初の一歩を踏み出しましょう。初心者も安心のTypeScript超入門を収録！",
-            "image": "http://books.google.com/books/content?id=HNuoDwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-            "date_modified": "2019-06-25T00:00:00.000Z"
-        },
-        {
-            "content_html": "データ型、オブジェクト指向プログラミング、制御文、配列、非同期処理、ジェネリック、etc.TypeScriptの仕様から使い方までわかりやすく解説!<br><blockquote>データ型、オブジェクト指向プログラミング、制御文、配列、非同期処理、ジェネリック、etc.TypeScriptの仕様から使い方までわかりやすく解説!</blockquote>",
-            "url": "http://books.google.com/books?id=hr6dswEACAAJ&dq=TypeScript&hl=&cd=8&source=gbs_api",
-            "title": "TypeScript実践マスター",
-            "summary": "データ型、オブジェクト指向プログラミング、制御文、配列、非同期処理、ジェネリック、etc.TypeScriptの仕様から使い方までわかりやすく解説!",
-            "image": "http://books.google.com/books/content?id=hr6dswEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-            "date_modified": "2017-12-01T00:00:00.000Z"
-        },
-        {
-            "content_html": "本書は、「Angular2によるモダンWeb開発―TypeScriptを使った基本プログラミング」の続編です。この前書で得た知識を土台に対象範囲をブラウザ内からWebサーバーやデータベースなどのバックエンド連携を含むシステム全体に広げ、大規模システムの構築にも対応する実践的知識の習得を目指します。読者として、AngularやモダンWeb開発に興味を持つ個人から、プロの開発者まで幅広く想定しています。ネット検索で入手できるAngular単体の技術解説ではなく、実装パターンや外部ライブラリとの統合など、本格的なモダンWebシステムの開発を成功させるための情報を網羅しました。<br><blockquote>本書は、「Angular2によるモダンWeb開発―TypeScriptを使った基本プログラミング」の続編です。この前書で得た知識を土台に対象範囲をブラウザ内からWebサーバーやデータベースなど ...</blockquote>",
-            "url": "http://books.google.com/books?id=Hah_swEACAAJ&dq=TypeScript&hl=&cd=9&source=gbs_api",
-            "title": "AngularによるモダンWeb開発実践編",
-            "summary": "本書は、「Angular2によるモダンWeb開発―TypeScriptを使った基本プログラミング」の続編です。この前書で得た知識を土台に対象範囲をブラウザ内からWebサーバーやデータベースなどのバックエンド連携を含むシステム全体に広げ、大規模システムの構築にも対応する実践的知識の習得を目指します。読者として、AngularやモダンWeb開発に興味を持つ個人から、プロの開発者まで幅広く想定しています。ネット検索で入手できるAngular単体の技術解説ではなく、実装パターンや外部ライブラリとの統合など、本格的なモダンWebシステムの開発を成功させるための情報を網羅しました。",
-            "image": "http://books.google.com/books/content?id=Hah_swEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-            "date_modified": "2017-11-01T00:00:00.000Z"
-        },
-        {
-            "content_html": "本書では、「Visual Stuido Code」を使って簡単なプログラムを作りながら、「TypeScript」の使い方の基本を学んでいきます。<br><blockquote>本書では、「Visual Stuido Code」を使って簡単なプログラムを作りながら、「TypeScript」の使い方の基本を学んでいきます。</blockquote>",
-            "url": "http://books.google.com/books?id=_dZqtAEACAAJ&dq=TypeScript&hl=&cd=10&source=gbs_api",
-            "title": "はじめてのTypeScript 2",
-            "summary": "本書では、「Visual Stuido Code」を使って簡単なプログラムを作りながら、「TypeScript」の使い方の基本を学んでいきます。",
-            "date_modified": "2017-02-01T00:00:00.000Z"
+            "content_html": "Netlifyは、PHPなどを利用せずに、HTMLなどの静的コンテンツのみで構成されたWebサイトを閲覧できる形で運用・配信するためのWebサービスです。GitHubなどで管理しているリポジトリから自動的にデプロイを行える他に、フォームやCI機能など静的サイトを運用する上で便利な機能が豊富に揃っています。本書はNetlifyの豊富な機能を詳しく紹介し、活用法を提案します。 〈本書の対象読者〉 ・普段Webサイトを運用していて、もっと楽にできる方法を探している人 ・いつもFTPソフトでいちいちレンタルサーバーにアップロードして消耗している人 ・AWS S3やGitHub Pagesをいつも使っているけれど、今ひとつかゆいところに手が届かないと感じている人 ・Netlifyを使ったことはあるけど、機能が多くて何ができるのか分かってない人 ・Netlifyの便利そうな機能を、実際どう使うかサンプルが見たい人 【目次】 第1章 登録方法や基本機能の紹介 第2章 ビルド周りの機能や設定 第3章 独自ドメインを割り当ててみよう 第4章 CMSをつくる 第5章 フォームの設置方法 第6章 Split Testing 第7章 Functions（AWS Lambda on Netlify） 第8章 Prerendering機能を試す 第9章 チーム機能や有料プランでできること<br><blockquote>今回は、<b>TypeScript</b>でfunctionsを記述するための設定について解説します。 ... -with-<b>typescript</b> まずはbabelで<b>TypeScript</b>をトランスコンパイルするために必要&nbsp;...</blockquote>",
+            "url": "http://books.google.com/books?id=GCupDwAAQBAJ&pg=PT59&dq=TypeScript&hl=&cd=10&source=gbs_api",
+            "title": "ゼロから始めるNetlify",
+            "summary": "Netlifyは、PHPなどを利用せずに、HTMLなどの静的コンテンツのみで構成されたWebサイトを閲覧できる形で運用・配信するためのWebサービスです。GitHubなどで管理しているリポジトリから自動的にデプロイを行える他に、フォームやCI機能など静的サイトを運用する上で便利な機能が豊富に揃っています。本書はNetlifyの豊富な機能を詳しく紹介し、活用法を提案します。 〈本書の対象読者〉 ・普段Webサイトを運用していて、もっと楽にできる方法を探している人 ・いつもFTPソフトでいちいちレンタルサーバーにアップロードして消耗している人 ・AWS S3やGitHub Pagesをいつも使っているけれど、今ひとつかゆいところに手が届かないと感じている人 ・Netlifyを使ったことはあるけど、機能が多くて何ができるのか分かってない人 ・Netlifyの便利そうな機能を、実際どう使うかサンプルが見たい人 【目次】 第1章 登録方法や基本機能の紹介 第2章 ビルド周りの機能や設定 第3章 独自ドメインを割り当ててみよう 第4章 CMSをつくる 第5章 フォームの設置方法 第6章 Split Testing 第7章 Functions（AWS Lambda on Netlify） 第8章 Prerendering機能を試す 第9章 チーム機能や有料プランでできること",
+            "image": "http://books.google.com/books/content?id=GCupDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+            "date_modified": "2019-08-23T00:00:00.000Z"
         }
     ]
 }

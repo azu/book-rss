@@ -13,8 +13,8 @@
             "date_modified": "2021-03-05T00:00:00.000Z"
         },
         {
-            "content_html": "これからはじめたい人のための超入門JavaScript!サンプルの作成を通してプログラミングに入門しよう!<br><blockquote><b>JavaScript</b>とは?ブラウザで実行するスクリプト言語 <b>JavaScript</b>(ジャバスクリプト)はプログラム言語のひとつで、ブラウザで動作することが最大の特徴です。</blockquote>",
-            "url": "http://books.google.com/books?id=rewsEAAAQBAJ&pg=PA18&dq=JavaScript&hl=&cd=2&source=gbs_api",
+            "content_html": "これからはじめたい人のための超入門JavaScript!サンプルの作成を通してプログラミングに入門しよう!<br><blockquote><b>JavaScript</b>を使うと、DOMにアクセスしてノードの追加・削除・移動・内容の書き換えなどの操作が行えます。P21のような動作の多くは、<b>JavaScript</b>によるDOM アクセスが使&nbsp;...</blockquote>",
+            "url": "http://books.google.com/books?id=rewsEAAAQBAJ&pg=PA23&dq=JavaScript&hl=&cd=2&source=gbs_api",
             "title": "図解!JavaScriptのﾂﾎﾞとｺﾂがｾﾞｯﾀｲにわかる本“超”入門編",
             "summary": "これからはじめたい人のための超入門JavaScript!サンプルの作成を通してプログラミングに入門しよう!",
             "image": "http://books.google.com/books/content?id=rewsEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",

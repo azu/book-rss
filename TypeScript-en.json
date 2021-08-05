@@ -77,8 +77,8 @@
             "date_modified": "2020-12-18T00:00:00.000Z"
         },
         {
-            "content_html": "TypeScript is among the fastest-growing languages, helping developers build full-stack apps by integrating with powerful frameworks such as React and Node.js. With this book, you’ll get started with TypeScript and build an SPA with React and middleware using Node.js and Express. Finally, you’ll be able to package your web app and deploy it on AWS.<br><blockquote>The requirements for this chapter are the same as in Chapter 1, Understanding <b>TypeScript</b>. You should have a basic understanding of JavaScript and web&nbsp;...</blockquote>",
-            "url": "http://books.google.com/books?id=uUMQEAAAQBAJ&pg=PA32&dq=TypeScript&hl=&cd=10&source=gbs_api",
+            "content_html": "TypeScript is among the fastest-growing languages, helping developers build full-stack apps by integrating with powerful frameworks such as React and Node.js. With this book, you’ll get started with TypeScript and build an SPA with React and middleware using Node.js and Express. Finally, you’ll be able to package your web app and deploy it on AWS.<br><blockquote>With this book, you’ll get started with TypeScript and build an SPA with React and middleware using Node.js and Express. Finally, you’ll be able to package your web app and deploy it on AWS.</blockquote>",
+            "url": "http://books.google.com/books?id=uUMQEAAAQBAJ&pg=PP1&dq=TypeScript&hl=&cd=10&source=gbs_api",
             "title": "Full-Stack React, TypeScript, and Node",
             "summary": "TypeScript is among the fastest-growing languages, helping developers build full-stack apps by integrating with powerful frameworks such as React and Node.js. With this book, you’ll get started with TypeScript and build an SPA with React and middleware using Node.js and Express. Finally, you’ll be able to package your web app and deploy it on AWS.",
             "image": "http://books.google.com/books/content?id=uUMQEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",

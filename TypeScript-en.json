@@ -54,7 +54,7 @@
         },
         {
             "content_html": "Deno Web Development is the definitive guide to starting to write, test, and deploy reliable Deno applications. You’ll be able to apply Deno to common use cases from simple command-line interface (CLI) utilities to multi-featured APIs. By the end of this Deno book, you’ll be comfortable with using Deno for real-world web application development.<br><blockquote>Deno Web Development is the definitive guide to starting to write, test, and deploy reliable Deno applications.</blockquote>",
-            "url": "http://books.google.com/books?id=gIwmEAAAQBAJ&printsec=frontcover&dq=TypeScript&hl=&cd=7&source=gbs_api",
+            "url": "http://books.google.com/books?id=gIwmEAAAQBAJ&pg=PP1&dq=TypeScript&hl=&cd=7&source=gbs_api",
             "title": "Deno Web Development",
             "summary": "Deno Web Development is the definitive guide to starting to write, test, and deploy reliable Deno applications. You’ll be able to apply Deno to common use cases from simple command-line interface (CLI) utilities to multi-featured APIs. By the end of this Deno book, you’ll be comfortable with using Deno for real-world web application development.",
             "image": "http://books.google.com/books/content?id=gIwmEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",

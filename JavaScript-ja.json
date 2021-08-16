@@ -67,14 +67,6 @@
             "summary": "本書はマイコン向けJavaScriptプラットフォーム「Moddable」の解説書です。「マイコンでもJavaScriptでアプリが書けたら…」は、Web開発者だれもが抱く夢でした。そこで登場したのがModdableです！Moddableは、さまざまなマイクロコントローラ向けのアプリケーションをJavaScriptで開発できるプラットフォームです。本書ではModdableとM5Stackを使ったアプリケーション開発方法を紹介します。環境構築とサンプルアプリの製作、そして「JavaScriptでIoT」な他のプラットフォーム達との比較を通じて、Moddableの魅力をお伝えします。あなたもModdableと一緒にJavaScriptでIoTアプリ開発を始めましょう！ 【目次】 第1章 Moddable 概説 第2章 Moddableをはじめよう 付録A Moddable を他プラットフォームとくらべてみた 付録B JavaScriptの開発支援ツールをModdableで使う",
             "image": "http://books.google.com/books/content?id=1vn6DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
             "date_modified": "2020-09-11T00:00:00.000Z"
-        },
-        {
-            "content_html": "iOSやmacOSアプリのSDKには、JavaScriptCoreフレームワークという、アプリにJavaScriptを処理する機能を簡単に組み込めるライブラリーが標準搭載されています。これを使うとSwiftネイティブコードとJavaScriptコードとを密接に連携して、自由度の高いプログラミングが可能になります。本書ではJavaScriptCoreフレームワークの基礎から、JavaScriptとSwiftの連携についての詳細まで、徹底的に解説します。 【目次】 1. JavaScriptCore 2. 基本的な使い方 3. 変数の扱い方 4. APIを定義する 5. 変数を扱うときの注意 6. 座標や範囲を表す型の扱い 7. 例外処理を使う 8. SwiftでPromiseを使う 9. コードを書きやすくする 10. Promiseを使いやすくする<br><blockquote>iOSやmacOSアプリのSDKには、JavaScriptCoreフレームワークという、アプリにJavaScriptを処理する機能を簡単に組み込めるライブラリーが標準搭載されています。これを使うとSwiftネイテ ...</blockquote>",
-            "url": "http://books.google.com/books?id=EJrnDwAAQBAJ&pg=PP1&dq=JavaScript&hl=&cd=10&source=gbs_api",
-            "title": "JavaScriptCoreで遊ぼう",
-            "summary": "iOSやmacOSアプリのSDKには、JavaScriptCoreフレームワークという、アプリにJavaScriptを処理する機能を簡単に組み込めるライブラリーが標準搭載されています。これを使うとSwiftネイティブコードとJavaScriptコードとを密接に連携して、自由度の高いプログラミングが可能になります。本書ではJavaScriptCoreフレームワークの基礎から、JavaScriptとSwiftの連携についての詳細まで、徹底的に解説します。 【目次】 1. JavaScriptCore 2. 基本的な使い方 3. 変数の扱い方 4. APIを定義する 5. 変数を扱うときの注意 6. 座標や範囲を表す型の扱い 7. 例外処理を使う 8. SwiftでPromiseを使う 9. コードを書きやすくする 10. Promiseを使いやすくする",
-            "image": "http://books.google.com/books/content?id=EJrnDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-            "date_modified": "2020-06-05T00:00:00.000Z"
         }
     ]
 }

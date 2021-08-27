@@ -5,8 +5,8 @@
     "description": "JavaScript(ja) on Google Book",
     "items": [
         {
-            "content_html": "これからはじめたい人のための超入門JavaScript!サンプルの作成を通してプログラミングに入門しよう!<br><blockquote><b>JavaScript</b>を使うと、DOMにアクセスしてノードの追加・削除・移動・内容の書き換えなどの操作が行えます。P21のような動作の多くは、<b>JavaScript</b>によるDOM アクセスが使&nbsp;...</blockquote>",
-            "url": "http://books.google.com/books?id=rewsEAAAQBAJ&pg=PA23&dq=JavaScript&hl=&cd=1&source=gbs_api",
+            "content_html": "これからはじめたい人のための超入門JavaScript!サンプルの作成を通してプログラミングに入門しよう!<br><blockquote>Chapter 01 <b>JavaScript</b>をはじめよう <b>JavaScript</b>とは?ブラウザで実行するスクリプト言語 <b>JavaScript</b>(ジャバスクリプト)はプログラム言語のひとつで、ブラウザで動作する&nbsp;...</blockquote>",
+            "url": "http://books.google.com/books?id=rewsEAAAQBAJ&pg=PA17&dq=JavaScript&hl=&cd=1&source=gbs_api",
             "title": "図解!JavaScriptのﾂﾎﾞとｺﾂがｾﾞｯﾀｲにわかる本“超”入門編",
             "summary": "これからはじめたい人のための超入門JavaScript!サンプルの作成を通してプログラミングに入門しよう!",
             "image": "http://books.google.com/books/content?id=rewsEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
@@ -38,7 +38,7 @@
         },
         {
             "content_html": "本書は「機械学習って難しいんでしょ…？」と考えている人に向けて、誰でも手軽に機械学習を活用したWebアプリをJavaScriptで開発できるようになる初心者向けのチュートリアル本です。基本的なJavaScriptの構文さえ使えれば、あとはマウス操作で簡単に機械学習モデルを構築できるWebサービスを組み合わせてミニWebアプリを開発する方法について丁寧に解説しています。これまで、興味はあるけど手が出せなかった人や機械学習を活用してみたいと考えている人、JavaScriptでWebアプリが作りたい人など、幅広く活用できる書籍となっています。 【目次】 第1章 開発環境について 第2章 初めての機械学習モデルを作る 第3章 JavaScriptと連携してみよう 第4章 スマホと連携してみよう 第5章 オブジェクト検出モデルを作る 第6章 学習済みモデルを使ってみよう<br><blockquote>本書は「機械学習って難しいんでしょ…？」と考えている人に向けて、誰でも手軽に機械学習を活用したWebアプリをJavaScriptで開発できるようになる初心者向けのチュートリアル ...</blockquote>",
-            "url": "http://books.google.com/books?id=EPwCEAAAQBAJ&printsec=frontcover&dq=JavaScript&hl=&cd=5&source=gbs_api",
+            "url": "http://books.google.com/books?id=EPwCEAAAQBAJ&pg=PA1&dq=JavaScript&hl=&cd=5&source=gbs_api",
             "title": "JavaScriptでいきなり機械学習を遊び倒す本",
             "summary": "本書は「機械学習って難しいんでしょ…？」と考えている人に向けて、誰でも手軽に機械学習を活用したWebアプリをJavaScriptで開発できるようになる初心者向けのチュートリアル本です。基本的なJavaScriptの構文さえ使えれば、あとはマウス操作で簡単に機械学習モデルを構築できるWebサービスを組み合わせてミニWebアプリを開発する方法について丁寧に解説しています。これまで、興味はあるけど手が出せなかった人や機械学習を活用してみたいと考えている人、JavaScriptでWebアプリが作りたい人など、幅広く活用できる書籍となっています。 【目次】 第1章 開発環境について 第2章 初めての機械学習モデルを作る 第3章 JavaScriptと連携してみよう 第4章 スマホと連携してみよう 第5章 オブジェクト検出モデルを作る 第6章 学習済みモデルを使ってみよう",
             "image": "http://books.google.com/books/content?id=EPwCEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",

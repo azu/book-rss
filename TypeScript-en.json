@@ -61,16 +61,8 @@
             "date_modified": "2021-04-23T00:00:00.000Z"
         },
         {
-            "content_html": "This book is a guide to the TypeScript language, from basic concepts to advanced features, and will get you up and running quickly. You'll learn TypeScript programming in depth as you use popular application frameworks and utilize modern design patterns and architectural patterns to build modular, testable and enterprise-ready applications.<br><blockquote>The output of this command will be: hello <b>TypeScript</b> And that&#39;s it. It&#39;s as simple as creating a <b>TypeScript</b> file, generating JavaScript from it using the <b>TypeScript</b> compiler (tsc), and executing the resulting JavaScript using Node.</blockquote>",
-            "url": "http://books.google.com/books?id=O2wrEAAAQBAJ&pg=PA6&dq=TypeScript&hl=&cd=8&source=gbs_api",
-            "title": "Mastering TypeScript",
-            "summary": "This book is a guide to the TypeScript language, from basic concepts to advanced features, and will get you up and running quickly. You'll learn TypeScript programming in depth as you use popular application frameworks and utilize modern design patterns and architectural patterns to build modular, testable and enterprise-ready applications.",
-            "image": "http://books.google.com/books/content?id=O2wrEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-            "date_modified": "2021-04-23T00:00:00.000Z"
-        },
-        {
             "content_html": "This book is a guide to the TypeScript language, from basic concepts to advanced features, and will get you up and running quickly. You'll learn TypeScript programming in depth as you use popular application frameworks and utilize modern design patterns and architectural patterns to build modular, testable and enterprise-ready applications.<br><blockquote>This book is a guide to the TypeScript language, from basic concepts to advanced features, and will get you up and running quickly.</blockquote>",
-            "url": "http://books.google.com/books?id=O2wrEAAAQBAJ&pg=PP1&dq=TypeScript&hl=&cd=9&source=gbs_api",
+            "url": "http://books.google.com/books?id=O2wrEAAAQBAJ&printsec=frontcover&dq=TypeScript&hl=&cd=8&source=gbs_api",
             "title": "Mastering TypeScript",
             "summary": "This book is a guide to the TypeScript language, from basic concepts to advanced features, and will get you up and running quickly. You'll learn TypeScript programming in depth as you use popular application frameworks and utilize modern design patterns and architectural patterns to build modular, testable and enterprise-ready applications.",
             "image": "http://books.google.com/books/content?id=O2wrEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
@@ -78,11 +70,19 @@
         },
         {
             "content_html": "Deno Web Development is the definitive guide to starting to write, test, and deploy reliable Deno applications. You’ll be able to apply Deno to common use cases from simple command-line interface (CLI) utilities to multi-featured APIs. By the end of this Deno book, you’ll be comfortable with using Deno for real-world web application development.<br><blockquote>Deno Web Development is the definitive guide to starting to write, test, and deploy reliable Deno applications.</blockquote>",
-            "url": "http://books.google.com/books?id=gIwmEAAAQBAJ&pg=PP1&dq=TypeScript&hl=&cd=10&source=gbs_api",
+            "url": "http://books.google.com/books?id=gIwmEAAAQBAJ&pg=PP1&dq=TypeScript&hl=&cd=9&source=gbs_api",
             "title": "Deno Web Development",
             "summary": "Deno Web Development is the definitive guide to starting to write, test, and deploy reliable Deno applications. You’ll be able to apply Deno to common use cases from simple command-line interface (CLI) utilities to multi-featured APIs. By the end of this Deno book, you’ll be comfortable with using Deno for real-world web application development.",
             "image": "http://books.google.com/books/content?id=gIwmEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
             "date_modified": "2021-03-26T00:00:00.000Z"
+        },
+        {
+            "content_html": "ASP.NET Core is a powerful framework for architecting a resilient backend for scalable web applications. When combined with the solid frontend development capabilities of React, it enables you to build robust full-stack web applications. This book shows .NET developers how to harness the full potential of React using ASP.NET Core as the backbone.<br><blockquote>With React at the frontend, you can build robust full-stack web applications. This book shows .NET developers how to harness the full potential of React using ASP.NET Core as the backbone</blockquote>",
+            "url": "http://books.google.com/books?id=PkUTEAAAQBAJ&pg=PP1&dq=TypeScript&hl=&cd=10&source=gbs_api",
+            "title": "ASP.NET Core 5 and React",
+            "summary": "ASP.NET Core is a powerful framework for architecting a resilient backend for scalable web applications. When combined with the solid frontend development capabilities of React, it enables you to build robust full-stack web applications. This book shows .NET developers how to harness the full potential of React using ASP.NET Core as the backbone.",
+            "image": "http://books.google.com/books/content?id=PkUTEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+            "date_modified": "2021-01-08T00:00:00.000Z"
         }
     ]
 }

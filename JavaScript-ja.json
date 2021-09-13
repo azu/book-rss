@@ -13,16 +13,8 @@
             "date_modified": "2021-03-01T00:00:00.000Z"
         },
         {
-            "content_html": "これからはじめたい人のための超入門JavaScript!サンプルの作成を通してプログラミングに入門しよう!<br><blockquote>これからはじめたい人のための超入門JavaScript!サンプルの作成を通してプログラミングに入門しよう!</blockquote>",
-            "url": "http://books.google.com/books?id=rewsEAAAQBAJ&printsec=frontcover&dq=JavaScript&hl=&cd=2&source=gbs_api",
-            "title": "図解!JavaScriptのﾂﾎﾞとｺﾂがｾﾞｯﾀｲにわかる本“超”入門編",
-            "summary": "これからはじめたい人のための超入門JavaScript!サンプルの作成を通してプログラミングに入門しよう!",
-            "image": "http://books.google.com/books/content?id=rewsEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-            "date_modified": "2021-03-01T00:00:00.000Z"
-        },
-        {
             "content_html": "オリジナルSlackアプリを 作ってみよう！ 【Slackとは】 Slackはリアルタイムでやりとりができる チャットツールです。 在宅勤務が多くなるなか ビジネスの現場で利用が広がっています。 【Slackアプリ開発の特徴】 Slackには開発者にとって利用しやすい高機能APIが多数用意されています。 社内用のツールやチャットボット、外部情報の共有、パフォーマンスのチェックなど、 さまざまなアプリの開発が可能です。 【本書の概要】 本書はSlack APIやBoltフレームワークを利用して オリジナル機能を追加したSlackアプリを開発する手法を 丁寧に解説した書籍です。 オリジナル機能を加えてより便利な コミュニケーションツールを開発できます。 【対象読者】 Webアプリ開発者 【開発言語】 JavaScript 【主な開発環境】 ・OS：macOS ・SDK：Bolt for JavaScript ・API：Slack API ・Node.js （JavaScript実行環境） ・npm（パッケージ管理ツール） ・ngrok（外部公開用のURL） 【本書のポイント】 現役のヤフーのエンジニアがおすすめする、 ・ランチをのお店をおすすめするボット ・申請フォーム ・Giphyアプリ ・リマインダーアプリ など、多彩なSlackアプリの開発方法がわかります。 【著者】 伊藤 康太、道内 尊正、吉谷 優介。 いずれもヤフーのエンジニア。<br><blockquote>オリジナルSlackアプリを 作ってみよう！ 【Slackとは】 Slackはリアルタイムでやりとりができる チャットツールです。 在宅勤務が多くなるなか ...</blockquote>",
-            "url": "http://books.google.com/books?id=sB4MEAAAQBAJ&pg=PP1&dq=JavaScript&hl=&cd=3&source=gbs_api",
+            "url": "http://books.google.com/books?id=sB4MEAAAQBAJ&pg=PP1&dq=JavaScript&hl=&cd=2&source=gbs_api",
             "title": "動かして学ぶ！Slackアプリ開発入門",
             "summary": "オリジナルSlackアプリを 作ってみよう！ 【Slackとは】 Slackはリアルタイムでやりとりができる チャットツールです。 在宅勤務が多くなるなか ビジネスの現場で利用が広がっています。 【Slackアプリ開発の特徴】 Slackには開発者にとって利用しやすい高機能APIが多数用意されています。 社内用のツールやチャットボット、外部情報の共有、パフォーマンスのチェックなど、 さまざまなアプリの開発が可能です。 【本書の概要】 本書はSlack APIやBoltフレームワークを利用して オリジナル機能を追加したSlackアプリを開発する手法を 丁寧に解説した書籍です。 オリジナル機能を加えてより便利な コミュニケーションツールを開発できます。 【対象読者】 Webアプリ開発者 【開発言語】 JavaScript 【主な開発環境】 ・OS：macOS ・SDK：Bolt for JavaScript ・API：Slack API ・Node.js （JavaScript実行環境） ・npm（パッケージ管理ツール） ・ngrok（外部公開用のURL） 【本書のポイント】 現役のヤフーのエンジニアがおすすめする、 ・ランチをのお店をおすすめするボット ・申請フォーム ・Giphyアプリ ・リマインダーアプリ など、多彩なSlackアプリの開発方法がわかります。 【著者】 伊藤 康太、道内 尊正、吉谷 優介。 いずれもヤフーのエンジニア。",
             "image": "http://books.google.com/books/content?id=sB4MEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
@@ -30,7 +22,7 @@
         },
         {
             "content_html": "本書は「機械学習って難しいんでしょ…？」と考えている人に向けて、誰でも手軽に機械学習を活用したWebアプリをJavaScriptで開発できるようになる初心者向けのチュートリアル本です。基本的なJavaScriptの構文さえ使えれば、あとはマウス操作で簡単に機械学習モデルを構築できるWebサービスを組み合わせてミニWebアプリを開発する方法について丁寧に解説しています。これまで、興味はあるけど手が出せなかった人や機械学習を活用してみたいと考えている人、JavaScriptでWebアプリが作りたい人など、幅広く活用できる書籍となっています。 【目次】 第1章 開発環境について 第2章 初めての機械学習モデルを作る 第3章 JavaScriptと連携してみよう 第4章 スマホと連携してみよう 第5章 オブジェクト検出モデルを作る 第6章 学習済みモデルを使ってみよう<br><blockquote>本書は「機械学習って難しいんでしょ…？」と考えている人に向けて、誰でも手軽に機械学習を活用したWebアプリをJavaScriptで開発できるようになる初心者向けのチュートリアル ...</blockquote>",
-            "url": "http://books.google.com/books?id=EPwCEAAAQBAJ&pg=PA1&dq=JavaScript&hl=&cd=4&source=gbs_api",
+            "url": "http://books.google.com/books?id=EPwCEAAAQBAJ&pg=PA1&dq=JavaScript&hl=&cd=3&source=gbs_api",
             "title": "JavaScriptでいきなり機械学習を遊び倒す本",
             "summary": "本書は「機械学習って難しいんでしょ…？」と考えている人に向けて、誰でも手軽に機械学習を活用したWebアプリをJavaScriptで開発できるようになる初心者向けのチュートリアル本です。基本的なJavaScriptの構文さえ使えれば、あとはマウス操作で簡単に機械学習モデルを構築できるWebサービスを組み合わせてミニWebアプリを開発する方法について丁寧に解説しています。これまで、興味はあるけど手が出せなかった人や機械学習を活用してみたいと考えている人、JavaScriptでWebアプリが作りたい人など、幅広く活用できる書籍となっています。 【目次】 第1章 開発環境について 第2章 初めての機械学習モデルを作る 第3章 JavaScriptと連携してみよう 第4章 スマホと連携してみよう 第5章 オブジェクト検出モデルを作る 第6章 学習済みモデルを使ってみよう",
             "image": "http://books.google.com/books/content?id=EPwCEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
@@ -38,7 +30,7 @@
         },
         {
             "content_html": "本書はマイコン向けJavaScriptプラットフォーム「Moddable」の解説書です。「マイコンでもJavaScriptでアプリが書けたら…」は、Web開発者だれもが抱く夢でした。そこで登場したのがModdableです！Moddableは、さまざまなマイクロコントローラ向けのアプリケーションをJavaScriptで開発できるプラットフォームです。本書ではModdableとM5Stackを使ったアプリケーション開発方法を紹介します。環境構築とサンプルアプリの製作、そして「JavaScriptでIoT」な他のプラットフォーム達との比較を通じて、Moddableの魅力をお伝えします。あなたもModdableと一緒にJavaScriptでIoTアプリ開発を始めましょう！ 【目次】 第1章 Moddable 概説 第2章 Moddableをはじめよう 付録A Moddable を他プラットフォームとくらべてみた 付録B JavaScriptの開発支援ツールをModdableで使う<br><blockquote>ズオン、そして「<b>JavaScript</b>でIoT」な他のプラットフォーム達との比較を通じて、Moddableの魅力をお伝えします。あなたもModdableと一緒に「<b>JavaScript</b>でIoTアプリ開発」をはじめましょう!対象読者本書は「趣味や業務でIoTアプリケーション開発を始めて&nbsp;...</blockquote>",
-            "url": "http://books.google.com/books?id=1vn6DwAAQBAJ&pg=PP5&dq=JavaScript&hl=&cd=5&source=gbs_api",
+            "url": "http://books.google.com/books?id=1vn6DwAAQBAJ&pg=PP5&dq=JavaScript&hl=&cd=4&source=gbs_api",
             "title": "実践Moddable　JavaScriptではじめるIoTアプリケーション",
             "summary": "本書はマイコン向けJavaScriptプラットフォーム「Moddable」の解説書です。「マイコンでもJavaScriptでアプリが書けたら…」は、Web開発者だれもが抱く夢でした。そこで登場したのがModdableです！Moddableは、さまざまなマイクロコントローラ向けのアプリケーションをJavaScriptで開発できるプラットフォームです。本書ではModdableとM5Stackを使ったアプリケーション開発方法を紹介します。環境構築とサンプルアプリの製作、そして「JavaScriptでIoT」な他のプラットフォーム達との比較を通じて、Moddableの魅力をお伝えします。あなたもModdableと一緒にJavaScriptでIoTアプリ開発を始めましょう！ 【目次】 第1章 Moddable 概説 第2章 Moddableをはじめよう 付録A Moddable を他プラットフォームとくらべてみた 付録B JavaScriptの開発支援ツールをModdableで使う",
             "image": "http://books.google.com/books/content?id=1vn6DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
@@ -46,7 +38,7 @@
         },
         {
             "content_html": "本書はマイコン向けJavaScriptプラットフォーム「Moddable」の解説書です。「マイコンでもJavaScriptでアプリが書けたら…」は、Web開発者だれもが抱く夢でした。そこで登場したのがModdableです！Moddableは、さまざまなマイクロコントローラ向けのアプリケーションをJavaScriptで開発できるプラットフォームです。本書ではModdableとM5Stackを使ったアプリケーション開発方法を紹介します。環境構築とサンプルアプリの製作、そして「JavaScriptでIoT」な他のプラットフォーム達との比較を通じて、Moddableの魅力をお伝えします。あなたもModdableと一緒にJavaScriptでIoTアプリ開発を始めましょう！ 【目次】 第1章 Moddable 概説 第2章 Moddableをはじめよう 付録A Moddable を他プラットフォームとくらべてみた 付録B JavaScriptの開発支援ツールをModdableで使う<br><blockquote>本書はマイコン向けJavaScriptプラットフォーム「Moddable」の解説書です。「マイコンでもJavaScriptでアプリが書けたら…」は、Web開発者だれもが抱く夢でした。そこで登場したのがMo ...</blockquote>",
-            "url": "http://books.google.com/books?id=1vn6DwAAQBAJ&printsec=frontcover&dq=JavaScript&hl=&cd=6&source=gbs_api",
+            "url": "http://books.google.com/books?id=1vn6DwAAQBAJ&printsec=frontcover&dq=JavaScript&hl=&cd=5&source=gbs_api",
             "title": "実践Moddable　JavaScriptではじめるIoTアプリケーション",
             "summary": "本書はマイコン向けJavaScriptプラットフォーム「Moddable」の解説書です。「マイコンでもJavaScriptでアプリが書けたら…」は、Web開発者だれもが抱く夢でした。そこで登場したのがModdableです！Moddableは、さまざまなマイクロコントローラ向けのアプリケーションをJavaScriptで開発できるプラットフォームです。本書ではModdableとM5Stackを使ったアプリケーション開発方法を紹介します。環境構築とサンプルアプリの製作、そして「JavaScriptでIoT」な他のプラットフォーム達との比較を通じて、Moddableの魅力をお伝えします。あなたもModdableと一緒にJavaScriptでIoTアプリ開発を始めましょう！ 【目次】 第1章 Moddable 概説 第2章 Moddableをはじめよう 付録A Moddable を他プラットフォームとくらべてみた 付録B JavaScriptの開発支援ツールをModdableで使う",
             "image": "http://books.google.com/books/content?id=1vn6DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
@@ -54,7 +46,7 @@
         },
         {
             "content_html": "本書は、Web ブラウザにおける本格的な GUI の入門書です。Web ブラウザに期待される役割は年々増してきています。ネイティブアプリ顔負けのデザインツールや、ドラッグアンドドロップでの操作が必要なフォームを作りたくなったとして、我々は何に気をつけるべきなのでしょうか？これまで HTML / CSS / JavaScript で実装するのが大変だった UI をどう実装するべきなのでしょうか？この点を本書は重点的に扱います。本書では定番のセレクトボックスやヘッダーレイアウトの他、バウンディングボックスやツリーといったドラッグを伴う UI なども実装していきます。苦しくも楽しい、Webブラウザの複雑なGUIの世界に、エディタとブラウザを開きながら足を踏み入れてみましょう。 【目次】 第1章 フルスクラッチGUI入門 第2章 バウンディングボックスことはじめ──移動・拡縮・回転 第3章 スクロールに連動して高さが変わるヘッダビューを作る 第4章 ドラッグ＆ドロップ並び替え入門 第5章 座談会──STUDIO CPOとするGUIの話<br><blockquote>本書は、Web ブラウザにおける本格的な GUI の入門書です。Web ブラウザに期待される役割は年々増してきています。ネイティブアプリ顔負けのデザインツールや、ドラッグアンド ...</blockquote>",
-            "url": "http://books.google.com/books?id=0Pn6DwAAQBAJ&pg=PA1&dq=JavaScript&hl=&cd=7&source=gbs_api",
+            "url": "http://books.google.com/books?id=0Pn6DwAAQBAJ&pg=PA1&dq=JavaScript&hl=&cd=6&source=gbs_api",
             "title": "入門GUI",
             "summary": "本書は、Web ブラウザにおける本格的な GUI の入門書です。Web ブラウザに期待される役割は年々増してきています。ネイティブアプリ顔負けのデザインツールや、ドラッグアンドドロップでの操作が必要なフォームを作りたくなったとして、我々は何に気をつけるべきなのでしょうか？これまで HTML / CSS / JavaScript で実装するのが大変だった UI をどう実装するべきなのでしょうか？この点を本書は重点的に扱います。本書では定番のセレクトボックスやヘッダーレイアウトの他、バウンディングボックスやツリーといったドラッグを伴う UI なども実装していきます。苦しくも楽しい、Webブラウザの複雑なGUIの世界に、エディタとブラウザを開きながら足を踏み入れてみましょう。 【目次】 第1章 フルスクラッチGUI入門 第2章 バウンディングボックスことはじめ──移動・拡縮・回転 第3章 スクロールに連動して高さが変わるヘッダビューを作る 第4章 ドラッグ＆ドロップ並び替え入門 第5章 座談会──STUDIO CPOとするGUIの話",
             "image": "http://books.google.com/books/content?id=0Pn6DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
@@ -62,7 +54,7 @@
         },
         {
             "content_html": "本書は2018年インプレスR&Dより刊行した書籍『ドリル形式で楽しく学ぶ Processing-Java』を全面的に見直した改訂版です。 本書は、著者が教えるプログラミング教室で実際に教材として使用しているものをもとに追加編集したものです。 教室で教えていても、生徒が本当に理解したのか知ることは難しいものがあります。生徒自身もどこまで理解したのかわからないこともあるでしょう。そこで、授業ではドリル（演習）を行い、確実に基礎を習得できるようにしています。 実行環境はProcessingです。Processingは表現力に優れ、敷居が低いのでアート・美術分野で注目されがちですが、Java、JavaScript、Pythonといった本格的なプログラミング言語をサポートしています。本書では、基本的な描画命令に始まり、変数、演算、for文、if文、イベント処理、配列、リスト、クラスなどプログラミングで基礎となる内容をカバーしているので、ほかの言語を学習する際にもきっと役に立つはずです。 【目次】 第1問｜国旗を描こう 第2問｜文字と変数 第3問｜動きを加える 第4問｜おでんを描く 第5問｜ifによる条件分岐 第6問｜for文を使った繰り返し 第7問｜変数のスコープ 第8問｜画像の描画 第9問｜イベント 第10問｜ヘリコプター 第11問｜月面着陸 第12問｜虫たたきゲーム 第13問｜宝箱 第14問｜おみくじ 第15問｜キャラクターの移動 第16問｜シルエットクイズ 第17問｜リンゴキャッチ 第18問｜ゴールキーパー 第19問｜迷路 第20問｜都道府県クイズ 第21問｜はなび 第22問｜Alphabet Soup 第23問｜タイピング 第24問｜追いかけっこ 第25問｜弓矢 第26問｜もぐらたたき 第27問｜スロットマシン 第28問｜たまご運び 第29問｜棒人間ジャンプ 第30問｜シューティング<br><blockquote>本書は2018年インプレスR&amp;Dより刊行した書籍『ドリル形式で楽しく学ぶ Processing-Java』を全面的に見直した改訂版です。 ...</blockquote>",
-            "url": "http://books.google.com/books?id=TSv3DwAAQBAJ&pg=PA1&dq=JavaScript&hl=&cd=9&source=gbs_api",
+            "url": "http://books.google.com/books?id=TSv3DwAAQBAJ&pg=PA1&dq=JavaScript&hl=&cd=8&source=gbs_api",
             "title": "ドリル形式で楽しく学ぶ　Processing-Java　改訂版",
             "summary": "本書は2018年インプレスR&Dより刊行した書籍『ドリル形式で楽しく学ぶ Processing-Java』を全面的に見直した改訂版です。 本書は、著者が教えるプログラミング教室で実際に教材として使用しているものをもとに追加編集したものです。 教室で教えていても、生徒が本当に理解したのか知ることは難しいものがあります。生徒自身もどこまで理解したのかわからないこともあるでしょう。そこで、授業ではドリル（演習）を行い、確実に基礎を習得できるようにしています。 実行環境はProcessingです。Processingは表現力に優れ、敷居が低いのでアート・美術分野で注目されがちですが、Java、JavaScript、Pythonといった本格的なプログラミング言語をサポートしています。本書では、基本的な描画命令に始まり、変数、演算、for文、if文、イベント処理、配列、リスト、クラスなどプログラミングで基礎となる内容をカバーしているので、ほかの言語を学習する際にもきっと役に立つはずです。 【目次】 第1問｜国旗を描こう 第2問｜文字と変数 第3問｜動きを加える 第4問｜おでんを描く 第5問｜ifによる条件分岐 第6問｜for文を使った繰り返し 第7問｜変数のスコープ 第8問｜画像の描画 第9問｜イベント 第10問｜ヘリコプター 第11問｜月面着陸 第12問｜虫たたきゲーム 第13問｜宝箱 第14問｜おみくじ 第15問｜キャラクターの移動 第16問｜シルエットクイズ 第17問｜リンゴキャッチ 第18問｜ゴールキーパー 第19問｜迷路 第20問｜都道府県クイズ 第21問｜はなび 第22問｜Alphabet Soup 第23問｜タイピング 第24問｜追いかけっこ 第25問｜弓矢 第26問｜もぐらたたき 第27問｜スロットマシン 第28問｜たまご運び 第29問｜棒人間ジャンプ 第30問｜シューティング",
             "image": "http://books.google.com/books/content?id=TSv3DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
@@ -70,7 +62,7 @@
         },
         {
             "content_html": "本書は2018年インプレスR&Dより刊行した書籍『ドリル形式で楽しく学ぶ Processing-Python』を全面的に見直した改訂版です。 本書は、著者が教えるプログラミング教室で実際に教材として使用しているものをもとに追加編集したものです。教室で教えていても、生徒が本当に理解したのか知ることは難しいものがあります。生徒自身もどこまで理解したのかわからないこともあるでしょう。そこで、授業ではドリル（演習）を行い、確実に基礎を習得できるようにしています。 実行環境はProcessingです。Processingは表現力に優れ、敷居が低いのでアート・美術分野で注目されがちですが、Java、JavaScript、Pythonといった本格的なプログラミング言語をサポートしています。本書では、基本的な描画命令に始まり、変数、演算、for文、if文、イベント処理、配列、リスト、クラスなどプログラミングで基礎となる内容をカバーしているので、ほかの言語を学習する際にもきっと役に立つはずです。 （本書は『ドリル形式で楽しく学ぶ Processing-Java改訂版』をPythonに移植したものです） 【目次】 第1問｜国旗を描こう 第2問｜文字と変数 第3問｜動きを加える 第4問｜おでんを描く 第5問｜ifによる条件分岐 第6問｜for文を使った繰り返し 第7問｜変数のスコープ 第8問｜画像の描画 第9問｜イベント 第10問｜ヘリコプター 第11問｜月面着陸 第12問｜虫たたきゲーム 第13問｜宝箱 第14問｜おみくじ 第15問｜キャラクターの移動 第16問｜シルエットクイズ 第17問｜リンゴキャッチ 第18問｜ゴールキーパー 第19問｜迷路 第20問｜都道府県クイズ 第21問｜はなび 第22問｜Alphabet Soup 第23問｜タイピング 第24問｜追いかけっこ 第25問｜弓矢 第26問｜もぐらたたき 第27問｜スロットマシン 第28問｜たまご運び 第29問｜棒人間ジャンプ 第30問｜シューティング<br><blockquote>本書は2018年インプレスR&amp;Dより刊行した書籍『ドリル形式で楽しく学ぶ Processing-Python』を全面的に見直した改訂版です。 ...</blockquote>",
-            "url": "http://books.google.com/books?id=SSv3DwAAQBAJ&pg=PA1&dq=JavaScript&hl=&cd=10&source=gbs_api",
+            "url": "http://books.google.com/books?id=SSv3DwAAQBAJ&pg=PA1&dq=JavaScript&hl=&cd=9&source=gbs_api",
             "title": "ドリル形式で楽しく学ぶ　Processing-Python　改訂版",
             "summary": "本書は2018年インプレスR&Dより刊行した書籍『ドリル形式で楽しく学ぶ Processing-Python』を全面的に見直した改訂版です。 本書は、著者が教えるプログラミング教室で実際に教材として使用しているものをもとに追加編集したものです。教室で教えていても、生徒が本当に理解したのか知ることは難しいものがあります。生徒自身もどこまで理解したのかわからないこともあるでしょう。そこで、授業ではドリル（演習）を行い、確実に基礎を習得できるようにしています。 実行環境はProcessingです。Processingは表現力に優れ、敷居が低いのでアート・美術分野で注目されがちですが、Java、JavaScript、Pythonといった本格的なプログラミング言語をサポートしています。本書では、基本的な描画命令に始まり、変数、演算、for文、if文、イベント処理、配列、リスト、クラスなどプログラミングで基礎となる内容をカバーしているので、ほかの言語を学習する際にもきっと役に立つはずです。 （本書は『ドリル形式で楽しく学ぶ Processing-Java改訂版』をPythonに移植したものです） 【目次】 第1問｜国旗を描こう 第2問｜文字と変数 第3問｜動きを加える 第4問｜おでんを描く 第5問｜ifによる条件分岐 第6問｜for文を使った繰り返し 第7問｜変数のスコープ 第8問｜画像の描画 第9問｜イベント 第10問｜ヘリコプター 第11問｜月面着陸 第12問｜虫たたきゲーム 第13問｜宝箱 第14問｜おみくじ 第15問｜キャラクターの移動 第16問｜シルエットクイズ 第17問｜リンゴキャッチ 第18問｜ゴールキーパー 第19問｜迷路 第20問｜都道府県クイズ 第21問｜はなび 第22問｜Alphabet Soup 第23問｜タイピング 第24問｜追いかけっこ 第25問｜弓矢 第26問｜もぐらたたき 第27問｜スロットマシン 第28問｜たまご運び 第29問｜棒人間ジャンプ 第30問｜シューティング",
             "image": "http://books.google.com/books/content?id=SSv3DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",

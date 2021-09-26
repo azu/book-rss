@@ -5,8 +5,8 @@
     "description": "JavaScript(ja) on Google Book",
     "items": [
         {
-            "content_html": "これからはじめたい人のための超入門JavaScript!サンプルの作成を通してプログラミングに入門しよう!<br><blockquote><b>JavaScript</b>とは?ブラウザで実行するスクリプト言語 <b>JavaScript</b>(ジャバスクリプト)はプログラム言語のひとつで、ブラウザで動作することが最大の特徴です。</blockquote>",
-            "url": "http://books.google.com/books?id=rewsEAAAQBAJ&pg=PA18&dq=JavaScript&hl=&cd=1&source=gbs_api",
+            "content_html": "これからはじめたい人のための超入門JavaScript!サンプルの作成を通してプログラミングに入門しよう!<br><blockquote><b>JavaScript</b>を使うと、DOMにアクセスしてノードの追加・削除・移動・内容の書き換えなどの操作が行えます。P21のような動作の多くは、<b>JavaScript</b>によるDOM アクセスが使&nbsp;...</blockquote>",
+            "url": "http://books.google.com/books?id=rewsEAAAQBAJ&pg=PA23&dq=JavaScript&hl=&cd=1&source=gbs_api",
             "title": "図解!JavaScriptのﾂﾎﾞとｺﾂがｾﾞｯﾀｲにわかる本“超”入門編",
             "summary": "これからはじめたい人のための超入門JavaScript!サンプルの作成を通してプログラミングに入門しよう!",
             "image": "http://books.google.com/books/content?id=rewsEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
@@ -21,16 +21,8 @@
             "date_modified": "2021-03-01T00:00:00.000Z"
         },
         {
-            "content_html": "オリジナルSlackアプリを 作ってみよう！ 【Slackとは】 Slackはリアルタイムでやりとりができる チャットツールです。 在宅勤務が多くなるなか ビジネスの現場で利用が広がっています。 【Slackアプリ開発の特徴】 Slackには開発者にとって利用しやすい高機能APIが多数用意されています。 社内用のツールやチャットボット、外部情報の共有、パフォーマンスのチェックなど、 さまざまなアプリの開発が可能です。 【本書の概要】 本書はSlack APIやBoltフレームワークを利用して オリジナル機能を追加したSlackアプリを開発する手法を 丁寧に解説した書籍です。 オリジナル機能を加えてより便利な コミュニケーションツールを開発できます。 【対象読者】 Webアプリ開発者 【開発言語】 JavaScript 【主な開発環境】 ・OS：macOS ・SDK：Bolt for JavaScript ・API：Slack API ・Node.js （JavaScript実行環境） ・npm（パッケージ管理ツール） ・ngrok（外部公開用のURL） 【本書のポイント】 現役のヤフーのエンジニアがおすすめする、 ・ランチをのお店をおすすめするボット ・申請フォーム ・Giphyアプリ ・リマインダーアプリ など、多彩なSlackアプリの開発方法がわかります。 【著者】 伊藤 康太、道内 尊正、吉谷 優介。 いずれもヤフーのエンジニア。<br><blockquote>オリジナルSlackアプリを 作ってみよう！ 【Slackとは】 Slackはリアルタイムでやりとりができる チャットツールです。 在宅勤務が多くなるなか ...</blockquote>",
-            "url": "http://books.google.com/books?id=sB4MEAAAQBAJ&printsec=frontcover&dq=JavaScript&hl=&cd=3&source=gbs_api",
-            "title": "動かして学ぶ！Slackアプリ開発入門",
-            "summary": "オリジナルSlackアプリを 作ってみよう！ 【Slackとは】 Slackはリアルタイムでやりとりができる チャットツールです。 在宅勤務が多くなるなか ビジネスの現場で利用が広がっています。 【Slackアプリ開発の特徴】 Slackには開発者にとって利用しやすい高機能APIが多数用意されています。 社内用のツールやチャットボット、外部情報の共有、パフォーマンスのチェックなど、 さまざまなアプリの開発が可能です。 【本書の概要】 本書はSlack APIやBoltフレームワークを利用して オリジナル機能を追加したSlackアプリを開発する手法を 丁寧に解説した書籍です。 オリジナル機能を加えてより便利な コミュニケーションツールを開発できます。 【対象読者】 Webアプリ開発者 【開発言語】 JavaScript 【主な開発環境】 ・OS：macOS ・SDK：Bolt for JavaScript ・API：Slack API ・Node.js （JavaScript実行環境） ・npm（パッケージ管理ツール） ・ngrok（外部公開用のURL） 【本書のポイント】 現役のヤフーのエンジニアがおすすめする、 ・ランチをのお店をおすすめするボット ・申請フォーム ・Giphyアプリ ・リマインダーアプリ など、多彩なSlackアプリの開発方法がわかります。 【著者】 伊藤 康太、道内 尊正、吉谷 優介。 いずれもヤフーのエンジニア。",
-            "image": "http://books.google.com/books/content?id=sB4MEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-            "date_modified": "2020-12-14T00:00:00.000Z"
-        },
-        {
             "content_html": "本書は「機械学習って難しいんでしょ…？」と考えている人に向けて、誰でも手軽に機械学習を活用したWebアプリをJavaScriptで開発できるようになる初心者向けのチュートリアル本です。基本的なJavaScriptの構文さえ使えれば、あとはマウス操作で簡単に機械学習モデルを構築できるWebサービスを組み合わせてミニWebアプリを開発する方法について丁寧に解説しています。これまで、興味はあるけど手が出せなかった人や機械学習を活用してみたいと考えている人、JavaScriptでWebアプリが作りたい人など、幅広く活用できる書籍となっています。 【目次】 第1章 開発環境について 第2章 初めての機械学習モデルを作る 第3章 JavaScriptと連携してみよう 第4章 スマホと連携してみよう 第5章 オブジェクト検出モデルを作る 第6章 学習済みモデルを使ってみよう<br><blockquote>本書は「機械学習って難しいんでしょ…？」と考えている人に向けて、誰でも手軽に機械学習を活用したWebアプリをJavaScriptで開発できるようになる初心者向けのチュートリアル ...</blockquote>",
-            "url": "http://books.google.com/books?id=EPwCEAAAQBAJ&pg=PA1&dq=JavaScript&hl=&cd=4&source=gbs_api",
+            "url": "http://books.google.com/books?id=EPwCEAAAQBAJ&pg=PA1&dq=JavaScript&hl=&cd=3&source=gbs_api",
             "title": "JavaScriptでいきなり機械学習を遊び倒す本",
             "summary": "本書は「機械学習って難しいんでしょ…？」と考えている人に向けて、誰でも手軽に機械学習を活用したWebアプリをJavaScriptで開発できるようになる初心者向けのチュートリアル本です。基本的なJavaScriptの構文さえ使えれば、あとはマウス操作で簡単に機械学習モデルを構築できるWebサービスを組み合わせてミニWebアプリを開発する方法について丁寧に解説しています。これまで、興味はあるけど手が出せなかった人や機械学習を活用してみたいと考えている人、JavaScriptでWebアプリが作りたい人など、幅広く活用できる書籍となっています。 【目次】 第1章 開発環境について 第2章 初めての機械学習モデルを作る 第3章 JavaScriptと連携してみよう 第4章 スマホと連携してみよう 第5章 オブジェクト検出モデルを作る 第6章 学習済みモデルを使ってみよう",
             "image": "http://books.google.com/books/content?id=EPwCEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
@@ -38,7 +30,7 @@
         },
         {
             "content_html": "本書はマイコン向けJavaScriptプラットフォーム「Moddable」の解説書です。「マイコンでもJavaScriptでアプリが書けたら…」は、Web開発者だれもが抱く夢でした。そこで登場したのがModdableです！Moddableは、さまざまなマイクロコントローラ向けのアプリケーションをJavaScriptで開発できるプラットフォームです。本書ではModdableとM5Stackを使ったアプリケーション開発方法を紹介します。環境構築とサンプルアプリの製作、そして「JavaScriptでIoT」な他のプラットフォーム達との比較を通じて、Moddableの魅力をお伝えします。あなたもModdableと一緒にJavaScriptでIoTアプリ開発を始めましょう！ 【目次】 第1章 Moddable 概説 第2章 Moddableをはじめよう 付録A Moddable を他プラットフォームとくらべてみた 付録B JavaScriptの開発支援ツールをModdableで使う<br><blockquote>ズオン、そして「<b>JavaScript</b>でIoT」な他のプラットフォーム達との比較を通じて、Moddableの魅力をお伝えします。あなたもModdableと一緒に「<b>JavaScript</b>でIoTアプリ&nbsp;...</blockquote>",
-            "url": "http://books.google.com/books?id=1vn6DwAAQBAJ&pg=PP5&dq=JavaScript&hl=&cd=5&source=gbs_api",
+            "url": "http://books.google.com/books?id=1vn6DwAAQBAJ&pg=PP5&dq=JavaScript&hl=&cd=4&source=gbs_api",
             "title": "実践Moddable　JavaScriptではじめるIoTアプリケーション",
             "summary": "本書はマイコン向けJavaScriptプラットフォーム「Moddable」の解説書です。「マイコンでもJavaScriptでアプリが書けたら…」は、Web開発者だれもが抱く夢でした。そこで登場したのがModdableです！Moddableは、さまざまなマイクロコントローラ向けのアプリケーションをJavaScriptで開発できるプラットフォームです。本書ではModdableとM5Stackを使ったアプリケーション開発方法を紹介します。環境構築とサンプルアプリの製作、そして「JavaScriptでIoT」な他のプラットフォーム達との比較を通じて、Moddableの魅力をお伝えします。あなたもModdableと一緒にJavaScriptでIoTアプリ開発を始めましょう！ 【目次】 第1章 Moddable 概説 第2章 Moddableをはじめよう 付録A Moddable を他プラットフォームとくらべてみた 付録B JavaScriptの開発支援ツールをModdableで使う",
             "image": "http://books.google.com/books/content?id=1vn6DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
@@ -46,11 +38,19 @@
         },
         {
             "content_html": "本書はマイコン向けJavaScriptプラットフォーム「Moddable」の解説書です。「マイコンでもJavaScriptでアプリが書けたら…」は、Web開発者だれもが抱く夢でした。そこで登場したのがModdableです！Moddableは、さまざまなマイクロコントローラ向けのアプリケーションをJavaScriptで開発できるプラットフォームです。本書ではModdableとM5Stackを使ったアプリケーション開発方法を紹介します。環境構築とサンプルアプリの製作、そして「JavaScriptでIoT」な他のプラットフォーム達との比較を通じて、Moddableの魅力をお伝えします。あなたもModdableと一緒にJavaScriptでIoTアプリ開発を始めましょう！ 【目次】 第1章 Moddable 概説 第2章 Moddableをはじめよう 付録A Moddable を他プラットフォームとくらべてみた 付録B JavaScriptの開発支援ツールをModdableで使う<br><blockquote>本書はマイコン向けJavaScriptプラットフォーム「Moddable」の解説書です。「マイコンでもJavaScriptでアプリが書けたら…」は、Web開発者だれもが抱く夢でした。そこで登場したのがMo ...</blockquote>",
-            "url": "http://books.google.com/books?id=1vn6DwAAQBAJ&pg=PP1&dq=JavaScript&hl=&cd=6&source=gbs_api",
+            "url": "http://books.google.com/books?id=1vn6DwAAQBAJ&pg=PP1&dq=JavaScript&hl=&cd=5&source=gbs_api",
             "title": "実践Moddable　JavaScriptではじめるIoTアプリケーション",
             "summary": "本書はマイコン向けJavaScriptプラットフォーム「Moddable」の解説書です。「マイコンでもJavaScriptでアプリが書けたら…」は、Web開発者だれもが抱く夢でした。そこで登場したのがModdableです！Moddableは、さまざまなマイクロコントローラ向けのアプリケーションをJavaScriptで開発できるプラットフォームです。本書ではModdableとM5Stackを使ったアプリケーション開発方法を紹介します。環境構築とサンプルアプリの製作、そして「JavaScriptでIoT」な他のプラットフォーム達との比較を通じて、Moddableの魅力をお伝えします。あなたもModdableと一緒にJavaScriptでIoTアプリ開発を始めましょう！ 【目次】 第1章 Moddable 概説 第2章 Moddableをはじめよう 付録A Moddable を他プラットフォームとくらべてみた 付録B JavaScriptの開発支援ツールをModdableで使う",
             "image": "http://books.google.com/books/content?id=1vn6DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
             "date_modified": "2020-09-11T00:00:00.000Z"
+        },
+        {
+            "content_html": "本書は入門書の次に読むことを想定にした、中級者へのステップアップを目指すNode.js解説書です。主にNode.jsに対する技術的な内容を扱います。本書を読むことによって、Node.jsに対する理解を深めることができます。Node.jsの副読本として活用ください。 【目次】 第1章 Node.jsの全体像 第2章 npm(Node Package Manager) 第3章 サーバーとしてのNode.js 第4章 イベントループ 第5章 非同期プログラミング（コールバック） 第6章 コールバック地獄の解消 第7章 Stream 第8章 AltJSとTypeScriptを使った開発 第9章 コーディングガイドラインとESLint 第10章 Node.jsとセキュリティ 第11章 Node.jsのコアには、どのようなモジュールがあるのか 第12章 JavaScript & Node.js Tips集 付録A Node.jsの習得に役立つ情報を得るには 付録B ES2015(ES6) 付録C ES2016 付録D ES2017 付録E ES2018 付録F ES2019 付録G Node.js v13とv14について<br><blockquote>本書は入門書の次に読むことを想定にした、中級者へのステップアップを目指すNode.js解説書です。主にNode.jsに対する技術的な内容を扱います。本書を読むことによって、Node ...</blockquote>",
+            "url": "http://books.google.com/books?id=hZ_qDwAAQBAJ&pg=PP1&dq=JavaScript&hl=&cd=6&source=gbs_api",
+            "title": "レベルアップNode.js",
+            "summary": "本書は入門書の次に読むことを想定にした、中級者へのステップアップを目指すNode.js解説書です。主にNode.jsに対する技術的な内容を扱います。本書を読むことによって、Node.jsに対する理解を深めることができます。Node.jsの副読本として活用ください。 【目次】 第1章 Node.jsの全体像 第2章 npm(Node Package Manager) 第3章 サーバーとしてのNode.js 第4章 イベントループ 第5章 非同期プログラミング（コールバック） 第6章 コールバック地獄の解消 第7章 Stream 第8章 AltJSとTypeScriptを使った開発 第9章 コーディングガイドラインとESLint 第10章 Node.jsとセキュリティ 第11章 Node.jsのコアには、どのようなモジュールがあるのか 第12章 JavaScript & Node.js Tips集 付録A Node.jsの習得に役立つ情報を得るには 付録B ES2015(ES6) 付録C ES2016 付録D ES2017 付録E ES2018 付録F ES2019 付録G Node.js v13とv14について",
+            "image": "http://books.google.com/books/content?id=hZ_qDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+            "date_modified": "2020-06-19T00:00:00.000Z"
         },
         {
             "content_html": "iOSやmacOSアプリのSDKには、JavaScriptCoreフレームワークという、アプリにJavaScriptを処理する機能を簡単に組み込めるライブラリーが標準搭載されています。これを使うとSwiftネイティブコードとJavaScriptコードとを密接に連携して、自由度の高いプログラミングが可能になります。本書ではJavaScriptCoreフレームワークの基礎から、JavaScriptとSwiftの連携についての詳細まで、徹底的に解説します。 【目次】 1. JavaScriptCore 2. 基本的な使い方 3. 変数の扱い方 4. APIを定義する 5. 変数を扱うときの注意 6. 座標や範囲を表す型の扱い 7. 例外処理を使う 8. SwiftでPromiseを使う 9. コードを書きやすくする 10. Promiseを使いやすくする<br><blockquote>iOSやmacOSアプリのSDKには、JavaScriptCoreフレームワークという、アプリにJavaScriptを処理する機能を簡単に組み込めるライブラリーが標準搭載されています。これを使うとSwiftネイテ ...</blockquote>",

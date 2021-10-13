@@ -70,7 +70,7 @@
         },
         {
             "content_html": "ASP.NET Core is a powerful framework for architecting a resilient backend for scalable web applications. When combined with the solid frontend development capabilities of React, it enables you to build robust full-stack web applications. This book shows .NET developers how to harness the full potential of React using ASP.NET Core as the backbone.<br><blockquote>With React at the frontend, you can build robust full-stack web applications. This book shows .NET developers how to harness the full potential of React using ASP.NET Core as the backbone</blockquote>",
-            "url": "http://books.google.com/books?id=PkUTEAAAQBAJ&printsec=frontcover&dq=TypeScript&hl=&cd=9&source=gbs_api",
+            "url": "http://books.google.com/books?id=PkUTEAAAQBAJ&pg=PP1&dq=TypeScript&hl=&cd=9&source=gbs_api",
             "title": "ASP.NET Core 5 and React",
             "summary": "ASP.NET Core is a powerful framework for architecting a resilient backend for scalable web applications. When combined with the solid frontend development capabilities of React, it enables you to build robust full-stack web applications. This book shows .NET developers how to harness the full potential of React using ASP.NET Core as the backbone.",
             "image": "http://books.google.com/books/content?id=PkUTEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",

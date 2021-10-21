@@ -14,7 +14,7 @@
         },
         {
             "content_html": "オブジェクト・DOM・イベント・非同期処理―。プロとして、流行に左右されないJavaScript開発の本質的な基礎をしっかりと身につける。<br><blockquote>オブジェクト・DOM・イベント・非同期処理―。プロとして、流行に左右されないJavaScript開発の本質的な基礎をしっかりと身につける。</blockquote>",
-            "url": "http://books.google.com/books?id=pfdnzgEACAAJ&dq=JavaScript&hl=&cd=4&source=gbs_api",
+            "url": "http://books.google.com/books?id=pfdnzgEACAAJ&dq=JavaScript&hl=&cd=5&source=gbs_api",
             "title": "プロフェッショナルWebプログラミング JavaScript",
             "summary": "オブジェクト・DOM・イベント・非同期処理―。プロとして、流行に左右されないJavaScript開発の本質的な基礎をしっかりと身につける。",
             "image": "http://books.google.com/books/content?id=pfdnzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
@@ -22,7 +22,7 @@
         },
         {
             "content_html": "※この商品はタブレットなど大きいディスプレイを備えた端末で読むことに適しています。また、文字だけを拡大することや、文字列のハイライト、検索、辞書の参照、引用などの機能が使用できません。 JavaScriptをはじめて勉強する方のための“超”入門書です。文法は、本書後半で取り組むブラウザゲーム「ブラックジャック」のプログラミングに必要な内容を厳選して解説。はじめての方でも最後まで楽しく学べます。<br><blockquote>※この商品はタブレットなど大きいディスプレイを備えた端末で読むことに適しています。また、文字だけを拡大することや、文字列のハイライト、検索、辞書の参照、引用など ...</blockquote>",
-            "url": "http://books.google.com/books?id=hQskEAAAQBAJ&dq=JavaScript&hl=&cd=5&source=gbs_api",
+            "url": "http://books.google.com/books?id=hQskEAAAQBAJ&dq=JavaScript&hl=&cd=6&source=gbs_api",
             "title": "図解！ JavaScriptのツボとコツがゼッタイにわかる本 “超”入門編",
             "summary": "※この商品はタブレットなど大きいディスプレイを備えた端末で読むことに適しています。また、文字だけを拡大することや、文字列のハイライト、検索、辞書の参照、引用などの機能が使用できません。 JavaScriptをはじめて勉強する方のための“超”入門書です。文法は、本書後半で取り組むブラウザゲーム「ブラックジャック」のプログラミングに必要な内容を厳選して解説。はじめての方でも最後まで楽しく学べます。",
             "image": "http://books.google.com/books/content?id=hQskEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
@@ -45,12 +45,12 @@
             "date_modified": "2021-02-04T00:00:00.000Z"
         },
         {
-            "content_html": "※この商品はタブレットなど大きいディスプレイを備えた端末で読むことに適しています。また、文字だけを拡大することや、文字列のハイライト、検索、辞書の参照、引用などの機能が使用できません。 いま、Webの開発でもっとも注目されているソフトのひとつが「Vue.js」です。Vueを使うと「リアルタイムに動いているWebサイト」を作成できます。本書は、初心者や既存の入門書に挫折した人向けに、最新のVue.js3の使い方とアプリ作成のコツを、実際にプログラムを動かしながら学ぶ超入門書です。本書を一通り読めば、あなたも簡単なWebアプリの開発ができるようになります。巻末に未経験者も安心の「JavaScript超入門」を収録。<br><blockquote>※この商品はタブレットなど大きいディスプレイを備えた端末で読むことに適しています。また、文字だけを拡大することや、文字列のハイライト、検索、辞書の参照、引用など ...</blockquote>",
-            "url": "http://books.google.com/books?id=a9UfEAAAQBAJ&dq=JavaScript&hl=&cd=10&source=gbs_api",
-            "title": "Vue.js 3 超入門",
-            "summary": "※この商品はタブレットなど大きいディスプレイを備えた端末で読むことに適しています。また、文字だけを拡大することや、文字列のハイライト、検索、辞書の参照、引用などの機能が使用できません。 いま、Webの開発でもっとも注目されているソフトのひとつが「Vue.js」です。Vueを使うと「リアルタイムに動いているWebサイト」を作成できます。本書は、初心者や既存の入門書に挫折した人向けに、最新のVue.js3の使い方とアプリ作成のコツを、実際にプログラムを動かしながら学ぶ超入門書です。本書を一通り読めば、あなたも簡単なWebアプリの開発ができるようになります。巻末に未経験者も安心の「JavaScript超入門」を収録。",
-            "image": "http://books.google.com/books/content?id=a9UfEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-            "date_modified": "2020-12-25T00:00:00.000Z"
+            "content_html": "オリジナルSlackアプリを 作ってみよう！ 【Slackとは】 Slackはリアルタイムでやりとりができる チャットツールです。 在宅勤務が多くなるなか ビジネスの現場で利用が広がっています。 【Slackアプリ開発の特徴】 Slackには開発者にとって利用しやすい高機能APIが多数用意されています。 社内用のツールやチャットボット、外部情報の共有、パフォーマンスのチェックなど、 さまざまなアプリの開発が可能です。 【本書の概要】 本書はSlack APIやBoltフレームワークを利用して オリジナル機能を追加したSlackアプリを開発する手法を 丁寧に解説した書籍です。 オリジナル機能を加えてより便利な コミュニケーションツールを開発できます。 【対象読者】 Webアプリ開発者 【開発言語】 JavaScript 【主な開発環境】 ・OS：macOS ・SDK：Bolt for JavaScript ・API：Slack API ・Node.js （JavaScript実行環境） ・npm（パッケージ管理ツール） ・ngrok（外部公開用のURL） 【本書のポイント】 現役のヤフーのエンジニアがおすすめする、 ・ランチをのお店をおすすめするボット ・申請フォーム ・Giphyアプリ ・リマインダーアプリ など、多彩なSlackアプリの開発方法がわかります。 【著者】 伊藤 康太、道内 尊正、吉谷 優介。 いずれもヤフーのエンジニア。<br><blockquote>オリジナルSlackアプリを 作ってみよう！ 【Slackとは】 Slackはリアルタイムでやりとりができる チャットツールです。 在宅勤務が多くなるなか ...</blockquote>",
+            "url": "http://books.google.com/books?id=sB4MEAAAQBAJ&pg=PP1&dq=JavaScript&hl=&cd=10&source=gbs_api",
+            "title": "動かして学ぶ！Slackアプリ開発入門",
+            "summary": "オリジナルSlackアプリを 作ってみよう！ 【Slackとは】 Slackはリアルタイムでやりとりができる チャットツールです。 在宅勤務が多くなるなか ビジネスの現場で利用が広がっています。 【Slackアプリ開発の特徴】 Slackには開発者にとって利用しやすい高機能APIが多数用意されています。 社内用のツールやチャットボット、外部情報の共有、パフォーマンスのチェックなど、 さまざまなアプリの開発が可能です。 【本書の概要】 本書はSlack APIやBoltフレームワークを利用して オリジナル機能を追加したSlackアプリを開発する手法を 丁寧に解説した書籍です。 オリジナル機能を加えてより便利な コミュニケーションツールを開発できます。 【対象読者】 Webアプリ開発者 【開発言語】 JavaScript 【主な開発環境】 ・OS：macOS ・SDK：Bolt for JavaScript ・API：Slack API ・Node.js （JavaScript実行環境） ・npm（パッケージ管理ツール） ・ngrok（外部公開用のURL） 【本書のポイント】 現役のヤフーのエンジニアがおすすめする、 ・ランチをのお店をおすすめするボット ・申請フォーム ・Giphyアプリ ・リマインダーアプリ など、多彩なSlackアプリの開発方法がわかります。 【著者】 伊藤 康太、道内 尊正、吉谷 優介。 いずれもヤフーのエンジニア。",
+            "image": "http://books.google.com/books/content?id=sB4MEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+            "date_modified": "2020-12-14T00:00:00.000Z"
         }
     ]
 }

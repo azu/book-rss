@@ -13,16 +13,8 @@
             "date_modified": "2021-08-01T00:00:00.000Z"
         },
         {
-            "content_html": "サンプルを作りながらTypeScriptの仕組みや特徴を学ぶ!TypeScriptの基礎知識からアプリ開発、更にはReact.jsやNode.js(Express/Nest)を使ったWebアプリ開発の基礎的な技術まで一通り解説。<br><blockquote>とはいえ、<b>TypeScript</b>の文法はだいたい理解しても、具体的なソースコードを作成するためには、いろいろと学ばなければいけないことがあります。たとえば、GUIはどうするのか。データの保存はどうするか。そうした具体的な機能についてはまだほとんど説明&nbsp;...</blockquote>",
-            "url": "http://books.google.com/books?id=qAlGEAAAQBAJ&pg=PA202&dq=TypeScript&hl=&cd=2&source=gbs_api",
-            "title": "TypeScriptﾊﾝｽﾞｵﾝ",
-            "summary": "サンプルを作りながらTypeScriptの仕組みや特徴を学ぶ!TypeScriptの基礎知識からアプリ開発、更にはReact.jsやNode.js(Express/Nest)を使ったWebアプリ開発の基礎的な技術まで一通り解説。",
-            "image": "http://books.google.com/books/content?id=qAlGEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-            "date_modified": "2021-08-01T00:00:00.000Z"
-        },
-        {
             "content_html": "サンプルを作りながらTypeScriptの仕組みや特徴を学ぶ!TypeScriptの基礎知識からアプリ開発、更にはReact.jsやNode.js(Express/Nest)を使ったWebアプリ開発の基礎的な技術まで一通り解説。<br><blockquote>サンプルを作りながらTypeScriptの仕組みや特徴を学ぶ!TypeScriptの基礎知識からアプリ開発、更にはReact.jsやNode.js(Express/Nest)を使ったWebアプリ開発の基礎的な技術まで一通り解説。</blockquote>",
-            "url": "http://books.google.com/books?id=qAlGEAAAQBAJ&printsec=frontcover&dq=TypeScript&hl=&cd=3&source=gbs_api",
+            "url": "http://books.google.com/books?id=qAlGEAAAQBAJ&printsec=frontcover&dq=TypeScript&hl=&cd=2&source=gbs_api",
             "title": "TypeScriptﾊﾝｽﾞｵﾝ",
             "summary": "サンプルを作りながらTypeScriptの仕組みや特徴を学ぶ!TypeScriptの基礎知識からアプリ開発、更にはReact.jsやNode.js(Express/Nest)を使ったWebアプリ開発の基礎的な技術まで一通り解説。",
             "image": "http://books.google.com/books/content?id=qAlGEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
@@ -30,7 +22,7 @@
         },
         {
             "content_html": "※この商品はタブレットなど大きいディスプレイを備えた端末で読むことに適しています。また、文字だけを拡大することや、文字列のハイライト、検索、辞書の参照、引用などの機能が使用できません。 TypeScriptをハンズオン形式で学ぶ書籍です。「ハンズオン形式で敷居の低い解説」が特徴となります。またWebアプリ開発にも章を割いており、様々な知識を学びたい人にうってつけの内容となります。",
-            "url": "http://books.google.com/books?id=uvU-EAAAQBAJ&pg=PP1&dq=TypeScript&hl=&cd=4&source=gbs_api",
+            "url": "http://books.google.com/books?id=uvU-EAAAQBAJ&pg=PP1&dq=TypeScript&hl=&cd=3&source=gbs_api",
             "title": "TypeScriptハンズオン",
             "summary": "※この商品はタブレットなど大きいディスプレイを備えた端末で読むことに適しています。また、文字だけを拡大することや、文字列のハイライト、検索、辞書の参照、引用などの機能が使用できません。 TypeScriptをハンズオン形式で学ぶ書籍です。「ハンズオン形式で敷居の低い解説」が特徴となります。またWebアプリ開発にも章を割いており、様々な知識を学びたい人にうってつけの内容となります。",
             "image": "http://books.google.com/books/content?id=uvU-EAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
@@ -38,11 +30,19 @@
         },
         {
             "content_html": "絶対に挫折しない最高の1冊！ ※この電子書籍は固定レイアウト型で配信されております。固定レイアウト型は文字だけを拡大することや、文字列のハイライト、検索、辞書の参照、引用などの機能が使用できません。 Reactをイチから学びたい方にオススメの1冊です！ 【本書のポイント】 UdemyのReactコースで最高評価獲得の著者がモダンJavaScriptの基礎からTypeScriptの実践的な内容までしっかり解説！ 著者が2年以上勉強会を主催し初学者と話す中で分かった、多くの人が感じるReactの挫折ポイントを解決する構成！ 現場のシチュエーションベースのストーリーで技術解説をしているので、実務で必要となる知識を意識しながら学習を進められる！ 「#挫折しないReact本」で学習した感想をシェア！！<br><blockquote>絶対に挫折しない最高の1冊！ ※この電子書籍は固定レイアウト型で配信されております。固定レイアウト型は文字だけを拡大することや、文字列のハイライト、検索、辞書の参 ...</blockquote>",
-            "url": "http://books.google.com/books?id=mK9CEAAAQBAJ&dq=TypeScript&hl=&cd=5&source=gbs_api",
+            "url": "http://books.google.com/books?id=mK9CEAAAQBAJ&dq=TypeScript&hl=&cd=4&source=gbs_api",
             "title": "モダンJavaScriptの基本から始める　React実践の教科書",
             "summary": "絶対に挫折しない最高の1冊！ ※この電子書籍は固定レイアウト型で配信されております。固定レイアウト型は文字だけを拡大することや、文字列のハイライト、検索、辞書の参照、引用などの機能が使用できません。 Reactをイチから学びたい方にオススメの1冊です！ 【本書のポイント】 UdemyのReactコースで最高評価獲得の著者がモダンJavaScriptの基礎からTypeScriptの実践的な内容までしっかり解説！ 著者が2年以上勉強会を主催し初学者と話す中で分かった、多くの人が感じるReactの挫折ポイントを解決する構成！ 現場のシチュエーションベースのストーリーで技術解説をしているので、実務で必要となる知識を意識しながら学習を進められる！ 「#挫折しないReact本」で学習した感想をシェア！！",
             "image": "http://books.google.com/books/content?id=mK9CEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
             "date_modified": "2021-09-16T00:00:00.000Z"
+        },
+        {
+            "content_html": "本書は、Web ブラウザにおける本格的な GUI の入門書です。Web ブラウザに期待される役割は年々増してきています。ネイティブアプリ顔負けのデザインツールや、ドラッグアンドドロップでの操作が必要なフォームを作りたくなったとして、我々は何に気をつけるべきなのでしょうか？これまで HTML / CSS / JavaScript で実装するのが大変だった UI をどう実装するべきなのでしょうか？この点を本書は重点的に扱います。本書では定番のセレクトボックスやヘッダーレイアウトの他、バウンディングボックスやツリーといったドラッグを伴う UI なども実装していきます。苦しくも楽しい、Webブラウザの複雑なGUIの世界に、エディタとブラウザを開きながら足を踏み入れてみましょう。 【目次】 第1章 フルスクラッチGUI入門 第2章 バウンディングボックスことはじめ──移動・拡縮・回転 第3章 スクロールに連動して高さが変わるヘッダビューを作る 第4章 ドラッグ＆ドロップ並び替え入門 第5章 座談会──STUDIO CPOとするGUIの話<br><blockquote>本書は、Web ブラウザにおける本格的な GUI の入門書です。Web ブラウザに期待される役割は年々増してきています。ネイティブアプリ顔負けのデザインツールや、ドラッグアンド ...</blockquote>",
+            "url": "http://books.google.com/books?id=0Pn6DwAAQBAJ&pg=PA1&dq=TypeScript&hl=&cd=5&source=gbs_api",
+            "title": "入門GUI",
+            "summary": "本書は、Web ブラウザにおける本格的な GUI の入門書です。Web ブラウザに期待される役割は年々増してきています。ネイティブアプリ顔負けのデザインツールや、ドラッグアンドドロップでの操作が必要なフォームを作りたくなったとして、我々は何に気をつけるべきなのでしょうか？これまで HTML / CSS / JavaScript で実装するのが大変だった UI をどう実装するべきなのでしょうか？この点を本書は重点的に扱います。本書では定番のセレクトボックスやヘッダーレイアウトの他、バウンディングボックスやツリーといったドラッグを伴う UI なども実装していきます。苦しくも楽しい、Webブラウザの複雑なGUIの世界に、エディタとブラウザを開きながら足を踏み入れてみましょう。 【目次】 第1章 フルスクラッチGUI入門 第2章 バウンディングボックスことはじめ──移動・拡縮・回転 第3章 スクロールに連動して高さが変わるヘッダビューを作る 第4章 ドラッグ＆ドロップ並び替え入門 第5章 座談会──STUDIO CPOとするGUIの話",
+            "image": "http://books.google.com/books/content?id=0Pn6DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+            "date_modified": "2020-09-11T00:00:00.000Z"
         },
         {
             "content_html": "Android Studio 4によるAndroidアプリの開発手順を基礎からしっかり学べます。<br><blockquote>Android Studio 4によるAndroidアプリの開発手順を基礎からしっかり学べます。</blockquote>",
@@ -59,16 +59,8 @@
             "date_modified": "2021-10-25T00:00:00.000Z"
         },
         {
-            "content_html": "本書は、Web ブラウザにおける本格的な GUI の入門書です。Web ブラウザに期待される役割は年々増してきています。ネイティブアプリ顔負けのデザインツールや、ドラッグアンドドロップでの操作が必要なフォームを作りたくなったとして、我々は何に気をつけるべきなのでしょうか？これまで HTML / CSS / JavaScript で実装するのが大変だった UI をどう実装するべきなのでしょうか？この点を本書は重点的に扱います。本書では定番のセレクトボックスやヘッダーレイアウトの他、バウンディングボックスやツリーといったドラッグを伴う UI なども実装していきます。苦しくも楽しい、Webブラウザの複雑なGUIの世界に、エディタとブラウザを開きながら足を踏み入れてみましょう。 【目次】 第1章 フルスクラッチGUI入門 第2章 バウンディングボックスことはじめ──移動・拡縮・回転 第3章 スクロールに連動して高さが変わるヘッダビューを作る 第4章 ドラッグ＆ドロップ並び替え入門 第5章 座談会──STUDIO CPOとするGUIの話<br><blockquote>本書は、Web ブラウザにおける本格的な GUI の入門書です。Web ブラウザに期待される役割は年々増してきています。ネイティブアプリ顔負けのデザインツールや、ドラッグアンド ...</blockquote>",
-            "url": "http://books.google.com/books?id=0Pn6DwAAQBAJ&pg=PA1&dq=TypeScript&hl=&cd=8&source=gbs_api",
-            "title": "入門GUI",
-            "summary": "本書は、Web ブラウザにおける本格的な GUI の入門書です。Web ブラウザに期待される役割は年々増してきています。ネイティブアプリ顔負けのデザインツールや、ドラッグアンドドロップでの操作が必要なフォームを作りたくなったとして、我々は何に気をつけるべきなのでしょうか？これまで HTML / CSS / JavaScript で実装するのが大変だった UI をどう実装するべきなのでしょうか？この点を本書は重点的に扱います。本書では定番のセレクトボックスやヘッダーレイアウトの他、バウンディングボックスやツリーといったドラッグを伴う UI なども実装していきます。苦しくも楽しい、Webブラウザの複雑なGUIの世界に、エディタとブラウザを開きながら足を踏み入れてみましょう。 【目次】 第1章 フルスクラッチGUI入門 第2章 バウンディングボックスことはじめ──移動・拡縮・回転 第3章 スクロールに連動して高さが変わるヘッダビューを作る 第4章 ドラッグ＆ドロップ並び替え入門 第5章 座談会──STUDIO CPOとするGUIの話",
-            "image": "http://books.google.com/books/content?id=0Pn6DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-            "date_modified": "2020-09-11T00:00:00.000Z"
-        },
-        {
             "content_html": "本書はReactをテーマに、Webフロントエンド開発の環境構築を1つ1つ丁寧に解説します。特に設定が足りない状態で動かすとどうなるのか、なぜその設定が必要なのかについて踏み込んで説明しています。環境構築の難しさは、設定をどれか1つでも間違えると動かないことにあります。そのため、環境構築をする際は1つ1つの設定で自分が何をしているのかを正確に把握しなければいけません。この本では暗黙的に「そういうものだから」と思われがちな設定に注目し、解説します。どの設定を足さなければ動かないのか、サンプルコードを示しながら学ぶことができます。 【目次】 第1章 Node.jsを使ったビルド環境整備 第2章 Babelを使ったトランスパイル 第3章 TypeScriptを使ったコンパイル 第4章 webpackを使ったバンドルとビルド 第5章 ESLintを使った静的解析 第6章 Prettierを使ったフォーマット 第7章 Storybookを使ったコンポーネント管理 第8章 Jestを使ったテスト 第9章 0から環境を作ってみる 付録A バージョンの追従<br><blockquote>本書はReactをテーマに、Webフロントエンド開発の環境構築を1つ1つ丁寧に解説します。特に設定が足りない状態で動かすとどうなるのか、なぜその設定が必要なのかについて踏み ...</blockquote>",
-            "url": "http://books.google.com/books?id=VSv3DwAAQBAJ&pg=PP1&dq=TypeScript&hl=&cd=9&source=gbs_api",
+            "url": "http://books.google.com/books?id=VSv3DwAAQBAJ&pg=PP1&dq=TypeScript&hl=&cd=8&source=gbs_api",
             "title": "React環境構築の教科書",
             "summary": "本書はReactをテーマに、Webフロントエンド開発の環境構築を1つ1つ丁寧に解説します。特に設定が足りない状態で動かすとどうなるのか、なぜその設定が必要なのかについて踏み込んで説明しています。環境構築の難しさは、設定をどれか1つでも間違えると動かないことにあります。そのため、環境構築をする際は1つ1つの設定で自分が何をしているのかを正確に把握しなければいけません。この本では暗黙的に「そういうものだから」と思われがちな設定に注目し、解説します。どの設定を足さなければ動かないのか、サンプルコードを示しながら学ぶことができます。 【目次】 第1章 Node.jsを使ったビルド環境整備 第2章 Babelを使ったトランスパイル 第3章 TypeScriptを使ったコンパイル 第4章 webpackを使ったバンドルとビルド 第5章 ESLintを使った静的解析 第6章 Prettierを使ったフォーマット 第7章 Storybookを使ったコンポーネント管理 第8章 Jestを使ったテスト 第9章 0から環境を作ってみる 付録A バージョンの追従",
             "image": "http://books.google.com/books/content?id=VSv3DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
@@ -76,11 +68,19 @@
         },
         {
             "content_html": "本書は入門書の次に読むことを想定にした、中級者へのステップアップを目指すNode.js解説書です。主にNode.jsに対する技術的な内容を扱います。本書を読むことによって、Node.jsに対する理解を深めることができます。Node.jsの副読本として活用ください。 【目次】 第1章 Node.jsの全体像 第2章 npm(Node Package Manager) 第3章 サーバーとしてのNode.js 第4章 イベントループ 第5章 非同期プログラミング（コールバック） 第6章 コールバック地獄の解消 第7章 Stream 第8章 AltJSとTypeScriptを使った開発 第9章 コーディングガイドラインとESLint 第10章 Node.jsとセキュリティ 第11章 Node.jsのコアには、どのようなモジュールがあるのか 第12章 JavaScript & Node.js Tips集 付録A Node.jsの習得に役立つ情報を得るには 付録B ES2015(ES6) 付録C ES2016 付録D ES2017 付録E ES2018 付録F ES2019 付録G Node.js v13とv14について<br><blockquote>本書は入門書の次に読むことを想定にした、中級者へのステップアップを目指すNode.js解説書です。主にNode.jsに対する技術的な内容を扱います。本書を読むことによって、Node ...</blockquote>",
-            "url": "http://books.google.com/books?id=hZ_qDwAAQBAJ&pg=PP1&dq=TypeScript&hl=&cd=10&source=gbs_api",
+            "url": "http://books.google.com/books?id=hZ_qDwAAQBAJ&pg=PP1&dq=TypeScript&hl=&cd=9&source=gbs_api",
             "title": "レベルアップNode.js",
             "summary": "本書は入門書の次に読むことを想定にした、中級者へのステップアップを目指すNode.js解説書です。主にNode.jsに対する技術的な内容を扱います。本書を読むことによって、Node.jsに対する理解を深めることができます。Node.jsの副読本として活用ください。 【目次】 第1章 Node.jsの全体像 第2章 npm(Node Package Manager) 第3章 サーバーとしてのNode.js 第4章 イベントループ 第5章 非同期プログラミング（コールバック） 第6章 コールバック地獄の解消 第7章 Stream 第8章 AltJSとTypeScriptを使った開発 第9章 コーディングガイドラインとESLint 第10章 Node.jsとセキュリティ 第11章 Node.jsのコアには、どのようなモジュールがあるのか 第12章 JavaScript & Node.js Tips集 付録A Node.jsの習得に役立つ情報を得るには 付録B ES2015(ES6) 付録C ES2016 付録D ES2017 付録E ES2018 付録F ES2019 付録G Node.js v13とv14について",
             "image": "http://books.google.com/books/content?id=hZ_qDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
             "date_modified": "2020-06-19T00:00:00.000Z"
+        },
+        {
+            "content_html": "※この商品はタブレットなど大きいディスプレイを備えた端末で読むことに適しています。また、文字だけを拡大することや、文字列のハイライト、検索、辞書の参照、引用などの機能が使用できません。 「JavaScriptを学ぼう」 そんなふうに思っても、「JavaScript」は現在では、非常に関連技術の多い言語になっています。JavaScript関連のキーワードを上げてみると、「ECMAScript / TypeScript / Vue.js / Nuxt.js / React / Angular / jQuery」など、上げていったらキリがないほどです。 これらはそれぞれ「JSライブラリー」とか「JSフレームワーク」などと呼ばれているJSの周辺技術ですが、現在のウェブサイト制作や、ウェブアプリ開発では、これらの周辺技術の理解が必須になっています。 本書は、こういった事情に合わせて、今JavaScriptを学ぶなら、この周辺技術は必須だと筆者が考える以下の内容について解説しています。 ・JavaScript ・ECMAScript ・Vue.js ・TypeScript これだけでも非常にカバー範囲が広く、1冊に納めるのは容易ではありませんが、それでもこれらの知識は抑えておいて欲しいという筆者の願いから、1冊に詰め込みました。 ぜひ本書を通じて、JavaScriptの魅力と現在のJavaScript開発のトレンドを抑えて頂けると幸いです。これからのウェブ開発にお役に立つことを願っています。 （「はじめに」より一部修正） 「Chapter1 JavaScriptを学ぶための準備をしよう」では、JavaScriptを学ぶための環境構築を行います。といっても、Google Chrome（ウェブブラウザー）と、Visual Studio Code（エディター）を<br><blockquote>※この商品はタブレットなど大きいディスプレイを備えた端末で読むことに適しています。また、文字だけを拡大することや、文字列のハイライト、検索、辞書の参照、引用など ...</blockquote>",
+            "url": "http://books.google.com/books?id=sYDmDwAAQBAJ&dq=TypeScript&hl=&cd=10&source=gbs_api",
+            "title": "これからはじめる人のJavaScript/Vue.jsの教科書",
+            "summary": "※この商品はタブレットなど大きいディスプレイを備えた端末で読むことに適しています。また、文字だけを拡大することや、文字列のハイライト、検索、辞書の参照、引用などの機能が使用できません。 「JavaScriptを学ぼう」 そんなふうに思っても、「JavaScript」は現在では、非常に関連技術の多い言語になっています。JavaScript関連のキーワードを上げてみると、「ECMAScript / TypeScript / Vue.js / Nuxt.js / React / Angular / jQuery」など、上げていったらキリがないほどです。 これらはそれぞれ「JSライブラリー」とか「JSフレームワーク」などと呼ばれているJSの周辺技術ですが、現在のウェブサイト制作や、ウェブアプリ開発では、これらの周辺技術の理解が必須になっています。 本書は、こういった事情に合わせて、今JavaScriptを学ぶなら、この周辺技術は必須だと筆者が考える以下の内容について解説しています。 ・JavaScript ・ECMAScript ・Vue.js ・TypeScript これだけでも非常にカバー範囲が広く、1冊に納めるのは容易ではありませんが、それでもこれらの知識は抑えておいて欲しいという筆者の願いから、1冊に詰め込みました。 ぜひ本書を通じて、JavaScriptの魅力と現在のJavaScript開発のトレンドを抑えて頂けると幸いです。これからのウェブ開発にお役に立つことを願っています。 （「はじめに」より一部修正） 「Chapter1 JavaScriptを学ぶための準備をしよう」では、JavaScriptを学ぶための環境構築を行います。といっても、Google Chrome（ウェブブラウザー）と、Visual Studio Code（エディター）を",
+            "image": "http://books.google.com/books/content?id=sYDmDwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+            "date_modified": "2020-04-24T00:00:00.000Z"
         }
     ]
 }

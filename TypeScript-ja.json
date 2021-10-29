@@ -5,40 +5,24 @@
     "description": "TypeScript(ja) on Google Book",
     "items": [
         {
-            "content_html": "サンプルを作りながらTypeScriptの仕組みや特徴を学ぶ!TypeScriptの基礎知識からアプリ開発、更にはReact.jsやNode.js(Express/Nest)を使ったWebアプリ開発の基礎的な技術まで一通り解説。<br><blockquote><b>TypeScript</b>とは?<b>TypeScript</b>とは? Chapter 1 1 このトランスコンパイラ言語の中でも、現在もっとも広く使われているのが「<b>TypeScript</b>(タイプスクリプト)」と呼ばれる言語です。<b>TypeScript</b>は、マイクロソフトにより2012年に開発さ 2 れたオープンソースの&nbsp;...</blockquote>",
-            "url": "http://books.google.com/books?id=qAlGEAAAQBAJ&pg=PA15&dq=TypeScript&hl=&cd=1&source=gbs_api",
-            "title": "TypeScriptﾊﾝｽﾞｵﾝ",
-            "summary": "サンプルを作りながらTypeScriptの仕組みや特徴を学ぶ!TypeScriptの基礎知識からアプリ開発、更にはReact.jsやNode.js(Express/Nest)を使ったWebアプリ開発の基礎的な技術まで一通り解説。",
-            "image": "http://books.google.com/books/content?id=qAlGEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-            "date_modified": "2021-08-01T00:00:00.000Z"
-        },
-        {
-            "content_html": "サンプルを作りながらTypeScriptの仕組みや特徴を学ぶ!TypeScriptの基礎知識からアプリ開発、更にはReact.jsやNode.js(Express/Nest)を使ったWebアプリ開発の基礎的な技術まで一通り解説。<br><blockquote>Chapter 1 1 従って、<b>TypeScript</b>を学ぶということは「将来のJavaScript」を学ぶことに近いのです。多くの機能は、いずれJavaScriptでも使われるようになるものだったりします。<b>TypeScript</b>は、「JavaScriptとは異なる別の言語」ではないのです。</blockquote>",
-            "url": "http://books.google.com/books?id=qAlGEAAAQBAJ&pg=PA16&dq=TypeScript&hl=&cd=2&source=gbs_api",
-            "title": "TypeScriptﾊﾝｽﾞｵﾝ",
-            "summary": "サンプルを作りながらTypeScriptの仕組みや特徴を学ぶ!TypeScriptの基礎知識からアプリ開発、更にはReact.jsやNode.js(Express/Nest)を使ったWebアプリ開発の基礎的な技術まで一通り解説。",
-            "image": "http://books.google.com/books/content?id=qAlGEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-            "date_modified": "2021-08-01T00:00:00.000Z"
-        },
-        {
-            "content_html": "※この商品はタブレットなど大きいディスプレイを備えた端末で読むことに適しています。また、文字だけを拡大することや、文字列のハイライト、検索、辞書の参照、引用などの機能が使用できません。 TypeScriptをハンズオン形式で学ぶ書籍です。「ハンズオン形式で敷居の低い解説」が特徴となります。またWebアプリ開発にも章を割いており、様々な知識を学びたい人にうってつけの内容となります。",
-            "url": "http://books.google.com/books?id=uvU-EAAAQBAJ&pg=PP1&dq=TypeScript&hl=&cd=3&source=gbs_api",
-            "title": "TypeScriptハンズオン",
-            "summary": "※この商品はタブレットなど大きいディスプレイを備えた端末で読むことに適しています。また、文字だけを拡大することや、文字列のハイライト、検索、辞書の参照、引用などの機能が使用できません。 TypeScriptをハンズオン形式で学ぶ書籍です。「ハンズオン形式で敷居の低い解説」が特徴となります。またWebアプリ開発にも章を割いており、様々な知識を学びたい人にうってつけの内容となります。",
-            "image": "http://books.google.com/books/content?id=uvU-EAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-            "date_modified": "2021-08-26T00:00:00.000Z"
-        },
-        {
             "content_html": "絶対に挫折しない最高の1冊！ ※この電子書籍は固定レイアウト型で配信されております。固定レイアウト型は文字だけを拡大することや、文字列のハイライト、検索、辞書の参照、引用などの機能が使用できません。 Reactをイチから学びたい方にオススメの1冊です！ 【本書のポイント】 UdemyのReactコースで最高評価獲得の著者がモダンJavaScriptの基礎からTypeScriptの実践的な内容までしっかり解説！ 著者が2年以上勉強会を主催し初学者と話す中で分かった、多くの人が感じるReactの挫折ポイントを解決する構成！ 現場のシチュエーションベースのストーリーで技術解説をしているので、実務で必要となる知識を意識しながら学習を進められる！ 「#挫折しないReact本」で学習した感想をシェア！！<br><blockquote>絶対に挫折しない最高の1冊！ ※この電子書籍は固定レイアウト型で配信されております。固定レイアウト型は文字だけを拡大することや、文字列のハイライト、検索、辞書の参 ...</blockquote>",
-            "url": "http://books.google.com/books?id=mK9CEAAAQBAJ&dq=TypeScript&hl=&cd=4&source=gbs_api",
+            "url": "http://books.google.com/books?id=mK9CEAAAQBAJ&dq=TypeScript&hl=&cd=1&source=gbs_api",
             "title": "モダンJavaScriptの基本から始める　React実践の教科書",
             "summary": "絶対に挫折しない最高の1冊！ ※この電子書籍は固定レイアウト型で配信されております。固定レイアウト型は文字だけを拡大することや、文字列のハイライト、検索、辞書の参照、引用などの機能が使用できません。 Reactをイチから学びたい方にオススメの1冊です！ 【本書のポイント】 UdemyのReactコースで最高評価獲得の著者がモダンJavaScriptの基礎からTypeScriptの実践的な内容までしっかり解説！ 著者が2年以上勉強会を主催し初学者と話す中で分かった、多くの人が感じるReactの挫折ポイントを解決する構成！ 現場のシチュエーションベースのストーリーで技術解説をしているので、実務で必要となる知識を意識しながら学習を進められる！ 「#挫折しないReact本」で学習した感想をシェア！！",
             "image": "http://books.google.com/books/content?id=mK9CEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
             "date_modified": "2021-09-16T00:00:00.000Z"
         },
         {
-            "content_html": "サンプルを作りながらTypeScriptの仕組みや特徴を学ぶ!TypeScriptの基礎知識からアプリ開発、更にはReact.jsやNode.js(Express/Nest)を使ったWebアプリ開発の基礎的な技術まで一通り解説。<br><blockquote>とはいえ、<b>TypeScript</b>の文法はだいたい理解しても、具体的なソースコードを作成するためには、いろいろと学ばなければいけないことがあります。たとえば、GUIはどうするのか。データの保存はどうするか。そうした具体的な機能についてはまだほとんど説明&nbsp;...</blockquote>",
-            "url": "http://books.google.com/books?id=qAlGEAAAQBAJ&pg=PA202&dq=TypeScript&hl=&cd=5&source=gbs_api",
+            "content_html": "※この商品はタブレットなど大きいディスプレイを備えた端末で読むことに適しています。また、文字だけを拡大することや、文字列のハイライト、検索、辞書の参照、引用などの機能が使用できません。 TypeScriptをハンズオン形式で学ぶ書籍です。「ハンズオン形式で敷居の低い解説」が特徴となります。またWebアプリ開発にも章を割いており、様々な知識を学びたい人にうってつけの内容となります。",
+            "url": "http://books.google.com/books?id=uvU-EAAAQBAJ&pg=PP1&dq=TypeScript&hl=&cd=2&source=gbs_api",
+            "title": "TypeScriptハンズオン",
+            "summary": "※この商品はタブレットなど大きいディスプレイを備えた端末で読むことに適しています。また、文字だけを拡大することや、文字列のハイライト、検索、辞書の参照、引用などの機能が使用できません。 TypeScriptをハンズオン形式で学ぶ書籍です。「ハンズオン形式で敷居の低い解説」が特徴となります。またWebアプリ開発にも章を割いており、様々な知識を学びたい人にうってつけの内容となります。",
+            "image": "http://books.google.com/books/content?id=uvU-EAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+            "date_modified": "2021-08-26T00:00:00.000Z"
+        },
+        {
+            "content_html": "サンプルを作りながらTypeScriptの仕組みや特徴を学ぶ!TypeScriptの基礎知識からアプリ開発、更にはReact.jsやNode.js(Express/Nest)を使ったWebアプリ開発の基礎的な技術まで一通り解説。<br><blockquote><b>TypeScript</b>とは?<b>TypeScript</b>とは? Chapter 1 1 このトランスコンパイラ言語の中でも、現在もっとも広く使われているのが「<b>TypeScript</b>(タイプスクリプト)」と呼ばれる言語です。<b>TypeScript</b>は、マイクロソフトにより2012年に開発さ 2 れたオープンソースの&nbsp;...</blockquote>",
+            "url": "http://books.google.com/books?id=qAlGEAAAQBAJ&pg=PA15&dq=TypeScript&hl=&cd=3&source=gbs_api",
             "title": "TypeScriptﾊﾝｽﾞｵﾝ",
             "summary": "サンプルを作りながらTypeScriptの仕組みや特徴を学ぶ!TypeScriptの基礎知識からアプリ開発、更にはReact.jsやNode.js(Express/Nest)を使ったWebアプリ開発の基礎的な技術まで一通り解説。",
             "image": "http://books.google.com/books/content?id=qAlGEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
@@ -46,17 +30,33 @@
         },
         {
             "content_html": "Android Studio 4によるAndroidアプリの開発手順を基礎からしっかり学べます。<br><blockquote>Android Studio 4によるAndroidアプリの開発手順を基礎からしっかり学べます。</blockquote>",
-            "url": "http://books.google.com/books?id=XAmuzgEACAAJ&dq=TypeScript&hl=&cd=6&source=gbs_api",
+            "url": "http://books.google.com/books?id=XAmuzgEACAAJ&dq=TypeScript&hl=&cd=4&source=gbs_api",
             "title": "TECHNICAL MASTER はじめてのAndroidアプリ開発 Kotlin編 Android Studio 4対応",
             "summary": "Android Studio 4によるAndroidアプリの開発手順を基礎からしっかり学べます。",
             "date_modified": "2021-11-23T00:00:00.000Z"
         },
         {
             "content_html": "・Office Scriptとは マイクロソフトはExcel on the Web用の新しいプログラミング言語「Office Script for Excel」を2021年5月に正式リリースしました。このOffice Scriptにより、ようやくWeb版のExcelもプログラミングできるようになりました。 TypeScriptをベースにしてExcel用のオブジェクト類を追加したプログラミング言語です。 ・Office Scriptのトレンド 昨年よりPCの売上においてはChromebookが劇的な伸びを記録しているなど、 「ソフトをインストールして使う」ということを面倒に感じる人や、Webアプリをスタンドアロンアプリと同じように使う人が着実に増えてきています。日本においてもWebアプリの利用者が着実に増えています。 ・Webがメインストリームになる未来も!! 日本では今後もVBAがメインで使われると言う意見を持ったユーザも多い。 しかし、忘れてはならないのが「Office Script for Excelは、Office Scriptの第一歩に過ぎない」という点だ。 Office Scriptは、今後、あらゆるマイクロソフトのWebサービスに浸透していくはずで、VBAとの立場は逆転するだけのポテンシャルを秘めています。 ・本書のコンセプト 本書は「Office Scriptの入門から実際の利用まで一通り」「コピペすればそのまますぐに使えそうなスクリプト集」というコンセプトで執筆をすすめています。 Excelのパイは非常に巨大であり「Office Script for Excel」は類書がございません。<br><blockquote>・Office Scriptとは マイクロソフトはExcel on the Web用の新しいプログラミング言語「Office Script for Excel」を2021年5月に正式リリースしました。 このOffice ...</blockquote>",
-            "url": "http://books.google.com/books?id=t1WazgEACAAJ&dq=TypeScript&hl=&cd=7&source=gbs_api",
+            "url": "http://books.google.com/books?id=t1WazgEACAAJ&dq=TypeScript&hl=&cd=5&source=gbs_api",
             "title": "Office ScriptによるExcel on the web開発入門",
             "summary": "・Office Scriptとは マイクロソフトはExcel on the Web用の新しいプログラミング言語「Office Script for Excel」を2021年5月に正式リリースしました。このOffice Scriptにより、ようやくWeb版のExcelもプログラミングできるようになりました。 TypeScriptをベースにしてExcel用のオブジェクト類を追加したプログラミング言語です。 ・Office Scriptのトレンド 昨年よりPCの売上においてはChromebookが劇的な伸びを記録しているなど、 「ソフトをインストールして使う」ということを面倒に感じる人や、Webアプリをスタンドアロンアプリと同じように使う人が着実に増えてきています。日本においてもWebアプリの利用者が着実に増えています。 ・Webがメインストリームになる未来も!! 日本では今後もVBAがメインで使われると言う意見を持ったユーザも多い。 しかし、忘れてはならないのが「Office Script for Excelは、Office Scriptの第一歩に過ぎない」という点だ。 Office Scriptは、今後、あらゆるマイクロソフトのWebサービスに浸透していくはずで、VBAとの立場は逆転するだけのポテンシャルを秘めています。 ・本書のコンセプト 本書は「Office Scriptの入門から実際の利用まで一通り」「コピペすればそのまますぐに使えそうなスクリプト集」というコンセプトで執筆をすすめています。 Excelのパイは非常に巨大であり「Office Script for Excel」は類書がございません。",
             "date_modified": "2021-10-25T00:00:00.000Z"
+        },
+        {
+            "content_html": "サンプルを作りながらTypeScriptの仕組みや特徴を学ぶ!TypeScriptの基礎知識からアプリ開発、更にはReact.jsやNode.js(Express/Nest)を使ったWebアプリ開発の基礎的な技術まで一通り解説。<br><blockquote>{}を使えば、こんな具合に<b>TypeScript</b>の処理も埋め込むことができます。 Chapter 6 6 ここでは、配列が代入されているdataから「map」というメソッドを呼び出しています。この 7 mapは、配列から順に値とそれが保管されているキーを取り出して処理を実行&nbsp;...</blockquote>",
+            "url": "http://books.google.com/books?id=qAlGEAAAQBAJ&pg=PA303&dq=TypeScript&hl=&cd=6&source=gbs_api",
+            "title": "TypeScriptﾊﾝｽﾞｵﾝ",
+            "summary": "サンプルを作りながらTypeScriptの仕組みや特徴を学ぶ!TypeScriptの基礎知識からアプリ開発、更にはReact.jsやNode.js(Express/Nest)を使ったWebアプリ開発の基礎的な技術まで一通り解説。",
+            "image": "http://books.google.com/books/content?id=qAlGEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+            "date_modified": "2021-08-01T00:00:00.000Z"
+        },
+        {
+            "content_html": "サンプルを作りながらTypeScriptの仕組みや特徴を学ぶ!TypeScriptの基礎知識からアプリ開発、更にはReact.jsやNode.js(Express/Nest)を使ったWebアプリ開発の基礎的な技術まで一通り解説。<br><blockquote>ExpressとTypeScriptExpressと<b>TypeScript</b> 1 ここまでExpressの基礎知識について説明をしてきました。が、ここまでの説明はすべて「JavaScript」によるものでした。<b>TypeScript</b>でExpressの開発を行うためにはどのように&nbsp;...</blockquote>",
+            "url": "http://books.google.com/books?id=qAlGEAAAQBAJ&pg=PA338&dq=TypeScript&hl=&cd=7&source=gbs_api",
+            "title": "TypeScriptﾊﾝｽﾞｵﾝ",
+            "summary": "サンプルを作りながらTypeScriptの仕組みや特徴を学ぶ!TypeScriptの基礎知識からアプリ開発、更にはReact.jsやNode.js(Express/Nest)を使ったWebアプリ開発の基礎的な技術まで一通り解説。",
+            "image": "http://books.google.com/books/content?id=qAlGEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+            "date_modified": "2021-08-01T00:00:00.000Z"
         },
         {
             "content_html": "サンプルを作りながらTypeScriptの仕組みや特徴を学ぶ!TypeScriptの基礎知識からアプリ開発、更にはReact.jsやNode.js(Express/Nest)を使ったWebアプリ開発の基礎的な技術まで一通り解説。<br><blockquote>サンプルを作りながらTypeScriptの仕組みや特徴を学ぶ!TypeScriptの基礎知識からアプリ開発、更にはReact.jsやNode.js(Express/Nest)を使ったWebアプリ開発の基礎的な技術まで一通り解説。</blockquote>",

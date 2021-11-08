@@ -14,7 +14,7 @@
         },
         {
             "content_html": "絶対に挫折しない最高の1冊！ ※この電子書籍は固定レイアウト型で配信されております。固定レイアウト型は文字だけを拡大することや、文字列のハイライト、検索、辞書の参照、引用などの機能が使用できません。 Reactをイチから学びたい方にオススメの1冊です！ 【本書のポイント】 UdemyのReactコースで最高評価獲得の著者がモダンJavaScriptの基礎からTypeScriptの実践的な内容までしっかり解説！ 著者が2年以上勉強会を主催し初学者と話す中で分かった、多くの人が感じるReactの挫折ポイントを解決する構成！ 現場のシチュエーションベースのストーリーで技術解説をしているので、実務で必要となる知識を意識しながら学習を進められる！ 「#挫折しないReact本」で学習した感想をシェア！！",
-            "url": "http://books.google.com/books?id=mK9CEAAAQBAJ&pg=PP1&dq=JavaScript&hl=&cd=4&source=gbs_api",
+            "url": "http://books.google.com/books?id=mK9CEAAAQBAJ&pg=PP1&dq=JavaScript&hl=&cd=5&source=gbs_api",
             "title": "モダンJavaScriptの基本から始める　React実践の教科書",
             "summary": "絶対に挫折しない最高の1冊！ ※この電子書籍は固定レイアウト型で配信されております。固定レイアウト型は文字だけを拡大することや、文字列のハイライト、検索、辞書の参照、引用などの機能が使用できません。 Reactをイチから学びたい方にオススメの1冊です！ 【本書のポイント】 UdemyのReactコースで最高評価獲得の著者がモダンJavaScriptの基礎からTypeScriptの実践的な内容までしっかり解説！ 著者が2年以上勉強会を主催し初学者と話す中で分かった、多くの人が感じるReactの挫折ポイントを解決する構成！ 現場のシチュエーションベースのストーリーで技術解説をしているので、実務で必要となる知識を意識しながら学習を進められる！ 「#挫折しないReact本」で学習した感想をシェア！！",
             "image": "http://books.google.com/books/content?id=mK9CEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
@@ -22,7 +22,7 @@
         },
         {
             "content_html": "オブジェクト・DOM・イベント・非同期処理―。プロとして、流行に左右されないJavaScript開発の本質的な基礎をしっかりと身につける。<br><blockquote>オブジェクト・DOM・イベント・非同期処理―。プロとして、流行に左右されないJavaScript開発の本質的な基礎をしっかりと身につける。</blockquote>",
-            "url": "http://books.google.com/books?id=pfdnzgEACAAJ&dq=JavaScript&hl=&cd=8&source=gbs_api",
+            "url": "http://books.google.com/books?id=pfdnzgEACAAJ&dq=JavaScript&hl=&cd=7&source=gbs_api",
             "title": "プロフェッショナルWebプログラミング JavaScript",
             "summary": "オブジェクト・DOM・イベント・非同期処理―。プロとして、流行に左右されないJavaScript開発の本質的な基礎をしっかりと身につける。",
             "image": "http://books.google.com/books/content?id=pfdnzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
@@ -30,7 +30,7 @@
         },
         {
             "content_html": "※この商品はタブレットなど大きいディスプレイを備えた端末で読むことに適しています。また、文字だけを拡大することや、文字列のハイライト、検索、辞書の参照、引用などの機能が使用できません。 JavaScriptをはじめて勉強する方のための“超”入門書です。文法は、本書後半で取り組むブラウザゲーム「ブラックジャック」のプログラミングに必要な内容を厳選して解説。はじめての方でも最後まで楽しく学べます。<br><blockquote>※この商品はタブレットなど大きいディスプレイを備えた端末で読むことに適しています。また、文字だけを拡大することや、文字列のハイライト、検索、辞書の参照、引用など ...</blockquote>",
-            "url": "http://books.google.com/books?id=hQskEAAAQBAJ&dq=JavaScript&hl=&cd=9&source=gbs_api",
+            "url": "http://books.google.com/books?id=hQskEAAAQBAJ&dq=JavaScript&hl=&cd=8&source=gbs_api",
             "title": "図解！ JavaScriptのツボとコツがゼッタイにわかる本 “超”入門編",
             "summary": "※この商品はタブレットなど大きいディスプレイを備えた端末で読むことに適しています。また、文字だけを拡大することや、文字列のハイライト、検索、辞書の参照、引用などの機能が使用できません。 JavaScriptをはじめて勉強する方のための“超”入門書です。文法は、本書後半で取り組むブラウザゲーム「ブラックジャック」のプログラミングに必要な内容を厳選して解説。はじめての方でも最後まで楽しく学べます。",
             "image": "http://books.google.com/books/content?id=hQskEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
@@ -38,11 +38,19 @@
         },
         {
             "content_html": "※この商品はタブレットなど大きいディスプレイを備えた端末で読むことに適しています。また、文字だけを拡大することや、文字列のハイライト、検索、辞書の参照、引用などの機能が使用できません。 ウェブアプリのフロントエンド部分を堅牢に開発できる、静的型付けの関数型プログラミング言語Elm（エルム）。 最小限のJavaScriptにコンパイルされ、アプリケーションをウェブへ簡単にデプロイできるようになります。 ・Elmがはじめてのフロントエンド開発者を対象に、構文や関数の作り方の基礎から解説します。 ・JavaScript＋Elmへ：ElmアプリケーションをこれまでのJavaScriptリソースと統合し、活用する方法を解説。 Elmを全く知らない方でも、本書をマスターすれば柔軟でメンテナンスしやすいウェブアプリケーションを構築できるようになるでしょう。 Elm 初心者の方は、Elmの基礎とThe Elm Architectureを使ったアプリケーションの作り方を学ぶために、まず1章から5章まで順番通りに読み進めましょう。これらの章はアプリケーションをどのように作るのかをテーマにしています。Picshareという写真共有アプリケーションを作りながら、前の章のコードに機能を継ぎ足していき、章ごとに新しい機能を追加していきます。 すでにアプリケーション構築の基礎を押さえている方で、サーバーとどのように通信するか知りたい方は、4 章から読み始めても構いません。各章において、それまでのアプリケーションコードを用意しています。 後半の6章から11章では、Elm アプリケーションの拡張、デバッグ、JavaScriptとの共生、メンテナンスについて取り扱います。 1章 Elmをはじめよう 2章 状態を持つElmアプリケーションを作成する 3章 Elmアプリケーションをリファクタリングしたり改良したりする 4章 サーバーと通信する 5章 WebSocketでリアルタイム通信を行う 6章 さらに大きなアプリケーションを作る 7章 強力なツールを使って開発やデバッグ、デプロイをする 8章 JavaScriptとの共生 9章 Elmアプリケーションをテストする 10章 シングルページアプリケーションを構築する 11章 アプリケーションを高速化する 付録 Elmをインストールする / ローカルサーバーを実行する / Elmパッケージのバージョンについて<br><blockquote>※この商品はタブレットなど大きいディスプレイを備えた端末で読むことに適しています。また、文字だけを拡大することや、文字列のハイライト、検索、辞書の参照、引用など ...</blockquote>",
-            "url": "http://books.google.com/books?id=Qh8hEAAAQBAJ&dq=JavaScript&hl=&cd=10&source=gbs_api",
+            "url": "http://books.google.com/books?id=Qh8hEAAAQBAJ&dq=JavaScript&hl=&cd=9&source=gbs_api",
             "title": "プログラミングElm",
             "summary": "※この商品はタブレットなど大きいディスプレイを備えた端末で読むことに適しています。また、文字だけを拡大することや、文字列のハイライト、検索、辞書の参照、引用などの機能が使用できません。 ウェブアプリのフロントエンド部分を堅牢に開発できる、静的型付けの関数型プログラミング言語Elm（エルム）。 最小限のJavaScriptにコンパイルされ、アプリケーションをウェブへ簡単にデプロイできるようになります。 ・Elmがはじめてのフロントエンド開発者を対象に、構文や関数の作り方の基礎から解説します。 ・JavaScript＋Elmへ：ElmアプリケーションをこれまでのJavaScriptリソースと統合し、活用する方法を解説。 Elmを全く知らない方でも、本書をマスターすれば柔軟でメンテナンスしやすいウェブアプリケーションを構築できるようになるでしょう。 Elm 初心者の方は、Elmの基礎とThe Elm Architectureを使ったアプリケーションの作り方を学ぶために、まず1章から5章まで順番通りに読み進めましょう。これらの章はアプリケーションをどのように作るのかをテーマにしています。Picshareという写真共有アプリケーションを作りながら、前の章のコードに機能を継ぎ足していき、章ごとに新しい機能を追加していきます。 すでにアプリケーション構築の基礎を押さえている方で、サーバーとどのように通信するか知りたい方は、4 章から読み始めても構いません。各章において、それまでのアプリケーションコードを用意しています。 後半の6章から11章では、Elm アプリケーションの拡張、デバッグ、JavaScriptとの共生、メンテナンスについて取り扱います。 1章 Elmをはじめよう 2章 状態を持つElmアプリケーションを作成する 3章 Elmアプリケーションをリファクタリングしたり改良したりする 4章 サーバーと通信する 5章 WebSocketでリアルタイム通信を行う 6章 さらに大きなアプリケーションを作る 7章 強力なツールを使って開発やデバッグ、デプロイをする 8章 JavaScriptとの共生 9章 Elmアプリケーションをテストする 10章 シングルページアプリケーションを構築する 11章 アプリケーションを高速化する 付録 Elmをインストールする / ローカルサーバーを実行する / Elmパッケージのバージョンについて",
             "image": "http://books.google.com/books/content?id=Qh8hEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
             "date_modified": "2021-03-01T00:00:00.000Z"
+        },
+        {
+            "content_html": "JavaScriptの基礎から実用的な知識まで完全網羅！ ※この電子書籍は固定レイアウト型で配信されております。固定レイアウト型は文字だけを拡大することや、文字列のハイライト、検索、辞書の参照、引用などの機能が使用できません。 JavaScriptの基礎から実用的な知識まで完全網羅！ プログラミング初心者でも本書を学習すれば現場で生きるスキルが身につく！<br><blockquote>JavaScriptの基礎から実用的な知識まで完全網羅！ ※この電子書籍は固定レイアウト型で配信されております。固定レイアウト型は文字だけを拡大することや、文字列のハイライト ...</blockquote>",
+            "url": "http://books.google.com/books?id=4xkZEAAAQBAJ&dq=JavaScript&hl=&cd=10&source=gbs_api",
+            "title": "JavaScript［完全］入門",
+            "summary": "JavaScriptの基礎から実用的な知識まで完全網羅！ ※この電子書籍は固定レイアウト型で配信されております。固定レイアウト型は文字だけを拡大することや、文字列のハイライト、検索、辞書の参照、引用などの機能が使用できません。 JavaScriptの基礎から実用的な知識まで完全網羅！ プログラミング初心者でも本書を学習すれば現場で生きるスキルが身につく！",
+            "image": "http://books.google.com/books/content?id=4xkZEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+            "date_modified": "2021-02-04T00:00:00.000Z"
         }
     ]
 }

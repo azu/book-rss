@@ -5,6 +5,14 @@
     "description": "JavaScript(ja) on Google Book",
     "items": [
         {
+            "content_html": "※この商品はタブレットなど大きいディスプレイを備えた端末で読むことに適しています。また、文字だけを拡大することや、文字列のハイライト、検索、辞書の参照、引用などの機能が使用できません。 Excel は Web で使う」時代がやってくる! 現在、あらゆるものはローカル環境 から Web へとシフトしつつあります。そんな中、未だに「アプリケーションをインストールして使う」ソフ トの代表とも言えるのが「Excel」です。 Web 版 Excel に、2021年5月に「Office Script」というマクロ言語が搭載されました。これにより、Excel を自動化することができるようになりました。 本書ではOffice ScriptのベースとなっているTypeScript(JavaScriptを拡張したものです)の文法から、Excelのセルやグラフ、テーブルなどの操作まで細かく説明をしています。 そのほか、Power Automate というiSaaS(Integration Software As A Service、サービスの統合化)ツールを使い、 外部とやり取りする方法まで触れています。 新しい言語の「Office Script」を誰よりも早く学ぶチャンスです。<br><blockquote>※この商品はタブレットなど大きいディスプレイを備えた端末で読むことに適しています。また、文字だけを拡大することや、文字列のハイライト、検索、辞書の参照、引用など ...</blockquote>",
+            "url": "http://books.google.com/books?id=7KZKEAAAQBAJ&dq=JavaScript&hl=&cd=2&source=gbs_api",
+            "title": "Office ScriptによるExcel on the web 開発入門",
+            "summary": "※この商品はタブレットなど大きいディスプレイを備えた端末で読むことに適しています。また、文字だけを拡大することや、文字列のハイライト、検索、辞書の参照、引用などの機能が使用できません。 Excel は Web で使う」時代がやってくる! 現在、あらゆるものはローカル環境 から Web へとシフトしつつあります。そんな中、未だに「アプリケーションをインストールして使う」ソフ トの代表とも言えるのが「Excel」です。 Web 版 Excel に、2021年5月に「Office Script」というマクロ言語が搭載されました。これにより、Excel を自動化することができるようになりました。 本書ではOffice ScriptのベースとなっているTypeScript(JavaScriptを拡張したものです)の文法から、Excelのセルやグラフ、テーブルなどの操作まで細かく説明をしています。 そのほか、Power Automate というiSaaS(Integration Software As A Service、サービスの統合化)ツールを使い、 外部とやり取りする方法まで触れています。 新しい言語の「Office Script」を誰よりも早く学ぶチャンスです。",
+            "image": "http://books.google.com/books/content?id=7KZKEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+            "date_modified": "2021-10-21T00:00:00.000Z"
+        },
+        {
             "content_html": "JavaScriptは、Twitterのようなソーシャルアプリケーションからブラウザベースのゲームフレームワークまで、現代のほとんどすべてのWebアプリケーションの中核を成しています。JavaScriptは、初心者が簡単に扱える言語でありながら、本格的なアプリケーションを構築できるほど、柔軟で複雑です。『流麗なJavaScript 第3版』では、JavaScript言語を深く掘り下げ、美しく効果的なコードを書く方法を紹介。第3版では特に、クラス表記、アロー関数、イテレータ、非同期関数、テンプレート文字列、ブロックスコープなどの機能について、まったく新しい内容が追加。本書において、著者は、JavaScriptの基本をコードと豊富な例を挙げながら解説。また、練習問題といくつかのプロジェクトを通じて、実際に自分でプログラムを書いてみます。<br><blockquote>JavaScriptは、Twitterのようなソーシャルアプリケーションからブラウザベースのゲームフレームワークまで、現代のほとんどすべてのWebアプリケーションの中核を成しています。Java ...</blockquote>",
             "url": "http://books.google.com/books?id=RIWLzgEACAAJ&dq=JavaScript&hl=&cd=3&source=gbs_api",
             "title": "Ryūrei na jaba sukuriputo",
@@ -21,16 +29,8 @@
             "date_modified": "2021-09-16T00:00:00.000Z"
         },
         {
-            "content_html": "オブジェクト・DOM・イベント・非同期処理―。プロとして、流行に左右されないJavaScript開発の本質的な基礎をしっかりと身につける。<br><blockquote>オブジェクト・DOM・イベント・非同期処理―。プロとして、流行に左右されないJavaScript開発の本質的な基礎をしっかりと身につける。</blockquote>",
-            "url": "http://books.google.com/books?id=pfdnzgEACAAJ&dq=JavaScript&hl=&cd=7&source=gbs_api",
-            "title": "プロフェッショナルWebプログラミング JavaScript",
-            "summary": "オブジェクト・DOM・イベント・非同期処理―。プロとして、流行に左右されないJavaScript開発の本質的な基礎をしっかりと身につける。",
-            "image": "http://books.google.com/books/content?id=pfdnzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-            "date_modified": "2021-04-01T00:00:00.000Z"
-        },
-        {
             "content_html": "※この商品はタブレットなど大きいディスプレイを備えた端末で読むことに適しています。また、文字だけを拡大することや、文字列のハイライト、検索、辞書の参照、引用などの機能が使用できません。 JavaScriptをはじめて勉強する方のための“超”入門書です。文法は、本書後半で取り組むブラウザゲーム「ブラックジャック」のプログラミングに必要な内容を厳選して解説。はじめての方でも最後まで楽しく学べます。<br><blockquote>※この商品はタブレットなど大きいディスプレイを備えた端末で読むことに適しています。また、文字だけを拡大することや、文字列のハイライト、検索、辞書の参照、引用など ...</blockquote>",
-            "url": "http://books.google.com/books?id=hQskEAAAQBAJ&dq=JavaScript&hl=&cd=8&source=gbs_api",
+            "url": "http://books.google.com/books?id=hQskEAAAQBAJ&dq=JavaScript&hl=&cd=7&source=gbs_api",
             "title": "図解！ JavaScriptのツボとコツがゼッタイにわかる本 “超”入門編",
             "summary": "※この商品はタブレットなど大きいディスプレイを備えた端末で読むことに適しています。また、文字だけを拡大することや、文字列のハイライト、検索、辞書の参照、引用などの機能が使用できません。 JavaScriptをはじめて勉強する方のための“超”入門書です。文法は、本書後半で取り組むブラウザゲーム「ブラックジャック」のプログラミングに必要な内容を厳選して解説。はじめての方でも最後まで楽しく学べます。",
             "image": "http://books.google.com/books/content?id=hQskEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
@@ -45,12 +45,12 @@
             "date_modified": "2021-03-01T00:00:00.000Z"
         },
         {
-            "content_html": "JavaScriptの基礎から実用的な知識まで完全網羅！ ※この電子書籍は固定レイアウト型で配信されております。固定レイアウト型は文字だけを拡大することや、文字列のハイライト、検索、辞書の参照、引用などの機能が使用できません。 JavaScriptの基礎から実用的な知識まで完全網羅！ プログラミング初心者でも本書を学習すれば現場で生きるスキルが身につく！<br><blockquote>JavaScriptの基礎から実用的な知識まで完全網羅！ ※この電子書籍は固定レイアウト型で配信されております。固定レイアウト型は文字だけを拡大することや、文字列のハイライト ...</blockquote>",
-            "url": "http://books.google.com/books?id=4xkZEAAAQBAJ&dq=JavaScript&hl=&cd=10&source=gbs_api",
-            "title": "JavaScript［完全］入門",
-            "summary": "JavaScriptの基礎から実用的な知識まで完全網羅！ ※この電子書籍は固定レイアウト型で配信されております。固定レイアウト型は文字だけを拡大することや、文字列のハイライト、検索、辞書の参照、引用などの機能が使用できません。 JavaScriptの基礎から実用的な知識まで完全網羅！ プログラミング初心者でも本書を学習すれば現場で生きるスキルが身につく！",
-            "image": "http://books.google.com/books/content?id=4xkZEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-            "date_modified": "2021-02-04T00:00:00.000Z"
+            "content_html": "※この商品はタブレットなど大きいディスプレイを備えた端末で読むことに適しています。また、文字だけを拡大することや、文字列のハイライト、検索、辞書の参照、引用などの機能が使用できません。 本企画はReact.jsの入門者向け書籍です。対象読者はJavaScriptの入門書を読み終え、React.jsの経験がない層で、そういった人が挫折しないよう手取り足取り教える内容になっています。<br><blockquote>※この商品はタブレットなど大きいディスプレイを備えた端末で読むことに適しています。また、文字だけを拡大することや、文字列のハイライト、検索、辞書の参照、引用など ...</blockquote>",
+            "url": "http://books.google.com/books?id=BxcgEAAAQBAJ&dq=JavaScript&hl=&cd=10&source=gbs_api",
+            "title": "React.js＆Next.js超入門 第2版",
+            "summary": "※この商品はタブレットなど大きいディスプレイを備えた端末で読むことに適しています。また、文字だけを拡大することや、文字列のハイライト、検索、辞書の参照、引用などの機能が使用できません。 本企画はReact.jsの入門者向け書籍です。対象読者はJavaScriptの入門書を読み終え、React.jsの経験がない層で、そういった人が挫折しないよう手取り足取り教える内容になっています。",
+            "image": "http://books.google.com/books/content?id=BxcgEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+            "date_modified": "2021-02-26T00:00:00.000Z"
         }
     ]
 }

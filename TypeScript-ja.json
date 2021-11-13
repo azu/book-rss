@@ -13,8 +13,32 @@
             "date_modified": "2021-08-01T00:00:00.000Z"
         },
         {
-            "content_html": "※この商品はタブレットなど大きいディスプレイを備えた端末で読むことに適しています。また、文字だけを拡大することや、文字列のハイライト、検索、辞書の参照、引用などの機能が使用できません。 Excel は Web で使う」時代がやってくる! 現在、あらゆるものはローカル環境 から Web へとシフトしつつあります。そんな中、未だに「アプリケーションをインストールして使う」ソフ トの代表とも言えるのが「Excel」です。 Web 版 Excel に、2021年5月に「Office Script」というマクロ言語が搭載されました。これにより、Excel を自動化することができるようになりました。 本書ではOffice ScriptのベースとなっているTypeScript(JavaScriptを拡張したものです)の文法から、Excelのセルやグラフ、テーブルなどの操作まで細かく説明をしています。 そのほか、Power Automate というiSaaS(Integration Software As A Service、サービスの統合化)ツールを使い、 外部とやり取りする方法まで触れています。 新しい言語の「Office Script」を誰よりも早く学ぶチャンスです。<br><blockquote>※この商品はタブレットなど大きいディスプレイを備えた端末で読むことに適しています。また、文字だけを拡大することや、文字列のハイライト、検索、辞書の参照、引用など ...</blockquote>",
-            "url": "http://books.google.com/books?id=7KZKEAAAQBAJ&dq=TypeScript&hl=&cd=2&source=gbs_api",
+            "content_html": "サンプルを作りながらTypeScriptの仕組みや特徴を学ぶ!TypeScriptの基礎知識からアプリ開発、更にはReact.jsやNode.js(Express/Nest)を使ったWebアプリ開発の基礎的な技術まで一通り解説。<br><blockquote><b>TypeScript</b>のスクリプト<b>TypeScript</b>のスクリプトその後にある&lt;script lang=&quot;ts&quot;&gt;というタグが<b>TypeScript</b>のスクリプトを記述している部分です。<b>TypeScript</b>を使う場合は、このようにlang属性に&quot;ts&quot;を指定します。 import { Options,&nbsp;...</blockquote>",
+            "url": "http://books.google.com/books?id=qAlGEAAAQBAJ&pg=PA314&dq=TypeScript&hl=&cd=2&source=gbs_api",
+            "title": "TypeScriptﾊﾝｽﾞｵﾝ",
+            "summary": "サンプルを作りながらTypeScriptの仕組みや特徴を学ぶ!TypeScriptの基礎知識からアプリ開発、更にはReact.jsやNode.js(Express/Nest)を使ったWebアプリ開発の基礎的な技術まで一通り解説。",
+            "image": "http://books.google.com/books/content?id=qAlGEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+            "date_modified": "2021-08-01T00:00:00.000Z"
+        },
+        {
+            "content_html": "サンプルを作りながらTypeScriptの仕組みや特徴を学ぶ!TypeScriptの基礎知識からアプリ開発、更にはReact.jsやNode.js(Express/Nest)を使ったWebアプリ開発の基礎的な技術まで一通り解説。<br><blockquote><b>TypeScript</b>を使っていても、このようにリアルタイムに修正内容が反映されるので、「トランスコンパイルして使っている」という感じがほとんどしません。<b>TypeScript</b>のコードがそのまま動いているように思えることでしょう。特に<b>TypeScript</b>を利用している&nbsp;...</blockquote>",
+            "url": "http://books.google.com/books?id=qAlGEAAAQBAJ&pg=PA48&dq=TypeScript&hl=&cd=3&source=gbs_api",
+            "title": "TypeScriptﾊﾝｽﾞｵﾝ",
+            "summary": "サンプルを作りながらTypeScriptの仕組みや特徴を学ぶ!TypeScriptの基礎知識からアプリ開発、更にはReact.jsやNode.js(Express/Nest)を使ったWebアプリ開発の基礎的な技術まで一通り解説。",
+            "image": "http://books.google.com/books/content?id=qAlGEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+            "date_modified": "2021-08-01T00:00:00.000Z"
+        },
+        {
+            "content_html": "TypeScriptの基本から、グラフ・図形・ピボットテーブルの操作など、そして、Power Automateとの連携まで、Web版Excelに搭載されたマクロ機能「Office Script」を豊富な具体例で徹底解説。最先端のExcelをいちはやくマスターできます。<br><blockquote>TypeScriptの基本から、グラフ・図形・ピボットテーブルの操作など、そして、Power Automateとの連携まで、Web版Excelに搭載されたマクロ機能「Office ...</blockquote>",
+            "url": "http://books.google.com/books?id=t1WazgEACAAJ&dq=TypeScript&hl=&cd=4&source=gbs_api",
+            "title": "Office ScriptによるExcel on the web開発入門",
+            "summary": "TypeScriptの基本から、グラフ・図形・ピボットテーブルの操作など、そして、Power Automateとの連携まで、Web版Excelに搭載されたマクロ機能「Office Script」を豊富な具体例で徹底解説。最先端のExcelをいちはやくマスターできます。",
+            "image": "http://books.google.com/books/content?id=t1WazgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+            "date_modified": "2021-10-31T00:00:00.000Z"
+        },
+        {
+            "content_html": "※この商品はタブレットなど大きいディスプレイを備えた端末で読むことに適しています。また、文字だけを拡大することや、文字列のハイライト、検索、辞書の参照、引用などの機能が使用できません。 Excel は Web で使う」時代がやってくる! 現在、あらゆるものはローカル環境 から Web へとシフトしつつあります。そんな中、未だに「アプリケーションをインストールして使う」ソフ トの代表とも言えるのが「Excel」です。 Web 版 Excel に、2021年5月に「Office Script」というマクロ言語が搭載されました。これにより、Excel を自動化することができるようになりました。 本書ではOffice ScriptのベースとなっているTypeScript(JavaScriptを拡張したものです)の文法から、Excelのセルやグラフ、テーブルなどの操作まで細かく説明をしています。 そのほか、Power Automate というiSaaS(Integration Software As A Service、サービスの統合化)ツールを使い、 外部とやり取りする方法まで触れています。 新しい言語の「Office Script」を誰よりも早く学ぶチャンスです。",
+            "url": "http://books.google.com/books?id=7KZKEAAAQBAJ&pg=PP1&dq=TypeScript&hl=&cd=5&source=gbs_api",
             "title": "Office ScriptによるExcel on the web 開発入門",
             "summary": "※この商品はタブレットなど大きいディスプレイを備えた端末で読むことに適しています。また、文字だけを拡大することや、文字列のハイライト、検索、辞書の参照、引用などの機能が使用できません。 Excel は Web で使う」時代がやってくる! 現在、あらゆるものはローカル環境 から Web へとシフトしつつあります。そんな中、未だに「アプリケーションをインストールして使う」ソフ トの代表とも言えるのが「Excel」です。 Web 版 Excel に、2021年5月に「Office Script」というマクロ言語が搭載されました。これにより、Excel を自動化することができるようになりました。 本書ではOffice ScriptのベースとなっているTypeScript(JavaScriptを拡張したものです)の文法から、Excelのセルやグラフ、テーブルなどの操作まで細かく説明をしています。 そのほか、Power Automate というiSaaS(Integration Software As A Service、サービスの統合化)ツールを使い、 外部とやり取りする方法まで触れています。 新しい言語の「Office Script」を誰よりも早く学ぶチャンスです。",
             "image": "http://books.google.com/books/content?id=7KZKEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
@@ -22,7 +46,7 @@
         },
         {
             "content_html": "絶対に挫折しない最高の1冊！ ※この電子書籍は固定レイアウト型で配信されております。固定レイアウト型は文字だけを拡大することや、文字列のハイライト、検索、辞書の参照、引用などの機能が使用できません。 Reactをイチから学びたい方にオススメの1冊です！ 【本書のポイント】 UdemyのReactコースで最高評価獲得の著者がモダンJavaScriptの基礎からTypeScriptの実践的な内容までしっかり解説！ 著者が2年以上勉強会を主催し初学者と話す中で分かった、多くの人が感じるReactの挫折ポイントを解決する構成！ 現場のシチュエーションベースのストーリーで技術解説をしているので、実務で必要となる知識を意識しながら学習を進められる！ 「#挫折しないReact本」で学習した感想をシェア！！",
-            "url": "http://books.google.com/books?id=mK9CEAAAQBAJ&pg=PP1&dq=TypeScript&hl=&cd=3&source=gbs_api",
+            "url": "http://books.google.com/books?id=mK9CEAAAQBAJ&pg=PP1&dq=TypeScript&hl=&cd=6&source=gbs_api",
             "title": "モダンJavaScriptの基本から始める　React実践の教科書",
             "summary": "絶対に挫折しない最高の1冊！ ※この電子書籍は固定レイアウト型で配信されております。固定レイアウト型は文字だけを拡大することや、文字列のハイライト、検索、辞書の参照、引用などの機能が使用できません。 Reactをイチから学びたい方にオススメの1冊です！ 【本書のポイント】 UdemyのReactコースで最高評価獲得の著者がモダンJavaScriptの基礎からTypeScriptの実践的な内容までしっかり解説！ 著者が2年以上勉強会を主催し初学者と話す中で分かった、多くの人が感じるReactの挫折ポイントを解決する構成！ 現場のシチュエーションベースのストーリーで技術解説をしているので、実務で必要となる知識を意識しながら学習を進められる！ 「#挫折しないReact本」で学習した感想をシェア！！",
             "image": "http://books.google.com/books/content?id=mK9CEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
@@ -30,15 +54,15 @@
         },
         {
             "content_html": "※この商品はタブレットなど大きいディスプレイを備えた端末で読むことに適しています。また、文字だけを拡大することや、文字列のハイライト、検索、辞書の参照、引用などの機能が使用できません。 TypeScriptをハンズオン形式で学ぶ書籍です。「ハンズオン形式で敷居の低い解説」が特徴となります。またWebアプリ開発にも章を割いており、様々な知識を学びたい人にうってつけの内容となります。",
-            "url": "http://books.google.com/books?id=uvU-EAAAQBAJ&pg=PP1&dq=TypeScript&hl=&cd=4&source=gbs_api",
+            "url": "http://books.google.com/books?id=uvU-EAAAQBAJ&pg=PP1&dq=TypeScript&hl=&cd=7&source=gbs_api",
             "title": "TypeScriptハンズオン",
             "summary": "※この商品はタブレットなど大きいディスプレイを備えた端末で読むことに適しています。また、文字だけを拡大することや、文字列のハイライト、検索、辞書の参照、引用などの機能が使用できません。 TypeScriptをハンズオン形式で学ぶ書籍です。「ハンズオン形式で敷居の低い解説」が特徴となります。またWebアプリ開発にも章を割いており、様々な知識を学びたい人にうってつけの内容となります。",
             "image": "http://books.google.com/books/content?id=uvU-EAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
             "date_modified": "2021-08-26T00:00:00.000Z"
         },
         {
-            "content_html": "サンプルを作りながらTypeScriptの仕組みや特徴を学ぶ!TypeScriptの基礎知識からアプリ開発、更にはReact.jsやNode.js(Express/Nest)を使ったWebアプリ開発の基礎的な技術まで一通り解説。<br><blockquote>もっときっちりと厳格にプログラムを書けるようにしてほしい、でないと本格的な開発には使えないぞ。そう感じている人もきっと多かったことでしょう。そんな人への一つの回答が、「<b>TypeScript</b>」です。 <b>TypeScript</b>は、JavaScriptの進化形です。</blockquote>",
-            "url": "http://books.google.com/books?id=qAlGEAAAQBAJ&pg=PA3&dq=TypeScript&hl=&cd=5&source=gbs_api",
+            "content_html": "サンプルを作りながらTypeScriptの仕組みや特徴を学ぶ!TypeScriptの基礎知識からアプリ開発、更にはReact.jsやNode.js(Express/Nest)を使ったWebアプリ開発の基礎的な技術まで一通り解説。<br><blockquote>サンプルを作りながらTypeScriptの仕組みや特徴を学ぶ!TypeScriptの基礎知識からアプリ開発、更にはReact.jsやNode.js(Express/Nest)を使ったWebアプリ開発の基礎的な技術まで一通り解説。</blockquote>",
+            "url": "http://books.google.com/books?id=qAlGEAAAQBAJ&pg=PP1&dq=TypeScript&hl=&cd=8&source=gbs_api",
             "title": "TypeScriptﾊﾝｽﾞｵﾝ",
             "summary": "サンプルを作りながらTypeScriptの仕組みや特徴を学ぶ!TypeScriptの基礎知識からアプリ開発、更にはReact.jsやNode.js(Express/Nest)を使ったWebアプリ開発の基礎的な技術まで一通り解説。",
             "image": "http://books.google.com/books/content?id=qAlGEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
@@ -46,42 +70,18 @@
         },
         {
             "content_html": "Android Studio 4によるAndroidアプリの開発手順を基礎からしっかり学べます。<br><blockquote>Android Studio 4によるAndroidアプリの開発手順を基礎からしっかり学べます。</blockquote>",
-            "url": "http://books.google.com/books?id=XAmuzgEACAAJ&dq=TypeScript&hl=&cd=6&source=gbs_api",
+            "url": "http://books.google.com/books?id=XAmuzgEACAAJ&dq=TypeScript&hl=&cd=9&source=gbs_api",
             "title": "TECHNICAL MASTER はじめてのAndroidアプリ開発 Kotlin編 Android Studio 4対応",
             "summary": "Android Studio 4によるAndroidアプリの開発手順を基礎からしっかり学べます。",
             "date_modified": "2021-11-23T00:00:00.000Z"
         },
         {
-            "content_html": "サンプルを作りながらTypeScriptの仕組みや特徴を学ぶ!TypeScriptの基礎知識からアプリ開発、更にはReact.jsやNode.js(Express/Nest)を使ったWebアプリ開発の基礎的な技術まで一通り解説。<br><blockquote>サンプルを作りながらTypeScriptの仕組みや特徴を学ぶ!TypeScriptの基礎知識からアプリ開発、更にはReact.jsやNode.js(Express/Nest)を使ったWebアプリ開発の基礎的な技術まで一通り解説。</blockquote>",
-            "url": "http://books.google.com/books?id=qAlGEAAAQBAJ&pg=PP1&dq=TypeScript&hl=&cd=7&source=gbs_api",
-            "title": "TypeScriptﾊﾝｽﾞｵﾝ",
-            "summary": "サンプルを作りながらTypeScriptの仕組みや特徴を学ぶ!TypeScriptの基礎知識からアプリ開発、更にはReact.jsやNode.js(Express/Nest)を使ったWebアプリ開発の基礎的な技術まで一通り解説。",
-            "image": "http://books.google.com/books/content?id=qAlGEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-            "date_modified": "2021-08-01T00:00:00.000Z"
-        },
-        {
-            "content_html": "TypeScriptの基本から、グラフ・図形・ピボットテーブルの操作など、そして、Power Automateとの連携まで、Web版Excelに搭載されたマクロ機能「Office Script」を豊富な具体例で徹底解説。最先端のExcelをいちはやくマスターできます。<br><blockquote>・Office Scriptとは マイクロソフトはExcel on the Web用の新しいプログラミング言語「Office Script for Excel」を2021年5月に正式リリースしました。 このOffice ...</blockquote>",
-            "url": "http://books.google.com/books?id=t1WazgEACAAJ&dq=TypeScript&hl=&cd=8&source=gbs_api",
-            "title": "Office ScriptによるExcel on the web開発入門",
-            "summary": "TypeScriptの基本から、グラフ・図形・ピボットテーブルの操作など、そして、Power Automateとの連携まで、Web版Excelに搭載されたマクロ機能「Office Script」を豊富な具体例で徹底解説。最先端のExcelをいちはやくマスターできます。",
-            "image": "http://books.google.com/books/content?id=t1WazgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-            "date_modified": "2021-10-31T00:00:00.000Z"
-        },
-        {
             "content_html": "本書は、Web ブラウザにおける本格的な GUI の入門書です。Web ブラウザに期待される役割は年々増してきています。ネイティブアプリ顔負けのデザインツールや、ドラッグアンドドロップでの操作が必要なフォームを作りたくなったとして、我々は何に気をつけるべきなのでしょうか？これまで HTML / CSS / JavaScript で実装するのが大変だった UI をどう実装するべきなのでしょうか？この点を本書は重点的に扱います。本書では定番のセレクトボックスやヘッダーレイアウトの他、バウンディングボックスやツリーといったドラッグを伴う UI なども実装していきます。苦しくも楽しい、Webブラウザの複雑なGUIの世界に、エディタとブラウザを開きながら足を踏み入れてみましょう。 【目次】 第1章 フルスクラッチGUI入門 第2章 バウンディングボックスことはじめ──移動・拡縮・回転 第3章 スクロールに連動して高さが変わるヘッダビューを作る 第4章 ドラッグ＆ドロップ並び替え入門 第5章 座談会──STUDIO CPOとするGUIの話<br><blockquote>本書は、Web ブラウザにおける本格的な GUI の入門書です。Web ブラウザに期待される役割は年々増してきています。ネイティブアプリ顔負けのデザインツールや、ドラッグアンド ...</blockquote>",
-            "url": "http://books.google.com/books?id=0Pn6DwAAQBAJ&printsec=frontcover&dq=TypeScript&hl=&cd=9&source=gbs_api",
+            "url": "http://books.google.com/books?id=0Pn6DwAAQBAJ&printsec=frontcover&dq=TypeScript&hl=&cd=10&source=gbs_api",
             "title": "入門GUI",
             "summary": "本書は、Web ブラウザにおける本格的な GUI の入門書です。Web ブラウザに期待される役割は年々増してきています。ネイティブアプリ顔負けのデザインツールや、ドラッグアンドドロップでの操作が必要なフォームを作りたくなったとして、我々は何に気をつけるべきなのでしょうか？これまで HTML / CSS / JavaScript で実装するのが大変だった UI をどう実装するべきなのでしょうか？この点を本書は重点的に扱います。本書では定番のセレクトボックスやヘッダーレイアウトの他、バウンディングボックスやツリーといったドラッグを伴う UI なども実装していきます。苦しくも楽しい、Webブラウザの複雑なGUIの世界に、エディタとブラウザを開きながら足を踏み入れてみましょう。 【目次】 第1章 フルスクラッチGUI入門 第2章 バウンディングボックスことはじめ──移動・拡縮・回転 第3章 スクロールに連動して高さが変わるヘッダビューを作る 第4章 ドラッグ＆ドロップ並び替え入門 第5章 座談会──STUDIO CPOとするGUIの話",
             "image": "http://books.google.com/books/content?id=0Pn6DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
             "date_modified": "2020-09-11T00:00:00.000Z"
-        },
-        {
-            "content_html": "本書はReactをテーマに、Webフロントエンド開発の環境構築を1つ1つ丁寧に解説します。特に設定が足りない状態で動かすとどうなるのか、なぜその設定が必要なのかについて踏み込んで説明しています。環境構築の難しさは、設定をどれか1つでも間違えると動かないことにあります。そのため、環境構築をする際は1つ1つの設定で自分が何をしているのかを正確に把握しなければいけません。この本では暗黙的に「そういうものだから」と思われがちな設定に注目し、解説します。どの設定を足さなければ動かないのか、サンプルコードを示しながら学ぶことができます。 【目次】 第1章 Node.jsを使ったビルド環境整備 第2章 Babelを使ったトランスパイル 第3章 TypeScriptを使ったコンパイル 第4章 webpackを使ったバンドルとビルド 第5章 ESLintを使った静的解析 第6章 Prettierを使ったフォーマット 第7章 Storybookを使ったコンポーネント管理 第8章 Jestを使ったテスト 第9章 0から環境を作ってみる 付録A バージョンの追従<br><blockquote>本書はReactをテーマに、Webフロントエンド開発の環境構築を1つ1つ丁寧に解説します。特に設定が足りない状態で動かすとどうなるのか、なぜその設定が必要なのかについて踏み ...</blockquote>",
-            "url": "http://books.google.com/books?id=VSv3DwAAQBAJ&pg=PP1&dq=TypeScript&hl=&cd=10&source=gbs_api",
-            "title": "React環境構築の教科書",
-            "summary": "本書はReactをテーマに、Webフロントエンド開発の環境構築を1つ1つ丁寧に解説します。特に設定が足りない状態で動かすとどうなるのか、なぜその設定が必要なのかについて踏み込んで説明しています。環境構築の難しさは、設定をどれか1つでも間違えると動かないことにあります。そのため、環境構築をする際は1つ1つの設定で自分が何をしているのかを正確に把握しなければいけません。この本では暗黙的に「そういうものだから」と思われがちな設定に注目し、解説します。どの設定を足さなければ動かないのか、サンプルコードを示しながら学ぶことができます。 【目次】 第1章 Node.jsを使ったビルド環境整備 第2章 Babelを使ったトランスパイル 第3章 TypeScriptを使ったコンパイル 第4章 webpackを使ったバンドルとビルド 第5章 ESLintを使った静的解析 第6章 Prettierを使ったフォーマット 第7章 Storybookを使ったコンポーネント管理 第8章 Jestを使ったテスト 第9章 0から環境を作ってみる 付録A バージョンの追従",
-            "image": "http://books.google.com/books/content?id=VSv3DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-            "date_modified": "2020-08-21T00:00:00.000Z"
         }
     ]
 }

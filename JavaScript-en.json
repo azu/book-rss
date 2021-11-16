@@ -5,20 +5,20 @@
     "description": "JavaScript(en) on Google Book",
     "items": [
         {
+            "content_html": "This book is written in a practical and easy way and offers theory and plenty of practical material. Now is your chance to delve into Javascript basics with this easy to follow guide.<br><blockquote>This book is written in a practical and easy way and offers theory and plenty of practical material. Now is your chance to delve into Javascript basics with this easy to follow guide.</blockquote>",
+            "url": "http://books.google.com/books?id=2T6MzgEACAAJ&dq=JavaScript&hl=&cd=7&source=gbs_api",
+            "title": "Javascript",
+            "summary": "This book is written in a practical and easy way and offers theory and plenty of practical material. Now is your chance to delve into Javascript basics with this easy to follow guide.",
+            "image": "http://books.google.com/books/content?id=2T6MzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+            "date_modified": "2021-07-13T00:00:00.000Z"
+        },
+        {
             "content_html": "JavaScript is an important scripting language for almost every modern web application. It is simple for beginners but complex when you build a full-scale application. The book is extremely user-friendly. It assumes no programming experience and helps the students to learn the JavaScript in step by step manner with the help of illustrative examples. The first two units cover the fundamental concepts of JavaScript such as variables, operators, control structures, arrays, functions and strings. In the third unit, the concept of form and event handling is discussed. This feature of JavaScript help us to design the interactive web page with graphical user interface. In the next subsequent chapter, the book demonstrates how to create and manage cookies, how to create browser history, implementation of form validation with the help of regular expressions, creating rollover effects and creating and handling frames. At the end, the book illustrates creation of banner, management of status bar and creation of slideshows using JavaScript. This book serves the purpose of teaching JavaScript in the simplest and easiest manner.<br><blockquote>At the end, the book illustrates creation of banner, management of status bar and creation of slideshows using JavaScript. This book serves the purpose of teaching JavaScript in the simplest and easiest manner.</blockquote>",
-            "url": "http://books.google.com/books?id=jOUbEAAAQBAJ&printsec=frontcover&dq=JavaScript&hl=&cd=7&source=gbs_api",
+            "url": "http://books.google.com/books?id=jOUbEAAAQBAJ&printsec=frontcover&dq=JavaScript&hl=&cd=9&source=gbs_api",
             "title": "Client Side Scripting",
             "summary": "JavaScript is an important scripting language for almost every modern web application. It is simple for beginners but complex when you build a full-scale application. The book is extremely user-friendly. It assumes no programming experience and helps the students to learn the JavaScript in step by step manner with the help of illustrative examples. The first two units cover the fundamental concepts of JavaScript such as variables, operators, control structures, arrays, functions and strings. In the third unit, the concept of form and event handling is discussed. This feature of JavaScript help us to design the interactive web page with graphical user interface. In the next subsequent chapter, the book demonstrates how to create and manage cookies, how to create browser history, implementation of form validation with the help of regular expressions, creating rollover effects and creating and handling frames. At the end, the book illustrates creation of banner, management of status bar and creation of slideshows using JavaScript. This book serves the purpose of teaching JavaScript in the simplest and easiest manner.",
             "image": "http://books.google.com/books/content?id=jOUbEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
             "date_modified": "2020-12-01T00:00:00.000Z"
-        },
-        {
-            "content_html": "Create responsive front-end web applications in Python using the React and Material-UI JavaScript libraries, without having to program in JavaScript, by using the Transcrypt transpiler that turns your Python code into JavaScript.<br><blockquote>Create responsive front-end web applications in Python using the React and Material-UI JavaScript libraries, without having to program in JavaScript, by using the Transcrypt transpiler that turns your Python code into JavaScript.</blockquote>",
-            "url": "http://books.google.com/books?id=EnplzgEACAAJ&dq=JavaScript&hl=&cd=10&source=gbs_api",
-            "title": "React to Python",
-            "summary": "Create responsive front-end web applications in Python using the React and Material-UI JavaScript libraries, without having to program in JavaScript, by using the Transcrypt transpiler that turns your Python code into JavaScript.",
-            "image": "http://books.google.com/books/content?id=EnplzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-            "date_modified": "2021-05-01T00:00:00.000Z"
         }
     ]
 }

@@ -5,16 +5,8 @@
     "description": "TypeScript(ja) on Google Book",
     "items": [
         {
-            "content_html": "DXを成功させるためには技術の理解が不可欠 確かな知識がつく「使える教科書」 【本書のポイント】 ・解説とイラストがセットで理解しやすい ・DXの概念的な説明や実現に向けての準備だけでなく、技術面もしっかり解説 ・DX人材に身につけてもらいたいITとデジタル技術を中心に基礎知識から実用に至るまでをコンパクトに解説 ・技術面を理解することで、ビジネスやサービス、あるいはシステムの企画立案ができるようになる ・キーワードから知りたい項目を調べやすい ・現場の実態や出来事など、最新動向にもしっかり対応！ ・ビジネスパーソンに必須の知識に絞って解説！ こんな方におすすめ！ ・DX全体の概要を知りたい方 ・DXを成功させるコツを知りたい人 ・DXに関連する技術のイメージがわかなくて困っている方 ・DXに関わる技術と機器の役割を知りたい方 ・現場の実態や出来事など、最新動向についても知りたい方 【内容紹介】 現在、DXはさまざまなシーンで登場する言葉となっています。 本書ではDX人材に身につけてもらいたいITとデジタル技術を中心に 基礎知識から実用に至るまでをしっかりと解説しています。 ビジネスやサービス、あるいはシステムの企画立案をするためには、技術の理解が不可欠です。 そこで、本書では見開きで 1つのテーマを取り上げ、 図解を交えて解説しています。 最初から順に読んで 体系的な知識を得るのはもちろん、 気になるテーマやキーワードに 注目しながら読むなど、 状況に合わせて活用しましょう。 【目次】 第1章 DXの基本～特徴と機能、デジタル化との違い～ 第2章 DXの実現に向けて～取り組みと実現のパターン～ 第3章 DXを実現するフロントエンドのデジタル技術～AI・RPA・IoTデバイス～ 第4章 DXに不可欠なWeb技術～ブラウザ、Webアプリ、多様化するWebの世界～ 第5章 DXの基盤を担うクラウド～クラウドのサービスと技術～ 第6章 データ処理とネットワーク～変わりゆくデータベースと典型的な処理～ 第7章 DXを創る活動～企画・設計から準備まで～ 第8章 DXはWebとクラウドから～DXのほとんどはWeb技術を使う～ 第9章 DX人材を育てる～人材像とスキルの定義～<br><blockquote>NETの概要例えばJavaScriptであれば、React、Vue.js(ビュー・ドット・ジェイエス)、jQueryなどが、<b>TypeScript</b>であればAngular(アンギュラー)などのように、ベースとなる言語に合ったフレームワークが選択されます(図 8-7下)。それぞれが、各処理において&nbsp;...</blockquote>",
-            "url": "http://books.google.com/books?id=8H5GEAAAQBAJ&pg=PA205&dq=TypeScript&hl=&cd=1&source=gbs_api",
-            "title": "図解まるわかり DXのしくみ",
-            "summary": "DXを成功させるためには技術の理解が不可欠 確かな知識がつく「使える教科書」 【本書のポイント】 ・解説とイラストがセットで理解しやすい ・DXの概念的な説明や実現に向けての準備だけでなく、技術面もしっかり解説 ・DX人材に身につけてもらいたいITとデジタル技術を中心に基礎知識から実用に至るまでをコンパクトに解説 ・技術面を理解することで、ビジネスやサービス、あるいはシステムの企画立案ができるようになる ・キーワードから知りたい項目を調べやすい ・現場の実態や出来事など、最新動向にもしっかり対応！ ・ビジネスパーソンに必須の知識に絞って解説！ こんな方におすすめ！ ・DX全体の概要を知りたい方 ・DXを成功させるコツを知りたい人 ・DXに関連する技術のイメージがわかなくて困っている方 ・DXに関わる技術と機器の役割を知りたい方 ・現場の実態や出来事など、最新動向についても知りたい方 【内容紹介】 現在、DXはさまざまなシーンで登場する言葉となっています。 本書ではDX人材に身につけてもらいたいITとデジタル技術を中心に 基礎知識から実用に至るまでをしっかりと解説しています。 ビジネスやサービス、あるいはシステムの企画立案をするためには、技術の理解が不可欠です。 そこで、本書では見開きで 1つのテーマを取り上げ、 図解を交えて解説しています。 最初から順に読んで 体系的な知識を得るのはもちろん、 気になるテーマやキーワードに 注目しながら読むなど、 状況に合わせて活用しましょう。 【目次】 第1章 DXの基本～特徴と機能、デジタル化との違い～ 第2章 DXの実現に向けて～取り組みと実現のパターン～ 第3章 DXを実現するフロントエンドのデジタル技術～AI・RPA・IoTデバイス～ 第4章 DXに不可欠なWeb技術～ブラウザ、Webアプリ、多様化するWebの世界～ 第5章 DXの基盤を担うクラウド～クラウドのサービスと技術～ 第6章 データ処理とネットワーク～変わりゆくデータベースと典型的な処理～ 第7章 DXを創る活動～企画・設計から準備まで～ 第8章 DXはWebとクラウドから～DXのほとんどはWeb技術を使う～ 第9章 DX人材を育てる～人材像とスキルの定義～",
-            "image": "http://books.google.com/books/content?id=8H5GEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-            "date_modified": "2021-10-11T00:00:00.000Z"
-        },
-        {
             "content_html": "TypeScriptの基本から、グラフ・図形・ピボットテーブルの操作など、そして、Power Automateとの連携まで、Web版Excelに搭載されたマクロ機能「Office Script」を豊富な具体例で徹底解説。最先端のExcelをいちはやくマスターできます。<br><blockquote>TypeScriptの基本から、グラフ・図形・ピボットテーブルの操作など、そして、Power Automateとの連携まで、Web版Excelに搭載されたマクロ機能「Office ...</blockquote>",
-            "url": "http://books.google.com/books?id=t1WazgEACAAJ&dq=TypeScript&hl=&cd=2&source=gbs_api",
+            "url": "http://books.google.com/books?id=t1WazgEACAAJ&dq=TypeScript&hl=&cd=1&source=gbs_api",
             "title": "Office ScriptによるExcel on the web開発入門",
             "summary": "TypeScriptの基本から、グラフ・図形・ピボットテーブルの操作など、そして、Power Automateとの連携まで、Web版Excelに搭載されたマクロ機能「Office Script」を豊富な具体例で徹底解説。最先端のExcelをいちはやくマスターできます。",
             "image": "http://books.google.com/books/content?id=t1WazgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
@@ -22,15 +14,39 @@
         },
         {
             "content_html": "サンプルを作りながらTypeScriptの仕組みや特徴を学ぶ!TypeScriptの基礎知識からアプリ開発、更にはReact.jsやNode.js(Express/Nest)を使ったWebアプリ開発の基礎的な技術まで一通り解説。<br><blockquote>サンプルを作りながらTypeScriptの仕組みや特徴を学ぶ!TypeScriptの基礎知識からアプリ開発、更にはReact.jsやNode.js(Express/Nest)を使ったWebアプリ開発の基礎的な技術まで一通り解説。</blockquote>",
-            "url": "http://books.google.com/books?id=qAlGEAAAQBAJ&pg=PP1&dq=TypeScript&hl=&cd=3&source=gbs_api",
+            "url": "http://books.google.com/books?id=qAlGEAAAQBAJ&pg=PP1&dq=TypeScript&hl=&cd=2&source=gbs_api",
             "title": "TypeScriptﾊﾝｽﾞｵﾝ",
             "summary": "サンプルを作りながらTypeScriptの仕組みや特徴を学ぶ!TypeScriptの基礎知識からアプリ開発、更にはReact.jsやNode.js(Express/Nest)を使ったWebアプリ開発の基礎的な技術まで一通り解説。",
             "image": "http://books.google.com/books/content?id=qAlGEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
             "date_modified": "2021-08-01T00:00:00.000Z"
         },
         {
+            "content_html": "サンプルを作りながらTypeScriptの仕組みや特徴を学ぶ!TypeScriptの基礎知識からアプリ開発、更にはReact.jsやNode.js(Express/Nest)を使ったWebアプリ開発の基礎的な技術まで一通り解説。<br><blockquote><b>TypeScript</b>とは?<b>TypeScript</b>とは? Chapter 1 1 このトランスコンパイラ言語の中でも、現在もっとも広く使われているのが「<b>TypeScript</b>(タイプスクリプト)」と呼ばれる言語です。<b>TypeScript</b>は、マイクロソフトにより2012年に開発さ 2 れたオープンソースの&nbsp;...</blockquote>",
+            "url": "http://books.google.com/books?id=qAlGEAAAQBAJ&pg=PA15&dq=TypeScript&hl=&cd=3&source=gbs_api",
+            "title": "TypeScriptﾊﾝｽﾞｵﾝ",
+            "summary": "サンプルを作りながらTypeScriptの仕組みや特徴を学ぶ!TypeScriptの基礎知識からアプリ開発、更にはReact.jsやNode.js(Express/Nest)を使ったWebアプリ開発の基礎的な技術まで一通り解説。",
+            "image": "http://books.google.com/books/content?id=qAlGEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+            "date_modified": "2021-08-01T00:00:00.000Z"
+        },
+        {
+            "content_html": "サンプルを作りながらTypeScriptの仕組みや特徴を学ぶ!TypeScriptの基礎知識からアプリ開発、更にはReact.jsやNode.js(Express/Nest)を使ったWebアプリ開発の基礎的な技術まで一通り解説。<br><blockquote>Chapter 1 1 従って、<b>TypeScript</b>を学ぶということは「将来のJavaScript」を学ぶことに近いのです。多くの機能は、いずれJavaScriptでも使われるようになるものだったりします。<b>TypeScript</b>は、「JavaScriptとは異なる別の言語」ではないのです。</blockquote>",
+            "url": "http://books.google.com/books?id=qAlGEAAAQBAJ&pg=PA16&dq=TypeScript&hl=&cd=4&source=gbs_api",
+            "title": "TypeScriptﾊﾝｽﾞｵﾝ",
+            "summary": "サンプルを作りながらTypeScriptの仕組みや特徴を学ぶ!TypeScriptの基礎知識からアプリ開発、更にはReact.jsやNode.js(Express/Nest)を使ったWebアプリ開発の基礎的な技術まで一通り解説。",
+            "image": "http://books.google.com/books/content?id=qAlGEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+            "date_modified": "2021-08-01T00:00:00.000Z"
+        },
+        {
+            "content_html": "本書は、Web ブラウザにおける本格的な GUI の入門書です。Web ブラウザに期待される役割は年々増してきています。ネイティブアプリ顔負けのデザインツールや、ドラッグアンドドロップでの操作が必要なフォームを作りたくなったとして、我々は何に気をつけるべきなのでしょうか？これまで HTML / CSS / JavaScript で実装するのが大変だった UI をどう実装するべきなのでしょうか？この点を本書は重点的に扱います。本書では定番のセレクトボックスやヘッダーレイアウトの他、バウンディングボックスやツリーといったドラッグを伴う UI なども実装していきます。苦しくも楽しい、Webブラウザの複雑なGUIの世界に、エディタとブラウザを開きながら足を踏み入れてみましょう。 【目次】 第1章 フルスクラッチGUI入門 第2章 バウンディングボックスことはじめ──移動・拡縮・回転 第3章 スクロールに連動して高さが変わるヘッダビューを作る 第4章 ドラッグ＆ドロップ並び替え入門 第5章 座談会──STUDIO CPOとするGUIの話<br><blockquote>本書は、Web ブラウザにおける本格的な GUI の入門書です。Web ブラウザに期待される役割は年々増してきています。ネイティブアプリ顔負けのデザインツールや、ドラッグアンド ...</blockquote>",
+            "url": "http://books.google.com/books?id=0Pn6DwAAQBAJ&printsec=frontcover&dq=TypeScript&hl=&cd=5&source=gbs_api",
+            "title": "入門GUI",
+            "summary": "本書は、Web ブラウザにおける本格的な GUI の入門書です。Web ブラウザに期待される役割は年々増してきています。ネイティブアプリ顔負けのデザインツールや、ドラッグアンドドロップでの操作が必要なフォームを作りたくなったとして、我々は何に気をつけるべきなのでしょうか？これまで HTML / CSS / JavaScript で実装するのが大変だった UI をどう実装するべきなのでしょうか？この点を本書は重点的に扱います。本書では定番のセレクトボックスやヘッダーレイアウトの他、バウンディングボックスやツリーといったドラッグを伴う UI なども実装していきます。苦しくも楽しい、Webブラウザの複雑なGUIの世界に、エディタとブラウザを開きながら足を踏み入れてみましょう。 【目次】 第1章 フルスクラッチGUI入門 第2章 バウンディングボックスことはじめ──移動・拡縮・回転 第3章 スクロールに連動して高さが変わるヘッダビューを作る 第4章 ドラッグ＆ドロップ並び替え入門 第5章 座談会──STUDIO CPOとするGUIの話",
+            "image": "http://books.google.com/books/content?id=0Pn6DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+            "date_modified": "2020-09-11T00:00:00.000Z"
+        },
+        {
             "content_html": "※この商品はタブレットなど大きいディスプレイを備えた端末で読むことに適しています。また、文字だけを拡大することや、文字列のハイライト、検索、辞書の参照、引用などの機能が使用できません。 Excel は Web で使う」時代がやってくる! 現在、あらゆるものはローカル環境 から Web へとシフトしつつあります。そんな中、未だに「アプリケーションをインストールして使う」ソフ トの代表とも言えるのが「Excel」です。 Web 版 Excel に、2021年5月に「Office Script」というマクロ言語が搭載されました。これにより、Excel を自動化することができるようになりました。 本書ではOffice ScriptのベースとなっているTypeScript(JavaScriptを拡張したものです)の文法から、Excelのセルやグラフ、テーブルなどの操作まで細かく説明をしています。 そのほか、Power Automate というiSaaS(Integration Software As A Service、サービスの統合化)ツールを使い、 外部とやり取りする方法まで触れています。 新しい言語の「Office Script」を誰よりも早く学ぶチャンスです。",
-            "url": "http://books.google.com/books?id=7KZKEAAAQBAJ&pg=PP1&dq=TypeScript&hl=&cd=4&source=gbs_api",
+            "url": "http://books.google.com/books?id=7KZKEAAAQBAJ&pg=PP1&dq=TypeScript&hl=&cd=6&source=gbs_api",
             "title": "Office ScriptによるExcel on the web 開発入門",
             "summary": "※この商品はタブレットなど大きいディスプレイを備えた端末で読むことに適しています。また、文字だけを拡大することや、文字列のハイライト、検索、辞書の参照、引用などの機能が使用できません。 Excel は Web で使う」時代がやってくる! 現在、あらゆるものはローカル環境 から Web へとシフトしつつあります。そんな中、未だに「アプリケーションをインストールして使う」ソフ トの代表とも言えるのが「Excel」です。 Web 版 Excel に、2021年5月に「Office Script」というマクロ言語が搭載されました。これにより、Excel を自動化することができるようになりました。 本書ではOffice ScriptのベースとなっているTypeScript(JavaScriptを拡張したものです)の文法から、Excelのセルやグラフ、テーブルなどの操作まで細かく説明をしています。 そのほか、Power Automate というiSaaS(Integration Software As A Service、サービスの統合化)ツールを使い、 外部とやり取りする方法まで触れています。 新しい言語の「Office Script」を誰よりも早く学ぶチャンスです。",
             "image": "http://books.google.com/books/content?id=7KZKEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
@@ -38,50 +54,35 @@
         },
         {
             "content_html": "絶対に挫折しない最高の1冊！ ※この電子書籍は固定レイアウト型で配信されております。固定レイアウト型は文字だけを拡大することや、文字列のハイライト、検索、辞書の参照、引用などの機能が使用できません。 Reactをイチから学びたい方にオススメの1冊です！ 【本書のポイント】 UdemyのReactコースで最高評価獲得の著者がモダンJavaScriptの基礎からTypeScriptの実践的な内容までしっかり解説！ 著者が2年以上勉強会を主催し初学者と話す中で分かった、多くの人が感じるReactの挫折ポイントを解決する構成！ 現場のシチュエーションベースのストーリーで技術解説をしているので、実務で必要となる知識を意識しながら学習を進められる！ 「#挫折しないReact本」で学習した感想をシェア！！<br><blockquote>絶対に挫折しない最高の1冊！ ※この電子書籍は固定レイアウト型で配信されております。固定レイアウト型は文字だけを拡大することや、文字列のハイライト、検索、辞書の参 ...</blockquote>",
-            "url": "http://books.google.com/books?id=mK9CEAAAQBAJ&dq=TypeScript&hl=&cd=5&source=gbs_api",
+            "url": "http://books.google.com/books?id=mK9CEAAAQBAJ&dq=TypeScript&hl=&cd=7&source=gbs_api",
             "title": "モダンJavaScriptの基本から始める　React実践の教科書",
             "summary": "絶対に挫折しない最高の1冊！ ※この電子書籍は固定レイアウト型で配信されております。固定レイアウト型は文字だけを拡大することや、文字列のハイライト、検索、辞書の参照、引用などの機能が使用できません。 Reactをイチから学びたい方にオススメの1冊です！ 【本書のポイント】 UdemyのReactコースで最高評価獲得の著者がモダンJavaScriptの基礎からTypeScriptの実践的な内容までしっかり解説！ 著者が2年以上勉強会を主催し初学者と話す中で分かった、多くの人が感じるReactの挫折ポイントを解決する構成！ 現場のシチュエーションベースのストーリーで技術解説をしているので、実務で必要となる知識を意識しながら学習を進められる！ 「#挫折しないReact本」で学習した感想をシェア！！",
             "image": "http://books.google.com/books/content?id=mK9CEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
             "date_modified": "2021-09-16T00:00:00.000Z"
         },
         {
+            "content_html": "本書は入門書の次に読むことを想定にした、中級者へのステップアップを目指すNode.js解説書です。主にNode.jsに対する技術的な内容を扱います。本書を読むことによって、Node.jsに対する理解を深めることができます。Node.jsの副読本として活用ください。 【目次】 第1章 Node.jsの全体像 第2章 npm(Node Package Manager) 第3章 サーバーとしてのNode.js 第4章 イベントループ 第5章 非同期プログラミング（コールバック） 第6章 コールバック地獄の解消 第7章 Stream 第8章 AltJSとTypeScriptを使った開発 第9章 コーディングガイドラインとESLint 第10章 Node.jsとセキュリティ 第11章 Node.jsのコアには、どのようなモジュールがあるのか 第12章 JavaScript & Node.js Tips集 付録A Node.jsの習得に役立つ情報を得るには 付録B ES2015(ES6) 付録C ES2016 付録D ES2017 付録E ES2018 付録F ES2019 付録G Node.js v13とv14について<br><blockquote>本書は入門書の次に読むことを想定にした、中級者へのステップアップを目指すNode.js解説書です。主にNode.jsに対する技術的な内容を扱います。本書を読むことによって、Node ...</blockquote>",
+            "url": "http://books.google.com/books?id=hZ_qDwAAQBAJ&printsec=frontcover&dq=TypeScript&hl=&cd=8&source=gbs_api",
+            "title": "レベルアップNode.js",
+            "summary": "本書は入門書の次に読むことを想定にした、中級者へのステップアップを目指すNode.js解説書です。主にNode.jsに対する技術的な内容を扱います。本書を読むことによって、Node.jsに対する理解を深めることができます。Node.jsの副読本として活用ください。 【目次】 第1章 Node.jsの全体像 第2章 npm(Node Package Manager) 第3章 サーバーとしてのNode.js 第4章 イベントループ 第5章 非同期プログラミング（コールバック） 第6章 コールバック地獄の解消 第7章 Stream 第8章 AltJSとTypeScriptを使った開発 第9章 コーディングガイドラインとESLint 第10章 Node.jsとセキュリティ 第11章 Node.jsのコアには、どのようなモジュールがあるのか 第12章 JavaScript & Node.js Tips集 付録A Node.jsの習得に役立つ情報を得るには 付録B ES2015(ES6) 付録C ES2016 付録D ES2017 付録E ES2018 付録F ES2019 付録G Node.js v13とv14について",
+            "image": "http://books.google.com/books/content?id=hZ_qDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+            "date_modified": "2020-06-19T00:00:00.000Z"
+        },
+        {
             "content_html": "※この商品はタブレットなど大きいディスプレイを備えた端末で読むことに適しています。また、文字だけを拡大することや、文字列のハイライト、検索、辞書の参照、引用などの機能が使用できません。 TypeScriptをハンズオン形式で学ぶ書籍です。「ハンズオン形式で敷居の低い解説」が特徴となります。またWebアプリ開発にも章を割いており、様々な知識を学びたい人にうってつけの内容となります。<br><blockquote>※この商品はタブレットなど大きいディスプレイを備えた端末で読むことに適しています。また、文字だけを拡大することや、文字列のハイライト、検索、辞書の参照、引用など ...</blockquote>",
-            "url": "http://books.google.com/books?id=uvU-EAAAQBAJ&dq=TypeScript&hl=&cd=6&source=gbs_api",
+            "url": "http://books.google.com/books?id=uvU-EAAAQBAJ&dq=TypeScript&hl=&cd=9&source=gbs_api",
             "title": "TypeScriptハンズオン",
             "summary": "※この商品はタブレットなど大きいディスプレイを備えた端末で読むことに適しています。また、文字だけを拡大することや、文字列のハイライト、検索、辞書の参照、引用などの機能が使用できません。 TypeScriptをハンズオン形式で学ぶ書籍です。「ハンズオン形式で敷居の低い解説」が特徴となります。またWebアプリ開発にも章を割いており、様々な知識を学びたい人にうってつけの内容となります。",
             "image": "http://books.google.com/books/content?id=uvU-EAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
             "date_modified": "2021-08-26T00:00:00.000Z"
         },
         {
-            "content_html": "Android Studio 4によるAndroidアプリの開発手順を基礎からしっかり学べます。<br><blockquote>Android Studio 4によるAndroidアプリの開発手順を基礎からしっかり学べます。</blockquote>",
-            "url": "http://books.google.com/books?id=XAmuzgEACAAJ&dq=TypeScript&hl=&cd=7&source=gbs_api",
-            "title": "TECHNICAL MASTER はじめてのAndroidアプリ開発 Kotlin編 Android Studio 4対応",
-            "summary": "Android Studio 4によるAndroidアプリの開発手順を基礎からしっかり学べます。",
-            "date_modified": "2021-11-23T00:00:00.000Z"
-        },
-        {
-            "content_html": "サンプルを作りながらTypeScriptの仕組みや特徴を学ぶ!TypeScriptの基礎知識からアプリ開発、更にはReact.jsやNode.js(Express/Nest)を使ったWebアプリ開発の基礎的な技術まで一通り解説。<br><blockquote><b>TypeScript</b>とは?<b>TypeScript</b>とは? Chapter 1 1 このトランスコンパイラ言語の中でも、現在もっとも広く使われているのが「<b>TypeScript</b>(タイプスクリプト)」と呼ばれる言語です。<b>TypeScript</b>は、マイクロソフトにより2012年に開発さ 2 れたオープンソースの&nbsp;...</blockquote>",
-            "url": "http://books.google.com/books?id=qAlGEAAAQBAJ&pg=PA15&dq=TypeScript&hl=&cd=8&source=gbs_api",
-            "title": "TypeScriptﾊﾝｽﾞｵﾝ",
-            "summary": "サンプルを作りながらTypeScriptの仕組みや特徴を学ぶ!TypeScriptの基礎知識からアプリ開発、更にはReact.jsやNode.js(Express/Nest)を使ったWebアプリ開発の基礎的な技術まで一通り解説。",
-            "image": "http://books.google.com/books/content?id=qAlGEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-            "date_modified": "2021-08-01T00:00:00.000Z"
-        },
-        {
-            "content_html": "Webのしくみを理解することはITの基本を理解すること 確かな知識がつく「使える教科書」 【本書のポイント】 ・解説とイラストがセットで理解しやすい ・WebサイトとWebアプリ、さらにやや複雑なWebシステムのそれぞれを明確に分けて解説 ・他のシステムとの比較も含めて開発と運用、セキュリティについても解説 ・キーワードから知りたい項目を調べやすい ・現場の実態や出来事など、最新動向にもしっかり対応！ ・ビジネスパーソンに必須の知識に絞って解説！ ・管理者にも開発者にも役立つ基本がわかる こんな方におすすめ！ ・Web技術全体の概要を知りたい方 ・Webに関連する技術のイメージがわかなくて困っている方 ・Webに関わる技術と機器の役割を知りたい方 ・現場の実態や出来事など、最新動向についても知りたい方 【内容紹介】 Web技術は、個人の視点に立つと、日常的に利用しているWebサイトや検索エンジン、 SNS、オンラインショッピングなどのように、最も身近な情報システムです。 そこで、本書では見開きで 1つのテーマを取り上げ、 図解を交えて解説しています。 最初から順に読んで 体系的な知識を得るのはもちろん、 気になるテーマやキーワードに 注目しながら読むなど、 状況に合わせて活用しましょう。 【目次】 第1章 Web技術の基本～ブラウザとWebサーバーなどの登場人物～ 第2章 Web独自のしくみ～進化するWebサイトの裏側～ 第3章 Webを支えるしくみ～Webを取り巻く機能とサーバーの構築～ 第4章 Webの普及と広がり～拡大を続ける利用者と市場～ 第5章 Webと異なるシステム～Webに載らない、載せないシステム～ 第6章 クラウドとの関係～現在のWebシステムの基盤を理解する～ 第7章 Webサイトの開設に際して～確認してほしい事項～ 第8章 Webシステムの開発～使えるものは使って動かす～ 第9章 セキュリティと運用～Web固有とシステム全般と～<br><blockquote>JavaScriptと<b>TypeScript</b>、ASP.NETの原型 JavaScriptは1990年代から現在に至るまで使われ続けています。それに対して、<b>TypeScript</b>はマイクロソフトが2010年代前半に発表した比較的新しいプログラミング言語です。もちろんJavaScriptと互換性を&nbsp;...</blockquote>",
-            "url": "http://books.google.com/books?id=cHsnEAAAQBAJ&pg=PA58&dq=TypeScript&hl=&cd=9&source=gbs_api",
-            "title": "図解まるわかり Web技術のしくみ",
-            "summary": "Webのしくみを理解することはITの基本を理解すること 確かな知識がつく「使える教科書」 【本書のポイント】 ・解説とイラストがセットで理解しやすい ・WebサイトとWebアプリ、さらにやや複雑なWebシステムのそれぞれを明確に分けて解説 ・他のシステムとの比較も含めて開発と運用、セキュリティについても解説 ・キーワードから知りたい項目を調べやすい ・現場の実態や出来事など、最新動向にもしっかり対応！ ・ビジネスパーソンに必須の知識に絞って解説！ ・管理者にも開発者にも役立つ基本がわかる こんな方におすすめ！ ・Web技術全体の概要を知りたい方 ・Webに関連する技術のイメージがわかなくて困っている方 ・Webに関わる技術と機器の役割を知りたい方 ・現場の実態や出来事など、最新動向についても知りたい方 【内容紹介】 Web技術は、個人の視点に立つと、日常的に利用しているWebサイトや検索エンジン、 SNS、オンラインショッピングなどのように、最も身近な情報システムです。 そこで、本書では見開きで 1つのテーマを取り上げ、 図解を交えて解説しています。 最初から順に読んで 体系的な知識を得るのはもちろん、 気になるテーマやキーワードに 注目しながら読むなど、 状況に合わせて活用しましょう。 【目次】 第1章 Web技術の基本～ブラウザとWebサーバーなどの登場人物～ 第2章 Web独自のしくみ～進化するWebサイトの裏側～ 第3章 Webを支えるしくみ～Webを取り巻く機能とサーバーの構築～ 第4章 Webの普及と広がり～拡大を続ける利用者と市場～ 第5章 Webと異なるシステム～Webに載らない、載せないシステム～ 第6章 クラウドとの関係～現在のWebシステムの基盤を理解する～ 第7章 Webサイトの開設に際して～確認してほしい事項～ 第8章 Webシステムの開発～使えるものは使って動かす～ 第9章 セキュリティと運用～Web固有とシステム全般と～",
-            "image": "http://books.google.com/books/content?id=cHsnEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-            "date_modified": "2021-04-07T00:00:00.000Z"
-        },
-        {
-            "content_html": "本書は株式会社マツリカの有志たちによって執筆・制作された技術本です。フルリモート可・フルフレックスという自由な働き方でBtoB SaaS業界を駆け抜けるメンバーたちのノウハウをぎゅっと詰め込みました。マツリカのリモートワークやフルフレックス制度は『自分にとって最も生産性の高い場所、高い時間で働いて成果を出そう！』という主旨のもと存在しています。日々、自分と向き合い『より楽し働く』ための努力を惜しまないメンバーのノウハウを覗いてください！ 【目次】 第1章 物語でわかるリモートワークとフルフレックス 第2章 真面目系クズに捧げる！フルフレックス・フルリモートで自分を甘やかす虎の巻 第3章 リモートワークのとある一日 第4章 リモートワークで子育てと仕事を\"両立\"する方法 第5章 会社でやりたいことをやるための技術 第6章 キャリアブランクから楽しくカムバックする技術 第7章 VUCA時代を生き抜く力～新たな環境に早期に適応する技術～ 第8章 人生を少しでもイージーにする技術 第9章 呼吸と睡眠からはじめるパフォーマンス改善の技術 第10章 エンジニアのための家政のすゝめ 第11章 英語学習 アンチパターン集 第12章 正確に相手に伝わる文章を書く技術<br><blockquote>React好きだし<b>TypeScript</b>好きだし、技術的難問にチャレンジするの大好きです。そういうときは寝ても冷めてもひたすらそれのことを考えられます(考えられてしまいます)。 フルリモート・フルフレックスだと、有給に意味があったりなかったりします.</blockquote>",
-            "url": "http://books.google.com/books?id=s8ETEAAAQBAJ&pg=PT32&dq=TypeScript&hl=&cd=10&source=gbs_api",
-            "title": "働き方アップグレードガイド",
-            "summary": "本書は株式会社マツリカの有志たちによって執筆・制作された技術本です。フルリモート可・フルフレックスという自由な働き方でBtoB SaaS業界を駆け抜けるメンバーたちのノウハウをぎゅっと詰め込みました。マツリカのリモートワークやフルフレックス制度は『自分にとって最も生産性の高い場所、高い時間で働いて成果を出そう！』という主旨のもと存在しています。日々、自分と向き合い『より楽し働く』ための努力を惜しまないメンバーのノウハウを覗いてください！ 【目次】 第1章 物語でわかるリモートワークとフルフレックス 第2章 真面目系クズに捧げる！フルフレックス・フルリモートで自分を甘やかす虎の巻 第3章 リモートワークのとある一日 第4章 リモートワークで子育てと仕事を\"両立\"する方法 第5章 会社でやりたいことをやるための技術 第6章 キャリアブランクから楽しくカムバックする技術 第7章 VUCA時代を生き抜く力～新たな環境に早期に適応する技術～ 第8章 人生を少しでもイージーにする技術 第9章 呼吸と睡眠からはじめるパフォーマンス改善の技術 第10章 エンジニアのための家政のすゝめ 第11章 英語学習 アンチパターン集 第12章 正確に相手に伝わる文章を書く技術",
-            "image": "http://books.google.com/books/content?id=s8ETEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-            "date_modified": "2021-01-22T00:00:00.000Z"
+            "content_html": "本書は業務設計に必要な基本的な考え方と、ITツールの実装に関する解説書です。最新ツールを入れたのに経理業務が効率化されない、そもそも最適な業務フローがわからない。そんな悩みはありませんか？経営管理のプロである会計士がGoogle Apps ScriptやSaaSのAPIを組み合わせた活用方法をレクチャーします。また、Google Apps Scriptをモダンに書くためのTypeScript導入方法も掲載しており、プログラミング入門としても活用できます。 【目次】 第1章 はじめに 1.1 経営管理の概要 1.2 経理業務とは 1.3 経理の現状の問題 1.4 解決手段 1.5 経営管理のあるべき姿 1.6 現状を理解する 1.7 業務改善を行う 1.8 さいごに 第2章 Google Apps Script 入門 2.1 Google Apps Script(GAS)とは 2.2 GASの導入方法 2.3 文法編 2.4 Google Apps を操作してみよう 2.5 よく使用する関数 2.6 さいごに 第3章 API入門 3.1 Web API とは何か 3.2 経営管理とAPI 3.3 APIの使い方 3.4 APIと認可 3.5 さいごに 第4章 freeeAPI を活用した実例 4.1 はじめに 4.2 事前準備 4.3 アクセストークンを取得する 4.4 実践例 4.5 さいごに 第5章 ケーススタディ 5.1 プロジェクト概要 5.2 さいごに 第6章 Google Apps Script をローカルで書くための環境をインストールしよう 6.1 はじめに 6.2 Node.js npm 6.3 clasp とは 6.4 @types とは 6.5 Prettierとは 6.6 ESLintとは 6.7 さいごに 第7章 ES6(ECMA2015) 7.1 ES6 とは 7.2 ES6で追加された文法一覧 7.3 さいごに 第8章 TypeScript 入門 8.1 TypeScript とは 8.2 TypeScriptのメインの型 8.3 関数の型定義 8.4 さいごに 第9章 TypeScriptでコードを書いてみよう 9.1 FSを取得する 9.2 変更した部分 9.3 TypeScriptをトランスパイルした結果 9.4 さいごに<br><blockquote>本書は業務設計に必要な基本的な考え方と、ITツールの実装に関する解説書です。最新ツールを入れたのに経理業務が効率化されない、そもそも最適な業務フローがわからない。 ...</blockquote>",
+            "url": "http://books.google.com/books?id=ZnXRDwAAQBAJ&pg=PP1&dq=TypeScript&hl=&cd=10&source=gbs_api",
+            "title": "現役公認会計士が解説！GASで自動化する経営管理",
+            "summary": "本書は業務設計に必要な基本的な考え方と、ITツールの実装に関する解説書です。最新ツールを入れたのに経理業務が効率化されない、そもそも最適な業務フローがわからない。そんな悩みはありませんか？経営管理のプロである会計士がGoogle Apps ScriptやSaaSのAPIを組み合わせた活用方法をレクチャーします。また、Google Apps Scriptをモダンに書くためのTypeScript導入方法も掲載しており、プログラミング入門としても活用できます。 【目次】 第1章 はじめに 1.1 経営管理の概要 1.2 経理業務とは 1.3 経理の現状の問題 1.4 解決手段 1.5 経営管理のあるべき姿 1.6 現状を理解する 1.7 業務改善を行う 1.8 さいごに 第2章 Google Apps Script 入門 2.1 Google Apps Script(GAS)とは 2.2 GASの導入方法 2.3 文法編 2.4 Google Apps を操作してみよう 2.5 よく使用する関数 2.6 さいごに 第3章 API入門 3.1 Web API とは何か 3.2 経営管理とAPI 3.3 APIの使い方 3.4 APIと認可 3.5 さいごに 第4章 freeeAPI を活用した実例 4.1 はじめに 4.2 事前準備 4.3 アクセストークンを取得する 4.4 実践例 4.5 さいごに 第5章 ケーススタディ 5.1 プロジェクト概要 5.2 さいごに 第6章 Google Apps Script をローカルで書くための環境をインストールしよう 6.1 はじめに 6.2 Node.js npm 6.3 clasp とは 6.4 @types とは 6.5 Prettierとは 6.6 ESLintとは 6.7 さいごに 第7章 ES6(ECMA2015) 7.1 ES6 とは 7.2 ES6で追加された文法一覧 7.3 さいごに 第8章 TypeScript 入門 8.1 TypeScript とは 8.2 TypeScriptのメインの型 8.3 関数の型定義 8.4 さいごに 第9章 TypeScriptでコードを書いてみよう 9.1 FSを取得する 9.2 変更した部分 9.3 TypeScriptをトランスパイルした結果 9.4 さいごに",
+            "image": "http://books.google.com/books/content?id=ZnXRDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+            "date_modified": "2020-02-28T00:00:00.000Z"
         }
     ]
 }

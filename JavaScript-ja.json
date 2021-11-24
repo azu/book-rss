@@ -5,12 +5,12 @@
     "description": "JavaScript(ja) on Google Book",
     "items": [
         {
-            "content_html": "自然や生き物にまつわる”身近な不思議”をテーマにした、新しいJavaScriptプログラミングの入門書が登場!<br><blockquote>自然や生き物にまつわる”身近な不思議”をテーマにした、新しいJavaScriptプログラミングの入門書が登場!</blockquote>",
-            "url": "http://books.google.com/books?id=XcCnzgEACAAJ&dq=JavaScript&hl=&cd=3&source=gbs_api",
-            "title": "つくって楽しいJavaScript入門身近な不思議をプログラミングしてみよう",
-            "summary": "自然や生き物にまつわる”身近な不思議”をテーマにした、新しいJavaScriptプログラミングの入門書が登場!",
-            "image": "http://books.google.com/books/content?id=XcCnzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-            "date_modified": "2021-11-10T00:00:00.000Z"
+            "content_html": "JavaScriptは、Twitterのようなソーシャルアプリケーションからブラウザベースのゲームフレームワークまで、現代のほとんどすべてのWebアプリケーションの中核を成しています。JavaScriptは、初心者が簡単に扱える言語でありながら、本格的なアプリケーションを構築できるほど、柔軟で複雑です。『流麗なJavaScript 第3版』では、JavaScript言語を深く掘り下げ、美しく効果的なコードを書く方法を紹介。第3版では特に、クラス表記、アロー関数、イテレータ、非同期関数、テンプレート文字列、ブロックスコープなどの機能について、まったく新しい内容が追加。本書において、著者は、JavaScriptの基本をコードと豊富な例を挙げながら解説。また、練習問題といくつかのプロジェクトを通じて、実際に自分でプログラムを書いてみます。<br><blockquote>JavaScriptは、Twitterのようなソーシャルアプリケーションからブラウザベースのゲームフレームワークまで、現代のほとんどすべてのWebアプリケーションの中核を成しています。Java ...</blockquote>",
+            "url": "http://books.google.com/books?id=RIWLzgEACAAJ&dq=JavaScript&hl=&cd=3&source=gbs_api",
+            "title": "Ryūrei na jaba sukuriputo",
+            "summary": "JavaScriptは、Twitterのようなソーシャルアプリケーションからブラウザベースのゲームフレームワークまで、現代のほとんどすべてのWebアプリケーションの中核を成しています。JavaScriptは、初心者が簡単に扱える言語でありながら、本格的なアプリケーションを構築できるほど、柔軟で複雑です。『流麗なJavaScript 第3版』では、JavaScript言語を深く掘り下げ、美しく効果的なコードを書く方法を紹介。第3版では特に、クラス表記、アロー関数、イテレータ、非同期関数、テンプレート文字列、ブロックスコープなどの機能について、まったく新しい内容が追加。本書において、著者は、JavaScriptの基本をコードと豊富な例を挙げながら解説。また、練習問題といくつかのプロジェクトを通じて、実際に自分でプログラムを書いてみます。",
+            "image": "http://books.google.com/books/content?id=RIWLzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+            "date_modified": "2021-10-03T00:00:00.000Z"
         },
         {
             "content_html": "オリジナルSlackアプリを 作ってみよう！ 【Slackとは】 Slackはリアルタイムでやりとりができる チャットツールです。 在宅勤務が多くなるなか ビジネスの現場で利用が広がっています。 【Slackアプリ開発の特徴】 Slackには開発者にとって利用しやすい高機能APIが多数用意されています。 社内用のツールやチャットボット、外部情報の共有、パフォーマンスのチェックなど、 さまざまなアプリの開発が可能です。 【本書の概要】 本書はSlack APIやBoltフレームワークを利用して オリジナル機能を追加したSlackアプリを開発する手法を 丁寧に解説した書籍です。 オリジナル機能を加えてより便利な コミュニケーションツールを開発できます。 【対象読者】 Webアプリ開発者 【開発言語】 JavaScript 【主な開発環境】 ・OS：macOS ・SDK：Bolt for JavaScript ・API：Slack API ・Node.js （JavaScript実行環境） ・npm（パッケージ管理ツール） ・ngrok（外部公開用のURL） 【本書のポイント】 現役のヤフーのエンジニアがおすすめする、 ・ランチをのお店をおすすめするボット ・申請フォーム ・Giphyアプリ ・リマインダーアプリ など、多彩なSlackアプリの開発方法がわかります。 【著者】 伊藤 康太、道内 尊正、吉谷 優介。 いずれもヤフーのエンジニア。<br><blockquote>オリジナルSlackアプリを 作ってみよう！ 【Slackとは】 Slackはリアルタイムでやりとりができる チャットツールです。 在宅勤務が多くなるなか ...</blockquote>",
@@ -28,16 +28,8 @@
             "date_modified": "2021-12-02T00:00:00.000Z"
         },
         {
-            "content_html": "JavaScriptは、Twitterのようなソーシャルアプリケーションからブラウザベースのゲームフレームワークまで、現代のほとんどすべてのWebアプリケーションの中核を成しています。JavaScriptは、初心者が簡単に扱える言語でありながら、本格的なアプリケーションを構築できるほど、柔軟で複雑です。『流麗なJavaScript 第3版』では、JavaScript言語を深く掘り下げ、美しく効果的なコードを書く方法を紹介。第3版では特に、クラス表記、アロー関数、イテレータ、非同期関数、テンプレート文字列、ブロックスコープなどの機能について、まったく新しい内容が追加。本書において、著者は、JavaScriptの基本をコードと豊富な例を挙げながら解説。また、練習問題といくつかのプロジェクトを通じて、実際に自分でプログラムを書いてみます。<br><blockquote>JavaScriptは、Twitterのようなソーシャルアプリケーションからブラウザベースのゲームフレームワークまで、現代のほとんどすべてのWebアプリケーションの中核を成しています。Java ...</blockquote>",
-            "url": "http://books.google.com/books?id=RIWLzgEACAAJ&dq=JavaScript&hl=&cd=7&source=gbs_api",
-            "title": "Ryūrei na jaba sukuriputo",
-            "summary": "JavaScriptは、Twitterのようなソーシャルアプリケーションからブラウザベースのゲームフレームワークまで、現代のほとんどすべてのWebアプリケーションの中核を成しています。JavaScriptは、初心者が簡単に扱える言語でありながら、本格的なアプリケーションを構築できるほど、柔軟で複雑です。『流麗なJavaScript 第3版』では、JavaScript言語を深く掘り下げ、美しく効果的なコードを書く方法を紹介。第3版では特に、クラス表記、アロー関数、イテレータ、非同期関数、テンプレート文字列、ブロックスコープなどの機能について、まったく新しい内容が追加。本書において、著者は、JavaScriptの基本をコードと豊富な例を挙げながら解説。また、練習問題といくつかのプロジェクトを通じて、実際に自分でプログラムを書いてみます。",
-            "image": "http://books.google.com/books/content?id=RIWLzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-            "date_modified": "2021-10-03T00:00:00.000Z"
-        },
-        {
             "content_html": "絶対に挫折しない最高の1冊！ ※この電子書籍は固定レイアウト型で配信されております。固定レイアウト型は文字だけを拡大することや、文字列のハイライト、検索、辞書の参照、引用などの機能が使用できません。 Reactをイチから学びたい方にオススメの1冊です！ 【本書のポイント】 UdemyのReactコースで最高評価獲得の著者がモダンJavaScriptの基礎からTypeScriptの実践的な内容までしっかり解説！ 著者が2年以上勉強会を主催し初学者と話す中で分かった、多くの人が感じるReactの挫折ポイントを解決する構成！ 現場のシチュエーションベースのストーリーで技術解説をしているので、実務で必要となる知識を意識しながら学習を進められる！ 「#挫折しないReact本」で学習した感想をシェア！！<br><blockquote>絶対に挫折しない最高の1冊！ ※この電子書籍は固定レイアウト型で配信されております。固定レイアウト型は文字だけを拡大することや、文字列のハイライト、検索、辞書の参 ...</blockquote>",
-            "url": "http://books.google.com/books?id=mK9CEAAAQBAJ&dq=JavaScript&hl=&cd=8&source=gbs_api",
+            "url": "http://books.google.com/books?id=mK9CEAAAQBAJ&dq=JavaScript&hl=&cd=7&source=gbs_api",
             "title": "モダンJavaScriptの基本から始める　React実践の教科書",
             "summary": "絶対に挫折しない最高の1冊！ ※この電子書籍は固定レイアウト型で配信されております。固定レイアウト型は文字だけを拡大することや、文字列のハイライト、検索、辞書の参照、引用などの機能が使用できません。 Reactをイチから学びたい方にオススメの1冊です！ 【本書のポイント】 UdemyのReactコースで最高評価獲得の著者がモダンJavaScriptの基礎からTypeScriptの実践的な内容までしっかり解説！ 著者が2年以上勉強会を主催し初学者と話す中で分かった、多くの人が感じるReactの挫折ポイントを解決する構成！ 現場のシチュエーションベースのストーリーで技術解説をしているので、実務で必要となる知識を意識しながら学習を進められる！ 「#挫折しないReact本」で学習した感想をシェア！！",
             "image": "http://books.google.com/books/content?id=mK9CEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
@@ -45,11 +37,19 @@
         },
         {
             "content_html": "本書は「機械学習って難しいんでしょ…？」と考えている人に向けて、誰でも手軽に機械学習を活用したWebアプリをJavaScriptで開発できるようになる初心者向けのチュートリアル本です。基本的なJavaScriptの構文さえ使えれば、あとはマウス操作で簡単に機械学習モデルを構築できるWebサービスを組み合わせてミニWebアプリを開発する方法について丁寧に解説しています。これまで、興味はあるけど手が出せなかった人や機械学習を活用してみたいと考えている人、JavaScriptでWebアプリが作りたい人など、幅広く活用できる書籍となっています。 【目次】 第1章 開発環境について 第2章 初めての機械学習モデルを作る 第3章 JavaScriptと連携してみよう 第4章 スマホと連携してみよう 第5章 オブジェクト検出モデルを作る 第6章 学習済みモデルを使ってみよう<br><blockquote>本書は「機械学習って難しいんでしょ…？」と考えている人に向けて、誰でも手軽に機械学習を活用したWebアプリをJavaScriptで開発できるようになる初心者向けのチュートリアル ...</blockquote>",
-            "url": "http://books.google.com/books?id=EPwCEAAAQBAJ&printsec=frontcover&dq=JavaScript&hl=&cd=10&source=gbs_api",
+            "url": "http://books.google.com/books?id=EPwCEAAAQBAJ&printsec=frontcover&dq=JavaScript&hl=&cd=9&source=gbs_api",
             "title": "JavaScriptでいきなり機械学習を遊び倒す本",
             "summary": "本書は「機械学習って難しいんでしょ…？」と考えている人に向けて、誰でも手軽に機械学習を活用したWebアプリをJavaScriptで開発できるようになる初心者向けのチュートリアル本です。基本的なJavaScriptの構文さえ使えれば、あとはマウス操作で簡単に機械学習モデルを構築できるWebサービスを組み合わせてミニWebアプリを開発する方法について丁寧に解説しています。これまで、興味はあるけど手が出せなかった人や機械学習を活用してみたいと考えている人、JavaScriptでWebアプリが作りたい人など、幅広く活用できる書籍となっています。 【目次】 第1章 開発環境について 第2章 初めての機械学習モデルを作る 第3章 JavaScriptと連携してみよう 第4章 スマホと連携してみよう 第5章 オブジェクト検出モデルを作る 第6章 学習済みモデルを使ってみよう",
             "image": "http://books.google.com/books/content?id=EPwCEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
             "date_modified": "2020-10-23T00:00:00.000Z"
+        },
+        {
+            "content_html": "オブジェクト・DOM・イベント・非同期処理―。プロとして、流行に左右されないJavaScript開発の本質的な基礎をしっかりと身につける。<br><blockquote>オブジェクト・DOM・イベント・非同期処理―。プロとして、流行に左右されないJavaScript開発の本質的な基礎をしっかりと身につける。</blockquote>",
+            "url": "http://books.google.com/books?id=pfdnzgEACAAJ&dq=JavaScript&hl=&cd=10&source=gbs_api",
+            "title": "プロフェッショナルWebプログラミング JavaScript",
+            "summary": "オブジェクト・DOM・イベント・非同期処理―。プロとして、流行に左右されないJavaScript開発の本質的な基礎をしっかりと身につける。",
+            "image": "http://books.google.com/books/content?id=pfdnzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+            "date_modified": "2021-04-01T00:00:00.000Z"
         }
     ]
 }

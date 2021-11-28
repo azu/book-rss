@@ -53,16 +53,16 @@
             "date_modified": "2021-08-01T00:00:00.000Z"
         },
         {
-            "content_html": "サンプルを作りながらTypeScriptの仕組みや特徴を学ぶ!TypeScriptの基礎知識からアプリ開発、更にはReact.jsやNode.js(Express/Nest)を使ったWebアプリ開発の基礎的な技術まで一通り解説。<br><blockquote>1 2 目 Contents 目次次 3 4 Chapter 1 <b>TypeScript</b>をはじめよう 11 5 6 12 トランスコンパイラ言語の登場.............................................. 14 7 ... <b>TypeScript</b>に必要なもの Node.jsをインストールする開発ツールについて日本語化を行う.</blockquote>",
-            "url": "http://books.google.com/books?id=qAlGEAAAQBAJ&pg=PA4&dq=TypeScript&hl=&cd=7&source=gbs_api",
+            "content_html": "サンプルを作りながらTypeScriptの仕組みや特徴を学ぶ!TypeScriptの基礎知識からアプリ開発、更にはReact.jsやNode.js(Express/Nest)を使ったWebアプリ開発の基礎的な技術まで一通り解説。<br><blockquote>とはいえ、<b>TypeScript</b>の文法はだいたい理解しても、具体的なソースコードを作成するためには、いろいろと学ばなければいけないことがあります。たとえば、GUIはどうするのか。データの保存はどうするか。そうした具体的な機能についてはまだほとんど説明&nbsp;...</blockquote>",
+            "url": "http://books.google.com/books?id=qAlGEAAAQBAJ&pg=PA202&dq=TypeScript&hl=&cd=7&source=gbs_api",
             "title": "TypeScriptﾊﾝｽﾞｵﾝ",
             "summary": "サンプルを作りながらTypeScriptの仕組みや特徴を学ぶ!TypeScriptの基礎知識からアプリ開発、更にはReact.jsやNode.js(Express/Nest)を使ったWebアプリ開発の基礎的な技術まで一通り解説。",
             "image": "http://books.google.com/books/content?id=qAlGEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
             "date_modified": "2021-08-01T00:00:00.000Z"
         },
         {
-            "content_html": "サンプルを作りながらTypeScriptの仕組みや特徴を学ぶ!TypeScriptの基礎知識からアプリ開発、更にはReact.jsやNode.js(Express/Nest)を使ったWebアプリ開発の基礎的な技術まで一通り解説。<br><blockquote>ただ、「<b>TypeScript</b>に関する設定はこのファイルに書かれていて、設定を追記することでいろいろな挙動を編集できるようになっている」ということだけ理解しておきましょう。 I図1-32:<b>TypeScript</b>の設定ファイルを作成する。 Chapter 11 2 3 4 Webpackの設定&nbsp;...</blockquote>",
-            "url": "http://books.google.com/books?id=qAlGEAAAQBAJ&pg=PA40&dq=TypeScript&hl=&cd=8&source=gbs_api",
+            "content_html": "サンプルを作りながらTypeScriptの仕組みや特徴を学ぶ!TypeScriptの基礎知識からアプリ開発、更にはReact.jsやNode.js(Express/Nest)を使ったWebアプリ開発の基礎的な技術まで一通り解説。<br><blockquote>Iリスト1-2 7 console.log(&quot;Welcome to <b>TypeScript</b>!&quot;);まったく同じじゃないか、と思ったかも知れませんね。でもよく見てください。最後にセミコロン(;)が追加になっています。まったく同じ内容がコピーされているわけではないことはこれでわかるでしょう&nbsp;...</blockquote>",
+            "url": "http://books.google.com/books?id=qAlGEAAAQBAJ&pg=PA33&dq=TypeScript&hl=&cd=8&source=gbs_api",
             "title": "TypeScriptﾊﾝｽﾞｵﾝ",
             "summary": "サンプルを作りながらTypeScriptの仕組みや特徴を学ぶ!TypeScriptの基礎知識からアプリ開発、更にはReact.jsやNode.js(Express/Nest)を使ったWebアプリ開発の基礎的な技術まで一通り解説。",
             "image": "http://books.google.com/books/content?id=qAlGEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",

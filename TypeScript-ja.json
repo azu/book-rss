@@ -53,8 +53,16 @@
             "date_modified": "2021-08-01T00:00:00.000Z"
         },
         {
-            "content_html": "サンプルを作りながらTypeScriptの仕組みや特徴を学ぶ!TypeScriptの基礎知識からアプリ開発、更にはReact.jsやNode.js(Express/Nest)を使ったWebアプリ開発の基礎的な技術まで一通り解説。<br><blockquote>jsNest.js ここまでのところで、一応、「Expressで<b>TypeScript</b>によるサーバーサイド開発を行う」ということができるようにはなりました。ただ、Express自体はもともとJavaScriptのためのフレームワークですから、どうしても「無理やり<b>TypeScript</b>に置き換え&nbsp;...</blockquote>",
-            "url": "http://books.google.com/books?id=qAlGEAAAQBAJ&pg=PA347&dq=TypeScript&hl=&cd=7&source=gbs_api",
+            "content_html": "サンプルを作りながらTypeScriptの仕組みや特徴を学ぶ!TypeScriptの基礎知識からアプリ開発、更にはReact.jsやNode.js(Express/Nest)を使ったWebアプリ開発の基礎的な技術まで一通り解説。<br><blockquote>Chapter 1 1 従って、<b>TypeScript</b>を学ぶということは「将来のJavaScript」を学ぶことに近いのです。多くの機能は、いずれJavaScriptでも使われるようになるものだったりします。<b>TypeScript</b>は、「JavaScriptとは異なる別の言語」ではないのです。</blockquote>",
+            "url": "http://books.google.com/books?id=qAlGEAAAQBAJ&pg=PA16&dq=TypeScript&hl=&cd=7&source=gbs_api",
+            "title": "TypeScriptﾊﾝｽﾞｵﾝ",
+            "summary": "サンプルを作りながらTypeScriptの仕組みや特徴を学ぶ!TypeScriptの基礎知識からアプリ開発、更にはReact.jsやNode.js(Express/Nest)を使ったWebアプリ開発の基礎的な技術まで一通り解説。",
+            "image": "http://books.google.com/books/content?id=qAlGEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+            "date_modified": "2021-08-01T00:00:00.000Z"
+        },
+        {
+            "content_html": "サンプルを作りながらTypeScriptの仕組みや特徴を学ぶ!TypeScriptの基礎知識からアプリ開発、更にはReact.jsやNode.js(Express/Nest)を使ったWebアプリ開発の基礎的な技術まで一通り解説。<br><blockquote>6 Chapter 77 Expressの学習は地道にExpressの学習は地道にとりあえず、これで「express-generator-<b>typescript</b>を使ってExpressを<b>TypeScript</b> ベースで開発するプロジェクトを作る」という目標は達成しました。後は、Expressの学習を進めていけば、本格的&nbsp;...</blockquote>",
+            "url": "http://books.google.com/books?id=qAlGEAAAQBAJ&pg=PA346&dq=TypeScript&hl=&cd=8&source=gbs_api",
             "title": "TypeScriptﾊﾝｽﾞｵﾝ",
             "summary": "サンプルを作りながらTypeScriptの仕組みや特徴を学ぶ!TypeScriptの基礎知識からアプリ開発、更にはReact.jsやNode.js(Express/Nest)を使ったWebアプリ開発の基礎的な技術まで一通り解説。",
             "image": "http://books.google.com/books/content?id=qAlGEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
@@ -62,7 +70,7 @@
         },
         {
             "content_html": "サンプルを作りながらTypeScriptの仕組みや特徴を学ぶ!TypeScriptの基礎知識からアプリ開発、更にはReact.jsやNode.js(Express/Nest)を使ったWebアプリ開発の基礎的な技術まで一通り解説。<br><blockquote>サンプルを作りながらTypeScriptの仕組みや特徴を学ぶ!TypeScriptの基礎知識からアプリ開発、更にはReact.jsやNode.js(Express/Nest)を使ったWebアプリ開発の基礎的な技術まで一通り解説。</blockquote>",
-            "url": "http://books.google.com/books?id=qAlGEAAAQBAJ&pg=PP1&dq=TypeScript&hl=&cd=8&source=gbs_api",
+            "url": "http://books.google.com/books?id=qAlGEAAAQBAJ&pg=PP1&dq=TypeScript&hl=&cd=9&source=gbs_api",
             "title": "TypeScriptﾊﾝｽﾞｵﾝ",
             "summary": "サンプルを作りながらTypeScriptの仕組みや特徴を学ぶ!TypeScriptの基礎知識からアプリ開発、更にはReact.jsやNode.js(Express/Nest)を使ったWebアプリ開発の基礎的な技術まで一通り解説。",
             "image": "http://books.google.com/books/content?id=qAlGEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
@@ -70,19 +78,11 @@
         },
         {
             "content_html": "Webのしくみを理解することはITの基本を理解すること 確かな知識がつく「使える教科書」 【本書のポイント】 ・解説とイラストがセットで理解しやすい ・WebサイトとWebアプリ、さらにやや複雑なWebシステムのそれぞれを明確に分けて解説 ・他のシステムとの比較も含めて開発と運用、セキュリティについても解説 ・キーワードから知りたい項目を調べやすい ・現場の実態や出来事など、最新動向にもしっかり対応！ ・ビジネスパーソンに必須の知識に絞って解説！ ・管理者にも開発者にも役立つ基本がわかる こんな方におすすめ！ ・Web技術全体の概要を知りたい方 ・Webに関連する技術のイメージがわかなくて困っている方 ・Webに関わる技術と機器の役割を知りたい方 ・現場の実態や出来事など、最新動向についても知りたい方 【内容紹介】 Web技術は、個人の視点に立つと、日常的に利用しているWebサイトや検索エンジン、 SNS、オンラインショッピングなどのように、最も身近な情報システムです。 そこで、本書では見開きで 1つのテーマを取り上げ、 図解を交えて解説しています。 最初から順に読んで 体系的な知識を得るのはもちろん、 気になるテーマやキーワードに 注目しながら読むなど、 状況に合わせて活用しましょう。 【目次】 第1章 Web技術の基本～ブラウザとWebサーバーなどの登場人物～ 第2章 Web独自のしくみ～進化するWebサイトの裏側～ 第3章 Webを支えるしくみ～Webを取り巻く機能とサーバーの構築～ 第4章 Webの普及と広がり～拡大を続ける利用者と市場～ 第5章 Webと異なるシステム～Webに載らない、載せないシステム～ 第6章 クラウドとの関係～現在のWebシステムの基盤を理解する～ 第7章 Webサイトの開設に際して～確認してほしい事項～ 第8章 Webシステムの開発～使えるものは使って動かす～ 第9章 セキュリティと運用～Web固有とシステム全般と～<br><blockquote>JavaScriptと<b>TypeScript</b>、ASP.NETの原型 JavaScriptは1990年代から現在に至るまで使われ続けています。それに対して、<b>TypeScript</b>はマイクロソフトが2010年代前半に発表した比較的新しいプログラミング言語です。もちろんJavaScriptと互換性を&nbsp;...</blockquote>",
-            "url": "http://books.google.com/books?id=cHsnEAAAQBAJ&pg=PA58&dq=TypeScript&hl=&cd=9&source=gbs_api",
+            "url": "http://books.google.com/books?id=cHsnEAAAQBAJ&pg=PA58&dq=TypeScript&hl=&cd=10&source=gbs_api",
             "title": "図解まるわかり Web技術のしくみ",
             "summary": "Webのしくみを理解することはITの基本を理解すること 確かな知識がつく「使える教科書」 【本書のポイント】 ・解説とイラストがセットで理解しやすい ・WebサイトとWebアプリ、さらにやや複雑なWebシステムのそれぞれを明確に分けて解説 ・他のシステムとの比較も含めて開発と運用、セキュリティについても解説 ・キーワードから知りたい項目を調べやすい ・現場の実態や出来事など、最新動向にもしっかり対応！ ・ビジネスパーソンに必須の知識に絞って解説！ ・管理者にも開発者にも役立つ基本がわかる こんな方におすすめ！ ・Web技術全体の概要を知りたい方 ・Webに関連する技術のイメージがわかなくて困っている方 ・Webに関わる技術と機器の役割を知りたい方 ・現場の実態や出来事など、最新動向についても知りたい方 【内容紹介】 Web技術は、個人の視点に立つと、日常的に利用しているWebサイトや検索エンジン、 SNS、オンラインショッピングなどのように、最も身近な情報システムです。 そこで、本書では見開きで 1つのテーマを取り上げ、 図解を交えて解説しています。 最初から順に読んで 体系的な知識を得るのはもちろん、 気になるテーマやキーワードに 注目しながら読むなど、 状況に合わせて活用しましょう。 【目次】 第1章 Web技術の基本～ブラウザとWebサーバーなどの登場人物～ 第2章 Web独自のしくみ～進化するWebサイトの裏側～ 第3章 Webを支えるしくみ～Webを取り巻く機能とサーバーの構築～ 第4章 Webの普及と広がり～拡大を続ける利用者と市場～ 第5章 Webと異なるシステム～Webに載らない、載せないシステム～ 第6章 クラウドとの関係～現在のWebシステムの基盤を理解する～ 第7章 Webサイトの開設に際して～確認してほしい事項～ 第8章 Webシステムの開発～使えるものは使って動かす～ 第9章 セキュリティと運用～Web固有とシステム全般と～",
             "image": "http://books.google.com/books/content?id=cHsnEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
             "date_modified": "2021-04-07T00:00:00.000Z"
-        },
-        {
-            "content_html": "本書は株式会社マツリカの有志たちによって執筆・制作された技術本です。フルリモート可・フルフレックスという自由な働き方でBtoB SaaS業界を駆け抜けるメンバーたちのノウハウをぎゅっと詰め込みました。マツリカのリモートワークやフルフレックス制度は『自分にとって最も生産性の高い場所、高い時間で働いて成果を出そう！』という主旨のもと存在しています。日々、自分と向き合い『より楽し働く』ための努力を惜しまないメンバーのノウハウを覗いてください！ 【目次】 第1章 物語でわかるリモートワークとフルフレックス 第2章 真面目系クズに捧げる！フルフレックス・フルリモートで自分を甘やかす虎の巻 第3章 リモートワークのとある一日 第4章 リモートワークで子育てと仕事を\"両立\"する方法 第5章 会社でやりたいことをやるための技術 第6章 キャリアブランクから楽しくカムバックする技術 第7章 VUCA時代を生き抜く力～新たな環境に早期に適応する技術～ 第8章 人生を少しでもイージーにする技術 第9章 呼吸と睡眠からはじめるパフォーマンス改善の技術 第10章 エンジニアのための家政のすゝめ 第11章 英語学習 アンチパターン集 第12章 正確に相手に伝わる文章を書く技術<br><blockquote>React好きだし<b>TypeScript</b>好きだし、技術的難問にチャレンジするの大好きです。そういうときは寝ても冷めてもひたすらそれのことを考えられます(考えられてしまいます)。 フルリモート・フルフレックスだと、有給に意味があったりなかったりします.</blockquote>",
-            "url": "http://books.google.com/books?id=s8ETEAAAQBAJ&pg=PT32&dq=TypeScript&hl=&cd=10&source=gbs_api",
-            "title": "働き方アップグレードガイド",
-            "summary": "本書は株式会社マツリカの有志たちによって執筆・制作された技術本です。フルリモート可・フルフレックスという自由な働き方でBtoB SaaS業界を駆け抜けるメンバーたちのノウハウをぎゅっと詰め込みました。マツリカのリモートワークやフルフレックス制度は『自分にとって最も生産性の高い場所、高い時間で働いて成果を出そう！』という主旨のもと存在しています。日々、自分と向き合い『より楽し働く』ための努力を惜しまないメンバーのノウハウを覗いてください！ 【目次】 第1章 物語でわかるリモートワークとフルフレックス 第2章 真面目系クズに捧げる！フルフレックス・フルリモートで自分を甘やかす虎の巻 第3章 リモートワークのとある一日 第4章 リモートワークで子育てと仕事を\"両立\"する方法 第5章 会社でやりたいことをやるための技術 第6章 キャリアブランクから楽しくカムバックする技術 第7章 VUCA時代を生き抜く力～新たな環境に早期に適応する技術～ 第8章 人生を少しでもイージーにする技術 第9章 呼吸と睡眠からはじめるパフォーマンス改善の技術 第10章 エンジニアのための家政のすゝめ 第11章 英語学習 アンチパターン集 第12章 正確に相手に伝わる文章を書く技術",
-            "image": "http://books.google.com/books/content?id=s8ETEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-            "date_modified": "2021-01-22T00:00:00.000Z"
         }
     ]
 }

@@ -44,8 +44,8 @@
             "date_modified": "2021-07-29T00:00:00.000Z"
         },
         {
-            "content_html": "Kickstart your learning with this hands-on guide to programming with TypeScript. By learning how to quickly transition from JavaScript, leverage features such as types and decorators, and incorporate React with TypeScript, you can gain new skills, advance your knowledge, and make some new additions to your software development toolkit.<br><blockquote>Comment out or delete all invocations except the first one: // correct call and usage var resultOne = snippet(&quot;<b>TypeScript</b> is a programming language that is a strict syntactical superset of JavaScript and adds optional static typing to&nbsp;...</blockquote>",
-            "url": "http://books.google.com/books?id=eN06EAAAQBAJ&pg=PA21&dq=TypeScript&hl=&cd=6&source=gbs_api",
+            "content_html": "Kickstart your learning with this hands-on guide to programming with TypeScript. By learning how to quickly transition from JavaScript, leverage features such as types and decorators, and incorporate React with TypeScript, you can gain new skills, advance your knowledge, and make some new additions to your software development toolkit.<br><blockquote>This type of annotation is explicit and specific to <b>TypeScript</b>. Another way is simply to assign a value to a variable and let <b>TypeScript</b> work its magic. The magic is called type inference, and that means that <b>TypeScript</b> will try to&nbsp;...</blockquote>",
+            "url": "http://books.google.com/books?id=eN06EAAAQBAJ&pg=PA13&dq=TypeScript&hl=&cd=6&source=gbs_api",
             "title": "The The TypeScript Workshop",
             "summary": "Kickstart your learning with this hands-on guide to programming with TypeScript. By learning how to quickly transition from JavaScript, leverage features such as types and decorators, and incorporate React with TypeScript, you can gain new skills, advance your knowledge, and make some new additions to your software development toolkit.",
             "image": "http://books.google.com/books/content?id=eN06EAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",

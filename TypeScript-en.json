@@ -68,8 +68,8 @@
             "date_modified": "2021-04-23T00:00:00.000Z"
         },
         {
-            "content_html": "This book is a guide to the TypeScript language, from basic concepts to advanced features, and will get you up and running quickly. You'll learn TypeScript programming in depth as you use popular application frameworks and utilize modern design patterns and architectural patterns to build modular, testable and enterprise-ready applications.<br><blockquote>This book is a guide to the TypeScript language, from basic concepts to advanced features, and will get you up and running quickly.</blockquote>",
-            "url": "http://books.google.com/books?id=O2wrEAAAQBAJ&printsec=frontcover&dq=TypeScript&hl=&cd=9&source=gbs_api",
+            "content_html": "This book is a guide to the TypeScript language, from basic concepts to advanced features, and will get you up and running quickly. You'll learn TypeScript programming in depth as you use popular application frameworks and utilize modern design patterns and architectural patterns to build modular, testable and enterprise-ready applications.<br><blockquote>The output of this command will be: hello <b>TypeScript</b> And that&#39;s it. It&#39;s as simple as creating a <b>TypeScript</b> file, generating JavaScript from it using the <b>TypeScript</b> compiler (tsc), and executing the resulting JavaScript using Node.</blockquote>",
+            "url": "http://books.google.com/books?id=O2wrEAAAQBAJ&pg=PA6&dq=TypeScript&hl=&cd=9&source=gbs_api",
             "title": "Mastering TypeScript",
             "summary": "This book is a guide to the TypeScript language, from basic concepts to advanced features, and will get you up and running quickly. You'll learn TypeScript programming in depth as you use popular application frameworks and utilize modern design patterns and architectural patterns to build modular, testable and enterprise-ready applications.",
             "image": "http://books.google.com/books/content?id=O2wrEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",

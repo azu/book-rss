@@ -68,8 +68,8 @@
             "date_modified": "2021-04-23T00:00:00.000Z"
         },
         {
-            "content_html": "This book is a guide to the TypeScript language, from basic concepts to advanced features, and will get you up and running quickly. You'll learn TypeScript programming in depth as you use popular application frameworks and utilize modern design patterns and architectural patterns to build modular, testable and enterprise-ready applications.<br><blockquote>Build enterprise-ready, modular web applications using <b>TypeScript</b> 4 and modern frameworks, 4th Edition Nathan Rozentals. Preface. The <b>TypeScript</b> language and compiler has been a huge success story since its release in late 2012.</blockquote>",
-            "url": "http://books.google.com/books?id=O2wrEAAAQBAJ&pg=PR11&dq=TypeScript&hl=&cd=9&source=gbs_api",
+            "content_html": "This book is a guide to the TypeScript language, from basic concepts to advanced features, and will get you up and running quickly. You'll learn TypeScript programming in depth as you use popular application frameworks and utilize modern design patterns and architectural patterns to build modular, testable and enterprise-ready applications.<br><blockquote>What we have seen in this section of the chapter is that the type rules and typing techniques that <b>TypeScript</b> provides can all be used within declaration files. The purpose of a declaration file is to tell the <b>TypeScript</b> compiler ahead&nbsp;...</blockquote>",
+            "url": "http://books.google.com/books?id=O2wrEAAAQBAJ&pg=PA197&dq=TypeScript&hl=&cd=9&source=gbs_api",
             "title": "Mastering TypeScript",
             "summary": "This book is a guide to the TypeScript language, from basic concepts to advanced features, and will get you up and running quickly. You'll learn TypeScript programming in depth as you use popular application frameworks and utilize modern design patterns and architectural patterns to build modular, testable and enterprise-ready applications.",
             "image": "http://books.google.com/books/content?id=O2wrEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",

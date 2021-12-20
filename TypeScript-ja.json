@@ -5,12 +5,12 @@
     "description": "TypeScript(ja) on Google Book",
     "items": [
         {
-            "content_html": "サンプルを作りながらTypeScriptの仕組みや特徴を学ぶ!TypeScriptの基礎知識からアプリ開発、更にはReact.jsやNode.js(Express/Nest)を使ったWebアプリ開発の基礎的な技術まで一通り解説。<br><blockquote><b>TypeScript</b>とは?<b>TypeScript</b>とは? Chapter 1 1 このトランスコンパイラ言語の中でも、現在もっとも広く使われているのが「<b>TypeScript</b>(タイプスクリプト)」と呼ばれる言語です。<b>TypeScript</b>は、マイクロソフトにより2012年に開発さ 2 れたオープンソースの&nbsp;...</blockquote>",
-            "url": "http://books.google.com/books?id=qAlGEAAAQBAJ&pg=PA15&dq=TypeScript&hl=&cd=1&source=gbs_api",
-            "title": "TypeScriptﾊﾝｽﾞｵﾝ",
-            "summary": "サンプルを作りながらTypeScriptの仕組みや特徴を学ぶ!TypeScriptの基礎知識からアプリ開発、更にはReact.jsやNode.js(Express/Nest)を使ったWebアプリ開発の基礎的な技術まで一通り解説。",
-            "image": "http://books.google.com/books/content?id=qAlGEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-            "date_modified": "2021-08-01T00:00:00.000Z"
+            "content_html": "DXを成功させるためには技術の理解が不可欠 確かな知識がつく「使える教科書」 【本書のポイント】 ・解説とイラストがセットで理解しやすい ・DXの概念的な説明や実現に向けての準備だけでなく、技術面もしっかり解説 ・DX人材に身につけてもらいたいITとデジタル技術を中心に基礎知識から実用に至るまでをコンパクトに解説 ・技術面を理解することで、ビジネスやサービス、あるいはシステムの企画立案ができるようになる ・キーワードから知りたい項目を調べやすい ・現場の実態や出来事など、最新動向にもしっかり対応！ ・ビジネスパーソンに必須の知識に絞って解説！ こんな方におすすめ！ ・DX全体の概要を知りたい方 ・DXを成功させるコツを知りたい人 ・DXに関連する技術のイメージがわかなくて困っている方 ・DXに関わる技術と機器の役割を知りたい方 ・現場の実態や出来事など、最新動向についても知りたい方 【内容紹介】 現在、DXはさまざまなシーンで登場する言葉となっています。 本書ではDX人材に身につけてもらいたいITとデジタル技術を中心に 基礎知識から実用に至るまでをしっかりと解説しています。 ビジネスやサービス、あるいはシステムの企画立案をするためには、技術の理解が不可欠です。 そこで、本書では見開きで 1つのテーマを取り上げ、 図解を交えて解説しています。 最初から順に読んで 体系的な知識を得るのはもちろん、 気になるテーマやキーワードに 注目しながら読むなど、 状況に合わせて活用しましょう。 【目次】 第1章 DXの基本～特徴と機能、デジタル化との違い～ 第2章 DXの実現に向けて～取り組みと実現のパターン～ 第3章 DXを実現するフロントエンドのデジタル技術～AI・RPA・IoTデバイス～ 第4章 DXに不可欠なWeb技術～ブラウザ、Webアプリ、多様化するWebの世界～ 第5章 DXの基盤を担うクラウド～クラウドのサービスと技術～ 第6章 データ処理とネットワーク～変わりゆくデータベースと典型的な処理～ 第7章 DXを創る活動～企画・設計から準備まで～ 第8章 DXはWebとクラウドから～DXのほとんどはWeb技術を使う～ 第9章 DX人材を育てる～人材像とスキルの定義～<br><blockquote>NETの概要例えばJavaScriptであれば、React、Vue.js(ビュー・ドット・ジェイエス)、jQueryなどが、<b>TypeScript</b>であればAngular(アンギュラー)などのように、ベースとなる言語に合ったフレームワークが選択されます(図 8-7下)。それぞれが、各処理において&nbsp;...</blockquote>",
+            "url": "http://books.google.com/books?id=8H5GEAAAQBAJ&pg=PA205&dq=TypeScript&hl=&cd=1&source=gbs_api",
+            "title": "図解まるわかり DXのしくみ",
+            "summary": "DXを成功させるためには技術の理解が不可欠 確かな知識がつく「使える教科書」 【本書のポイント】 ・解説とイラストがセットで理解しやすい ・DXの概念的な説明や実現に向けての準備だけでなく、技術面もしっかり解説 ・DX人材に身につけてもらいたいITとデジタル技術を中心に基礎知識から実用に至るまでをコンパクトに解説 ・技術面を理解することで、ビジネスやサービス、あるいはシステムの企画立案ができるようになる ・キーワードから知りたい項目を調べやすい ・現場の実態や出来事など、最新動向にもしっかり対応！ ・ビジネスパーソンに必須の知識に絞って解説！ こんな方におすすめ！ ・DX全体の概要を知りたい方 ・DXを成功させるコツを知りたい人 ・DXに関連する技術のイメージがわかなくて困っている方 ・DXに関わる技術と機器の役割を知りたい方 ・現場の実態や出来事など、最新動向についても知りたい方 【内容紹介】 現在、DXはさまざまなシーンで登場する言葉となっています。 本書ではDX人材に身につけてもらいたいITとデジタル技術を中心に 基礎知識から実用に至るまでをしっかりと解説しています。 ビジネスやサービス、あるいはシステムの企画立案をするためには、技術の理解が不可欠です。 そこで、本書では見開きで 1つのテーマを取り上げ、 図解を交えて解説しています。 最初から順に読んで 体系的な知識を得るのはもちろん、 気になるテーマやキーワードに 注目しながら読むなど、 状況に合わせて活用しましょう。 【目次】 第1章 DXの基本～特徴と機能、デジタル化との違い～ 第2章 DXの実現に向けて～取り組みと実現のパターン～ 第3章 DXを実現するフロントエンドのデジタル技術～AI・RPA・IoTデバイス～ 第4章 DXに不可欠なWeb技術～ブラウザ、Webアプリ、多様化するWebの世界～ 第5章 DXの基盤を担うクラウド～クラウドのサービスと技術～ 第6章 データ処理とネットワーク～変わりゆくデータベースと典型的な処理～ 第7章 DXを創る活動～企画・設計から準備まで～ 第8章 DXはWebとクラウドから～DXのほとんどはWeb技術を使う～ 第9章 DX人材を育てる～人材像とスキルの定義～",
+            "image": "http://books.google.com/books/content?id=8H5GEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+            "date_modified": "2021-10-11T00:00:00.000Z"
         },
         {
             "content_html": "本書はJavaScriptの経験がある人向けのTypeScriptの入門書です。<br><blockquote>本書はJavaScriptの経験がある人向けのTypeScriptの入門書です。</blockquote>",
@@ -45,44 +45,44 @@
             "date_modified": "2021-09-16T00:00:00.000Z"
         },
         {
+            "content_html": "サンプルを作りながらTypeScriptの仕組みや特徴を学ぶ!TypeScriptの基礎知識からアプリ開発、更にはReact.jsやNode.js(Express/Nest)を使ったWebアプリ開発の基礎的な技術まで一通り解説。<br><blockquote><b>TypeScript</b>とは?<b>TypeScript</b>とは? Chapter 1 1 このトランスコンパイラ言語の中でも、現在もっとも広く使われているのが「<b>TypeScript</b>(タイプスクリプト)」と呼ばれる言語です。<b>TypeScript</b>は、マイクロソフトにより2012年に開発さ 2 れたオープンソースの&nbsp;...</blockquote>",
+            "url": "http://books.google.com/books?id=qAlGEAAAQBAJ&pg=PA15&dq=TypeScript&hl=&cd=6&source=gbs_api",
+            "title": "TypeScriptﾊﾝｽﾞｵﾝ",
+            "summary": "サンプルを作りながらTypeScriptの仕組みや特徴を学ぶ!TypeScriptの基礎知識からアプリ開発、更にはReact.jsやNode.js(Express/Nest)を使ったWebアプリ開発の基礎的な技術まで一通り解説。",
+            "image": "http://books.google.com/books/content?id=qAlGEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+            "date_modified": "2021-08-01T00:00:00.000Z"
+        },
+        {
+            "content_html": "サンプルを作りながらTypeScriptの仕組みや特徴を学ぶ!TypeScriptの基礎知識からアプリ開発、更にはReact.jsやNode.js(Express/Nest)を使ったWebアプリ開発の基礎的な技術まで一通り解説。<br><blockquote><b>TypeScript</b>は本当に便利なのか?<b>TypeScript</b>は本当に便利なのか? 1 以上、Expressから始まり、Nest.jsとTypeORMによるWebアプリ開発へと説明を行ってきました。ほとんどの説明がフレームワークの使い方であったため、あまり「<b>TypeScript</b>による 2 開発」&nbsp;...</blockquote>",
+            "url": "http://books.google.com/books?id=qAlGEAAAQBAJ&pg=PA401&dq=TypeScript&hl=&cd=7&source=gbs_api",
+            "title": "TypeScriptﾊﾝｽﾞｵﾝ",
+            "summary": "サンプルを作りながらTypeScriptの仕組みや特徴を学ぶ!TypeScriptの基礎知識からアプリ開発、更にはReact.jsやNode.js(Express/Nest)を使ったWebアプリ開発の基礎的な技術まで一通り解説。",
+            "image": "http://books.google.com/books/content?id=qAlGEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+            "date_modified": "2021-08-01T00:00:00.000Z"
+        },
+        {
             "content_html": "※この商品はタブレットなど大きいディスプレイを備えた端末で読むことに適しています。また、文字だけを拡大することや、文字列のハイライト、検索、辞書の参照、引用などの機能が使用できません。 TypeScriptをハンズオン形式で学ぶ書籍です。「ハンズオン形式で敷居の低い解説」が特徴となります。またWebアプリ開発にも章を割いており、様々な知識を学びたい人にうってつけの内容となります。<br><blockquote>※この商品はタブレットなど大きいディスプレイを備えた端末で読むことに適しています。また、文字だけを拡大することや、文字列のハイライト、検索、辞書の参照、引用など ...</blockquote>",
-            "url": "http://books.google.com/books?id=uvU-EAAAQBAJ&dq=TypeScript&hl=&cd=6&source=gbs_api",
+            "url": "http://books.google.com/books?id=uvU-EAAAQBAJ&dq=TypeScript&hl=&cd=8&source=gbs_api",
             "title": "TypeScriptハンズオン",
             "summary": "※この商品はタブレットなど大きいディスプレイを備えた端末で読むことに適しています。また、文字だけを拡大することや、文字列のハイライト、検索、辞書の参照、引用などの機能が使用できません。 TypeScriptをハンズオン形式で学ぶ書籍です。「ハンズオン形式で敷居の低い解説」が特徴となります。またWebアプリ開発にも章を割いており、様々な知識を学びたい人にうってつけの内容となります。",
             "image": "http://books.google.com/books/content?id=uvU-EAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
             "date_modified": "2021-08-26T00:00:00.000Z"
         },
         {
-            "content_html": "サンプルを作りながらTypeScriptの仕組みや特徴を学ぶ!TypeScriptの基礎知識からアプリ開発、更にはReact.jsやNode.js(Express/Nest)を使ったWebアプリ開発の基礎的な技術まで一通り解説。<br><blockquote><b>TypeScript</b>の設定を行う<b>TypeScript</b>の設定を行う続いて、<b>TypeScript</b>をプロジェクトに組み込みます。<b>TypeScript</b>は、既にインストールして使えるようになっていますが、プロジェクトの開発では、必要なパッケージ類はプロジェクトの中にインストールしておく&nbsp;...</blockquote>",
-            "url": "http://books.google.com/books?id=qAlGEAAAQBAJ&pg=PA38&dq=TypeScript&hl=&cd=7&source=gbs_api",
-            "title": "TypeScriptﾊﾝｽﾞｵﾝ",
-            "summary": "サンプルを作りながらTypeScriptの仕組みや特徴を学ぶ!TypeScriptの基礎知識からアプリ開発、更にはReact.jsやNode.js(Express/Nest)を使ったWebアプリ開発の基礎的な技術まで一通り解説。",
-            "image": "http://books.google.com/books/content?id=qAlGEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-            "date_modified": "2021-08-01T00:00:00.000Z"
-        },
-        {
-            "content_html": "サンプルを作りながらTypeScriptの仕組みや特徴を学ぶ!TypeScriptの基礎知識からアプリ開発、更にはReact.jsやNode.js(Express/Nest)を使ったWebアプリ開発の基礎的な技術まで一通り解説。<br><blockquote><b>TypeScript</b>のスクリプト<b>TypeScript</b>のスクリプトその後にある&lt;script lang=&quot;ts&quot;&gt;というタグが<b>TypeScript</b>のスクリプトを記述している部分です。<b>TypeScript</b>を使う場合は、このようにlang属性に&quot;ts&quot;を指定します。 import { Options,&nbsp;...</blockquote>",
-            "url": "http://books.google.com/books?id=qAlGEAAAQBAJ&pg=PA314&dq=TypeScript&hl=&cd=8&source=gbs_api",
-            "title": "TypeScriptﾊﾝｽﾞｵﾝ",
-            "summary": "サンプルを作りながらTypeScriptの仕組みや特徴を学ぶ!TypeScriptの基礎知識からアプリ開発、更にはReact.jsやNode.js(Express/Nest)を使ったWebアプリ開発の基礎的な技術まで一通り解説。",
-            "image": "http://books.google.com/books/content?id=qAlGEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-            "date_modified": "2021-08-01T00:00:00.000Z"
-        },
-        {
-            "content_html": "サンプルを作りながらTypeScriptの仕組みや特徴を学ぶ!TypeScriptの基礎知識からアプリ開発、更にはReact.jsやNode.js(Express/Nest)を使ったWebアプリ開発の基礎的な技術まで一通り解説。<br><blockquote><b>TypeScript</b>を使っていても、このようにリアルタイムに修正内容が反映されるので、「トランスコンパイルして使っている」という感じがほとんどしません。<b>TypeScript</b>のコードがそのまま動いているように思えることでしょう。特に<b>TypeScript</b>を利用している&nbsp;...</blockquote>",
-            "url": "http://books.google.com/books?id=qAlGEAAAQBAJ&pg=PA48&dq=TypeScript&hl=&cd=9&source=gbs_api",
-            "title": "TypeScriptﾊﾝｽﾞｵﾝ",
-            "summary": "サンプルを作りながらTypeScriptの仕組みや特徴を学ぶ!TypeScriptの基礎知識からアプリ開発、更にはReact.jsやNode.js(Express/Nest)を使ったWebアプリ開発の基礎的な技術まで一通り解説。",
-            "image": "http://books.google.com/books/content?id=qAlGEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-            "date_modified": "2021-08-01T00:00:00.000Z"
-        },
-        {
             "content_html": "サンプルを作りながらTypeScriptの仕組みや特徴を学ぶ!TypeScriptの基礎知識からアプリ開発、更にはReact.jsやNode.js(Express/Nest)を使ったWebアプリ開発の基礎的な技術まで一通り解説。<br><blockquote>サンプルを作りながらTypeScriptの仕組みや特徴を学ぶ!TypeScriptの基礎知識からアプリ開発、更にはReact.jsやNode.js(Express/Nest)を使ったWebアプリ開発の基礎的な技術まで一通り解説。</blockquote>",
-            "url": "http://books.google.com/books?id=qAlGEAAAQBAJ&pg=PP1&dq=TypeScript&hl=&cd=10&source=gbs_api",
+            "url": "http://books.google.com/books?id=qAlGEAAAQBAJ&pg=PP1&dq=TypeScript&hl=&cd=9&source=gbs_api",
             "title": "TypeScriptﾊﾝｽﾞｵﾝ",
             "summary": "サンプルを作りながらTypeScriptの仕組みや特徴を学ぶ!TypeScriptの基礎知識からアプリ開発、更にはReact.jsやNode.js(Express/Nest)を使ったWebアプリ開発の基礎的な技術まで一通り解説。",
             "image": "http://books.google.com/books/content?id=qAlGEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
             "date_modified": "2021-08-01T00:00:00.000Z"
+        },
+        {
+            "content_html": "Webのしくみを理解することはITの基本を理解すること 確かな知識がつく「使える教科書」 【本書のポイント】 ・解説とイラストがセットで理解しやすい ・WebサイトとWebアプリ、さらにやや複雑なWebシステムのそれぞれを明確に分けて解説 ・他のシステムとの比較も含めて開発と運用、セキュリティについても解説 ・キーワードから知りたい項目を調べやすい ・現場の実態や出来事など、最新動向にもしっかり対応！ ・ビジネスパーソンに必須の知識に絞って解説！ ・管理者にも開発者にも役立つ基本がわかる こんな方におすすめ！ ・Web技術全体の概要を知りたい方 ・Webに関連する技術のイメージがわかなくて困っている方 ・Webに関わる技術と機器の役割を知りたい方 ・現場の実態や出来事など、最新動向についても知りたい方 【内容紹介】 Web技術は、個人の視点に立つと、日常的に利用しているWebサイトや検索エンジン、 SNS、オンラインショッピングなどのように、最も身近な情報システムです。 そこで、本書では見開きで 1つのテーマを取り上げ、 図解を交えて解説しています。 最初から順に読んで 体系的な知識を得るのはもちろん、 気になるテーマやキーワードに 注目しながら読むなど、 状況に合わせて活用しましょう。 【目次】 第1章 Web技術の基本～ブラウザとWebサーバーなどの登場人物～ 第2章 Web独自のしくみ～進化するWebサイトの裏側～ 第3章 Webを支えるしくみ～Webを取り巻く機能とサーバーの構築～ 第4章 Webの普及と広がり～拡大を続ける利用者と市場～ 第5章 Webと異なるシステム～Webに載らない、載せないシステム～ 第6章 クラウドとの関係～現在のWebシステムの基盤を理解する～ 第7章 Webサイトの開設に際して～確認してほしい事項～ 第8章 Webシステムの開発～使えるものは使って動かす～ 第9章 セキュリティと運用～Web固有とシステム全般と～<br><blockquote>JavaScriptと<b>TypeScript</b>、ASP.NETの原型 JavaScriptは1990年代から現在に至るまで使われ続けています。それに対して、<b>TypeScript</b>はマイクロソフトが2010年代前半に発表した比較的新しいプログラミング言語です。もちろんJavaScriptと互換性を&nbsp;...</blockquote>",
+            "url": "http://books.google.com/books?id=cHsnEAAAQBAJ&pg=PA58&dq=TypeScript&hl=&cd=10&source=gbs_api",
+            "title": "図解まるわかり Web技術のしくみ",
+            "summary": "Webのしくみを理解することはITの基本を理解すること 確かな知識がつく「使える教科書」 【本書のポイント】 ・解説とイラストがセットで理解しやすい ・WebサイトとWebアプリ、さらにやや複雑なWebシステムのそれぞれを明確に分けて解説 ・他のシステムとの比較も含めて開発と運用、セキュリティについても解説 ・キーワードから知りたい項目を調べやすい ・現場の実態や出来事など、最新動向にもしっかり対応！ ・ビジネスパーソンに必須の知識に絞って解説！ ・管理者にも開発者にも役立つ基本がわかる こんな方におすすめ！ ・Web技術全体の概要を知りたい方 ・Webに関連する技術のイメージがわかなくて困っている方 ・Webに関わる技術と機器の役割を知りたい方 ・現場の実態や出来事など、最新動向についても知りたい方 【内容紹介】 Web技術は、個人の視点に立つと、日常的に利用しているWebサイトや検索エンジン、 SNS、オンラインショッピングなどのように、最も身近な情報システムです。 そこで、本書では見開きで 1つのテーマを取り上げ、 図解を交えて解説しています。 最初から順に読んで 体系的な知識を得るのはもちろん、 気になるテーマやキーワードに 注目しながら読むなど、 状況に合わせて活用しましょう。 【目次】 第1章 Web技術の基本～ブラウザとWebサーバーなどの登場人物～ 第2章 Web独自のしくみ～進化するWebサイトの裏側～ 第3章 Webを支えるしくみ～Webを取り巻く機能とサーバーの構築～ 第4章 Webの普及と広がり～拡大を続ける利用者と市場～ 第5章 Webと異なるシステム～Webに載らない、載せないシステム～ 第6章 クラウドとの関係～現在のWebシステムの基盤を理解する～ 第7章 Webサイトの開設に際して～確認してほしい事項～ 第8章 Webシステムの開発～使えるものは使って動かす～ 第9章 セキュリティと運用～Web固有とシステム全般と～",
+            "image": "http://books.google.com/books/content?id=cHsnEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+            "date_modified": "2021-04-07T00:00:00.000Z"
         }
     ]
 }

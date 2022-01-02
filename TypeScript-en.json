@@ -28,24 +28,24 @@
             "date_modified": "2021-09-15T00:00:00.000Z"
         },
         {
-            "content_html": "Kickstart your learning with this hands-on guide to programming with TypeScript. By learning how to quickly transition from JavaScript, leverage features such as types and decorators, and incorporate React with TypeScript, you can gain new skills, advance your knowledge, and make some new additions to your software development toolkit.<br><blockquote>Chapter 3, Functions, dives deep into <b>TypeScript</b> functions. The chapter begins by introducing basic functions in <b>TypeScript</b> and then progresses to teach you advanced topics, such as type inference, currying, and the use of import,&nbsp;...</blockquote>",
-            "url": "http://books.google.com/books?id=eN06EAAAQBAJ&pg=PR4&dq=TypeScript&hl=&cd=4&source=gbs_api",
-            "title": "The The TypeScript Workshop",
-            "summary": "Kickstart your learning with this hands-on guide to programming with TypeScript. By learning how to quickly transition from JavaScript, leverage features such as types and decorators, and incorporate React with TypeScript, you can gain new skills, advance your knowledge, and make some new additions to your software development toolkit.",
-            "image": "http://books.google.com/books/content?id=eN06EAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-            "date_modified": "2021-07-29T00:00:00.000Z"
-        },
-        {
             "content_html": "Kickstart your learning with this hands-on guide to programming with TypeScript. By learning how to quickly transition from JavaScript, leverage features such as types and decorators, and incorporate React with TypeScript, you can gain new skills, advance your knowledge, and make some new additions to your software development toolkit.<br><blockquote>Kickstart your learning with this hands-on guide to programming with TypeScript.</blockquote>",
-            "url": "http://books.google.com/books?id=eN06EAAAQBAJ&pg=PP1&dq=TypeScript&hl=&cd=5&source=gbs_api",
+            "url": "http://books.google.com/books?id=eN06EAAAQBAJ&pg=PP1&dq=TypeScript&hl=&cd=4&source=gbs_api",
             "title": "The The TypeScript Workshop",
             "summary": "Kickstart your learning with this hands-on guide to programming with TypeScript. By learning how to quickly transition from JavaScript, leverage features such as types and decorators, and incorporate React with TypeScript, you can gain new skills, advance your knowledge, and make some new additions to your software development toolkit.",
             "image": "http://books.google.com/books/content?id=eN06EAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
             "date_modified": "2021-07-29T00:00:00.000Z"
         },
         {
-            "content_html": "Kickstart your learning with this hands-on guide to programming with TypeScript. By learning how to quickly transition from JavaScript, leverage features such as types and decorators, and incorporate React with TypeScript, you can gain new skills, advance your knowledge, and make some new additions to your software development toolkit.<br><blockquote><b>TypeScript</b>. The core idea behind it was one that, in hindsight, seems quite obvious. Instead of replacing JavaScript with another language, why not just add the things that are missing? And why not add them in such a way that they can&nbsp;...</blockquote>",
-            "url": "http://books.google.com/books?id=eN06EAAAQBAJ&pg=PA5&dq=TypeScript&hl=&cd=6&source=gbs_api",
+            "content_html": "Kickstart your learning with this hands-on guide to programming with TypeScript. By learning how to quickly transition from JavaScript, leverage features such as types and decorators, and incorporate React with TypeScript, you can gain new skills, advance your knowledge, and make some new additions to your software development toolkit.<br><blockquote>Chapter 3, Functions, dives deep into <b>TypeScript</b> functions. The chapter begins by introducing basic functions in <b>TypeScript</b> and then progresses to teach you advanced topics, such as type inference, currying, and the use of import,&nbsp;...</blockquote>",
+            "url": "http://books.google.com/books?id=eN06EAAAQBAJ&pg=PR4&dq=TypeScript&hl=&cd=5&source=gbs_api",
+            "title": "The The TypeScript Workshop",
+            "summary": "Kickstart your learning with this hands-on guide to programming with TypeScript. By learning how to quickly transition from JavaScript, leverage features such as types and decorators, and incorporate React with TypeScript, you can gain new skills, advance your knowledge, and make some new additions to your software development toolkit.",
+            "image": "http://books.google.com/books/content?id=eN06EAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+            "date_modified": "2021-07-29T00:00:00.000Z"
+        },
+        {
+            "content_html": "Kickstart your learning with this hands-on guide to programming with TypeScript. By learning how to quickly transition from JavaScript, leverage features such as types and decorators, and incorporate React with TypeScript, you can gain new skills, advance your knowledge, and make some new additions to your software development toolkit.<br><blockquote>While it is technically feasible to use these libraries along with <b>TypeScript</b>, it&#39;s not a good idea as they are all essentially trying to solve the same thing. If you&#39;re using <b>TypeScript</b>, it&#39;s best to avoid Flow and PropTypes.</blockquote>",
+            "url": "http://books.google.com/books?id=eN06EAAAQBAJ&pg=PA551&dq=TypeScript&hl=&cd=6&source=gbs_api",
             "title": "The The TypeScript Workshop",
             "summary": "Kickstart your learning with this hands-on guide to programming with TypeScript. By learning how to quickly transition from JavaScript, leverage features such as types and decorators, and incorporate React with TypeScript, you can gain new skills, advance your knowledge, and make some new additions to your software development toolkit.",
             "image": "http://books.google.com/books/content?id=eN06EAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",

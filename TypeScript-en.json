@@ -68,20 +68,20 @@
             "date_modified": "2021-04-23T00:00:00.000Z"
         },
         {
-            "content_html": "This book is a guide to the TypeScript language, from basic concepts to advanced features, and will get you up and running quickly. You'll learn TypeScript programming in depth as you use popular application frameworks and utilize modern design patterns and architectural patterns to build modular, testable and enterprise-ready applications.<br><blockquote>This book is a guide to the TypeScript language, from basic concepts to advanced features, and will get you up and running quickly.</blockquote>",
-            "url": "http://books.google.com/books?id=O2wrEAAAQBAJ&printsec=frontcover&dq=TypeScript&hl=&cd=9&source=gbs_api",
+            "content_html": "This book is a guide to the TypeScript language, from basic concepts to advanced features, and will get you up and running quickly. You'll learn TypeScript programming in depth as you use popular application frameworks and utilize modern design patterns and architectural patterns to build modular, testable and enterprise-ready applications.<br><blockquote>Build enterprise-ready, modular web applications using <b>TypeScript</b> 4 and modern frameworks, 4th Edition Nathan Rozentals. Preface. The <b>TypeScript</b> language and compiler has been a huge success story since its release in late 2012.</blockquote>",
+            "url": "http://books.google.com/books?id=O2wrEAAAQBAJ&pg=PR11&dq=TypeScript&hl=&cd=9&source=gbs_api",
             "title": "Mastering TypeScript",
             "summary": "This book is a guide to the TypeScript language, from basic concepts to advanced features, and will get you up and running quickly. You'll learn TypeScript programming in depth as you use popular application frameworks and utilize modern design patterns and architectural patterns to build modular, testable and enterprise-ready applications.",
             "image": "http://books.google.com/books/content?id=O2wrEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
             "date_modified": "2021-04-23T00:00:00.000Z"
         },
         {
-            "content_html": "Deno Web Development is the definitive guide to starting to write, test, and deploy reliable Deno applications. You’ll be able to apply Deno to common use cases from simple command-line interface (CLI) utilities to multi-featured APIs. By the end of this Deno book, you’ll be comfortable with using Deno for real-world web application development.<br><blockquote>Deno Web Development is the definitive guide to starting to write, test, and deploy reliable Deno applications.</blockquote>",
-            "url": "http://books.google.com/books?id=gIwmEAAAQBAJ&pg=PP1&dq=TypeScript&hl=&cd=10&source=gbs_api",
-            "title": "Deno Web Development",
-            "summary": "Deno Web Development is the definitive guide to starting to write, test, and deploy reliable Deno applications. You’ll be able to apply Deno to common use cases from simple command-line interface (CLI) utilities to multi-featured APIs. By the end of this Deno book, you’ll be comfortable with using Deno for real-world web application development.",
-            "image": "http://books.google.com/books/content?id=gIwmEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-            "date_modified": "2021-03-26T00:00:00.000Z"
+            "content_html": "This book is a guide to the TypeScript language, from basic concepts to advanced features, and will get you up and running quickly. You'll learn TypeScript programming in depth as you use popular application frameworks and utilize modern design patterns and architectural patterns to build modular, testable and enterprise-ready applications.<br><blockquote>This book is a guide to the TypeScript language, from basic concepts to advanced features, and will get you up and running quickly.</blockquote>",
+            "url": "http://books.google.com/books?id=O2wrEAAAQBAJ&printsec=frontcover&dq=TypeScript&hl=&cd=10&source=gbs_api",
+            "title": "Mastering TypeScript",
+            "summary": "This book is a guide to the TypeScript language, from basic concepts to advanced features, and will get you up and running quickly. You'll learn TypeScript programming in depth as you use popular application frameworks and utilize modern design patterns and architectural patterns to build modular, testable and enterprise-ready applications.",
+            "image": "http://books.google.com/books/content?id=O2wrEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+            "date_modified": "2021-04-23T00:00:00.000Z"
         }
     ]
 }

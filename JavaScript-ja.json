@@ -37,8 +37,16 @@
             "date_modified": "2021-11-10T00:00:00.000Z"
         },
         {
+            "content_html": "※この商品はタブレットなど大きいディスプレイを備えた端末で読むことに適しています。また、文字だけを拡大することや、文字列のハイライト、検索、辞書の参照、引用などの機能が使用できません。 Excel は Web で使う」時代がやってくる! 現在、あらゆるものはローカル環境 から Web へとシフトしつつあります。そんな中、未だに「アプリケーションをインストールして使う」ソフ トの代表とも言えるのが「Excel」です。 Web 版 Excel に、2021年5月に「Office Script」というマクロ言語が搭載されました。これにより、Excel を自動化することができるようになりました。 本書ではOffice ScriptのベースとなっているTypeScript(JavaScriptを拡張したものです)の文法から、Excelのセルやグラフ、テーブルなどの操作まで細かく説明をしています。 そのほか、Power Automate というiSaaS(Integration Software As A Service、サービスの統合化)ツールを使い、 外部とやり取りする方法まで触れています。 新しい言語の「Office Script」を誰よりも早く学ぶチャンスです。<br><blockquote>※この商品はタブレットなど大きいディスプレイを備えた端末で読むことに適しています。また、文字だけを拡大することや、文字列のハイライト、検索、辞書の参照、引用など ...</blockquote>",
+            "url": "http://books.google.com/books?id=7KZKEAAAQBAJ&dq=JavaScript&hl=&cd=8&source=gbs_api",
+            "title": "Office ScriptによるExcel on the web 開発入門",
+            "summary": "※この商品はタブレットなど大きいディスプレイを備えた端末で読むことに適しています。また、文字だけを拡大することや、文字列のハイライト、検索、辞書の参照、引用などの機能が使用できません。 Excel は Web で使う」時代がやってくる! 現在、あらゆるものはローカル環境 から Web へとシフトしつつあります。そんな中、未だに「アプリケーションをインストールして使う」ソフ トの代表とも言えるのが「Excel」です。 Web 版 Excel に、2021年5月に「Office Script」というマクロ言語が搭載されました。これにより、Excel を自動化することができるようになりました。 本書ではOffice ScriptのベースとなっているTypeScript(JavaScriptを拡張したものです)の文法から、Excelのセルやグラフ、テーブルなどの操作まで細かく説明をしています。 そのほか、Power Automate というiSaaS(Integration Software As A Service、サービスの統合化)ツールを使い、 外部とやり取りする方法まで触れています。 新しい言語の「Office Script」を誰よりも早く学ぶチャンスです。",
+            "image": "http://books.google.com/books/content?id=7KZKEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+            "date_modified": "2021-10-21T00:00:00.000Z"
+        },
+        {
             "content_html": "JavaScriptは、Twitterのようなソーシャルアプリケーションからブラウザベースのゲームフレームワークまで、現代のほとんどすべてのWebアプリケーションの中核を成しています。JavaScriptは、初心者が簡単に扱える言語でありながら、本格的なアプリケーションを構築できるほど、柔軟で複雑です。『流麗なJavaScript 第3版』では、JavaScript言語を深く掘り下げ、美しく効果的なコードを書く方法を紹介。第3版では特に、クラス表記、アロー関数、イテレータ、非同期関数、テンプレート文字列、ブロックスコープなどの機能について、まったく新しい内容が追加。本書において、著者は、JavaScriptの基本をコードと豊富な例を挙げながら解説。また、練習問題といくつかのプロジェクトを通じて、実際に自分でプログラムを書いてみます。<br><blockquote>JavaScriptは、Twitterのようなソーシャルアプリケーションからブラウザベースのゲームフレームワークまで、現代のほとんどすべてのWebアプリケーションの中核を成しています。Java ...</blockquote>",
-            "url": "http://books.google.com/books?id=RIWLzgEACAAJ&dq=JavaScript&hl=&cd=7&source=gbs_api",
+            "url": "http://books.google.com/books?id=RIWLzgEACAAJ&dq=JavaScript&hl=&cd=9&source=gbs_api",
             "title": "Ryūrei na jaba sukuriputo",
             "summary": "JavaScriptは、Twitterのようなソーシャルアプリケーションからブラウザベースのゲームフレームワークまで、現代のほとんどすべてのWebアプリケーションの中核を成しています。JavaScriptは、初心者が簡単に扱える言語でありながら、本格的なアプリケーションを構築できるほど、柔軟で複雑です。『流麗なJavaScript 第3版』では、JavaScript言語を深く掘り下げ、美しく効果的なコードを書く方法を紹介。第3版では特に、クラス表記、アロー関数、イテレータ、非同期関数、テンプレート文字列、ブロックスコープなどの機能について、まったく新しい内容が追加。本書において、著者は、JavaScriptの基本をコードと豊富な例を挙げながら解説。また、練習問題といくつかのプロジェクトを通じて、実際に自分でプログラムを書いてみます。",
             "image": "http://books.google.com/books/content?id=RIWLzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
@@ -46,7 +54,7 @@
         },
         {
             "content_html": "絶対に挫折しない最高の1冊！ ※この電子書籍は固定レイアウト型で配信されております。固定レイアウト型は文字だけを拡大することや、文字列のハイライト、検索、辞書の参照、引用などの機能が使用できません。 Reactをイチから学びたい方にオススメの1冊です！ 【本書のポイント】 UdemyのReactコースで最高評価獲得の著者がモダンJavaScriptの基礎からTypeScriptの実践的な内容までしっかり解説！ 著者が2年以上勉強会を主催し初学者と話す中で分かった、多くの人が感じるReactの挫折ポイントを解決する構成！ 現場のシチュエーションベースのストーリーで技術解説をしているので、実務で必要となる知識を意識しながら学習を進められる！ 「#挫折しないReact本」で学習した感想をシェア！！<br><blockquote>絶対に挫折しない最高の1冊！ ※この電子書籍は固定レイアウト型で配信されております。固定レイアウト型は文字だけを拡大することや、文字列のハイライト、検索、辞書の参 ...</blockquote>",
-            "url": "http://books.google.com/books?id=mK9CEAAAQBAJ&dq=JavaScript&hl=&cd=8&source=gbs_api",
+            "url": "http://books.google.com/books?id=mK9CEAAAQBAJ&dq=JavaScript&hl=&cd=10&source=gbs_api",
             "title": "モダンJavaScriptの基本から始める　React実践の教科書",
             "summary": "絶対に挫折しない最高の1冊！ ※この電子書籍は固定レイアウト型で配信されております。固定レイアウト型は文字だけを拡大することや、文字列のハイライト、検索、辞書の参照、引用などの機能が使用できません。 Reactをイチから学びたい方にオススメの1冊です！ 【本書のポイント】 UdemyのReactコースで最高評価獲得の著者がモダンJavaScriptの基礎からTypeScriptの実践的な内容までしっかり解説！ 著者が2年以上勉強会を主催し初学者と話す中で分かった、多くの人が感じるReactの挫折ポイントを解決する構成！ 現場のシチュエーションベースのストーリーで技術解説をしているので、実務で必要となる知識を意識しながら学習を進められる！ 「#挫折しないReact本」で学習した感想をシェア！！",
             "image": "http://books.google.com/books/content?id=mK9CEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",

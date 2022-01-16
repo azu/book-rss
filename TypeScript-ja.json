@@ -45,8 +45,16 @@
             "date_modified": "2021-08-26T00:00:00.000Z"
         },
         {
+            "content_html": "サンプルを作りながらTypeScriptの仕組みや特徴を学ぶ!TypeScriptの基礎知識からアプリ開発、更にはReact.jsやNode.js(Express/Nest)を使ったWebアプリ開発の基礎的な技術まで一通り解説。<br><blockquote>ExpressとTypeScriptExpressと<b>TypeScript</b> 1 ここまでExpressの基礎知識について説明をしてきました。が、ここまでの説明はすべて「JavaScript」によるものでした。<b>TypeScript</b>でExpressの開発を行うためにはどのようにす 2 ればいいのでしょうか。</blockquote>",
+            "url": "http://books.google.com/books?id=qAlGEAAAQBAJ&pg=PA339&dq=TypeScript&hl=&cd=6&source=gbs_api",
+            "title": "TypeScriptﾊﾝｽﾞｵﾝ",
+            "summary": "サンプルを作りながらTypeScriptの仕組みや特徴を学ぶ!TypeScriptの基礎知識からアプリ開発、更にはReact.jsやNode.js(Express/Nest)を使ったWebアプリ開発の基礎的な技術まで一通り解説。",
+            "image": "http://books.google.com/books/content?id=qAlGEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+            "date_modified": "2021-08-01T00:00:00.000Z"
+        },
+        {
             "content_html": "サンプルを作りながらTypeScriptの仕組みや特徴を学ぶ!TypeScriptの基礎知識からアプリ開発、更にはReact.jsやNode.js(Express/Nest)を使ったWebアプリ開発の基礎的な技術まで一通り解説。<br><blockquote><b>TypeScript</b>とは?<b>TypeScript</b>とは? Chapter 1 1 このトランスコンパイラ言語の中でも、現在もっとも広く使われているのが「<b>TypeScript</b>(タイプスクリプト)」と呼ばれる言語です。<b>TypeScript</b>は、マイクロソフトにより2012年に開発さ 2 れたオープンソースの&nbsp;...</blockquote>",
-            "url": "http://books.google.com/books?id=qAlGEAAAQBAJ&pg=PA15&dq=TypeScript&hl=&cd=6&source=gbs_api",
+            "url": "http://books.google.com/books?id=qAlGEAAAQBAJ&pg=PA15&dq=TypeScript&hl=&cd=7&source=gbs_api",
             "title": "TypeScriptﾊﾝｽﾞｵﾝ",
             "summary": "サンプルを作りながらTypeScriptの仕組みや特徴を学ぶ!TypeScriptの基礎知識からアプリ開発、更にはReact.jsやNode.js(Express/Nest)を使ったWebアプリ開発の基礎的な技術まで一通り解説。",
             "image": "http://books.google.com/books/content?id=qAlGEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
@@ -54,23 +62,15 @@
         },
         {
             "content_html": "サンプルを作りながらTypeScriptの仕組みや特徴を学ぶ!TypeScriptの基礎知識からアプリ開発、更にはReact.jsやNode.js(Express/Nest)を使ったWebアプリ開発の基礎的な技術まで一通り解説。<br><blockquote>サンプルを作りながらTypeScriptの仕組みや特徴を学ぶ!TypeScriptの基礎知識からアプリ開発、更にはReact.jsやNode.js(Express/Nest)を使ったWebアプリ開発の基礎的な技術まで一通り解説。</blockquote>",
-            "url": "http://books.google.com/books?id=qAlGEAAAQBAJ&pg=PP1&dq=TypeScript&hl=&cd=7&source=gbs_api",
+            "url": "http://books.google.com/books?id=qAlGEAAAQBAJ&pg=PP1&dq=TypeScript&hl=&cd=8&source=gbs_api",
             "title": "TypeScriptﾊﾝｽﾞｵﾝ",
             "summary": "サンプルを作りながらTypeScriptの仕組みや特徴を学ぶ!TypeScriptの基礎知識からアプリ開発、更にはReact.jsやNode.js(Express/Nest)を使ったWebアプリ開発の基礎的な技術まで一通り解説。",
             "image": "http://books.google.com/books/content?id=qAlGEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
             "date_modified": "2021-08-01T00:00:00.000Z"
         },
         {
-            "content_html": "サンプルを作りながらTypeScriptの仕組みや特徴を学ぶ!TypeScriptの基礎知識からアプリ開発、更にはReact.jsやNode.js(Express/Nest)を使ったWebアプリ開発の基礎的な技術まで一通り解説。<br><blockquote>Chapter 11 Section <b>TypeScript</b>による<b>TypeScript</b>によるアプリケーション作成アプリケーション作成 1-2 2 3 ポイントポイント 4 ▷<b>TypeScript</b>でトランスコンパイルできるようになりましょう。▷Node.jsプロジェクトのセットアップ手順を覚えましょう。</blockquote>",
-            "url": "http://books.google.com/books?id=qAlGEAAAQBAJ&pg=PA31&dq=TypeScript&hl=&cd=8&source=gbs_api",
-            "title": "TypeScriptﾊﾝｽﾞｵﾝ",
-            "summary": "サンプルを作りながらTypeScriptの仕組みや特徴を学ぶ!TypeScriptの基礎知識からアプリ開発、更にはReact.jsやNode.js(Express/Nest)を使ったWebアプリ開発の基礎的な技術まで一通り解説。",
-            "image": "http://books.google.com/books/content?id=qAlGEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-            "date_modified": "2021-08-01T00:00:00.000Z"
-        },
-        {
-            "content_html": "サンプルを作りながらTypeScriptの仕組みや特徴を学ぶ!TypeScriptの基礎知識からアプリ開発、更にはReact.jsやNode.js(Express/Nest)を使ったWebアプリ開発の基礎的な技術まで一通り解説。<br><blockquote>1 Section 2 6-2 ReactとTypeScriptReactと<b>TypeScript</b> 3 4 5 ポイントポイント▷Reactプロジェクトの作成手順と基本構成を頭に入れましょう。▷Reactコンポーネントがどうなっているか理解しましょう。▷ステートフックで値を管理できるようになりま&nbsp;...</blockquote>",
-            "url": "http://books.google.com/books?id=qAlGEAAAQBAJ&pg=PA286&dq=TypeScript&hl=&cd=9&source=gbs_api",
+            "content_html": "サンプルを作りながらTypeScriptの仕組みや特徴を学ぶ!TypeScriptの基礎知識からアプリ開発、更にはReact.jsやNode.js(Express/Nest)を使ったWebアプリ開発の基礎的な技術まで一通り解説。<br><blockquote>Chapter 66 7 WebページとTypeScriptWebページと<b>TypeScript TypeScript</b>は、JavaScriptのトランスコンパイラ言語です。基本的な部分はJavaScriptの文法をベースにしており、これに独自の機能や文法を追加しています。記述したソースコードは&nbsp;...</blockquote>",
+            "url": "http://books.google.com/books?id=qAlGEAAAQBAJ&pg=PA268&dq=TypeScript&hl=&cd=9&source=gbs_api",
             "title": "TypeScriptﾊﾝｽﾞｵﾝ",
             "summary": "サンプルを作りながらTypeScriptの仕組みや特徴を学ぶ!TypeScriptの基礎知識からアプリ開発、更にはReact.jsやNode.js(Express/Nest)を使ったWebアプリ開発の基礎的な技術まで一通り解説。",
             "image": "http://books.google.com/books/content?id=qAlGEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",

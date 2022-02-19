@@ -53,24 +53,8 @@
             "date_modified": "2021-08-01T00:00:00.000Z"
         },
         {
-            "content_html": "サンプルを作りながらTypeScriptの仕組みや特徴を学ぶ!TypeScriptの基礎知識からアプリ開発、更にはReact.jsやNode.js(Express/Nest)を使ったWebアプリ開発の基礎的な技術まで一通り解説。<br><blockquote>Chapter 11 Section <b>TypeScript</b>による<b>TypeScript</b>によるアプリケーション作成アプリケーション作成 1-2 2 3 ポイントポイント 4 ▷<b>TypeScript</b>でトランスコンパイルできるようになりましょう。▷Node.jsプロジェクトのセットアップ手順を覚えましょう。</blockquote>",
-            "url": "http://books.google.com/books?id=qAlGEAAAQBAJ&pg=PA31&dq=TypeScript&hl=&cd=7&source=gbs_api",
-            "title": "TypeScriptﾊﾝｽﾞｵﾝ",
-            "summary": "サンプルを作りながらTypeScriptの仕組みや特徴を学ぶ!TypeScriptの基礎知識からアプリ開発、更にはReact.jsやNode.js(Express/Nest)を使ったWebアプリ開発の基礎的な技術まで一通り解説。",
-            "image": "http://books.google.com/books/content?id=qAlGEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-            "date_modified": "2021-08-01T00:00:00.000Z"
-        },
-        {
             "content_html": "サンプルを作りながらTypeScriptの仕組みや特徴を学ぶ!TypeScriptの基礎知識からアプリ開発、更にはReact.jsやNode.js(Express/Nest)を使ったWebアプリ開発の基礎的な技術まで一通り解説。<br><blockquote>サンプルを作りながらTypeScriptの仕組みや特徴を学ぶ!TypeScriptの基礎知識からアプリ開発、更にはReact.jsやNode.js(Express/Nest)を使ったWebアプリ開発の基礎的な技術まで一通り解説。</blockquote>",
-            "url": "http://books.google.com/books?id=qAlGEAAAQBAJ&pg=PP1&dq=TypeScript&hl=&cd=8&source=gbs_api",
-            "title": "TypeScriptﾊﾝｽﾞｵﾝ",
-            "summary": "サンプルを作りながらTypeScriptの仕組みや特徴を学ぶ!TypeScriptの基礎知識からアプリ開発、更にはReact.jsやNode.js(Express/Nest)を使ったWebアプリ開発の基礎的な技術まで一通り解説。",
-            "image": "http://books.google.com/books/content?id=qAlGEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-            "date_modified": "2021-08-01T00:00:00.000Z"
-        },
-        {
-            "content_html": "サンプルを作りながらTypeScriptの仕組みや特徴を学ぶ!TypeScriptの基礎知識からアプリ開発、更にはReact.jsやNode.js(Express/Nest)を使ったWebアプリ開発の基礎的な技術まで一通り解説。<br><blockquote>とはいえ、<b>TypeScript</b>の文法はだいたい理解しても、具体的なソースコードを作成するためには、いろいろと学ばなければいけないことがあります。たとえば、GUIはどうするのか。データの保存はどうするか。そうした具体的な機能についてはまだほとんど説明&nbsp;...</blockquote>",
-            "url": "http://books.google.com/books?id=qAlGEAAAQBAJ&pg=PA202&dq=TypeScript&hl=&cd=9&source=gbs_api",
+            "url": "http://books.google.com/books?id=qAlGEAAAQBAJ&pg=PP1&dq=TypeScript&hl=&cd=7&source=gbs_api",
             "title": "TypeScriptﾊﾝｽﾞｵﾝ",
             "summary": "サンプルを作りながらTypeScriptの仕組みや特徴を学ぶ!TypeScriptの基礎知識からアプリ開発、更にはReact.jsやNode.js(Express/Nest)を使ったWebアプリ開発の基礎的な技術まで一通り解説。",
             "image": "http://books.google.com/books/content?id=qAlGEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
@@ -78,11 +62,27 @@
         },
         {
             "content_html": "本書は、Web ブラウザにおける本格的な GUI の入門書です。Web ブラウザに期待される役割は年々増してきています。ネイティブアプリ顔負けのデザインツールや、ドラッグアンドドロップでの操作が必要なフォームを作りたくなったとして、我々は何に気をつけるべきなのでしょうか？これまで HTML / CSS / JavaScript で実装するのが大変だった UI をどう実装するべきなのでしょうか？この点を本書は重点的に扱います。本書では定番のセレクトボックスやヘッダーレイアウトの他、バウンディングボックスやツリーといったドラッグを伴う UI なども実装していきます。苦しくも楽しい、Webブラウザの複雑なGUIの世界に、エディタとブラウザを開きながら足を踏み入れてみましょう。 【目次】 第1章 フルスクラッチGUI入門 第2章 バウンディングボックスことはじめ──移動・拡縮・回転 第3章 スクロールに連動して高さが変わるヘッダビューを作る 第4章 ドラッグ＆ドロップ並び替え入門 第5章 座談会──STUDIO CPOとするGUIの話<br><blockquote>本書は、Web ブラウザにおける本格的な GUI の入門書です。Web ブラウザに期待される役割は年々増してきています。ネイティブアプリ顔負けのデザインツールや、ドラッグアンド ...</blockquote>",
-            "url": "http://books.google.com/books?id=0Pn6DwAAQBAJ&pg=PA1&dq=TypeScript&hl=&cd=10&source=gbs_api",
+            "url": "http://books.google.com/books?id=0Pn6DwAAQBAJ&printsec=frontcover&dq=TypeScript&hl=&cd=8&source=gbs_api",
             "title": "入門GUI",
             "summary": "本書は、Web ブラウザにおける本格的な GUI の入門書です。Web ブラウザに期待される役割は年々増してきています。ネイティブアプリ顔負けのデザインツールや、ドラッグアンドドロップでの操作が必要なフォームを作りたくなったとして、我々は何に気をつけるべきなのでしょうか？これまで HTML / CSS / JavaScript で実装するのが大変だった UI をどう実装するべきなのでしょうか？この点を本書は重点的に扱います。本書では定番のセレクトボックスやヘッダーレイアウトの他、バウンディングボックスやツリーといったドラッグを伴う UI なども実装していきます。苦しくも楽しい、Webブラウザの複雑なGUIの世界に、エディタとブラウザを開きながら足を踏み入れてみましょう。 【目次】 第1章 フルスクラッチGUI入門 第2章 バウンディングボックスことはじめ──移動・拡縮・回転 第3章 スクロールに連動して高さが変わるヘッダビューを作る 第4章 ドラッグ＆ドロップ並び替え入門 第5章 座談会──STUDIO CPOとするGUIの話",
             "image": "http://books.google.com/books/content?id=0Pn6DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
             "date_modified": "2020-09-11T00:00:00.000Z"
+        },
+        {
+            "content_html": "本書はReactをテーマに、Webフロントエンド開発の環境構築を1つ1つ丁寧に解説します。特に設定が足りない状態で動かすとどうなるのか、なぜその設定が必要なのかについて踏み込んで説明しています。環境構築の難しさは、設定をどれか1つでも間違えると動かないことにあります。そのため、環境構築をする際は1つ1つの設定で自分が何をしているのかを正確に把握しなければいけません。この本では暗黙的に「そういうものだから」と思われがちな設定に注目し、解説します。どの設定を足さなければ動かないのか、サンプルコードを示しながら学ぶことができます。 【目次】 第1章 Node.jsを使ったビルド環境整備 第2章 Babelを使ったトランスパイル 第3章 TypeScriptを使ったコンパイル 第4章 webpackを使ったバンドルとビルド 第5章 ESLintを使った静的解析 第6章 Prettierを使ったフォーマット 第7章 Storybookを使ったコンポーネント管理 第8章 Jestを使ったテスト 第9章 0から環境を作ってみる 付録A バージョンの追従<br><blockquote>本書はReactをテーマに、Webフロントエンド開発の環境構築を1つ1つ丁寧に解説します。特に設定が足りない状態で動かすとどうなるのか、なぜその設定が必要なのかについて踏み ...</blockquote>",
+            "url": "http://books.google.com/books?id=VSv3DwAAQBAJ&pg=PP1&dq=TypeScript&hl=&cd=9&source=gbs_api",
+            "title": "React環境構築の教科書",
+            "summary": "本書はReactをテーマに、Webフロントエンド開発の環境構築を1つ1つ丁寧に解説します。特に設定が足りない状態で動かすとどうなるのか、なぜその設定が必要なのかについて踏み込んで説明しています。環境構築の難しさは、設定をどれか1つでも間違えると動かないことにあります。そのため、環境構築をする際は1つ1つの設定で自分が何をしているのかを正確に把握しなければいけません。この本では暗黙的に「そういうものだから」と思われがちな設定に注目し、解説します。どの設定を足さなければ動かないのか、サンプルコードを示しながら学ぶことができます。 【目次】 第1章 Node.jsを使ったビルド環境整備 第2章 Babelを使ったトランスパイル 第3章 TypeScriptを使ったコンパイル 第4章 webpackを使ったバンドルとビルド 第5章 ESLintを使った静的解析 第6章 Prettierを使ったフォーマット 第7章 Storybookを使ったコンポーネント管理 第8章 Jestを使ったテスト 第9章 0から環境を作ってみる 付録A バージョンの追従",
+            "image": "http://books.google.com/books/content?id=VSv3DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+            "date_modified": "2020-08-21T00:00:00.000Z"
+        },
+        {
+            "content_html": "本書は入門書の次に読むことを想定にした、中級者へのステップアップを目指すNode.js解説書です。主にNode.jsに対する技術的な内容を扱います。本書を読むことによって、Node.jsに対する理解を深めることができます。Node.jsの副読本として活用ください。 【目次】 第1章 Node.jsの全体像 第2章 npm(Node Package Manager) 第3章 サーバーとしてのNode.js 第4章 イベントループ 第5章 非同期プログラミング（コールバック） 第6章 コールバック地獄の解消 第7章 Stream 第8章 AltJSとTypeScriptを使った開発 第9章 コーディングガイドラインとESLint 第10章 Node.jsとセキュリティ 第11章 Node.jsのコアには、どのようなモジュールがあるのか 第12章 JavaScript & Node.js Tips集 付録A Node.jsの習得に役立つ情報を得るには 付録B ES2015(ES6) 付録C ES2016 付録D ES2017 付録E ES2018 付録F ES2019 付録G Node.js v13とv14について<br><blockquote>本書は入門書の次に読むことを想定にした、中級者へのステップアップを目指すNode.js解説書です。主にNode.jsに対する技術的な内容を扱います。本書を読むことによって、Node ...</blockquote>",
+            "url": "http://books.google.com/books?id=hZ_qDwAAQBAJ&printsec=frontcover&dq=TypeScript&hl=&cd=10&source=gbs_api",
+            "title": "レベルアップNode.js",
+            "summary": "本書は入門書の次に読むことを想定にした、中級者へのステップアップを目指すNode.js解説書です。主にNode.jsに対する技術的な内容を扱います。本書を読むことによって、Node.jsに対する理解を深めることができます。Node.jsの副読本として活用ください。 【目次】 第1章 Node.jsの全体像 第2章 npm(Node Package Manager) 第3章 サーバーとしてのNode.js 第4章 イベントループ 第5章 非同期プログラミング（コールバック） 第6章 コールバック地獄の解消 第7章 Stream 第8章 AltJSとTypeScriptを使った開発 第9章 コーディングガイドラインとESLint 第10章 Node.jsとセキュリティ 第11章 Node.jsのコアには、どのようなモジュールがあるのか 第12章 JavaScript & Node.js Tips集 付録A Node.jsの習得に役立つ情報を得るには 付録B ES2015(ES6) 付録C ES2016 付録D ES2017 付録E ES2018 付録F ES2019 付録G Node.js v13とv14について",
+            "image": "http://books.google.com/books/content?id=hZ_qDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+            "date_modified": "2020-06-19T00:00:00.000Z"
         }
     ]
 }

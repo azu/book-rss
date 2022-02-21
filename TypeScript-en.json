@@ -6,7 +6,7 @@
     "items": [
         {
             "content_html": "First Published in 1987. Routledge is an imprint of Taylor & Francis, an informa company.<br><blockquote>First Published in 1987. Routledge is an imprint of Taylor &amp; Francis, an informa company.</blockquote>",
-            "url": "http://books.google.com/books?id=Q26EzgEACAAJ&dq=TypeScript&hl=&cd=1&source=gbs_api",
+            "url": "http://books.google.com/books?id=zMuEzgEACAAJ&dq=TypeScript&hl=&cd=1&source=gbs_api",
             "title": "The Sound & the Fury",
             "summary": "First Published in 1987. Routledge is an imprint of Taylor & Francis, an informa company.",
             "date_modified": "2023-01-01T00:00:00.000Z"
@@ -60,8 +60,8 @@
             "date_modified": "2021-07-29T00:00:00.000Z"
         },
         {
-            "content_html": "Kickstart your learning with this hands-on guide to programming with TypeScript. By learning how to quickly transition from JavaScript, leverage features such as types and decorators, and incorporate React with TypeScript, you can gain new skills, advance your knowledge, and make some new additions to your software development toolkit.<br><blockquote>A practical guide to confident, effective <b>TypeScript</b> programming Ben Grynhaus, Jordan Hudgens, Rayon Hunte, Matt Morgan, Wekoslav Stefanovski. Rayon Hunte has been working with Angular and <b>TypeScript</b> for more than 3 years.</blockquote>",
-            "url": "http://books.google.com/books?id=eN06EAAAQBAJ&pg=PR3&dq=TypeScript&hl=&cd=8&source=gbs_api",
+            "content_html": "Kickstart your learning with this hands-on guide to programming with TypeScript. By learning how to quickly transition from JavaScript, leverage features such as types and decorators, and incorporate React with TypeScript, you can gain new skills, advance your knowledge, and make some new additions to your software development toolkit.<br><blockquote>This type of annotation is explicit and specific to <b>TypeScript</b>. Another way is simply to assign a value to a variable and let <b>TypeScript</b> work its magic. The magic is called type inference, and that means that <b>TypeScript</b> will try to&nbsp;...</blockquote>",
+            "url": "http://books.google.com/books?id=eN06EAAAQBAJ&pg=PA13&dq=TypeScript&hl=&cd=8&source=gbs_api",
             "title": "The The TypeScript Workshop",
             "summary": "Kickstart your learning with this hands-on guide to programming with TypeScript. By learning how to quickly transition from JavaScript, leverage features such as types and decorators, and incorporate React with TypeScript, you can gain new skills, advance your knowledge, and make some new additions to your software development toolkit.",
             "image": "http://books.google.com/books/content?id=eN06EAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",

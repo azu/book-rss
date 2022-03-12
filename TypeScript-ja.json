@@ -53,8 +53,8 @@
             "date_modified": "2021-08-01T00:00:00.000Z"
         },
         {
-            "content_html": "サンプルを作りながらTypeScriptの仕組みや特徴を学ぶ!TypeScriptの基礎知識からアプリ開発、更にはReact.jsやNode.js(Express/Nest)を使ったWebアプリ開発の基礎的な技術まで一通り解説。<br><blockquote>Chapter 1 1 従って、<b>TypeScript</b>を学ぶということは「将来のJavaScript」を学ぶことに近いのです。多くの機能は、いずれJavaScriptでも使われるようになるものだったりします。<b>TypeScript</b>は、「JavaScriptとは異なる別の言語」ではないのです。</blockquote>",
-            "url": "http://books.google.com/books?id=qAlGEAAAQBAJ&pg=PA16&dq=TypeScript&hl=&cd=7&source=gbs_api",
+            "content_html": "サンプルを作りながらTypeScriptの仕組みや特徴を学ぶ!TypeScriptの基礎知識からアプリ開発、更にはReact.jsやNode.js(Express/Nest)を使ったWebアプリ開発の基礎的な技術まで一通り解説。<br><blockquote>Chapter 11 Section <b>TypeScript</b>による<b>TypeScript</b>によるアプリケーション作成アプリケーション作成 1-2 2 3 ポイントポイント 4 ▷<b>TypeScript</b>でトランスコンパイルできるようになりましょう。▷Node.jsプロジェクトのセットアップ手順を覚えましょう。</blockquote>",
+            "url": "http://books.google.com/books?id=qAlGEAAAQBAJ&pg=PA31&dq=TypeScript&hl=&cd=7&source=gbs_api",
             "title": "TypeScriptﾊﾝｽﾞｵﾝ",
             "summary": "サンプルを作りながらTypeScriptの仕組みや特徴を学ぶ!TypeScriptの基礎知識からアプリ開発、更にはReact.jsやNode.js(Express/Nest)を使ったWebアプリ開発の基礎的な技術まで一通り解説。",
             "image": "http://books.google.com/books/content?id=qAlGEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",

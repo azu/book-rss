@@ -68,20 +68,20 @@
             "date_modified": "2021-09-01T00:00:00.000Z"
         },
         {
+            "content_html": "This book will give you the idea about the Angular framework and concepts which we are using during development. This JS framework is now evolved and reached at the level where we can consider it stable JS framework. I will start from Angualr JS initial version and will cover the concepts of Angular latest versions. I have worked on multiple projects and UI should be atteerative and lightweight as per user expectation. This book will give you insights of Angular and core concepts. This is not intended for deep dive into Angualr but any developer who does not know about Angular, can uses this book content to understand the Angualr JS and Angular. - Sachin Gautam<br><blockquote>This book will give you insights of Angular and core concepts. This is not intended for deep dive into Angualr but any developer who does not know about Angular, can uses this book content to understand the Angualr JS and Angular.</blockquote>",
+            "url": "http://books.google.com/books?id=tmYzEAAAQBAJ&pg=PP1&dq=TypeScript&hl=&cd=9&source=gbs_api",
+            "title": "Understanding of Angular in 1 Day",
+            "summary": "This book will give you the idea about the Angular framework and concepts which we are using during development. This JS framework is now evolved and reached at the level where we can consider it stable JS framework. I will start from Angualr JS initial version and will cover the concepts of Angular latest versions. I have worked on multiple projects and UI should be atteerative and lightweight as per user expectation. This book will give you insights of Angular and core concepts. This is not intended for deep dive into Angualr but any developer who does not know about Angular, can uses this book content to understand the Angualr JS and Angular. - Sachin Gautam",
+            "image": "http://books.google.com/books/content?id=tmYzEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+            "date_modified": "2021-06-16T00:00:00.000Z"
+        },
+        {
             "content_html": "This work has been selected by scholars as being culturally important and is part of the knowledge base of civilization as we know it. This work is in the public domain in the United States of America, and possibly other nations. Within the United States, you may freely copy and distribute this work, as no entity (individual or corporate) has a copyright on the body of the work. Scholars believe, and we concur, that this work is important enough to be preserved, reproduced, and made generally available to the public. To ensure a quality reading experience, this work has been proofread and republished using a format that seamlessly blends the original graphical elements with text in an easy-to-read typeface. We appreciate your support of the preservation process, and thank you for being an important part of keeping this knowledge alive and relevant.<br><blockquote>This work has been selected by scholars as being culturally important and is part of the knowledge base of civilization as we know it. This work is in the public domain in the United States of America, and possibly other nations.</blockquote>",
-            "url": "http://books.google.com/books?id=n0OyzgEACAAJ&dq=TypeScript&hl=&cd=9&source=gbs_api",
+            "url": "http://books.google.com/books?id=n0OyzgEACAAJ&dq=TypeScript&hl=&cd=10&source=gbs_api",
             "title": "Egotistical Memoirs",
             "summary": "This work has been selected by scholars as being culturally important and is part of the knowledge base of civilization as we know it. This work is in the public domain in the United States of America, and possibly other nations. Within the United States, you may freely copy and distribute this work, as no entity (individual or corporate) has a copyright on the body of the work. Scholars believe, and we concur, that this work is important enough to be preserved, reproduced, and made generally available to the public. To ensure a quality reading experience, this work has been proofread and republished using a format that seamlessly blends the original graphical elements with text in an easy-to-read typeface. We appreciate your support of the preservation process, and thank you for being an important part of keeping this knowledge alive and relevant.",
             "image": "http://books.google.com/books/content?id=n0OyzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
             "date_modified": "2021-09-09T00:00:00.000Z"
-        },
-        {
-            "content_html": "This book is a guide to the TypeScript language, from basic concepts to advanced features, and will get you up and running quickly. You'll learn TypeScript programming in depth as you use popular application frameworks and utilize modern design patterns and architectural patterns to build modular, testable and enterprise-ready applications.<br><blockquote>This book is a guide to the TypeScript language, from basic concepts to advanced features, and will get you up and running quickly.</blockquote>",
-            "url": "http://books.google.com/books?id=O2wrEAAAQBAJ&pg=PP1&dq=TypeScript&hl=&cd=10&source=gbs_api",
-            "title": "Mastering TypeScript",
-            "summary": "This book is a guide to the TypeScript language, from basic concepts to advanced features, and will get you up and running quickly. You'll learn TypeScript programming in depth as you use popular application frameworks and utilize modern design patterns and architectural patterns to build modular, testable and enterprise-ready applications.",
-            "image": "http://books.google.com/books/content?id=O2wrEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-            "date_modified": "2021-04-23T00:00:00.000Z"
         }
     ]
 }

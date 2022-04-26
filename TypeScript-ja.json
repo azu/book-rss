@@ -13,20 +13,20 @@
             "date_modified": "2021-11-19T00:00:00.000Z"
         },
         {
+            "content_html": "大学生の大学生による世界一わかりやすい有限要素法の本。<br><blockquote>❶menu.component.ts を開きます(拡張子「.ts」は、後述の <b>TypeScript</b> というプログラミング言語で記述されたソースコードファイルであることを示します)。 81 プログラムで追う有限要素法 3 ソースコードの追い方入門.</blockquote>",
+            "url": "http://books.google.com/books?id=NpVpEAAAQBAJ&pg=PA81&dq=TypeScript&hl=&cd=2&source=gbs_api",
+            "title": "大学生が書いた有限要素法(FEM)のきょうか書",
+            "summary": "大学生の大学生による世界一わかりやすい有限要素法の本。",
+            "image": "http://books.google.com/books/content?id=NpVpEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+            "date_modified": "2022-03-01T00:00:00.000Z"
+        },
+        {
             "content_html": "本書はJavaScriptの経験がある人向けのTypeScriptの入門書です。<br><blockquote>本書はJavaScriptの経験がある人向けのTypeScriptの入門書です。</blockquote>",
-            "url": "http://books.google.com/books?id=p6i7zgEACAAJ&dq=TypeScript&hl=&cd=2&source=gbs_api",
+            "url": "http://books.google.com/books?id=p6i7zgEACAAJ&dq=TypeScript&hl=&cd=3&source=gbs_api",
             "title": "手を動かしながら学ぶTypeScript",
             "summary": "本書はJavaScriptの経験がある人向けのTypeScriptの入門書です。",
             "image": "http://books.google.com/books/content?id=p6i7zgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
             "date_modified": "2021-11-26T00:00:00.000Z"
-        },
-        {
-            "content_html": "サンプルを作りながらTypeScriptの仕組みや特徴を学ぶ!TypeScriptの基礎知識からアプリ開発、更にはReact.jsやNode.js(Express/Nest)を使ったWebアプリ開発の基礎的な技術まで一通り解説。<br><blockquote>ExpressとTypeScriptExpressと<b>TypeScript</b> 1 ここまでExpressの基礎知識について説明をしてきました。が、ここまでの説明はすべて「JavaScript」によるものでした。<b>TypeScript</b>でExpressの開発を行うためにはどのようにす 2 ればいいのでしょうか。</blockquote>",
-            "url": "http://books.google.com/books?id=qAlGEAAAQBAJ&pg=PA339&dq=TypeScript&hl=&cd=3&source=gbs_api",
-            "title": "TypeScriptﾊﾝｽﾞｵﾝ",
-            "summary": "サンプルを作りながらTypeScriptの仕組みや特徴を学ぶ!TypeScriptの基礎知識からアプリ開発、更にはReact.jsやNode.js(Express/Nest)を使ったWebアプリ開発の基礎的な技術まで一通り解説。",
-            "image": "http://books.google.com/books/content?id=qAlGEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-            "date_modified": "2021-08-01T00:00:00.000Z"
         },
         {
             "content_html": "※この商品はタブレットなど大きいディスプレイを備えた端末で読むことに適しています。また、文字だけを拡大することや、文字列のハイライト、検索、辞書の参照、引用などの機能が使用できません。 Excel は Web で使う」時代がやってくる! 現在、あらゆるものはローカル環境 から Web へとシフトしつつあります。そんな中、未だに「アプリケーションをインストールして使う」ソフ トの代表とも言えるのが「Excel」です。 Web 版 Excel に、2021年5月に「Office Script」というマクロ言語が搭載されました。これにより、Excel を自動化することができるようになりました。 本書ではOffice ScriptのベースとなっているTypeScript(JavaScriptを拡張したものです)の文法から、Excelのセルやグラフ、テーブルなどの操作まで細かく説明をしています。 そのほか、Power Automate というiSaaS(Integration Software As A Service、サービスの統合化)ツールを使い、 外部とやり取りする方法まで触れています。 新しい言語の「Office Script」を誰よりも早く学ぶチャンスです。<br><blockquote>※この商品はタブレットなど大きいディスプレイを備えた端末で読むことに適しています。また、文字だけを拡大することや、文字列のハイライト、検索、辞書の参照、引用など ...</blockquote>",

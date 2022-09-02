@@ -53,16 +53,8 @@
             "date_modified": "2022-03-21T00:00:00.000Z"
         },
         {
-            "content_html": "近年、静的サイトジェネレーターGatsbyをはじめNext.jsでのウェブサイト構築が増えています。しかし、その土台となるJavaScript用ライブラリのReactは本来アプリケーション開発を想定しており、現状の入門本もアプリケーションを作るための学習を目的としたものになっています。本書では、Gatsbyでサイトを作ることをゴールとし、その過程でReactの学習を行います。本来Reactの入門本では必須と思われるhooksやcontext、fluxに関してもほとんどスキップし、コンポーネントの書き方やCSS Modulesといったマークアップに近い内容を重点的に紹介します。今後、更に増えてくるであろうReactのマークアップやGatsby、Next.jsでのウェブサイト制作への入門を考えている方に向けた一冊です。2021年3月2日リリースのGatsby v3にも最速で対応しています！ 【目次】 第1章 React開発入門 第2章 Gatsby入門 第3章 Headless CMSを用いたウェブサイト制作 第4章 ステップアップ<br><blockquote>近年、静的サイトジェネレーターGatsbyをはじめNext.jsでのウェブサイト構築が増えています。しかし、その土台となるJavaScript用ライブラリのReactは本来アプリケーション開発を想 ...</blockquote>",
-            "url": "http://books.google.com/books?id=wZElEAAAQBAJ&pg=PA1&dq=JavaScript&hl=&cd=8&source=gbs_api",
-            "title": "React & Gatsby開発入門",
-            "summary": "近年、静的サイトジェネレーターGatsbyをはじめNext.jsでのウェブサイト構築が増えています。しかし、その土台となるJavaScript用ライブラリのReactは本来アプリケーション開発を想定しており、現状の入門本もアプリケーションを作るための学習を目的としたものになっています。本書では、Gatsbyでサイトを作ることをゴールとし、その過程でReactの学習を行います。本来Reactの入門本では必須と思われるhooksやcontext、fluxに関してもほとんどスキップし、コンポーネントの書き方やCSS Modulesといったマークアップに近い内容を重点的に紹介します。今後、更に増えてくるであろうReactのマークアップやGatsby、Next.jsでのウェブサイト制作への入門を考えている方に向けた一冊です。2021年3月2日リリースのGatsby v3にも最速で対応しています！ 【目次】 第1章 React開発入門 第2章 Gatsby入門 第3章 Headless CMSを用いたウェブサイト制作 第4章 ステップアップ",
-            "image": "http://books.google.com/books/content?id=wZElEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-            "date_modified": "2021-04-02T00:00:00.000Z"
-        },
-        {
             "content_html": "※この商品はタブレットなど大きいディスプレイを備えた端末で読むことに適しています。また、文字だけを拡大することや、文字列のハイライト、検索、辞書の参照、引用などの機能が使用できません。 近年、プログラミングの世界はますます多様化しています。 ひとことでプログラミングと言っても、AI、ゲーム、Webアプリ、デスクトップアプリなど、様々なジャンルのプログラミングがあるのです。 使っているプログラミング言語が同じでも、作るプログラムのジャンルが異なると、プログラミングの中身はだいぶ変わってきます。 本ムック「いろいろ作って楽しむ！速習プログラミング」では、PythonやJavaScript、PHP、C＃などの人気プログラミング言語を使って、いろいろな種類のプログラムをサクサク作っていきます。 ≪目次≫ はじめに いろいろなプログラミングを速習しよう 第1章 7つのレッスンで“基本のキ”をサクっと学ぶ Pythonプログラミング入門 第2章 トランプでおぼえるアルゴリズム 第3章 AI入門 第4章 ゲームプログラミング入門 第5章 最新！PHP 8で始めるWebプログラミング 第6章 Electronでデスクトップアプリを作ろう 第7章 検証！Chromebookはプログラミングに最適？<br><blockquote>※この商品はタブレットなど大きいディスプレイを備えた端末で読むことに適しています。また、文字だけを拡大することや、文字列のハイライト、検索、辞書の参照、引用など ...</blockquote>",
-            "url": "http://books.google.com/books?id=7a5aEAAAQBAJ&dq=JavaScript&hl=&cd=9&source=gbs_api",
+            "url": "http://books.google.com/books?id=7a5aEAAAQBAJ&dq=JavaScript&hl=&cd=8&source=gbs_api",
             "title": "いろいろ作って楽しむ！　速習プログラミング",
             "summary": "※この商品はタブレットなど大きいディスプレイを備えた端末で読むことに適しています。また、文字だけを拡大することや、文字列のハイライト、検索、辞書の参照、引用などの機能が使用できません。 近年、プログラミングの世界はますます多様化しています。 ひとことでプログラミングと言っても、AI、ゲーム、Webアプリ、デスクトップアプリなど、様々なジャンルのプログラミングがあるのです。 使っているプログラミング言語が同じでも、作るプログラムのジャンルが異なると、プログラミングの中身はだいぶ変わってきます。 本ムック「いろいろ作って楽しむ！速習プログラミング」では、PythonやJavaScript、PHP、C＃などの人気プログラミング言語を使って、いろいろな種類のプログラムをサクサク作っていきます。 ≪目次≫ はじめに いろいろなプログラミングを速習しよう 第1章 7つのレッスンで“基本のキ”をサクっと学ぶ Pythonプログラミング入門 第2章 トランプでおぼえるアルゴリズム 第3章 AI入門 第4章 ゲームプログラミング入門 第5章 最新！PHP 8で始めるWebプログラミング 第6章 Electronでデスクトップアプリを作ろう 第7章 検証！Chromebookはプログラミングに最適？",
             "image": "http://books.google.com/books/content?id=7a5aEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
@@ -70,7 +62,15 @@
         },
         {
             "content_html": "JavaScript初心者でも大丈夫!Vue.js3のはじめの一歩を体験しよう!<br><blockquote>はじめにその昔、ウェブページのメニューやボタンを操作したとき<b>JavaScript</b>でちょっとしたアニメーションを添えることが大流行しました。<b>JavaScript</b>は、ウェブページの表示スタイルを自由自在に変更することができ、サーバーが無くてもブラウザで動かす&nbsp;...</blockquote>",
-            "url": "http://books.google.com/books?id=V6puEAAAQBAJ&pg=PA3&dq=JavaScript&hl=&cd=10&source=gbs_api",
+            "url": "http://books.google.com/books?id=V6puEAAAQBAJ&pg=PA3&dq=JavaScript&hl=&cd=9&source=gbs_api",
+            "title": "Vue.jsのﾂﾎﾞとｺﾂがｾﾞｯﾀｲにわかる本[第2版]",
+            "summary": "JavaScript初心者でも大丈夫!Vue.js3のはじめの一歩を体験しよう!",
+            "image": "http://books.google.com/books/content?id=V6puEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+            "date_modified": "2022-03-01T00:00:00.000Z"
+        },
+        {
+            "content_html": "JavaScript初心者でも大丈夫!Vue.js3のはじめの一歩を体験しよう!<br><blockquote>たとえば、図3のDOM構造を持つHTMLに対して次の<b>JavaScript</b>を実行すると、&lt;h1&gt;タグで囲まれた文字列が赤色に変わります(リスト1)。 V リスト1 <b>JavaScript</b>でDOMを操作する例 let nodes = document.getElementsByTagName(&quot;h1&quot;); nodes[0].style.color&nbsp;...</blockquote>",
+            "url": "http://books.google.com/books?id=V6puEAAAQBAJ&pg=PA21&dq=JavaScript&hl=&cd=10&source=gbs_api",
             "title": "Vue.jsのﾂﾎﾞとｺﾂがｾﾞｯﾀｲにわかる本[第2版]",
             "summary": "JavaScript初心者でも大丈夫!Vue.js3のはじめの一歩を体験しよう!",
             "image": "http://books.google.com/books/content?id=V6puEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",

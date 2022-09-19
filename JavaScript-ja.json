@@ -46,7 +46,7 @@
         },
         {
             "content_html": "本書は、Google Apps Script(GAS)の基礎から実践まで、体系的にマスターできる入門書です。JavaScriptの基本から自作ライブラリまで徹底解説。新IDEに完全対応しています。<br><blockquote>本書は、Google Apps Script(GAS)の基礎から実践まで、体系的にマスターできる入門書です。JavaScriptの基本から自作ライブラリまで徹底解説。新IDEに完全対応しています。</blockquote>",
-            "url": "http://books.google.com/books?id=AoZAEAAAQBAJ&pg=PP1&dq=JavaScript&hl=&cd=7&source=gbs_api",
+            "url": "http://books.google.com/books?id=AoZAEAAAQBAJ&pg=PP1&dq=JavaScript&hl=&cd=8&source=gbs_api",
             "title": "詳解!GoogleAppsScript完全入門[第3版]〜GoogleｱﾌﾟﾘｹｰｼｮﾝとGoogleWorkspaceの最新ﾌﾟﾛｸ",
             "summary": "本書は、Google Apps Script(GAS)の基礎から実践まで、体系的にマスターできる入門書です。JavaScriptの基本から自作ライブラリまで徹底解説。新IDEに完全対応しています。",
             "image": "http://books.google.com/books/content?id=AoZAEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
@@ -54,27 +54,19 @@
         },
         {
             "content_html": "近年、静的サイトジェネレーターGatsbyをはじめNext.jsでのウェブサイト構築が増えています。しかし、その土台となるJavaScript用ライブラリのReactは本来アプリケーション開発を想定しており、現状の入門本もアプリケーションを作るための学習を目的としたものになっています。本書では、Gatsbyでサイトを作ることをゴールとし、その過程でReactの学習を行います。本来Reactの入門本では必須と思われるhooksやcontext、fluxに関してもほとんどスキップし、コンポーネントの書き方やCSS Modulesといったマークアップに近い内容を重点的に紹介します。今後、更に増えてくるであろうReactのマークアップやGatsby、Next.jsでのウェブサイト制作への入門を考えている方に向けた一冊です。2021年3月2日リリースのGatsby v3にも最速で対応しています！ 【目次】 第1章 React開発入門 第2章 Gatsby入門 第3章 Headless CMSを用いたウェブサイト制作 第4章 ステップアップ<br><blockquote>近年、静的サイトジェネレーターGatsbyをはじめNext.jsでのウェブサイト構築が増えています。しかし、その土台となるJavaScript用ライブラリのReactは本来アプリケーション開発を想 ...</blockquote>",
-            "url": "http://books.google.com/books?id=wZElEAAAQBAJ&pg=PA1&dq=JavaScript&hl=&cd=8&source=gbs_api",
+            "url": "http://books.google.com/books?id=wZElEAAAQBAJ&pg=PA1&dq=JavaScript&hl=&cd=9&source=gbs_api",
             "title": "React & Gatsby開発入門",
             "summary": "近年、静的サイトジェネレーターGatsbyをはじめNext.jsでのウェブサイト構築が増えています。しかし、その土台となるJavaScript用ライブラリのReactは本来アプリケーション開発を想定しており、現状の入門本もアプリケーションを作るための学習を目的としたものになっています。本書では、Gatsbyでサイトを作ることをゴールとし、その過程でReactの学習を行います。本来Reactの入門本では必須と思われるhooksやcontext、fluxに関してもほとんどスキップし、コンポーネントの書き方やCSS Modulesといったマークアップに近い内容を重点的に紹介します。今後、更に増えてくるであろうReactのマークアップやGatsby、Next.jsでのウェブサイト制作への入門を考えている方に向けた一冊です。2021年3月2日リリースのGatsby v3にも最速で対応しています！ 【目次】 第1章 React開発入門 第2章 Gatsby入門 第3章 Headless CMSを用いたウェブサイト制作 第4章 ステップアップ",
             "image": "http://books.google.com/books/content?id=wZElEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
             "date_modified": "2021-04-02T00:00:00.000Z"
         },
         {
-            "content_html": "JavaScript初心者でも大丈夫!Vue.js3のはじめの一歩を体験しよう!<br><blockquote>はじめにその昔、ウェブページのメニューやボタンを操作したとき<b>JavaScript</b>でちょっとしたアニメーションを添えることが大流行しました。<b>JavaScript</b>は、ウェブページの表示スタイルを自由自在に変更することができ、サーバーが無くてもブラウザで動かす&nbsp;...</blockquote>",
-            "url": "http://books.google.com/books?id=V6puEAAAQBAJ&pg=PA3&dq=JavaScript&hl=&cd=9&source=gbs_api",
-            "title": "Vue.jsのﾂﾎﾞとｺﾂがｾﾞｯﾀｲにわかる本[第2版]",
-            "summary": "JavaScript初心者でも大丈夫!Vue.js3のはじめの一歩を体験しよう!",
-            "image": "http://books.google.com/books/content?id=V6puEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-            "date_modified": "2022-03-01T00:00:00.000Z"
-        },
-        {
-            "content_html": "本書はDartやJavaScriptといった言語ではなく、iOS/Androidエンジニアに馴染みのKotlinやSwiftを用いたクロスプラットフォームアプリの開発方法を紹介します。具体的には、Kotlin/Nativeを利用したケースと、Swift for Androidを利用したケースをピックアップしています。馴染みのある言語で、iOS/Androidどちらでも動くクロスプラットフォームアプリを開発してみましょう。 【目次】 第一部 Kotlin/Nativeを利用したクロスプラットフォームアプリ開発 第1章：Kotlin/Nativeの紹介 第2章：Kotlin/Nativeの実行環境の構築 第3章：Kotlin/Nativeプロジェクトの作り方 第4章：Kotlin/Nativeプロジェクトにおけるテスト実行環境の構築方法 第5章：ライブラリを追加する方法 第6章：既存のプロジェクトに導入していくには 第二部 Swift for Androidを利用したクロスプラットフォームアプリ開発 第7章：Swift for Androidとは 第8章：Swift Packageの共有：開発環境とプロジェクト構成 第9章：Swift Packageの共有：プロジェクトの作成方法 第10章：他のSwift Packageを参照する 第11章：Swift Packageの共有：メリットとデメリット 第12章：Scadeとは 第13章：ScadeのHello World 第14章：Scadeを使ったTODOアプリ開発<br><blockquote>本書はDartやJavaScriptといった言語ではなく、iOS/Androidエンジニアに馴染みのKotlinやSwiftを用いたクロスプラットフォームアプリの開発方法を紹介します。具体的には、Kotlin/Nativeを ...</blockquote>",
-            "url": "http://books.google.com/books?id=ufMfEAAAQBAJ&pg=PP1&dq=JavaScript&hl=&cd=10&source=gbs_api",
-            "title": "Kotlin & Swiftで始めるクロスプラットフォームアプリ開発入門",
-            "summary": "本書はDartやJavaScriptといった言語ではなく、iOS/Androidエンジニアに馴染みのKotlinやSwiftを用いたクロスプラットフォームアプリの開発方法を紹介します。具体的には、Kotlin/Nativeを利用したケースと、Swift for Androidを利用したケースをピックアップしています。馴染みのある言語で、iOS/Androidどちらでも動くクロスプラットフォームアプリを開発してみましょう。 【目次】 第一部 Kotlin/Nativeを利用したクロスプラットフォームアプリ開発 第1章：Kotlin/Nativeの紹介 第2章：Kotlin/Nativeの実行環境の構築 第3章：Kotlin/Nativeプロジェクトの作り方 第4章：Kotlin/Nativeプロジェクトにおけるテスト実行環境の構築方法 第5章：ライブラリを追加する方法 第6章：既存のプロジェクトに導入していくには 第二部 Swift for Androidを利用したクロスプラットフォームアプリ開発 第7章：Swift for Androidとは 第8章：Swift Packageの共有：開発環境とプロジェクト構成 第9章：Swift Packageの共有：プロジェクトの作成方法 第10章：他のSwift Packageを参照する 第11章：Swift Packageの共有：メリットとデメリット 第12章：Scadeとは 第13章：ScadeのHello World 第14章：Scadeを使ったTODOアプリ開発",
-            "image": "http://books.google.com/books/content?id=ufMfEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-            "date_modified": "2021-03-05T00:00:00.000Z"
+            "content_html": "最新情報を網羅し全面的に改訂された決定版。動きが速い分野の記述を大幅に削除し、JavaScript言語について徹底して解説。<br><blockquote>最新情報を網羅し全面的に改訂された決定版。動きが速い分野の記述を大幅に削除し、JavaScript言語について徹底して解説。</blockquote>",
+            "url": "http://books.google.com/books?id=wy6vzgEACAAJ&dq=JavaScript&hl=&cd=10&source=gbs_api",
+            "title": "JavaScript 第7版",
+            "summary": "最新情報を網羅し全面的に改訂された決定版。動きが速い分野の記述を大幅に削除し、JavaScript言語について徹底して解説。",
+            "image": "http://books.google.com/books/content?id=wy6vzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+            "date_modified": "2021-12-02T00:00:00.000Z"
         }
     ]
 }

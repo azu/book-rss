@@ -53,12 +53,12 @@
             "date_modified": "2022-03-01T00:00:00.000Z"
         },
         {
-            "content_html": "本書は、Google Apps Script(GAS)の基礎から実践まで、体系的にマスターできる入門書です。JavaScriptの基本から自作ライブラリまで徹底解説。新IDEに完全対応しています。<br><blockquote>本書は、Google Apps Script(GAS)の基礎から実践まで、体系的にマスターできる入門書です。JavaScriptの基本から自作ライブラリまで徹底解説。新IDEに完全対応しています。</blockquote>",
-            "url": "http://books.google.com/books?id=AoZAEAAAQBAJ&pg=PP1&dq=JavaScript&hl=&cd=9&source=gbs_api",
-            "title": "詳解!GoogleAppsScript完全入門[第3版]〜GoogleｱﾌﾟﾘｹｰｼｮﾝとGoogleWorkspaceの最新ﾌﾟﾛｸ",
-            "summary": "本書は、Google Apps Script(GAS)の基礎から実践まで、体系的にマスターできる入門書です。JavaScriptの基本から自作ライブラリまで徹底解説。新IDEに完全対応しています。",
-            "image": "http://books.google.com/books/content?id=AoZAEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-            "date_modified": "2021-07-01T00:00:00.000Z"
+            "content_html": "JavaScript初心者でも大丈夫!Vue.js3のはじめの一歩を体験しよう!<br><blockquote>たとえば、図3のDOM構造を持つHTMLに対して次の<b>JavaScript</b>を実行すると、&lt;h1&gt;タグで囲まれた文字列が赤色に変わります(リスト1)。 V リスト1 <b>JavaScript</b>でDOMを操作する例 let nodes = document.getElementsByTagName(&quot;h1&quot;); nodes[0].style.color&nbsp;...</blockquote>",
+            "url": "http://books.google.com/books?id=V6puEAAAQBAJ&pg=PA21&dq=JavaScript&hl=&cd=10&source=gbs_api",
+            "title": "Vue.jsのﾂﾎﾞとｺﾂがｾﾞｯﾀｲにわかる本[第2版]",
+            "summary": "JavaScript初心者でも大丈夫!Vue.js3のはじめの一歩を体験しよう!",
+            "image": "http://books.google.com/books/content?id=V6puEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+            "date_modified": "2022-03-01T00:00:00.000Z"
         }
     ]
 }

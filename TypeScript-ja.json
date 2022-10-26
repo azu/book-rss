@@ -21,12 +21,12 @@
             "date_modified": "2021-10-21T00:00:00.000Z"
         },
         {
-            "content_html": "Vite・TypeScript・Babylon.jsを使ってWebARをするところまでの道筋を解説した本です。 Viteを使ったノンフレームワークなTypeScriptプロジェクトの作成から始まり、最後にはAzureにデプロイするまでをたどっていきます。 Babylon.jsやWebARについての詳細よりも開発環境の構築にフォーカスした内容です。ビルドツールを使って一歩進んだ開発をしてみたいWebAR初学者にオススメしたい一冊です。 【目次】 第1章 環境構築 第2章 Babylon.jsの導入 第3章 シーンをWebARに対応させる 第4章 Hit Testを使って現実空間にオブジェクトを配置する 第5章 Azureにデプロイする<br><blockquote><b>TypeScript</b>サポートが充実・ドキュメントが充実・公式から提供されているツールが素晴らしいまず<b>TypeScript</b>サポートが充実しています。著者はWeb開発で基本的に<b>TypeScript</b>を選択するのでありがたい限りです。<b>TypeScript</b>自体Microsoftが開発しているのも&nbsp;...</blockquote>",
-            "url": "http://books.google.com/books?id=gCh-EAAAQBAJ&pg=PT11&dq=TypeScript&hl=&cd=3&source=gbs_api",
-            "title": "Vite+TypeScript+Babylon.jsでWebARをはじめる本",
-            "summary": "Vite・TypeScript・Babylon.jsを使ってWebARをするところまでの道筋を解説した本です。 Viteを使ったノンフレームワークなTypeScriptプロジェクトの作成から始まり、最後にはAzureにデプロイするまでをたどっていきます。 Babylon.jsやWebARについての詳細よりも開発環境の構築にフォーカスした内容です。ビルドツールを使って一歩進んだ開発をしてみたいWebAR初学者にオススメしたい一冊です。 【目次】 第1章 環境構築 第2章 Babylon.jsの導入 第3章 シーンをWebARに対応させる 第4章 Hit Testを使って現実空間にオブジェクトを配置する 第5章 Azureにデプロイする",
-            "image": "http://books.google.com/books/content?id=gCh-EAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-            "date_modified": "2022-08-05T00:00:00.000Z"
+            "content_html": "サンプルを作りながらTypeScriptの仕組みや特徴を学ぶ!TypeScriptの基礎知識からアプリ開発、更にはReact.jsやNode.js(Express/Nest)を使ったWebアプリ開発の基礎的な技術まで一通り解説。<br><blockquote>サンプルを作りながらTypeScriptの仕組みや特徴を学ぶ!TypeScriptの基礎知識からアプリ開発、更にはReact.jsやNode.js(Express/Nest)を使ったWebアプリ開発の基礎的な技術まで一通り解説。</blockquote>",
+            "url": "http://books.google.com/books?id=qAlGEAAAQBAJ&pg=PP1&dq=TypeScript&hl=&cd=3&source=gbs_api",
+            "title": "TypeScriptﾊﾝｽﾞｵﾝ",
+            "summary": "サンプルを作りながらTypeScriptの仕組みや特徴を学ぶ!TypeScriptの基礎知識からアプリ開発、更にはReact.jsやNode.js(Express/Nest)を使ったWebアプリ開発の基礎的な技術まで一通り解説。",
+            "image": "http://books.google.com/books/content?id=qAlGEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+            "date_modified": "2021-08-01T00:00:00.000Z"
         },
         {
             "content_html": "サンプルを作りながらTypeScriptの仕組みや特徴を学ぶ!TypeScriptの基礎知識からアプリ開発、更にはReact.jsやNode.js(Express/Nest)を使ったWebアプリ開発の基礎的な技術まで一通り解説。<br><blockquote>1 Section 6-3 VueとTypeScriptVueと<b>TypeScript</b> 2 3 4 ポイントポイント▷Vueプロジェクトの作成と構成を頭に入れましょう。▷コンポーネントクラスの基本を理解しましょう。▷TSXによる表示の作成を行えるようになりましょう。</blockquote>",

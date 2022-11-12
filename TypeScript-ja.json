@@ -13,20 +13,20 @@
             "date_modified": "2022-04-22T00:00:00.000Z"
         },
         {
-            "content_html": "Vite・TypeScript・Babylon.jsを使ってWebARをするところまでの道筋を解説した本です。 Viteを使ったノンフレームワークなTypeScriptプロジェクトの作成から始まり、最後にはAzureにデプロイするまでをたどっていきます。 Babylon.jsやWebARについての詳細よりも開発環境の構築にフォーカスした内容です。ビルドツールを使って一歩進んだ開発をしてみたいWebAR初学者にオススメしたい一冊です。 【目次】 第1章 環境構築 第2章 Babylon.jsの導入 第3章 シーンをWebARに対応させる 第4章 Hit Testを使って現実空間にオブジェクトを配置する 第5章 Azureにデプロイする<br><blockquote><b>TypeScript</b>サポートが充実・ドキュメントが充実・公式から提供されているツールが素晴らしいまず<b>TypeScript</b>サポートが充実しています。著者はWeb開発で基本的に<b>TypeScript</b>を選択するのでありがたい限りです。<b>TypeScript</b>自体Microsoftが開発しているのも&nbsp;...</blockquote>",
-            "url": "http://books.google.com/books?id=gCh-EAAAQBAJ&pg=PT11&dq=TypeScript&hl=&cd=2&source=gbs_api",
-            "title": "Vite+TypeScript+Babylon.jsでWebARをはじめる本",
-            "summary": "Vite・TypeScript・Babylon.jsを使ってWebARをするところまでの道筋を解説した本です。 Viteを使ったノンフレームワークなTypeScriptプロジェクトの作成から始まり、最後にはAzureにデプロイするまでをたどっていきます。 Babylon.jsやWebARについての詳細よりも開発環境の構築にフォーカスした内容です。ビルドツールを使って一歩進んだ開発をしてみたいWebAR初学者にオススメしたい一冊です。 【目次】 第1章 環境構築 第2章 Babylon.jsの導入 第3章 シーンをWebARに対応させる 第4章 Hit Testを使って現実空間にオブジェクトを配置する 第5章 Azureにデプロイする",
-            "image": "http://books.google.com/books/content?id=gCh-EAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-            "date_modified": "2022-08-05T00:00:00.000Z"
-        },
-        {
             "content_html": "本書はJavaScriptの経験がある人向けのTypeScriptの入門書です。<br><blockquote>本書はJavaScriptの経験がある人向けのTypeScriptの入門書です。</blockquote>",
-            "url": "http://books.google.com/books?id=p6i7zgEACAAJ&dq=TypeScript&hl=&cd=3&source=gbs_api",
+            "url": "http://books.google.com/books?id=p6i7zgEACAAJ&dq=TypeScript&hl=&cd=2&source=gbs_api",
             "title": "手を動かしながら学ぶTypeScript",
             "summary": "本書はJavaScriptの経験がある人向けのTypeScriptの入門書です。",
             "image": "http://books.google.com/books/content?id=p6i7zgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
             "date_modified": "2021-11-26T00:00:00.000Z"
+        },
+        {
+            "content_html": "※この商品はタブレットなど大きいディスプレイを備えた端末で読むことに適しています。また、文字だけを拡大することや、文字列のハイライト、検索、辞書の参照、引用などの機能が使用できません。 Excel は Web で使う」時代がやってくる! 現在、あらゆるものはローカル環境 から Web へとシフトしつつあります。そんな中、未だに「アプリケーションをインストールして使う」ソフ トの代表とも言えるのが「Excel」です。 Web 版 Excel に、2021年5月に「Office Script」というマクロ言語が搭載されました。これにより、Excel を自動化することができるようになりました。 本書ではOffice ScriptのベースとなっているTypeScript(JavaScriptを拡張したものです)の文法から、Excelのセルやグラフ、テーブルなどの操作まで細かく説明をしています。 そのほか、Power Automate というiSaaS(Integration Software As A Service、サービスの統合化)ツールを使い、 外部とやり取りする方法まで触れています。 新しい言語の「Office Script」を誰よりも早く学ぶチャンスです。<br><blockquote>※この商品はタブレットなど大きいディスプレイを備えた端末で読むことに適しています。また、文字だけを拡大することや、文字列のハイライト、検索、辞書の参照、引用など ...</blockquote>",
+            "url": "http://books.google.com/books?id=7KZKEAAAQBAJ&dq=TypeScript&hl=&cd=3&source=gbs_api",
+            "title": "Office ScriptによるExcel on the web 開発入門",
+            "summary": "※この商品はタブレットなど大きいディスプレイを備えた端末で読むことに適しています。また、文字だけを拡大することや、文字列のハイライト、検索、辞書の参照、引用などの機能が使用できません。 Excel は Web で使う」時代がやってくる! 現在、あらゆるものはローカル環境 から Web へとシフトしつつあります。そんな中、未だに「アプリケーションをインストールして使う」ソフ トの代表とも言えるのが「Excel」です。 Web 版 Excel に、2021年5月に「Office Script」というマクロ言語が搭載されました。これにより、Excel を自動化することができるようになりました。 本書ではOffice ScriptのベースとなっているTypeScript(JavaScriptを拡張したものです)の文法から、Excelのセルやグラフ、テーブルなどの操作まで細かく説明をしています。 そのほか、Power Automate というiSaaS(Integration Software As A Service、サービスの統合化)ツールを使い、 外部とやり取りする方法まで触れています。 新しい言語の「Office Script」を誰よりも早く学ぶチャンスです。",
+            "image": "http://books.google.com/books/content?id=7KZKEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+            "date_modified": "2021-10-21T00:00:00.000Z"
         },
         {
             "content_html": "サンプルを作りながらTypeScriptの仕組みや特徴を学ぶ!TypeScriptの基礎知識からアプリ開発、更にはReact.jsやNode.js(Express/Nest)を使ったWebアプリ開発の基礎的な技術まで一通り解説。<br><blockquote>サンプルを作りながらTypeScriptの仕組みや特徴を学ぶ!TypeScriptの基礎知識からアプリ開発、更にはReact.jsやNode.js(Express/Nest)を使ったWebアプリ開発の基礎的な技術まで一通り解説。</blockquote>",
@@ -37,8 +37,16 @@
             "date_modified": "2021-08-01T00:00:00.000Z"
         },
         {
+            "content_html": "サンプルを作りながらTypeScriptの仕組みや特徴を学ぶ!TypeScriptの基礎知識からアプリ開発、更にはReact.jsやNode.js(Express/Nest)を使ったWebアプリ開発の基礎的な技術まで一通り解説。<br><blockquote>1 Section 6-3 VueとTypeScriptVueと<b>TypeScript</b> 2 3 4 ポイントポイント▷Vueプロジェクトの作成と構成を頭に入れましょう。▷コンポーネントクラスの基本を理解しましょう。▷TSXによる表示の作成を行えるようになりましょう。</blockquote>",
+            "url": "http://books.google.com/books?id=qAlGEAAAQBAJ&pg=PA305&dq=TypeScript&hl=&cd=5&source=gbs_api",
+            "title": "TypeScriptﾊﾝｽﾞｵﾝ",
+            "summary": "サンプルを作りながらTypeScriptの仕組みや特徴を学ぶ!TypeScriptの基礎知識からアプリ開発、更にはReact.jsやNode.js(Express/Nest)を使ったWebアプリ開発の基礎的な技術まで一通り解説。",
+            "image": "http://books.google.com/books/content?id=qAlGEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+            "date_modified": "2021-08-01T00:00:00.000Z"
+        },
+        {
             "content_html": "サンプルを作りながらTypeScriptの仕組みや特徴を学ぶ!TypeScriptの基礎知識からアプリ開発、更にはReact.jsやNode.js(Express/Nest)を使ったWebアプリ開発の基礎的な技術まで一通り解説。<br><blockquote><b>TypeScript</b>の設定を行う<b>TypeScript</b>の設定を行う続いて、<b>TypeScript</b>をプロジェクトに組み込みます。<b>TypeScript</b>は、既にインストールして使えるようになっていますが、プロジェクトの開発では、必要なパッケージ類はプロジェクトの中にインストールしておく&nbsp;...</blockquote>",
-            "url": "http://books.google.com/books?id=qAlGEAAAQBAJ&pg=PA39&dq=TypeScript&hl=&cd=5&source=gbs_api",
+            "url": "http://books.google.com/books?id=qAlGEAAAQBAJ&pg=PA39&dq=TypeScript&hl=&cd=6&source=gbs_api",
             "title": "TypeScriptﾊﾝｽﾞｵﾝ",
             "summary": "サンプルを作りながらTypeScriptの仕組みや特徴を学ぶ!TypeScriptの基礎知識からアプリ開発、更にはReact.jsやNode.js(Express/Nest)を使ったWebアプリ開発の基礎的な技術まで一通り解説。",
             "image": "http://books.google.com/books/content?id=qAlGEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
@@ -46,7 +54,7 @@
         },
         {
             "content_html": "サンプルを作りながらTypeScriptの仕組みや特徴を学ぶ!TypeScriptの基礎知識からアプリ開発、更にはReact.jsやNode.js(Express/Nest)を使ったWebアプリ開発の基礎的な技術まで一通り解説。<br><blockquote><b>TypeScript</b>とは?<b>TypeScript</b>とは? Chapter 1 1 このトランスコンパイラ言語の中でも、現在もっとも広く使われているのが「<b>TypeScript</b>(タイプスクリプト)」と呼ばれる言語です。<b>TypeScript</b>は、マイクロソフトにより2012年に開発さ 2 れたオープンソースの&nbsp;...</blockquote>",
-            "url": "http://books.google.com/books?id=qAlGEAAAQBAJ&pg=PA15&dq=TypeScript&hl=&cd=6&source=gbs_api",
+            "url": "http://books.google.com/books?id=qAlGEAAAQBAJ&pg=PA15&dq=TypeScript&hl=&cd=7&source=gbs_api",
             "title": "TypeScriptﾊﾝｽﾞｵﾝ",
             "summary": "サンプルを作りながらTypeScriptの仕組みや特徴を学ぶ!TypeScriptの基礎知識からアプリ開発、更にはReact.jsやNode.js(Express/Nest)を使ったWebアプリ開発の基礎的な技術まで一通り解説。",
             "image": "http://books.google.com/books/content?id=qAlGEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
@@ -54,7 +62,7 @@
         },
         {
             "content_html": "サンプルを作りながらTypeScriptの仕組みや特徴を学ぶ!TypeScriptの基礎知識からアプリ開発、更にはReact.jsやNode.js(Express/Nest)を使ったWebアプリ開発の基礎的な技術まで一通り解説。<br><blockquote>ExpressとTypeScriptExpressと<b>TypeScript</b> 1 ここまでExpressの基礎知識について説明をしてきました。が、ここまでの説明はすべて「JavaScript」によるものでした。<b>TypeScript</b>でExpressの開発を行うためにはどのようにす 2 ればいいのでしょうか。</blockquote>",
-            "url": "http://books.google.com/books?id=qAlGEAAAQBAJ&pg=PA339&dq=TypeScript&hl=&cd=7&source=gbs_api",
+            "url": "http://books.google.com/books?id=qAlGEAAAQBAJ&pg=PA339&dq=TypeScript&hl=&cd=8&source=gbs_api",
             "title": "TypeScriptﾊﾝｽﾞｵﾝ",
             "summary": "サンプルを作りながらTypeScriptの仕組みや特徴を学ぶ!TypeScriptの基礎知識からアプリ開発、更にはReact.jsやNode.js(Express/Nest)を使ったWebアプリ開発の基礎的な技術まで一通り解説。",
             "image": "http://books.google.com/books/content?id=qAlGEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
@@ -62,7 +70,7 @@
         },
         {
             "content_html": "サンプルを作りながらTypeScriptの仕組みや特徴を学ぶ!TypeScriptの基礎知識からアプリ開発、更にはReact.jsやNode.js(Express/Nest)を使ったWebアプリ開発の基礎的な技術まで一通り解説。<br><blockquote>6 7 <b>TypeScript</b>の基本文法<b>TypeScript</b>の基本文法 <b>TypeScript</b>による開発の基本が一通りわかったところで、<b>TypeScript</b>の基本的な文法から学んでいくことにしましょう。当分は、もっとも基本的な値や変数といったところから制御構文などの基本的な使い方&nbsp;...</blockquote>",
-            "url": "http://books.google.com/books?id=qAlGEAAAQBAJ&pg=PA50&dq=TypeScript&hl=&cd=8&source=gbs_api",
+            "url": "http://books.google.com/books?id=qAlGEAAAQBAJ&pg=PA50&dq=TypeScript&hl=&cd=9&source=gbs_api",
             "title": "TypeScriptﾊﾝｽﾞｵﾝ",
             "summary": "サンプルを作りながらTypeScriptの仕組みや特徴を学ぶ!TypeScriptの基礎知識からアプリ開発、更にはReact.jsやNode.js(Express/Nest)を使ったWebアプリ開発の基礎的な技術まで一通り解説。",
             "image": "http://books.google.com/books/content?id=qAlGEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
@@ -70,19 +78,11 @@
         },
         {
             "content_html": "サンプルを作りながらTypeScriptの仕組みや特徴を学ぶ!TypeScriptの基礎知識からアプリ開発、更にはReact.jsやNode.js(Express/Nest)を使ったWebアプリ開発の基礎的な技術まで一通り解説。<br><blockquote>Chapter 1 1 従って、<b>TypeScript</b>を学ぶということは「将来のJavaScript」を学ぶことに近いのです。多くの機能は、いずれJavaScriptでも使われるようになるものだったりします。<b>TypeScript</b>は、「JavaScriptとは異なる別の言語」ではないのです。</blockquote>",
-            "url": "http://books.google.com/books?id=qAlGEAAAQBAJ&pg=PA16&dq=TypeScript&hl=&cd=9&source=gbs_api",
+            "url": "http://books.google.com/books?id=qAlGEAAAQBAJ&pg=PA16&dq=TypeScript&hl=&cd=10&source=gbs_api",
             "title": "TypeScriptﾊﾝｽﾞｵﾝ",
             "summary": "サンプルを作りながらTypeScriptの仕組みや特徴を学ぶ!TypeScriptの基礎知識からアプリ開発、更にはReact.jsやNode.js(Express/Nest)を使ったWebアプリ開発の基礎的な技術まで一通り解説。",
             "image": "http://books.google.com/books/content?id=qAlGEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
             "date_modified": "2021-08-01T00:00:00.000Z"
-        },
-        {
-            "content_html": "※この商品はタブレットなど大きいディスプレイを備えた端末で読むことに適しています。また、文字だけを拡大することや、文字列のハイライト、検索、辞書の参照、引用などの機能が使用できません。 Excel は Web で使う」時代がやってくる! 現在、あらゆるものはローカル環境 から Web へとシフトしつつあります。そんな中、未だに「アプリケーションをインストールして使う」ソフ トの代表とも言えるのが「Excel」です。 Web 版 Excel に、2021年5月に「Office Script」というマクロ言語が搭載されました。これにより、Excel を自動化することができるようになりました。 本書ではOffice ScriptのベースとなっているTypeScript(JavaScriptを拡張したものです)の文法から、Excelのセルやグラフ、テーブルなどの操作まで細かく説明をしています。 そのほか、Power Automate というiSaaS(Integration Software As A Service、サービスの統合化)ツールを使い、 外部とやり取りする方法まで触れています。 新しい言語の「Office Script」を誰よりも早く学ぶチャンスです。<br><blockquote>※この商品はタブレットなど大きいディスプレイを備えた端末で読むことに適しています。また、文字だけを拡大することや、文字列のハイライト、検索、辞書の参照、引用など ...</blockquote>",
-            "url": "http://books.google.com/books?id=7KZKEAAAQBAJ&dq=TypeScript&hl=&cd=10&source=gbs_api",
-            "title": "Office ScriptによるExcel on the web 開発入門",
-            "summary": "※この商品はタブレットなど大きいディスプレイを備えた端末で読むことに適しています。また、文字だけを拡大することや、文字列のハイライト、検索、辞書の参照、引用などの機能が使用できません。 Excel は Web で使う」時代がやってくる! 現在、あらゆるものはローカル環境 から Web へとシフトしつつあります。そんな中、未だに「アプリケーションをインストールして使う」ソフ トの代表とも言えるのが「Excel」です。 Web 版 Excel に、2021年5月に「Office Script」というマクロ言語が搭載されました。これにより、Excel を自動化することができるようになりました。 本書ではOffice ScriptのベースとなっているTypeScript(JavaScriptを拡張したものです)の文法から、Excelのセルやグラフ、テーブルなどの操作まで細かく説明をしています。 そのほか、Power Automate というiSaaS(Integration Software As A Service、サービスの統合化)ツールを使い、 外部とやり取りする方法まで触れています。 新しい言語の「Office Script」を誰よりも早く学ぶチャンスです。",
-            "image": "http://books.google.com/books/content?id=7KZKEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-            "date_modified": "2021-10-21T00:00:00.000Z"
         }
     ]
 }

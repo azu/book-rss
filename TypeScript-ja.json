@@ -5,36 +5,36 @@
     "description": "TypeScript(ja) on Google Book",
     "items": [
         {
-            "content_html": "HTMLとCSSがやさしくわかる! 会話形式でやさしくわかりやすいHTML/CSSの入門書です。 キャラクターと一緒に、楽しいイラストやわかりやすい例でサクサクHTMLとCSSを学んでいきます。 HTML/CSSの基本知識や文法から実践的なレイアウトまで。 はじめてHTMLとCSSを学ぶ方が知りたいことが詰まっています。 Webサイトをつくってみたい、管理しなきゃいけないという方は必読の内容です。<br><blockquote>はじめてでも安心の基礎から身につく入門書。Webサイトづくりを楽しく学ぼう!HTML&amp;CSSの基礎知識・文法・活用方法がわかる。会話形式でワクワク読める。新しい技術もしっかり使 ...</blockquote>",
-            "url": "http://books.google.com/books?id=jig5zwEACAAJ&dq=TypeScript&hl=&cd=1&source=gbs_api",
-            "title": "やさしくわかるHTML&CSSの教室",
-            "summary": "HTMLとCSSがやさしくわかる! 会話形式でやさしくわかりやすいHTML/CSSの入門書です。 キャラクターと一緒に、楽しいイラストやわかりやすい例でサクサクHTMLとCSSを学んでいきます。 HTML/CSSの基本知識や文法から実践的なレイアウトまで。 はじめてHTMLとCSSを学ぶ方が知りたいことが詰まっています。 Webサイトをつくってみたい、管理しなきゃいけないという方は必読の内容です。",
-            "image": "http://books.google.com/books/content?id=jig5zwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-            "date_modified": "2022-08-27T00:00:00.000Z"
-        },
-        {
             "content_html": "TypeScriptは、JavaScriptに静的型付けの機能を加えたオープンソースのプログラミング言語です。本書では、根幹となるJavaScriptの仕様・機能とともに、TypeScript独自の仕様・機能を解説します。TypeScriptの基礎知識はこれ一冊だけで学べます。 静的型付き言語は世にいくつもありますが、TypeScriptの型システムは他に類を見ない高い表現力を持っています。本書の読者が、型の有効性を理解しTypeScriptらしいコードを書けるようになるために、本書では、プログラムの安全性を高める基本的な型の扱い方から、TypeScriptの「高い表現力」の源となっているリテラル型・ユニオン型・keyof 型の扱い方まで幅広く取り上げます。また、わかりにくい機能や型安全を脅かす危険な機能についてもごまかさず、歴史的経緯や目的・用途を踏まえたうえで最善の扱い方を説明します。 章ごとに力試し問題を用意しており、理解の度合いを確認しながら学習を進められます。<br><blockquote>型の有効性を理解し、TypeScriptらしいコードを書くために。</blockquote>",
-            "url": "http://books.google.com/books?id=fyvwzgEACAAJ&dq=TypeScript&hl=&cd=2&source=gbs_api",
+            "url": "http://books.google.com/books?id=fyvwzgEACAAJ&dq=TypeScript&hl=&cd=1&source=gbs_api",
             "title": "プロを目指す人のためのTypeScript入門安全なコードの書き方から高度な型の使い方まで",
             "summary": "TypeScriptは、JavaScriptに静的型付けの機能を加えたオープンソースのプログラミング言語です。本書では、根幹となるJavaScriptの仕様・機能とともに、TypeScript独自の仕様・機能を解説します。TypeScriptの基礎知識はこれ一冊だけで学べます。 静的型付き言語は世にいくつもありますが、TypeScriptの型システムは他に類を見ない高い表現力を持っています。本書の読者が、型の有効性を理解しTypeScriptらしいコードを書けるようになるために、本書では、プログラムの安全性を高める基本的な型の扱い方から、TypeScriptの「高い表現力」の源となっているリテラル型・ユニオン型・keyof 型の扱い方まで幅広く取り上げます。また、わかりにくい機能や型安全を脅かす危険な機能についてもごまかさず、歴史的経緯や目的・用途を踏まえたうえで最善の扱い方を説明します。 章ごとに力試し問題を用意しており、理解の度合いを確認しながら学習を進められます。",
             "image": "http://books.google.com/books/content?id=fyvwzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
             "date_modified": "2022-04-22T00:00:00.000Z"
         },
         {
-            "content_html": "Vite・TypeScript・Babylon.jsを使ってWebARをするところまでの道筋を解説した本です。 Viteを使ったノンフレームワークなTypeScriptプロジェクトの作成から始まり、最後にはAzureにデプロイするまでをたどっていきます。 Babylon.jsやWebARについての詳細よりも開発環境の構築にフォーカスした内容です。ビルドツールを使って一歩進んだ開発をしてみたいWebAR初学者にオススメしたい一冊です。 【目次】 第1章 環境構築 第2章 Babylon.jsの導入 第3章 シーンをWebARに対応させる 第4章 Hit Testを使って現実空間にオブジェクトを配置する 第5章 Azureにデプロイする<br><blockquote><b>TypeScript</b>サポートが充実・ドキュメントが充実・公式から提供されているツールが素晴らしいまず<b>TypeScript</b>サポートが充実しています。著者はWeb開発で基本的に<b>TypeScript</b>を選択するのでありがたい限りです。<b>TypeScript</b>自体Microsoftが開発しているのも&nbsp;...</blockquote>",
-            "url": "http://books.google.com/books?id=gCh-EAAAQBAJ&pg=PT11&dq=TypeScript&hl=&cd=3&source=gbs_api",
-            "title": "Vite+TypeScript+Babylon.jsでWebARをはじめる本",
-            "summary": "Vite・TypeScript・Babylon.jsを使ってWebARをするところまでの道筋を解説した本です。 Viteを使ったノンフレームワークなTypeScriptプロジェクトの作成から始まり、最後にはAzureにデプロイするまでをたどっていきます。 Babylon.jsやWebARについての詳細よりも開発環境の構築にフォーカスした内容です。ビルドツールを使って一歩進んだ開発をしてみたいWebAR初学者にオススメしたい一冊です。 【目次】 第1章 環境構築 第2章 Babylon.jsの導入 第3章 シーンをWebARに対応させる 第4章 Hit Testを使って現実空間にオブジェクトを配置する 第5章 Azureにデプロイする",
-            "image": "http://books.google.com/books/content?id=gCh-EAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-            "date_modified": "2022-08-05T00:00:00.000Z"
-        },
-        {
             "content_html": "本書はJavaScriptの経験がある人向けのTypeScriptの入門書です。<br><blockquote>本書はJavaScriptの経験がある人向けのTypeScriptの入門書です。</blockquote>",
-            "url": "http://books.google.com/books?id=p6i7zgEACAAJ&dq=TypeScript&hl=&cd=4&source=gbs_api",
+            "url": "http://books.google.com/books?id=p6i7zgEACAAJ&dq=TypeScript&hl=&cd=2&source=gbs_api",
             "title": "手を動かしながら学ぶTypeScript",
             "summary": "本書はJavaScriptの経験がある人向けのTypeScriptの入門書です。",
             "image": "http://books.google.com/books/content?id=p6i7zgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
             "date_modified": "2021-11-26T00:00:00.000Z"
+        },
+        {
+            "content_html": "※この商品はタブレットなど大きいディスプレイを備えた端末で読むことに適しています。また、文字だけを拡大することや、文字列のハイライト、検索、辞書の参照、引用などの機能が使用できません。 Excel は Web で使う」時代がやってくる! 現在、あらゆるものはローカル環境 から Web へとシフトしつつあります。そんな中、未だに「アプリケーションをインストールして使う」ソフ トの代表とも言えるのが「Excel」です。 Web 版 Excel に、2021年5月に「Office Script」というマクロ言語が搭載されました。これにより、Excel を自動化することができるようになりました。 本書ではOffice ScriptのベースとなっているTypeScript(JavaScriptを拡張したものです)の文法から、Excelのセルやグラフ、テーブルなどの操作まで細かく説明をしています。 そのほか、Power Automate というiSaaS(Integration Software As A Service、サービスの統合化)ツールを使い、 外部とやり取りする方法まで触れています。 新しい言語の「Office Script」を誰よりも早く学ぶチャンスです。<br><blockquote>※この商品はタブレットなど大きいディスプレイを備えた端末で読むことに適しています。また、文字だけを拡大することや、文字列のハイライト、検索、辞書の参照、引用など ...</blockquote>",
+            "url": "http://books.google.com/books?id=7KZKEAAAQBAJ&dq=TypeScript&hl=&cd=3&source=gbs_api",
+            "title": "Office ScriptによるExcel on the web 開発入門",
+            "summary": "※この商品はタブレットなど大きいディスプレイを備えた端末で読むことに適しています。また、文字だけを拡大することや、文字列のハイライト、検索、辞書の参照、引用などの機能が使用できません。 Excel は Web で使う」時代がやってくる! 現在、あらゆるものはローカル環境 から Web へとシフトしつつあります。そんな中、未だに「アプリケーションをインストールして使う」ソフ トの代表とも言えるのが「Excel」です。 Web 版 Excel に、2021年5月に「Office Script」というマクロ言語が搭載されました。これにより、Excel を自動化することができるようになりました。 本書ではOffice ScriptのベースとなっているTypeScript(JavaScriptを拡張したものです)の文法から、Excelのセルやグラフ、テーブルなどの操作まで細かく説明をしています。 そのほか、Power Automate というiSaaS(Integration Software As A Service、サービスの統合化)ツールを使い、 外部とやり取りする方法まで触れています。 新しい言語の「Office Script」を誰よりも早く学ぶチャンスです。",
+            "image": "http://books.google.com/books/content?id=7KZKEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+            "date_modified": "2021-10-21T00:00:00.000Z"
+        },
+        {
+            "content_html": "サンプルを作りながらTypeScriptの仕組みや特徴を学ぶ!TypeScriptの基礎知識からアプリ開発、更にはReact.jsやNode.js(Express/Nest)を使ったWebアプリ開発の基礎的な技術まで一通り解説。<br><blockquote>サンプルを作りながらTypeScriptの仕組みや特徴を学ぶ!TypeScriptの基礎知識からアプリ開発、更にはReact.jsやNode.js(Express/Nest)を使ったWebアプリ開発の基礎的な技術まで一通り解説。</blockquote>",
+            "url": "http://books.google.com/books?id=qAlGEAAAQBAJ&printsec=frontcover&dq=TypeScript&hl=&cd=4&source=gbs_api",
+            "title": "TypeScriptﾊﾝｽﾞｵﾝ",
+            "summary": "サンプルを作りながらTypeScriptの仕組みや特徴を学ぶ!TypeScriptの基礎知識からアプリ開発、更にはReact.jsやNode.js(Express/Nest)を使ったWebアプリ開発の基礎的な技術まで一通り解説。",
+            "image": "http://books.google.com/books/content?id=qAlGEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+            "date_modified": "2021-08-01T00:00:00.000Z"
         },
         {
             "content_html": "サンプルを作りながらTypeScriptの仕組みや特徴を学ぶ!TypeScriptの基礎知識からアプリ開発、更にはReact.jsやNode.js(Express/Nest)を使ったWebアプリ開発の基礎的な技術まで一通り解説。<br><blockquote><b>TypeScript</b>の設定を行う<b>TypeScript</b>の設定を行う続いて、<b>TypeScript</b>をプロジェクトに組み込みます。<b>TypeScript</b>は、既にインストールして使えるようになっていますが、プロジェクトの開発では、必要なパッケージ類はプロジェクトの中にインストールしておく&nbsp;...</blockquote>",

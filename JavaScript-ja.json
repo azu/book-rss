@@ -59,14 +59,6 @@
             "summary": "本書は、Google Apps Script(GAS)の基礎から実践まで、体系的にマスターできる入門書です。JavaScriptの基本から自作ライブラリまで徹底解説。新IDEに完全対応しています。",
             "image": "http://books.google.com/books/content?id=AoZAEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
             "date_modified": "2021-07-01T00:00:00.000Z"
-        },
-        {
-            "content_html": "近年、静的サイトジェネレーターGatsbyをはじめNext.jsでのウェブサイト構築が増えています。しかし、その土台となるJavaScript用ライブラリのReactは本来アプリケーション開発を想定しており、現状の入門本もアプリケーションを作るための学習を目的としたものになっています。本書では、Gatsbyでサイトを作ることをゴールとし、その過程でReactの学習を行います。本来Reactの入門本では必須と思われるhooksやcontext、fluxに関してもほとんどスキップし、コンポーネントの書き方やCSS Modulesといったマークアップに近い内容を重点的に紹介します。今後、更に増えてくるであろうReactのマークアップやGatsby、Next.jsでのウェブサイト制作への入門を考えている方に向けた一冊です。2021年3月2日リリースのGatsby v3にも最速で対応しています！ 【目次】 第1章 React開発入門 第2章 Gatsby入門 第3章 Headless CMSを用いたウェブサイト制作 第4章 ステップアップ<br><blockquote>近年、静的サイトジェネレーターGatsbyをはじめNext.jsでのウェブサイト構築が増えています。しかし、その土台となるJavaScript用ライブラリのReactは本来アプリケーション開発を想 ...</blockquote>",
-            "url": "http://books.google.com/books?id=wZElEAAAQBAJ&printsec=frontcover&dq=JavaScript&hl=&cd=10&source=gbs_api",
-            "title": "React & Gatsby開発入門",
-            "summary": "近年、静的サイトジェネレーターGatsbyをはじめNext.jsでのウェブサイト構築が増えています。しかし、その土台となるJavaScript用ライブラリのReactは本来アプリケーション開発を想定しており、現状の入門本もアプリケーションを作るための学習を目的としたものになっています。本書では、Gatsbyでサイトを作ることをゴールとし、その過程でReactの学習を行います。本来Reactの入門本では必須と思われるhooksやcontext、fluxに関してもほとんどスキップし、コンポーネントの書き方やCSS Modulesといったマークアップに近い内容を重点的に紹介します。今後、更に増えてくるであろうReactのマークアップやGatsby、Next.jsでのウェブサイト制作への入門を考えている方に向けた一冊です。2021年3月2日リリースのGatsby v3にも最速で対応しています！ 【目次】 第1章 React開発入門 第2章 Gatsby入門 第3章 Headless CMSを用いたウェブサイト制作 第4章 ステップアップ",
-            "image": "http://books.google.com/books/content?id=wZElEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-            "date_modified": "2021-04-02T00:00:00.000Z"
         }
     ]
 }

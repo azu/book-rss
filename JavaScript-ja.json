@@ -61,12 +61,12 @@
             "date_modified": "2022-03-01T00:00:00.000Z"
         },
         {
-            "content_html": "「とりあえず動くJavaScript」から脱却したい人へ！ 初級者から中級者へのステップアップ指南書 JavaScriptは「なんとなく」「勘で」書いても動いてしまうことがある一方で、 独特の癖があり奥が深いため、初心者から脱するのが難しい言語です。 本書は「入門者向けの本は一冊読み終わったけど、もっと良いコードを書きたい」 「バグの出にくいコードの書き方を知りたい」という開発者のために、 JavaScriptで特につまずきやすい部分を丁寧に解説します。 ■対象読者 ・フロントエンドのスキルアップを目指す現役エンジニア ・フロントエンドエンジニアとしての転職／異動を考えるJavaScript初級者 ・職業としてのエンジニアを目指し、独学でJavaScriptを勉強したいと考えている学習者 （現場経験がなくとも自身で初歩的な学習を完了している学習者であれば、 本書の対象読者となりえます） ■つまずきやすいため紙面を割いているトピック ・非同期処理（async/await、Promise） ・AJAX（Fetch API） ・this ・スコープ ・プリミティブ型／オブジェクト型と参照 ■その他取り上げているトピック ・クロージャ ・ES5からES6 ・Node.jsとnpm ・トランスパイル ・DOM ・例外<br><blockquote>9 <b>JavaScript</b>でトランスパイルが必要な例の一つ※1として、「最新バージョンの<b>JavaScript</b>で書かれたコード」から「古いバージョンの<b>JavaScript</b>で書かれたコード」を生成したいという 1 ケースがあります。これは<b>JavaScript</b>がブラウザ上で実行される&nbsp;...</blockquote>",
-            "url": "http://books.google.com/books?id=P05gEAAAQBAJ&pg=PA207&dq=JavaScript&hl=&cd=10&source=gbs_api",
-            "title": "ステップアップJavaScript フロントエンド開発の初級から中級へ進むために",
-            "summary": "「とりあえず動くJavaScript」から脱却したい人へ！ 初級者から中級者へのステップアップ指南書 JavaScriptは「なんとなく」「勘で」書いても動いてしまうことがある一方で、 独特の癖があり奥が深いため、初心者から脱するのが難しい言語です。 本書は「入門者向けの本は一冊読み終わったけど、もっと良いコードを書きたい」 「バグの出にくいコードの書き方を知りたい」という開発者のために、 JavaScriptで特につまずきやすい部分を丁寧に解説します。 ■対象読者 ・フロントエンドのスキルアップを目指す現役エンジニア ・フロントエンドエンジニアとしての転職／異動を考えるJavaScript初級者 ・職業としてのエンジニアを目指し、独学でJavaScriptを勉強したいと考えている学習者 （現場経験がなくとも自身で初歩的な学習を完了している学習者であれば、 本書の対象読者となりえます） ■つまずきやすいため紙面を割いているトピック ・非同期処理（async/await、Promise） ・AJAX（Fetch API） ・this ・スコープ ・プリミティブ型／オブジェクト型と参照 ■その他取り上げているトピック ・クロージャ ・ES5からES6 ・Node.jsとnpm ・トランスパイル ・DOM ・例外",
-            "image": "http://books.google.com/books/content?id=P05gEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-            "date_modified": "2022-01-14T00:00:00.000Z"
+            "content_html": "本書は、Google Apps Script(GAS)の基礎から実践まで、体系的にマスターできる入門書です。JavaScriptの基本から自作ライブラリまで徹底解説。新IDEに完全対応しています。<br><blockquote>本書は、Google Apps Script(GAS)の基礎から実践まで、体系的にマスターできる入門書です。JavaScriptの基本から自作ライブラリまで徹底解説。新IDEに完全対応しています。</blockquote>",
+            "url": "http://books.google.com/books?id=AoZAEAAAQBAJ&printsec=frontcover&dq=JavaScript&hl=&cd=10&source=gbs_api",
+            "title": "詳解!GoogleAppsScript完全入門[第3版]〜GoogleｱﾌﾟﾘｹｰｼｮﾝとGoogleWorkspaceの最新ﾌﾟﾛｸ",
+            "summary": "本書は、Google Apps Script(GAS)の基礎から実践まで、体系的にマスターできる入門書です。JavaScriptの基本から自作ライブラリまで徹底解説。新IDEに完全対応しています。",
+            "image": "http://books.google.com/books/content?id=AoZAEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+            "date_modified": "2021-07-01T00:00:00.000Z"
         }
     ]
 }

@@ -45,20 +45,20 @@
             "date_modified": "2022-03-01T00:00:00.000Z"
         },
         {
+            "content_html": "「とりあえず動くJavaScript」から脱却したい人へ！ 初級者から中級者へのステップアップ指南書 JavaScriptは「なんとなく」「勘で」書いても動いてしまうことがある一方で、 独特の癖があり奥が深いため、初心者から脱するのが難しい言語です。 本書は「入門者向けの本は一冊読み終わったけど、もっと良いコードを書きたい」 「バグの出にくいコードの書き方を知りたい」という開発者のために、 JavaScriptで特につまずきやすい部分を丁寧に解説します。 ■対象読者 ・フロントエンドのスキルアップを目指す現役エンジニア ・フロントエンドエンジニアとしての転職／異動を考えるJavaScript初級者 ・職業としてのエンジニアを目指し、独学でJavaScriptを勉強したいと考えている学習者 （現場経験がなくとも自身で初歩的な学習を完了している学習者であれば、 本書の対象読者となりえます） ■つまずきやすいため紙面を割いているトピック ・非同期処理（async/await、Promise） ・AJAX（Fetch API） ・this ・スコープ ・プリミティブ型／オブジェクト型と参照 ■その他取り上げているトピック ・クロージャ ・ES5からES6 ・Node.jsとnpm ・トランスパイル ・DOM ・例外<br><blockquote>9 <b>JavaScript</b>でトランスパイルが必要な例の一つ※1として、「最新バージョンの<b>JavaScript</b>で書かれたコード」から「古いバージョンの<b>JavaScript</b>で書かれたコード」を生成したいという 1 ケースがあります。これは<b>JavaScript</b>がブラウザ上で実行される&nbsp;...</blockquote>",
+            "url": "http://books.google.com/books?id=P05gEAAAQBAJ&pg=PA207&dq=JavaScript&hl=&cd=9&source=gbs_api",
+            "title": "ステップアップJavaScript フロントエンド開発の初級から中級へ進むために",
+            "summary": "「とりあえず動くJavaScript」から脱却したい人へ！ 初級者から中級者へのステップアップ指南書 JavaScriptは「なんとなく」「勘で」書いても動いてしまうことがある一方で、 独特の癖があり奥が深いため、初心者から脱するのが難しい言語です。 本書は「入門者向けの本は一冊読み終わったけど、もっと良いコードを書きたい」 「バグの出にくいコードの書き方を知りたい」という開発者のために、 JavaScriptで特につまずきやすい部分を丁寧に解説します。 ■対象読者 ・フロントエンドのスキルアップを目指す現役エンジニア ・フロントエンドエンジニアとしての転職／異動を考えるJavaScript初級者 ・職業としてのエンジニアを目指し、独学でJavaScriptを勉強したいと考えている学習者 （現場経験がなくとも自身で初歩的な学習を完了している学習者であれば、 本書の対象読者となりえます） ■つまずきやすいため紙面を割いているトピック ・非同期処理（async/await、Promise） ・AJAX（Fetch API） ・this ・スコープ ・プリミティブ型／オブジェクト型と参照 ■その他取り上げているトピック ・クロージャ ・ES5からES6 ・Node.jsとnpm ・トランスパイル ・DOM ・例外",
+            "image": "http://books.google.com/books/content?id=P05gEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+            "date_modified": "2022-01-14T00:00:00.000Z"
+        },
+        {
             "content_html": "サンプルを動かしながら学習できる本格入門 ※この電子書籍は固定レイアウト型で配信されております。固定レイアウト型は文字だけを拡大することや、文字列のハイライト、検索、辞書の参照、引用などの機能が使用できません。 いま学んでおきたいJavaScriptフレームワーク「Vue.js」のエッセンスを一冊に詰め込みました！ 豊富なサンプルコードで試しながら理解できます！ Vue.js（ビュージェイエス）は、Webアプリのビュー（見た目）の部分に特化したシンプルなフレームワークです。既存のアプリに後乗せで導入したり、徐々に適用範囲を拡大したりすることが手軽に行えます。 シンプルな分、他のフレームワークと比べて学習コストが低く、HTMLとJavaScriptが一通りわかる人ならコードを理解するのも簡単です。 本書では、Vue.jsの中核である、ページを構成するUI部品「コンポーネント」をしっかりと解説し、さらには本格的なアプリ開発で必要となる要素までを網羅的に取り扱います。丁寧な解説でよくわかる、入門書の決定版です！",
-            "url": "http://books.google.com/books?id=g55kEAAAQBAJ&pg=PP1&dq=JavaScript&hl=&cd=9&source=gbs_api",
+            "url": "http://books.google.com/books?id=g55kEAAAQBAJ&pg=PP1&dq=JavaScript&hl=&cd=10&source=gbs_api",
             "title": "これからはじめるVue.js 3実践入門",
             "summary": "サンプルを動かしながら学習できる本格入門 ※この電子書籍は固定レイアウト型で配信されております。固定レイアウト型は文字だけを拡大することや、文字列のハイライト、検索、辞書の参照、引用などの機能が使用できません。 いま学んでおきたいJavaScriptフレームワーク「Vue.js」のエッセンスを一冊に詰め込みました！ 豊富なサンプルコードで試しながら理解できます！ Vue.js（ビュージェイエス）は、Webアプリのビュー（見た目）の部分に特化したシンプルなフレームワークです。既存のアプリに後乗せで導入したり、徐々に適用範囲を拡大したりすることが手軽に行えます。 シンプルな分、他のフレームワークと比べて学習コストが低く、HTMLとJavaScriptが一通りわかる人ならコードを理解するのも簡単です。 本書では、Vue.jsの中核である、ページを構成するUI部品「コンポーネント」をしっかりと解説し、さらには本格的なアプリ開発で必要となる要素までを網羅的に取り扱います。丁寧な解説でよくわかる、入門書の決定版です！",
             "image": "http://books.google.com/books/content?id=g55kEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
             "date_modified": "2022-03-18T00:00:00.000Z"
-        },
-        {
-            "content_html": "占いや数当て、マインスイーパー、落ちものパズルなどの身近なゲーム作成を通して楽しみながらJavaScriptを学ぶ。<br><blockquote>占いや数当て、マインスイーパー、落ちものパズルなどの身近なゲーム作成を通して楽しみながらJavaScriptを学ぶ。</blockquote>",
-            "url": "http://books.google.com/books?id=y8nizgEACAAJ&dq=JavaScript&hl=&cd=10&source=gbs_api",
-            "title": "学生のためのJavaScript",
-            "summary": "占いや数当て、マインスイーパー、落ちものパズルなどの身近なゲーム作成を通して楽しみながらJavaScriptを学ぶ。",
-            "image": "http://books.google.com/books/content?id=y8nizgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-            "date_modified": "2022-03-21T00:00:00.000Z"
         }
     ]
 }

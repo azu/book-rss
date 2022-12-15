@@ -29,8 +29,24 @@
             "date_modified": "2022-03-18T00:00:00.000Z"
         },
         {
+            "content_html": "JavaScript初心者でも大丈夫!Vue.js3のはじめの一歩を体験しよう!<br><blockquote>はじめにその昔、ウェブページのメニューやボタンを操作したとき<b>JavaScript</b>でちょっとしたアニメーションを添えることが大流行しました。<b>JavaScript</b>は、ウェブページの表示スタイルを自由自在に変更することができ、サーバーが無くてもブラウザで動かす&nbsp;...</blockquote>",
+            "url": "http://books.google.com/books?id=V6puEAAAQBAJ&pg=PA3&dq=JavaScript&hl=&cd=7&source=gbs_api",
+            "title": "Vue.jsのﾂﾎﾞとｺﾂがｾﾞｯﾀｲにわかる本[第2版]",
+            "summary": "JavaScript初心者でも大丈夫!Vue.js3のはじめの一歩を体験しよう!",
+            "image": "http://books.google.com/books/content?id=V6puEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+            "date_modified": "2022-03-01T00:00:00.000Z"
+        },
+        {
+            "content_html": "「とりあえず動くJavaScript」から脱却したい人へ！ 初級者から中級者へのステップアップ指南書 JavaScriptは「なんとなく」「勘で」書いても動いてしまうことがある一方で、 独特の癖があり奥が深いため、初心者から脱するのが難しい言語です。 本書は「入門者向けの本は一冊読み終わったけど、もっと良いコードを書きたい」 「バグの出にくいコードの書き方を知りたい」という開発者のために、 JavaScriptで特につまずきやすい部分を丁寧に解説します。 ■対象読者 ・フロントエンドのスキルアップを目指す現役エンジニア ・フロントエンドエンジニアとしての転職／異動を考えるJavaScript初級者 ・職業としてのエンジニアを目指し、独学でJavaScriptを勉強したいと考えている学習者 （現場経験がなくとも自身で初歩的な学習を完了している学習者であれば、 本書の対象読者となりえます） ■つまずきやすいため紙面を割いているトピック ・非同期処理（async/await、Promise） ・AJAX（Fetch API） ・this ・スコープ ・プリミティブ型／オブジェクト型と参照 ■その他取り上げているトピック ・クロージャ ・ES5からES6 ・Node.jsとnpm ・トランスパイル ・DOM ・例外<br><blockquote>9 <b>JavaScript</b>でトランスパイルが必要な例の一つ※1として、「最新バージョンの<b>JavaScript</b>で書かれたコード」から「古いバージョンの<b>JavaScript</b>で書かれたコード」を生成したいという 1 ケースがあります。これは<b>JavaScript</b>がブラウザ上で実行される&nbsp;...</blockquote>",
+            "url": "http://books.google.com/books?id=P05gEAAAQBAJ&pg=PA207&dq=JavaScript&hl=&cd=8&source=gbs_api",
+            "title": "ステップアップJavaScript フロントエンド開発の初級から中級へ進むために",
+            "summary": "「とりあえず動くJavaScript」から脱却したい人へ！ 初級者から中級者へのステップアップ指南書 JavaScriptは「なんとなく」「勘で」書いても動いてしまうことがある一方で、 独特の癖があり奥が深いため、初心者から脱するのが難しい言語です。 本書は「入門者向けの本は一冊読み終わったけど、もっと良いコードを書きたい」 「バグの出にくいコードの書き方を知りたい」という開発者のために、 JavaScriptで特につまずきやすい部分を丁寧に解説します。 ■対象読者 ・フロントエンドのスキルアップを目指す現役エンジニア ・フロントエンドエンジニアとしての転職／異動を考えるJavaScript初級者 ・職業としてのエンジニアを目指し、独学でJavaScriptを勉強したいと考えている学習者 （現場経験がなくとも自身で初歩的な学習を完了している学習者であれば、 本書の対象読者となりえます） ■つまずきやすいため紙面を割いているトピック ・非同期処理（async/await、Promise） ・AJAX（Fetch API） ・this ・スコープ ・プリミティブ型／オブジェクト型と参照 ■その他取り上げているトピック ・クロージャ ・ES5からES6 ・Node.jsとnpm ・トランスパイル ・DOM ・例外",
+            "image": "http://books.google.com/books/content?id=P05gEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+            "date_modified": "2022-01-14T00:00:00.000Z"
+        },
+        {
             "content_html": "占いや数当て、マインスイーパー、落ちものパズルなどの身近なゲーム作成を通して楽しみながらJavaScriptを学ぶ。<br><blockquote>占いや数当て、マインスイーパー、落ちものパズルなどの身近なゲーム作成を通して楽しみながらJavaScriptを学ぶ。</blockquote>",
-            "url": "http://books.google.com/books?id=y8nizgEACAAJ&dq=JavaScript&hl=&cd=7&source=gbs_api",
+            "url": "http://books.google.com/books?id=y8nizgEACAAJ&dq=JavaScript&hl=&cd=9&source=gbs_api",
             "title": "学生のためのJavaScript",
             "summary": "占いや数当て、マインスイーパー、落ちものパズルなどの身近なゲーム作成を通して楽しみながらJavaScriptを学ぶ。",
             "image": "http://books.google.com/books/content?id=y8nizgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",

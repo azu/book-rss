@@ -45,19 +45,19 @@
             "date_modified": "2021-07-16T00:00:00.000Z"
         },
         {
+            "content_html": "",
+            "url": "http://books.google.com/books?id=AT-yzgEACAAJ&dq=JavaScript&hl=&cd=6&source=gbs_api",
+            "title": "HTML CSS and JavaScript",
+            "image": "http://books.google.com/books/content?id=AT-yzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+            "date_modified": "2021-10-03T00:00:00.000Z"
+        },
+        {
             "content_html": "Little known to many, R works just as well with JavaScript—this book delves into the various ways both languages can work together. The ultimate aim of this work is to put the reader at ease with inviting JavaScript in their data science workflow. In that respect the book is not teaching one JavaScript but rather we show how little JavaScript can greatly support and enhance R code. Therefore, the focus is on integrating external JavaScript libraries and no prior knowledge of JavaScript is required. Key Features: ● Easy to pick up. ● An entry way to learning JavaScript for R. ● Covers topics not covered anywhere else. ● Easy to follow along.<br><blockquote>The ultimate aim of this work is to put the reader at ease with inviting JavaScript in their data science workflow.</blockquote>",
-            "url": "http://books.google.com/books?id=ntUxEAAAQBAJ&printsec=frontcover&dq=JavaScript&hl=&cd=6&source=gbs_api",
+            "url": "http://books.google.com/books?id=ntUxEAAAQBAJ&printsec=frontcover&dq=JavaScript&hl=&cd=7&source=gbs_api",
             "title": "Javascript for R",
             "summary": "Little known to many, R works just as well with JavaScript—this book delves into the various ways both languages can work together. The ultimate aim of this work is to put the reader at ease with inviting JavaScript in their data science workflow. In that respect the book is not teaching one JavaScript but rather we show how little JavaScript can greatly support and enhance R code. Therefore, the focus is on integrating external JavaScript libraries and no prior knowledge of JavaScript is required. Key Features: ● Easy to pick up. ● An entry way to learning JavaScript for R. ● Covers topics not covered anywhere else. ● Easy to follow along.",
             "image": "http://books.google.com/books/content?id=ntUxEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
             "date_modified": "2021-07-15T00:00:00.000Z"
-        },
-        {
-            "content_html": "",
-            "url": "http://books.google.com/books?id=AT-yzgEACAAJ&dq=JavaScript&hl=&cd=7&source=gbs_api",
-            "title": "HTML CSS and JavaScript",
-            "image": "http://books.google.com/books/content?id=AT-yzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-            "date_modified": "2021-10-03T00:00:00.000Z"
         },
         {
             "content_html": "This full-color book will inspire beginner JavaScript learners to start solving problems and creating programs with JavaScript, even with absolutely no programming experience. It is not just friendly and easy: it is the first JavaScript guide for beginners that puts readers in control of their own learning and empowers them to build unique programs to solve problems they care about. Begin to Code with JavaScript is packed with innovations, including its Snaps library of pre-built operations that are easy to combine with their own unique programs, Cookie Cutter templates that give them a flying start, and Make Something Happen projects that help them build skills by creating their own programs.<br><blockquote>This full-color book will inspire beginner JavaScript learners to start solving problems and creating programs with JavaScript, even with absolutely no programming experience.</blockquote>",

@@ -21,6 +21,14 @@
             "date_modified": "2021-11-19T00:00:00.000Z"
         },
         {
+            "content_html": "TypeScriptは、JavaScriptに静的型付けの機能を加えたオープンソースのプログラミング言語です。本書では、根幹となるJavaScriptの仕様・機能とともに、TypeScript独自の仕様・機能を解説します。TypeScriptの基礎知識はこれ一冊だけで学べます。 静的型付き言語は世にいくつもありますが、TypeScriptの型システムは他に類を見ない高い表現力を持っています。本書の読者が、型の有効性を理解しTypeScriptらしいコードを書けるようになるために、本書では、プログラムの安全性を高める基本的な型の扱い方から、TypeScriptの「高い表現力」の源となっているリテラル型・ユニオン型・keyof 型の扱い方まで幅広く取り上げます。また、わかりにくい機能や型安全を脅かす危険な機能についてもごまかさず、歴史的経緯や目的・用途を踏まえたうえで最善の扱い方を説明します。 章ごとに力試し問題を用意しており、理解の度合いを確認しながら学習を進められます。<br><blockquote>型の有効性を理解し、TypeScriptらしいコードを書くために。</blockquote>",
+            "url": "http://books.google.com/books?id=fyvwzgEACAAJ&dq=JavaScript&hl=&cd=6&source=gbs_api",
+            "title": "プロを目指す人のためのTypeScript入門安全なコードの書き方から高度な型の使い方まで",
+            "summary": "TypeScriptは、JavaScriptに静的型付けの機能を加えたオープンソースのプログラミング言語です。本書では、根幹となるJavaScriptの仕様・機能とともに、TypeScript独自の仕様・機能を解説します。TypeScriptの基礎知識はこれ一冊だけで学べます。 静的型付き言語は世にいくつもありますが、TypeScriptの型システムは他に類を見ない高い表現力を持っています。本書の読者が、型の有効性を理解しTypeScriptらしいコードを書けるようになるために、本書では、プログラムの安全性を高める基本的な型の扱い方から、TypeScriptの「高い表現力」の源となっているリテラル型・ユニオン型・keyof 型の扱い方まで幅広く取り上げます。また、わかりにくい機能や型安全を脅かす危険な機能についてもごまかさず、歴史的経緯や目的・用途を踏まえたうえで最善の扱い方を説明します。 章ごとに力試し問題を用意しており、理解の度合いを確認しながら学習を進められます。",
+            "image": "http://books.google.com/books/content?id=fyvwzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+            "date_modified": "2022-04-22T00:00:00.000Z"
+        },
+        {
             "content_html": "JavaScript初心者でも大丈夫!Vue.js3のはじめの一歩を体験しよう!<br><blockquote>はじめにその昔、ウェブページのメニューやボタンを操作したとき<b>JavaScript</b>でちょっとしたアニメーションを添えることが大流行しました。<b>JavaScript</b>は、ウェブページの表示スタイルを自由自在に変更することができ、サーバーが無くてもブラウザで動かす&nbsp;...</blockquote>",
             "url": "http://books.google.com/books?id=V6puEAAAQBAJ&pg=PA3&dq=JavaScript&hl=&cd=7&source=gbs_api",
             "title": "Vue.jsのﾂﾎﾞとｺﾂがｾﾞｯﾀｲにわかる本[第2版]",
@@ -38,7 +46,7 @@
         },
         {
             "content_html": "占いや数当て、マインスイーパー、落ちものパズルなどの身近なゲーム作成を通して楽しみながらJavaScriptを学ぶ。<br><blockquote>占いや数当て、マインスイーパー、落ちものパズルなどの身近なゲーム作成を通して楽しみながらJavaScriptを学ぶ。</blockquote>",
-            "url": "http://books.google.com/books?id=y8nizgEACAAJ&dq=JavaScript&hl=&cd=9&source=gbs_api",
+            "url": "http://books.google.com/books?id=y8nizgEACAAJ&dq=JavaScript&hl=&cd=10&source=gbs_api",
             "title": "学生のためのJavaScript",
             "summary": "占いや数当て、マインスイーパー、落ちものパズルなどの身近なゲーム作成を通して楽しみながらJavaScriptを学ぶ。",
             "image": "http://books.google.com/books/content?id=y8nizgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",

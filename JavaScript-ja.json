@@ -29,20 +29,20 @@
             "date_modified": "2022-03-01T00:00:00.000Z"
         },
         {
-            "content_html": "「とりあえず動くJavaScript」から脱却したい人へ！ 初級者から中級者へのステップアップ指南書 JavaScriptは「なんとなく」「勘で」書いても動いてしまうことがある一方で、 独特の癖があり奥が深いため、初心者から脱するのが難しい言語です。 本書は「入門者向けの本は一冊読み終わったけど、もっと良いコードを書きたい」 「バグの出にくいコードの書き方を知りたい」という開発者のために、 JavaScriptで特につまずきやすい部分を丁寧に解説します。 ■対象読者 ・フロントエンドのスキルアップを目指す現役エンジニア ・フロントエンドエンジニアとしての転職／異動を考えるJavaScript初級者 ・職業としてのエンジニアを目指し、独学でJavaScriptを勉強したいと考えている学習者 （現場経験がなくとも自身で初歩的な学習を完了している学習者であれば、 本書の対象読者となりえます） ■つまずきやすいため紙面を割いているトピック ・非同期処理（async/await、Promise） ・AJAX（Fetch API） ・this ・スコープ ・プリミティブ型／オブジェクト型と参照 ■その他取り上げているトピック ・クロージャ ・ES5からES6 ・Node.jsとnpm ・トランスパイル ・DOM ・例外<br><blockquote>9 <b>JavaScript</b>でトランスパイルが必要な例の一つ※1として、「最新バージョンの<b>JavaScript</b>で書かれたコード」から「古いバージョンの<b>JavaScript</b>で書かれたコード」を生成したいという 1 ケースがあります。これは<b>JavaScript</b>がブラウザ上で実行される&nbsp;...</blockquote>",
-            "url": "http://books.google.com/books?id=P05gEAAAQBAJ&pg=PA207&dq=JavaScript&hl=&cd=8&source=gbs_api",
-            "title": "ステップアップJavaScript フロントエンド開発の初級から中級へ進むために",
-            "summary": "「とりあえず動くJavaScript」から脱却したい人へ！ 初級者から中級者へのステップアップ指南書 JavaScriptは「なんとなく」「勘で」書いても動いてしまうことがある一方で、 独特の癖があり奥が深いため、初心者から脱するのが難しい言語です。 本書は「入門者向けの本は一冊読み終わったけど、もっと良いコードを書きたい」 「バグの出にくいコードの書き方を知りたい」という開発者のために、 JavaScriptで特につまずきやすい部分を丁寧に解説します。 ■対象読者 ・フロントエンドのスキルアップを目指す現役エンジニア ・フロントエンドエンジニアとしての転職／異動を考えるJavaScript初級者 ・職業としてのエンジニアを目指し、独学でJavaScriptを勉強したいと考えている学習者 （現場経験がなくとも自身で初歩的な学習を完了している学習者であれば、 本書の対象読者となりえます） ■つまずきやすいため紙面を割いているトピック ・非同期処理（async/await、Promise） ・AJAX（Fetch API） ・this ・スコープ ・プリミティブ型／オブジェクト型と参照 ■その他取り上げているトピック ・クロージャ ・ES5からES6 ・Node.jsとnpm ・トランスパイル ・DOM ・例外",
-            "image": "http://books.google.com/books/content?id=P05gEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-            "date_modified": "2022-01-14T00:00:00.000Z"
-        },
-        {
             "content_html": "TypeScriptは、JavaScriptに静的型付けの機能を加えたオープンソースのプログラミング言語です。本書では、根幹となるJavaScriptの仕様・機能とともに、TypeScript独自の仕様・機能を解説します。TypeScriptの基礎知識はこれ一冊だけで学べます。 静的型付き言語は世にいくつもありますが、TypeScriptの型システムは他に類を見ない高い表現力を持っています。本書の読者が、型の有効性を理解しTypeScriptらしいコードを書けるようになるために、本書では、プログラムの安全性を高める基本的な型の扱い方から、TypeScriptの「高い表現力」の源となっているリテラル型・ユニオン型・keyof 型の扱い方まで幅広く取り上げます。また、わかりにくい機能や型安全を脅かす危険な機能についてもごまかさず、歴史的経緯や目的・用途を踏まえたうえで最善の扱い方を説明します。 章ごとに力試し問題を用意しており、理解の度合いを確認しながら学習を進められます。<br><blockquote>型の有効性を理解し、TypeScriptらしいコードを書くために。</blockquote>",
-            "url": "http://books.google.com/books?id=fyvwzgEACAAJ&dq=JavaScript&hl=&cd=9&source=gbs_api",
+            "url": "http://books.google.com/books?id=fyvwzgEACAAJ&dq=JavaScript&hl=&cd=8&source=gbs_api",
             "title": "プロを目指す人のためのTypeScript入門安全なコードの書き方から高度な型の使い方まで",
             "summary": "TypeScriptは、JavaScriptに静的型付けの機能を加えたオープンソースのプログラミング言語です。本書では、根幹となるJavaScriptの仕様・機能とともに、TypeScript独自の仕様・機能を解説します。TypeScriptの基礎知識はこれ一冊だけで学べます。 静的型付き言語は世にいくつもありますが、TypeScriptの型システムは他に類を見ない高い表現力を持っています。本書の読者が、型の有効性を理解しTypeScriptらしいコードを書けるようになるために、本書では、プログラムの安全性を高める基本的な型の扱い方から、TypeScriptの「高い表現力」の源となっているリテラル型・ユニオン型・keyof 型の扱い方まで幅広く取り上げます。また、わかりにくい機能や型安全を脅かす危険な機能についてもごまかさず、歴史的経緯や目的・用途を踏まえたうえで最善の扱い方を説明します。 章ごとに力試し問題を用意しており、理解の度合いを確認しながら学習を進められます。",
             "image": "http://books.google.com/books/content?id=fyvwzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
             "date_modified": "2022-04-22T00:00:00.000Z"
+        },
+        {
+            "content_html": "「とりあえず動くJavaScript」から脱却したい人へ！ 初級者から中級者へのステップアップ指南書 JavaScriptは「なんとなく」「勘で」書いても動いてしまうことがある一方で、 独特の癖があり奥が深いため、初心者から脱するのが難しい言語です。 本書は「入門者向けの本は一冊読み終わったけど、もっと良いコードを書きたい」 「バグの出にくいコードの書き方を知りたい」という開発者のために、 JavaScriptで特につまずきやすい部分を丁寧に解説します。 ■対象読者 ・フロントエンドのスキルアップを目指す現役エンジニア ・フロントエンドエンジニアとしての転職／異動を考えるJavaScript初級者 ・職業としてのエンジニアを目指し、独学でJavaScriptを勉強したいと考えている学習者 （現場経験がなくとも自身で初歩的な学習を完了している学習者であれば、 本書の対象読者となりえます） ■つまずきやすいため紙面を割いているトピック ・非同期処理（async/await、Promise） ・AJAX（Fetch API） ・this ・スコープ ・プリミティブ型／オブジェクト型と参照 ■その他取り上げているトピック ・クロージャ ・ES5からES6 ・Node.jsとnpm ・トランスパイル ・DOM ・例外<br><blockquote>9 <b>JavaScript</b>でトランスパイルが必要な例の一つ※1として、「最新バージョンの<b>JavaScript</b>で書かれたコード」から「古いバージョンの<b>JavaScript</b>で書かれたコード」を生成したいという 1 ケースがあります。これは<b>JavaScript</b>がブラウザ上で実行される&nbsp;...</blockquote>",
+            "url": "http://books.google.com/books?id=P05gEAAAQBAJ&pg=PA207&dq=JavaScript&hl=&cd=9&source=gbs_api",
+            "title": "ステップアップJavaScript フロントエンド開発の初級から中級へ進むために",
+            "summary": "「とりあえず動くJavaScript」から脱却したい人へ！ 初級者から中級者へのステップアップ指南書 JavaScriptは「なんとなく」「勘で」書いても動いてしまうことがある一方で、 独特の癖があり奥が深いため、初心者から脱するのが難しい言語です。 本書は「入門者向けの本は一冊読み終わったけど、もっと良いコードを書きたい」 「バグの出にくいコードの書き方を知りたい」という開発者のために、 JavaScriptで特につまずきやすい部分を丁寧に解説します。 ■対象読者 ・フロントエンドのスキルアップを目指す現役エンジニア ・フロントエンドエンジニアとしての転職／異動を考えるJavaScript初級者 ・職業としてのエンジニアを目指し、独学でJavaScriptを勉強したいと考えている学習者 （現場経験がなくとも自身で初歩的な学習を完了している学習者であれば、 本書の対象読者となりえます） ■つまずきやすいため紙面を割いているトピック ・非同期処理（async/await、Promise） ・AJAX（Fetch API） ・this ・スコープ ・プリミティブ型／オブジェクト型と参照 ■その他取り上げているトピック ・クロージャ ・ES5からES6 ・Node.jsとnpm ・トランスパイル ・DOM ・例外",
+            "image": "http://books.google.com/books/content?id=P05gEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+            "date_modified": "2022-01-14T00:00:00.000Z"
         }
     ]
 }

@@ -13,20 +13,20 @@
             "date_modified": "2022-11-25T00:00:00.000Z"
         },
         {
-            "content_html": "TypeScriptをはじめて学ぶ方のための超入門書です。アプリケーションの作成に必要な文法を学び、まったくの未経験者でも実際に動くアプリケーション(「ストップウォッチ」「カレンダー」)の作成を体験できます。<br><blockquote><b>TypeScript</b>を学ぶメリットなぜ<b>TypeScript</b>を学ぶのか? <b>TypeScript</b>を学ぶと、開発効率やプログラム品質の向上に役立ちます。以下の理由から、最新のJavaScript仕様の習熟にも役立ちます。最新の構文が使える JavaScriptはウェブアプリケーション開発の主要&nbsp;...</blockquote>",
-            "url": "http://books.google.com/books?id=e96lEAAAQBAJ&pg=PA22&dq=TypeScript&hl=&cd=2&source=gbs_api",
-            "title": "図解!TypeScriptのﾂﾎﾞとｺﾂがｾﾞｯﾀｲにわかる本“超”入門編",
-            "summary": "TypeScriptをはじめて学ぶ方のための超入門書です。アプリケーションの作成に必要な文法を学び、まったくの未経験者でも実際に動くアプリケーション(「ストップウォッチ」「カレンダー」)の作成を体験できます。",
-            "image": "http://books.google.com/books/content?id=e96lEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-            "date_modified": "2022-12-01T00:00:00.000Z"
-        },
-        {
             "content_html": "人気のWebフロントエンドフレームワーク「Vue.js」がバージョンアップして「Vue 3」となり、TypeScriptの標準採用、新機能Composition API、Vite、Piniaの搭載など、大幅に機能が更新・強化されました。それに伴い、Vue 3では、従来のOptions APIを利用したコンポーネント開発とは異なる開発手法が必要となります。本書では、Composition APIによるコンポーネント開発やPiniaによる状態管理、Vue RouterによるSPA開発、非同期処理やユニットテストなどを新機能を駆使して解説しており、Vue 3によるフロントエンド開発手法が1冊ですべて身に付く内容になっています。<br><blockquote>Vue3の新機能を使った実践的な開発を完全解説!TypeScript×Composition APIによる次世代の開発手法が、この1冊でわかる!</blockquote>",
-            "url": "http://books.google.com/books?id=nDVMzwEACAAJ&dq=TypeScript&hl=&cd=3&source=gbs_api",
+            "url": "http://books.google.com/books?id=nDVMzwEACAAJ&dq=TypeScript&hl=&cd=2&source=gbs_api",
             "title": "Vue 3 フロントエンド開発の教科書",
             "summary": "人気のWebフロントエンドフレームワーク「Vue.js」がバージョンアップして「Vue 3」となり、TypeScriptの標準採用、新機能Composition API、Vite、Piniaの搭載など、大幅に機能が更新・強化されました。それに伴い、Vue 3では、従来のOptions APIを利用したコンポーネント開発とは異なる開発手法が必要となります。本書では、Composition APIによるコンポーネント開発やPiniaによる状態管理、Vue RouterによるSPA開発、非同期処理やユニットテストなどを新機能を駆使して解説しており、Vue 3によるフロントエンド開発手法が1冊ですべて身に付く内容になっています。",
             "image": "http://books.google.com/books/content?id=nDVMzwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
             "date_modified": "2022-09-28T00:00:00.000Z"
+        },
+        {
+            "content_html": "TypeScriptをはじめて学ぶ方のための超入門書です。アプリケーションの作成に必要な文法を学び、まったくの未経験者でも実際に動くアプリケーション(「ストップウォッチ」「カレンダー」)の作成を体験できます。<br><blockquote><b>TypeScript</b>を学ぶメリットなぜ<b>TypeScript</b>を学ぶのか? <b>TypeScript</b>を学ぶと、開発効率やプログラム品質の向上に役立ちます。以下の理由から、最新のJavaScript仕様の習熟にも役立ちます。最新の構文が使える JavaScriptはウェブアプリケーション開発の主要&nbsp;...</blockquote>",
+            "url": "http://books.google.com/books?id=e96lEAAAQBAJ&pg=PA22&dq=TypeScript&hl=&cd=3&source=gbs_api",
+            "title": "図解!TypeScriptのﾂﾎﾞとｺﾂがｾﾞｯﾀｲにわかる本“超”入門編",
+            "summary": "TypeScriptをはじめて学ぶ方のための超入門書です。アプリケーションの作成に必要な文法を学び、まったくの未経験者でも実際に動くアプリケーション(「ストップウォッチ」「カレンダー」)の作成を体験できます。",
+            "image": "http://books.google.com/books/content?id=e96lEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+            "date_modified": "2022-12-01T00:00:00.000Z"
         },
         {
             "content_html": "TypeScriptをはじめて学ぶ方のための超入門書です。アプリケーションの作成に必要な文法を学び、まったくの未経験者でも実際に動くアプリケーション(「ストップウォッチ」「カレンダー」)の作成を体験できます。<br><blockquote><b>TypeScript</b>とは? JavaScriptの上位互換 <b>TypeScript</b>はMicrosoft社が開発したプログラミング言語で、 JavaScriptを拡張して作られた上位互換です。JavaScriptはブラウザやNode.jsなどの実行環境で動作しますが、<b>TypeScript</b>はそのままでは実行できません。</blockquote>",

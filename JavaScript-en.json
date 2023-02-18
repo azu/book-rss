@@ -29,19 +29,19 @@
             "date_modified": "2021-08-10T00:00:00.000Z"
         },
         {
+            "content_html": "",
+            "url": "http://books.google.com/books?id=AT-yzgEACAAJ&dq=JavaScript&hl=&cd=4&source=gbs_api",
+            "title": "HTML CSS and JavaScript",
+            "image": "http://books.google.com/books/content?id=AT-yzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+            "date_modified": "2021-10-03T00:00:00.000Z"
+        },
+        {
             "content_html": "JavaScript is the world's most popular programming language. JavaScript is the programming language of the Web. JavaScript is easy to learn. Here we learn JavaScript, starting from scratch and go on to advanced concepts like OOP. You will learn by examples In this book, learning speed is your choice. Everything is up to you. If you are struggling, take a break, or re-read the material. JavaScript is already running in your browser on your computer, on your tablet, and on your smart-phone. JavaScript is free to use for everyone. Start your coding today!<br><blockquote>The Complete JavaScript Course From Zero to Expert!</blockquote>",
-            "url": "http://books.google.com/books?id=z7D2DwAAQBAJ&pg=PP1&dq=JavaScript&hl=&cd=4&source=gbs_api",
+            "url": "http://books.google.com/books?id=z7D2DwAAQBAJ&pg=PP1&dq=JavaScript&hl=&cd=5&source=gbs_api",
             "title": "The Modern JavaScript Basics Tutorial",
             "summary": "JavaScript is the world's most popular programming language. JavaScript is the programming language of the Web. JavaScript is easy to learn. Here we learn JavaScript, starting from scratch and go on to advanced concepts like OOP. You will learn by examples In this book, learning speed is your choice. Everything is up to you. If you are struggling, take a break, or re-read the material. JavaScript is already running in your browser on your computer, on your tablet, and on your smart-phone. JavaScript is free to use for everyone. Start your coding today!",
             "image": "http://books.google.com/books/content?id=z7D2DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
             "date_modified": "2023-01-15T00:00:00.000Z"
-        },
-        {
-            "content_html": "",
-            "url": "http://books.google.com/books?id=AT-yzgEACAAJ&dq=JavaScript&hl=&cd=5&source=gbs_api",
-            "title": "HTML CSS and JavaScript",
-            "image": "http://books.google.com/books/content?id=AT-yzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-            "date_modified": "2021-10-03T00:00:00.000Z"
         },
         {
             "content_html": "Why reinvent the wheel every time you run into a problem with JavaScript? This cookbook is chock-full of code recipes for common programming tasks, along with techniques for building apps that work in any browser. You'll get adaptable code samples that you can add to almost any project--and you'll learn more about JavaScript in the process. The recipes in this book take advantage of the latest features in ECMAScript 2020 and beyond and use modern JavaScript coding standards. You'll learn how to: Set up a productive development environment with a code editor, linter, and test server Work with JavaScript data types, such as strings, arrays, and BigInts Improve your understanding of JavaScript functions, including arrow functions, closures, and generators Apply object-oriented programming concepts like classes and inheritance Work with rich media in JavaScript, including audio, video, and SVGs Manipulate HTML markup and CSS styles Use JavaScript anywhere with Node.js Access and manipulate remote data with REST, GraphQL, and Fetch Get started with the popular Express application-building framework Perform asynchronous operations with Promises, async/await, and web workers<br><blockquote>The recipes in this book take advantage of the latest features in ECMAScript 2020 and beyond and use modern JavaScript coding standards.</blockquote>",

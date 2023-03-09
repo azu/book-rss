@@ -22,7 +22,7 @@
         },
         {
             "content_html": "※この商品はタブレットなど大きいディスプレイを備えた端末で読むことに適しています。また、文字だけを拡大することや、文字列のハイライト、検索、辞書の参照、引用などの機能が使用できません。 オブジェクトやクラス、自作関数のライブラリ化など、複雑なプログラム開発に欠かせない“プログラムを設計する考え方”を学べます。ブラウザゲーム「ポーカー」の作成を通して、プログラムを「組み立てる力」を学ぼう。<br><blockquote>※この商品はタブレットなど大きいディスプレイを備えた端末で読むことに適しています。また、文字だけを拡大することや、文字列のハイライト、検索、辞書の参照、引用など ...</blockquote>",
-            "url": "http://books.google.com/books?id=x7qBEAAAQBAJ&dq=JavaScript&hl=&cd=6&source=gbs_api",
+            "url": "http://books.google.com/books?id=x7qBEAAAQBAJ&dq=JavaScript&hl=&cd=5&source=gbs_api",
             "title": "図解！ JavaScriptのツボとコツがゼッタイにわかる本 プログラミング実践編",
             "summary": "※この商品はタブレットなど大きいディスプレイを備えた端末で読むことに適しています。また、文字だけを拡大することや、文字列のハイライト、検索、辞書の参照、引用などの機能が使用できません。 オブジェクトやクラス、自作関数のライブラリ化など、複雑なプログラム開発に欠かせない“プログラムを設計する考え方”を学べます。ブラウザゲーム「ポーカー」の作成を通して、プログラムを「組み立てる力」を学ぼう。",
             "image": "http://books.google.com/books/content?id=x7qBEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
@@ -30,19 +30,19 @@
         },
         {
             "content_html": "TypeScriptは、JavaScriptに静的型付けの機能を加えたオープンソースのプログラミング言語です。本書では、根幹となるJavaScriptの仕様・機能とともに、TypeScript独自の仕様・機能を解説します。TypeScriptの基礎知識はこれ一冊だけで学べます。 静的型付き言語は世にいくつもありますが、TypeScriptの型システムは他に類を見ない高い表現力を持っています。本書の読者が、型の有効性を理解しTypeScriptらしいコードを書けるようになるために、本書では、プログラムの安全性を高める基本的な型の扱い方から、TypeScriptの「高い表現力」の源となっているリテラル型・ユニオン型・keyof 型の扱い方まで幅広く取り上げます。また、わかりにくい機能や型安全を脅かす危険な機能についてもごまかさず、歴史的経緯や目的・用途を踏まえたうえで最善の扱い方を説明します。 章ごとに力試し問題を用意しており、理解の度合いを確認しながら学習を進められます。<br><blockquote>TypeScriptは、JavaScriptに静的型付けの機能を加えたオープンソースのプログラミング言語です。本書では、根幹となるJavaScriptの仕様・機能とともに、TypeScript独自の仕様・機能を解 ...</blockquote>",
-            "url": "http://books.google.com/books?id=fyvwzgEACAAJ&dq=JavaScript&hl=&cd=9&source=gbs_api",
+            "url": "http://books.google.com/books?id=fyvwzgEACAAJ&dq=JavaScript&hl=&cd=8&source=gbs_api",
             "title": "プロを目指す人のためのTypeScript入門安全なコードの書き方から高度な型の使い方まで",
             "summary": "TypeScriptは、JavaScriptに静的型付けの機能を加えたオープンソースのプログラミング言語です。本書では、根幹となるJavaScriptの仕様・機能とともに、TypeScript独自の仕様・機能を解説します。TypeScriptの基礎知識はこれ一冊だけで学べます。 静的型付き言語は世にいくつもありますが、TypeScriptの型システムは他に類を見ない高い表現力を持っています。本書の読者が、型の有効性を理解しTypeScriptらしいコードを書けるようになるために、本書では、プログラムの安全性を高める基本的な型の扱い方から、TypeScriptの「高い表現力」の源となっているリテラル型・ユニオン型・keyof 型の扱い方まで幅広く取り上げます。また、わかりにくい機能や型安全を脅かす危険な機能についてもごまかさず、歴史的経緯や目的・用途を踏まえたうえで最善の扱い方を説明します。 章ごとに力試し問題を用意しており、理解の度合いを確認しながら学習を進められます。",
             "image": "http://books.google.com/books/content?id=fyvwzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
             "date_modified": "2022-04-22T00:00:00.000Z"
         },
         {
-            "content_html": "Webアプリケーション開発をもっと「安全」に! 「型」を駆使したTypeScriptプログラミングをしっかり学ぼう! TypeScript は、JavaScript にクラスや静的型付けなどの機能を加えた「altJS」の1つですが、近年、Web アプリケーションフレームワークの標準言語としての採用が増加し、Web開発の必修言語として需要が急速に伸びています。本書は、プログラミング初心者や本職プログラマーではない方を対象に、TypeScriptの基本的な文法とプログラミング方法をていねい&しっかり解説しています。また、最終章でWeb API とJSON を利用した非同期Web アプリケーションの作成方法を解説しているので、Web開発で役立つ活用テクニックも短時間ですばやく学習できます。<br><blockquote>Webアプリケーション開発をもっと「安全」に! 「型」を駆使したTypeScriptプログラミングをしっかり学ぼう!</blockquote>",
-            "url": "http://books.google.com/books?id=_7LyzgEACAAJ&dq=JavaScript&hl=&cd=10&source=gbs_api",
-            "title": "ゼロからわかる TypeScript入門",
-            "summary": "Webアプリケーション開発をもっと「安全」に! 「型」を駆使したTypeScriptプログラミングをしっかり学ぼう! TypeScript は、JavaScript にクラスや静的型付けなどの機能を加えた「altJS」の1つですが、近年、Web アプリケーションフレームワークの標準言語としての採用が増加し、Web開発の必修言語として需要が急速に伸びています。本書は、プログラミング初心者や本職プログラマーではない方を対象に、TypeScriptの基本的な文法とプログラミング方法をていねい&しっかり解説しています。また、最終章でWeb API とJSON を利用した非同期Web アプリケーションの作成方法を解説しているので、Web開発で役立つ活用テクニックも短時間ですばやく学習できます。",
-            "image": "http://books.google.com/books/content?id=_7LyzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-            "date_modified": "2022-04-01T00:00:00.000Z"
+            "content_html": "※この商品はタブレットなど大きいディスプレイを備えた端末で読むことに適しています。また、文字だけを拡大することや、文字列のハイライト、検索、辞書の参照、引用などの機能が使用できません。 JavaScript初心者がVue.jsの入口を体験できます。Vue.jsの中心的な機能である「描画機能」の解説に重点を置き、サンプルのページをVue.jsを使ったページに作り替えていく流れを解説しています。<br><blockquote>※この商品はタブレットなど大きいディスプレイを備えた端末で読むことに適しています。また、文字だけを拡大することや、文字列のハイライト、検索、辞書の参照、引用など ...</blockquote>",
+            "url": "http://books.google.com/books?id=Ro1mEAAAQBAJ&dq=JavaScript&hl=&cd=9&source=gbs_api",
+            "title": "Vue.jsのツボとコツがゼッタイにわかる本［第2版］",
+            "summary": "※この商品はタブレットなど大きいディスプレイを備えた端末で読むことに適しています。また、文字だけを拡大することや、文字列のハイライト、検索、辞書の参照、引用などの機能が使用できません。 JavaScript初心者がVue.jsの入口を体験できます。Vue.jsの中心的な機能である「描画機能」の解説に重点を置き、サンプルのページをVue.jsを使ったページに作り替えていく流れを解説しています。",
+            "image": "http://books.google.com/books/content?id=Ro1mEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+            "date_modified": "2022-03-28T00:00:00.000Z"
         }
     ]
 }

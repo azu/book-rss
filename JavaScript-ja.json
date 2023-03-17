@@ -6,7 +6,7 @@
     "items": [
         {
             "content_html": "多様化・複雑化したWebサイト要件に 応える最新技術が一目でわかる！ React、Vue.js、Angular、Next.js… JavaScript フレームワーク・ライブラリ・API Web構築最前線 Webのフロントエンド開発には多様なフレームワーク、ライブラリ、APIなどが存在し、 開発手法もさまざま生まれ進化しています。 最近では「React」が話題となっていますが、クライアントの要求するWeb要件を鑑みると、 「いずれは使わないといけなくなる」と思っているWeb担当者・制作関係者は少なくないのではないでしょうか？ そこで、社会背景をベースにこれから求められるサイトの役割・機能などを紐解き、 現在主流のWeb技術を俯瞰しながら、 これから注目すべき＆導入すべきWeb技術とは何か、自社に必要な技術とは？を追究します。 ● 制作者・制作会社は今こそ！React、Vue.jsに舵を切れ ● モダンフロントエンド開発技術の使い分けと現場の実情 ● JavaScriptフレームワークの効率的な学び方 ●フロントエンド開発に必要なディレクターの基礎知識 など<br><blockquote>多様化・複雑化したWebサイト要件に 応える最新技術が一目でわかる！ React、Vue.js、Angular、Next.js… JavaScript フレームワーク・ライブラリ・API Web構築最前線 ...</blockquote>",
-            "url": "http://books.google.com/books?id=PGiVEAAAQBAJ&printsec=frontcover&dq=JavaScript&hl=&cd=1&source=gbs_api",
+            "url": "http://books.google.com/books?id=PGiVEAAAQBAJ&pg=PP1&dq=JavaScript&hl=&cd=1&source=gbs_api",
             "title": "Web Designing 2022年12月号",
             "summary": "多様化・複雑化したWebサイト要件に 応える最新技術が一目でわかる！ React、Vue.js、Angular、Next.js… JavaScript フレームワーク・ライブラリ・API Web構築最前線 Webのフロントエンド開発には多様なフレームワーク、ライブラリ、APIなどが存在し、 開発手法もさまざま生まれ進化しています。 最近では「React」が話題となっていますが、クライアントの要求するWeb要件を鑑みると、 「いずれは使わないといけなくなる」と思っているWeb担当者・制作関係者は少なくないのではないでしょうか？ そこで、社会背景をベースにこれから求められるサイトの役割・機能などを紐解き、 現在主流のWeb技術を俯瞰しながら、 これから注目すべき＆導入すべきWeb技術とは何か、自社に必要な技術とは？を追究します。 ● 制作者・制作会社は今こそ！React、Vue.jsに舵を切れ ● モダンフロントエンド開発技術の使い分けと現場の実情 ● JavaScriptフレームワークの効率的な学び方 ●フロントエンド開発に必要なディレクターの基礎知識 など",
             "image": "http://books.google.com/books/content?id=PGiVEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
@@ -14,7 +14,7 @@
         },
         {
             "content_html": "本書はWebページ上でマイクからの音声をリアルタイムに音声認識する技術の解説書です。 AWSのS3にHTMLとJavaScriptを用いて音声を取り込み、Amazon Transcribe、Google Chrome、Microsoft Azureの音声サービス、AmiVoice Cloud Platformを使用して音声認識する方法を説明しています。その際、Webページが悪用されないようにAmazon Cognitoを使った簡単な認証についても紹介しています。 【目次】 第1章 本書について 第2章 音声認識用Webページを作ろう！ 第3章 AWSの音声認識 第4章 Googleの音声認識 第5章 Microsoft Azureの音声認識 第6章 AmiVoiceの音声認識 第7章 おかたづけ 第8章 まとめ<br><blockquote>本書はWebページ上でマイクからの音声をリアルタイムに音声認識する技術の解説書です。 AWSのS3にHTMLとJavaScriptを用いて音声を取り込み、Amazon Transcribe、Google Chrome、Microsoft ...</blockquote>",
-            "url": "http://books.google.com/books?id=Zc1qEAAAQBAJ&pg=PP1&dq=JavaScript&hl=&cd=3&source=gbs_api",
+            "url": "http://books.google.com/books?id=Zc1qEAAAQBAJ&pg=PP1&dq=JavaScript&hl=&cd=2&source=gbs_api",
             "title": "おためし！リアルタイム音声認識",
             "summary": "本書はWebページ上でマイクからの音声をリアルタイムに音声認識する技術の解説書です。 AWSのS3にHTMLとJavaScriptを用いて音声を取り込み、Amazon Transcribe、Google Chrome、Microsoft Azureの音声サービス、AmiVoice Cloud Platformを使用して音声認識する方法を説明しています。その際、Webページが悪用されないようにAmazon Cognitoを使った簡単な認証についても紹介しています。 【目次】 第1章 本書について 第2章 音声認識用Webページを作ろう！ 第3章 AWSの音声認識 第4章 Googleの音声認識 第5章 Microsoft Azureの音声認識 第6章 AmiVoiceの音声認識 第7章 おかたづけ 第8章 まとめ",
             "image": "http://books.google.com/books/content?id=Zc1qEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",

@@ -6,7 +6,7 @@
     "items": [
         {
             "content_html": "多様化・複雑化したWebサイト要件に 応える最新技術が一目でわかる！ React、Vue.js、Angular、Next.js… JavaScript フレームワーク・ライブラリ・API Web構築最前線 Webのフロントエンド開発には多様なフレームワーク、ライブラリ、APIなどが存在し、 開発手法もさまざま生まれ進化しています。 最近では「React」が話題となっていますが、クライアントの要求するWeb要件を鑑みると、 「いずれは使わないといけなくなる」と思っているWeb担当者・制作関係者は少なくないのではないでしょうか？ そこで、社会背景をベースにこれから求められるサイトの役割・機能などを紐解き、 現在主流のWeb技術を俯瞰しながら、 これから注目すべき＆導入すべきWeb技術とは何か、自社に必要な技術とは？を追究します。 ● 制作者・制作会社は今こそ！React、Vue.jsに舵を切れ ● モダンフロントエンド開発技術の使い分けと現場の実情 ● JavaScriptフレームワークの効率的な学び方 ●フロントエンド開発に必要なディレクターの基礎知識 など<br><blockquote>多様化・複雑化したWebサイト要件に 応える最新技術が一目でわかる！ React、Vue.js、Angular、Next.js… JavaScript フレームワーク・ライブラリ・API Web構築最前線 ...</blockquote>",
-            "url": "http://books.google.com/books?id=PGiVEAAAQBAJ&pg=PP1&dq=JavaScript&hl=&cd=1&source=gbs_api",
+            "url": "http://books.google.com/books?id=PGiVEAAAQBAJ&printsec=frontcover&dq=JavaScript&hl=&cd=1&source=gbs_api",
             "title": "Web Designing 2022年12月号",
             "summary": "多様化・複雑化したWebサイト要件に 応える最新技術が一目でわかる！ React、Vue.js、Angular、Next.js… JavaScript フレームワーク・ライブラリ・API Web構築最前線 Webのフロントエンド開発には多様なフレームワーク、ライブラリ、APIなどが存在し、 開発手法もさまざま生まれ進化しています。 最近では「React」が話題となっていますが、クライアントの要求するWeb要件を鑑みると、 「いずれは使わないといけなくなる」と思っているWeb担当者・制作関係者は少なくないのではないでしょうか？ そこで、社会背景をベースにこれから求められるサイトの役割・機能などを紐解き、 現在主流のWeb技術を俯瞰しながら、 これから注目すべき＆導入すべきWeb技術とは何か、自社に必要な技術とは？を追究します。 ● 制作者・制作会社は今こそ！React、Vue.jsに舵を切れ ● モダンフロントエンド開発技術の使い分けと現場の実情 ● JavaScriptフレームワークの効率的な学び方 ●フロントエンド開発に必要なディレクターの基礎知識 など",
             "image": "http://books.google.com/books/content?id=PGiVEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
@@ -43,14 +43,6 @@
             "summary": "Webアプリケーション開発をもっと「安全」に! 「型」を駆使したTypeScriptプログラミングをしっかり学ぼう! TypeScript は、JavaScript にクラスや静的型付けなどの機能を加えた「altJS」の1つですが、近年、Web アプリケーションフレームワークの標準言語としての採用が増加し、Web開発の必修言語として需要が急速に伸びています。本書は、プログラミング初心者や本職プログラマーではない方を対象に、TypeScriptの基本的な文法とプログラミング方法をていねい&しっかり解説しています。また、最終章でWeb API とJSON を利用した非同期Web アプリケーションの作成方法を解説しているので、Web開発で役立つ活用テクニックも短時間ですばやく学習できます。",
             "image": "http://books.google.com/books/content?id=_7LyzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
             "date_modified": "2022-04-01T00:00:00.000Z"
-        },
-        {
-            "content_html": "※この商品はタブレットなど大きいディスプレイを備えた端末で読むことに適しています。また、文字だけを拡大することや、文字列のハイライト、検索、辞書の参照、引用などの機能が使用できません。 JavaScript初心者がVue.jsの入口を体験できます。Vue.jsの中心的な機能である「描画機能」の解説に重点を置き、サンプルのページをVue.jsを使ったページに作り替えていく流れを解説しています。<br><blockquote>※この商品はタブレットなど大きいディスプレイを備えた端末で読むことに適しています。また、文字だけを拡大することや、文字列のハイライト、検索、辞書の参照、引用など ...</blockquote>",
-            "url": "http://books.google.com/books?id=Ro1mEAAAQBAJ&dq=JavaScript&hl=&cd=10&source=gbs_api",
-            "title": "Vue.jsのツボとコツがゼッタイにわかる本［第2版］",
-            "summary": "※この商品はタブレットなど大きいディスプレイを備えた端末で読むことに適しています。また、文字だけを拡大することや、文字列のハイライト、検索、辞書の参照、引用などの機能が使用できません。 JavaScript初心者がVue.jsの入口を体験できます。Vue.jsの中心的な機能である「描画機能」の解説に重点を置き、サンプルのページをVue.jsを使ったページに作り替えていく流れを解説しています。",
-            "image": "http://books.google.com/books/content?id=Ro1mEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-            "date_modified": "2022-03-28T00:00:00.000Z"
         }
     ]
 }

@@ -6,7 +6,7 @@
     "items": [
         {
             "content_html": "本書はWebページ上でマイクからの音声をリアルタイムに音声認識する技術の解説書です。 AWSのS3にHTMLとJavaScriptを用いて音声を取り込み、Amazon Transcribe、Google Chrome、Microsoft Azureの音声サービス、AmiVoice Cloud Platformを使用して音声認識する方法を説明しています。その際、Webページが悪用されないようにAmazon Cognitoを使った簡単な認証についても紹介しています。 【目次】 第1章 本書について 第2章 音声認識用Webページを作ろう！ 第3章 AWSの音声認識 第4章 Googleの音声認識 第5章 Microsoft Azureの音声認識 第6章 AmiVoiceの音声認識 第7章 おかたづけ 第8章 まとめ<br><blockquote>本書はWebページ上でマイクからの音声をリアルタイムに音声認識する技術の解説書です。 AWSのS3にHTMLとJavaScriptを用いて音声を取り込み、Amazon Transcribe、Google Chrome、Microsoft ...</blockquote>",
-            "url": "http://books.google.com/books?id=Zc1qEAAAQBAJ&printsec=frontcover&dq=JavaScript&hl=&cd=4&source=gbs_api",
+            "url": "http://books.google.com/books?id=Zc1qEAAAQBAJ&printsec=frontcover&dq=JavaScript&hl=&cd=3&source=gbs_api",
             "title": "おためし！リアルタイム音声認識",
             "summary": "本書はWebページ上でマイクからの音声をリアルタイムに音声認識する技術の解説書です。 AWSのS3にHTMLとJavaScriptを用いて音声を取り込み、Amazon Transcribe、Google Chrome、Microsoft Azureの音声サービス、AmiVoice Cloud Platformを使用して音声認識する方法を説明しています。その際、Webページが悪用されないようにAmazon Cognitoを使った簡単な認証についても紹介しています。 【目次】 第1章 本書について 第2章 音声認識用Webページを作ろう！ 第3章 AWSの音声認識 第4章 Googleの音声認識 第5章 Microsoft Azureの音声認識 第6章 AmiVoiceの音声認識 第7章 おかたづけ 第8章 まとめ",
             "image": "http://books.google.com/books/content?id=Zc1qEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",

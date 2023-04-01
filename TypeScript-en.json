@@ -76,12 +76,12 @@
             "date_modified": "2022-07-25T00:00:00.000Z"
         },
         {
-            "content_html": "This book will give you the idea about the Angular framework and concepts which we are using during development. This JS framework is now evolved and reached at the level where we can consider it stable JS framework. I will start from Angualr JS initial version and will cover the concepts of Angular latest versions. I have worked on multiple projects and UI should be atteerative and lightweight as per user expectation. This book will give you insights of Angular and core concepts. This is not intended for deep dive into Angualr but any developer who does not know about Angular, can uses this book content to understand the Angualr JS and Angular. - Sachin Gautam<br><blockquote>This book will give you insights of Angular and core concepts. This is not intended for deep dive into Angualr but any developer who does not know about Angular, can uses this book content to understand the Angualr JS and Angular.</blockquote>",
-            "url": "http://books.google.com/books?id=tmYzEAAAQBAJ&pg=PP1&dq=TypeScript&hl=&cd=10&source=gbs_api",
-            "title": "Understanding of Angular in 1 Day",
-            "summary": "This book will give you the idea about the Angular framework and concepts which we are using during development. This JS framework is now evolved and reached at the level where we can consider it stable JS framework. I will start from Angualr JS initial version and will cover the concepts of Angular latest versions. I have worked on multiple projects and UI should be atteerative and lightweight as per user expectation. This book will give you insights of Angular and core concepts. This is not intended for deep dive into Angualr but any developer who does not know about Angular, can uses this book content to understand the Angualr JS and Angular. - Sachin Gautam",
-            "image": "http://books.google.com/books/content?id=tmYzEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-            "date_modified": "2021-06-16T00:00:00.000Z"
+            "content_html": "Introduction to TypeScript -- Key concepts of TS -- Modules and namespaces -- TS runtime -- TypeScript architecture.<br><blockquote>Introduction to TypeScript -- Key concepts of TS -- Modules and namespaces -- TS runtime -- TypeScript architecture.</blockquote>",
+            "url": "http://books.google.com/books?id=1LSazgEACAAJ&dq=TypeScript&hl=&cd=10&source=gbs_api",
+            "title": "TypeScript for Beginners",
+            "summary": "Introduction to TypeScript -- Key concepts of TS -- Modules and namespaces -- TS runtime -- TypeScript architecture.",
+            "image": "http://books.google.com/books/content?id=1LSazgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+            "date_modified": "2022-01-01T00:00:00.000Z"
         }
     ]
 }

@@ -35,14 +35,6 @@
             "summary": "Webアプリケーション開発をもっと「安全」に! 「型」を駆使したTypeScriptプログラミングをしっかり学ぼう! TypeScript は、JavaScript にクラスや静的型付けなどの機能を加えた「altJS」の1つですが、近年、Web アプリケーションフレームワークの標準言語としての採用が増加し、Web開発の必修言語として需要が急速に伸びています。本書は、プログラミング初心者や本職プログラマーではない方を対象に、TypeScriptの基本的な文法とプログラミング方法をていねい&しっかり解説しています。また、最終章でWeb API とJSON を利用した非同期Web アプリケーションの作成方法を解説しているので、Web開発で役立つ活用テクニックも短時間ですばやく学習できます。",
             "image": "http://books.google.com/books/content?id=_7LyzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
             "date_modified": "2022-04-01T00:00:00.000Z"
-        },
-        {
-            "content_html": "※この商品はタブレットなど大きいディスプレイを備えた端末で読むことに適しています。また、文字だけを拡大することや、文字列のハイライト、検索、辞書の参照、引用などの機能が使用できません。 JavaScript初心者がVue.jsの入口を体験できます。Vue.jsの中心的な機能である「描画機能」の解説に重点を置き、サンプルのページをVue.jsを使ったページに作り替えていく流れを解説しています。<br><blockquote>※この商品はタブレットなど大きいディスプレイを備えた端末で読むことに適しています。また、文字だけを拡大することや、文字列のハイライト、検索、辞書の参照、引用など ...</blockquote>",
-            "url": "http://books.google.com/books?id=Ro1mEAAAQBAJ&dq=JavaScript&hl=&cd=10&source=gbs_api",
-            "title": "Vue.jsのツボとコツがゼッタイにわかる本［第2版］",
-            "summary": "※この商品はタブレットなど大きいディスプレイを備えた端末で読むことに適しています。また、文字だけを拡大することや、文字列のハイライト、検索、辞書の参照、引用などの機能が使用できません。 JavaScript初心者がVue.jsの入口を体験できます。Vue.jsの中心的な機能である「描画機能」の解説に重点を置き、サンプルのページをVue.jsを使ったページに作り替えていく流れを解説しています。",
-            "image": "http://books.google.com/books/content?id=Ro1mEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-            "date_modified": "2022-03-28T00:00:00.000Z"
         }
     ]
 }

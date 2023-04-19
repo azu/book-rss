@@ -14,7 +14,7 @@
         },
         {
             "content_html": "TypeScriptは、JavaScriptに静的型付けの機能を加えたオープンソースのプログラミング言語です。本書では、根幹となるJavaScriptの仕様・機能とともに、TypeScript独自の仕様・機能を解説します。TypeScriptの基礎知識はこれ一冊だけで学べます。 静的型付き言語は世にいくつもありますが、TypeScriptの型システムは他に類を見ない高い表現力を持っています。本書の読者が、型の有効性を理解しTypeScriptらしいコードを書けるようになるために、本書では、プログラムの安全性を高める基本的な型の扱い方から、TypeScriptの「高い表現力」の源となっているリテラル型・ユニオン型・keyof 型の扱い方まで幅広く取り上げます。また、わかりにくい機能や型安全を脅かす危険な機能についてもごまかさず、歴史的経緯や目的・用途を踏まえたうえで最善の扱い方を説明します。 章ごとに力試し問題を用意しており、理解の度合いを確認しながら学習を進められます。<br><blockquote>TypeScriptは、JavaScriptに静的型付けの機能を加えたオープンソースのプログラミング言語です。本書では、根幹となるJavaScriptの仕様・機能とともに、TypeScript独自の仕様・機能を解 ...</blockquote>",
-            "url": "http://books.google.com/books?id=fyvwzgEACAAJ&dq=JavaScript&hl=&cd=7&source=gbs_api",
+            "url": "http://books.google.com/books?id=fyvwzgEACAAJ&dq=JavaScript&hl=&cd=6&source=gbs_api",
             "title": "プロを目指す人のためのTypeScript入門安全なコードの書き方から高度な型の使い方まで",
             "summary": "TypeScriptは、JavaScriptに静的型付けの機能を加えたオープンソースのプログラミング言語です。本書では、根幹となるJavaScriptの仕様・機能とともに、TypeScript独自の仕様・機能を解説します。TypeScriptの基礎知識はこれ一冊だけで学べます。 静的型付き言語は世にいくつもありますが、TypeScriptの型システムは他に類を見ない高い表現力を持っています。本書の読者が、型の有効性を理解しTypeScriptらしいコードを書けるようになるために、本書では、プログラムの安全性を高める基本的な型の扱い方から、TypeScriptの「高い表現力」の源となっているリテラル型・ユニオン型・keyof 型の扱い方まで幅広く取り上げます。また、わかりにくい機能や型安全を脅かす危険な機能についてもごまかさず、歴史的経緯や目的・用途を踏まえたうえで最善の扱い方を説明します。 章ごとに力試し問題を用意しており、理解の度合いを確認しながら学習を進められます。",
             "image": "http://books.google.com/books/content?id=fyvwzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
@@ -22,7 +22,7 @@
         },
         {
             "content_html": "Webアプリケーション開発をもっと「安全」に! 「型」を駆使したTypeScriptプログラミングをしっかり学ぼう! TypeScript は、JavaScript にクラスや静的型付けなどの機能を加えた「altJS」の1つですが、近年、Web アプリケーションフレームワークの標準言語としての採用が増加し、Web開発の必修言語として需要が急速に伸びています。本書は、プログラミング初心者や本職プログラマーではない方を対象に、TypeScriptの基本的な文法とプログラミング方法をていねい&しっかり解説しています。また、最終章でWeb API とJSON を利用した非同期Web アプリケーションの作成方法を解説しているので、Web開発で役立つ活用テクニックも短時間ですばやく学習できます。<br><blockquote>Webアプリケーション開発をもっと「安全」に! 「型」を駆使したTypeScriptプログラミングをしっかり学ぼう!</blockquote>",
-            "url": "http://books.google.com/books?id=_7LyzgEACAAJ&dq=JavaScript&hl=&cd=8&source=gbs_api",
+            "url": "http://books.google.com/books?id=_7LyzgEACAAJ&dq=JavaScript&hl=&cd=7&source=gbs_api",
             "title": "ゼロからわかる TypeScript入門",
             "summary": "Webアプリケーション開発をもっと「安全」に! 「型」を駆使したTypeScriptプログラミングをしっかり学ぼう! TypeScript は、JavaScript にクラスや静的型付けなどの機能を加えた「altJS」の1つですが、近年、Web アプリケーションフレームワークの標準言語としての採用が増加し、Web開発の必修言語として需要が急速に伸びています。本書は、プログラミング初心者や本職プログラマーではない方を対象に、TypeScriptの基本的な文法とプログラミング方法をていねい&しっかり解説しています。また、最終章でWeb API とJSON を利用した非同期Web アプリケーションの作成方法を解説しているので、Web開発で役立つ活用テクニックも短時間ですばやく学習できます。",
             "image": "http://books.google.com/books/content?id=_7LyzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",

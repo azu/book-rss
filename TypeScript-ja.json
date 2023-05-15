@@ -14,7 +14,7 @@
         },
         {
             "content_html": "本書は、バックエンドをサーバレスで実装し、フロントエンドをSPAで実装する方法を解説しています。この本を読めば、サーバレスとSPAで構成されたアプリの開発がスタートできます。 本書の目的は、サーバレスとSPAで構成されたアプリの開発をスタートすることです。サンプルプログラムを用意しているので、これを動かしながら開発の流れを学びます。 ReactやTypeScriptなどを使用していますが、これらの入門的な内容は本書では扱っていません。 【目次】 第1章AWSの準備 第2章アプリをデプロイする 第3章サンプルアプリの動作確認と解説 第4章使用している技術スタック 第5章サンプルアプリのディレクトリー構成 第6章サンプルアプリを改修する 第7章デプロイしたサンプルアプリを削除する<br><blockquote>本書は、バックエンドをサーバレスで実装し、フロントエンドをSPAで実装する方法を解説しています。この本を読めば、サーバレスとSPAで構成されたアプリの開発がスタートでき ...</blockquote>",
-            "url": "http://books.google.com/books?id=6quTEAAAQBAJ&printsec=frontcover&dq=TypeScript&hl=&cd=2&source=gbs_api",
+            "url": "http://books.google.com/books?id=6quTEAAAQBAJ&pg=PA1&dq=TypeScript&hl=&cd=2&source=gbs_api",
             "title": "サーバレスとSPAで実装するWebアプリケーション",
             "summary": "本書は、バックエンドをサーバレスで実装し、フロントエンドをSPAで実装する方法を解説しています。この本を読めば、サーバレスとSPAで構成されたアプリの開発がスタートできます。 本書の目的は、サーバレスとSPAで構成されたアプリの開発をスタートすることです。サンプルプログラムを用意しているので、これを動かしながら開発の流れを学びます。 ReactやTypeScriptなどを使用していますが、これらの入門的な内容は本書では扱っていません。 【目次】 第1章AWSの準備 第2章アプリをデプロイする 第3章サンプルアプリの動作確認と解説 第4章使用している技術スタック 第5章サンプルアプリのディレクトリー構成 第6章サンプルアプリを改修する 第7章デプロイしたサンプルアプリを削除する",
             "image": "http://books.google.com/books/content?id=6quTEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
@@ -37,16 +37,8 @@
             "date_modified": "2022-12-01T00:00:00.000Z"
         },
         {
-            "content_html": "HTMLとCSSがやさしくわかる! 会話形式でやさしくわかりやすいHTML/CSSの入門書です。 キャラクターと一緒に、楽しいイラストやわかりやすい例でサクサクHTMLとCSSを学んでいきます。 HTML/CSSの基本知識や文法から実践的なレイアウトまで。 はじめてHTMLとCSSを学ぶ方が知りたいことが詰まっています。 Webサイトをつくってみたい、管理しなきゃいけないという方は必読の内容です。<br><blockquote>HTMLとCSSがやさしくわかる! 会話形式でやさしくわかりやすいHTML/CSSの入門書です。 キャラクターと一緒に、楽しいイラストやわかりやすい例でサクサクHTMLとCSSを学んでいきます ...</blockquote>",
-            "url": "http://books.google.com/books?id=jig5zwEACAAJ&dq=TypeScript&hl=&cd=5&source=gbs_api",
-            "title": "やさしくわかるHTML&CSSの教室",
-            "summary": "HTMLとCSSがやさしくわかる! 会話形式でやさしくわかりやすいHTML/CSSの入門書です。 キャラクターと一緒に、楽しいイラストやわかりやすい例でサクサクHTMLとCSSを学んでいきます。 HTML/CSSの基本知識や文法から実践的なレイアウトまで。 はじめてHTMLとCSSを学ぶ方が知りたいことが詰まっています。 Webサイトをつくってみたい、管理しなきゃいけないという方は必読の内容です。",
-            "image": "http://books.google.com/books/content?id=jig5zwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-            "date_modified": "2022-08-27T00:00:00.000Z"
-        },
-        {
             "content_html": "TypeScriptをはじめて学ぶ方のための超入門書です。アプリケーションの作成に必要な文法を学び、まったくの未経験者でも実際に動くアプリケーション(「ストップウォッチ」「カレンダー」)の作成を体験できます。<br><blockquote><b>TypeScript</b>とは? JavaScriptの上位互換 <b>TypeScript</b>はMicrosoft社が開発したプログラミング言語で、 JavaScriptを拡張して作られた上位互換です。JavaScriptはブラウザやNode.jsなどの実行環境で動作しますが、<b>TypeScript</b>はそのままでは実行できません。</blockquote>",
-            "url": "http://books.google.com/books?id=e96lEAAAQBAJ&pg=PA18&dq=TypeScript&hl=&cd=6&source=gbs_api",
+            "url": "http://books.google.com/books?id=e96lEAAAQBAJ&pg=PA18&dq=TypeScript&hl=&cd=5&source=gbs_api",
             "title": "図解!TypeScriptのﾂﾎﾞとｺﾂがｾﾞｯﾀｲにわかる本“超”入門編",
             "summary": "TypeScriptをはじめて学ぶ方のための超入門書です。アプリケーションの作成に必要な文法を学び、まったくの未経験者でも実際に動くアプリケーション(「ストップウォッチ」「カレンダー」)の作成を体験できます。",
             "image": "http://books.google.com/books/content?id=e96lEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
@@ -54,7 +46,7 @@
         },
         {
             "content_html": "TypeScriptをはじめて学ぶ方のための超入門書です。アプリケーションの作成に必要な文法を学び、まったくの未経験者でも実際に動くアプリケーション(「ストップウォッチ」「カレンダー」)の作成を体験できます。<br><blockquote>Chapter なぜ<b>TypeScript</b>を学ぶのか? . . . . . . . . . . . . . . 18 .18 .19 . 20 22 .22 02 開発環境を設定しよう 01 開発環境に何が必要? . . . . . . . . . . . VS Code(Visual Studio Code)との連携.</blockquote>",
-            "url": "http://books.google.com/books?id=e96lEAAAQBAJ&pg=PA7&dq=TypeScript&hl=&cd=7&source=gbs_api",
+            "url": "http://books.google.com/books?id=e96lEAAAQBAJ&pg=PA7&dq=TypeScript&hl=&cd=6&source=gbs_api",
             "title": "図解!TypeScriptのﾂﾎﾞとｺﾂがｾﾞｯﾀｲにわかる本“超”入門編",
             "summary": "TypeScriptをはじめて学ぶ方のための超入門書です。アプリケーションの作成に必要な文法を学び、まったくの未経験者でも実際に動くアプリケーション(「ストップウォッチ」「カレンダー」)の作成を体験できます。",
             "image": "http://books.google.com/books/content?id=e96lEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
@@ -62,7 +54,7 @@
         },
         {
             "content_html": "Firebaseの代替として期待されているオープンソースのBaaS(Backend as a Service)\"Supabase\"。Supabaseにより、認証やデータベース、ストレージの機能を簡単にWebアプリに導入できます。本書では、Supabaseでできることを解説するとともに、モダンなフロントエンドフレームワークNext.jsと組み合わせた簡単なWebアプリを実装しながらSupabaseの使い方を一通り学ぶことができます。環境構築からデプロイまで、Webアプリ開発の一連の流れを順を追って学べる一冊です。 【目次】 第1章 Supabaseとは？ 1.1 Supabaseの概要 1.2 Supabaseでできること 第2章 Next.jsの基礎知識 2.1 Next.jsの概要 2.2 Next.jsでHello World! 2.3 Vercelへのデプロイ 第3章 作りながら学ぶSupabase 3.1 作成するもの 3.2 アプリ開発の準備 - TailwindCSSの導入 3.3 アプリ開発の準備 - Supabaseの設定 3.4 ログイン画面の実装 3.5 タイトルページの実装 - DB構築とアクセス制限 3.6 漫画情報取得用APIの実装 3.7 所持状況確認ページの実装 3.8 ユーザープロフィールの実装 3.9 Vercelでの本番環境動作に向けて<br><blockquote>Firebaseの代替として期待されているオープンソースのBaaS(Backend as a Service)&quot;Supabase&quot;。Supabaseにより、認証やデータベース、ストレージの機能を簡単にWebアプリに導入できます。本書 ...</blockquote>",
-            "url": "http://books.google.com/books?id=aqpNEAAAQBAJ&pg=PA16&dq=TypeScript&hl=&cd=8&source=gbs_api",
+            "url": "http://books.google.com/books?id=aqpNEAAAQBAJ&pg=PA16&dq=TypeScript&hl=&cd=7&source=gbs_api",
             "title": "Next.jsではじめるSupabase",
             "summary": "Firebaseの代替として期待されているオープンソースのBaaS(Backend as a Service)\"Supabase\"。Supabaseにより、認証やデータベース、ストレージの機能を簡単にWebアプリに導入できます。本書では、Supabaseでできることを解説するとともに、モダンなフロントエンドフレームワークNext.jsと組み合わせた簡単なWebアプリを実装しながらSupabaseの使い方を一通り学ぶことができます。環境構築からデプロイまで、Webアプリ開発の一連の流れを順を追って学べる一冊です。 【目次】 第1章 Supabaseとは？ 1.1 Supabaseの概要 1.2 Supabaseでできること 第2章 Next.jsの基礎知識 2.1 Next.jsの概要 2.2 Next.jsでHello World! 2.3 Vercelへのデプロイ 第3章 作りながら学ぶSupabase 3.1 作成するもの 3.2 アプリ開発の準備 - TailwindCSSの導入 3.3 アプリ開発の準備 - Supabaseの設定 3.4 ログイン画面の実装 3.5 タイトルページの実装 - DB構築とアクセス制限 3.6 漫画情報取得用APIの実装 3.7 所持状況確認ページの実装 3.8 ユーザープロフィールの実装 3.9 Vercelでの本番環境動作に向けて",
             "image": "http://books.google.com/books/content?id=aqpNEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
@@ -70,7 +62,7 @@
         },
         {
             "content_html": "TypeScriptをはじめて学ぶ方のための超入門書です。アプリケーションの作成に必要な文法を学び、まったくの未経験者でも実際に動くアプリケーション(「ストップウォッチ」「カレンダー」)の作成を体験できます。<br><blockquote>JavaScriptとの互換性 <b>TypeScript</b>はJavaScriptのスーパーセット(上位互換)なので、 JavaScriptの機能を全て備えつつ、<b>TypeScript</b>独自の機能や利点が追加されています。そのため、<b>TypeScript</b>の開発環境でJavaScript のソースコードをそのまま記述して実行&nbsp;...</blockquote>",
-            "url": "http://books.google.com/books?id=e96lEAAAQBAJ&pg=PA23&dq=TypeScript&hl=&cd=9&source=gbs_api",
+            "url": "http://books.google.com/books?id=e96lEAAAQBAJ&pg=PA23&dq=TypeScript&hl=&cd=8&source=gbs_api",
             "title": "図解!TypeScriptのﾂﾎﾞとｺﾂがｾﾞｯﾀｲにわかる本“超”入門編",
             "summary": "TypeScriptをはじめて学ぶ方のための超入門書です。アプリケーションの作成に必要な文法を学び、まったくの未経験者でも実際に動くアプリケーション(「ストップウォッチ」「カレンダー」)の作成を体験できます。",
             "image": "http://books.google.com/books/content?id=e96lEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
@@ -78,11 +70,19 @@
         },
         {
             "content_html": "TypeScriptをはじめて学ぶ方のための超入門書です。アプリケーションの作成に必要な文法を学び、まったくの未経験者でも実際に動くアプリケーション(「ストップウォッチ」「カレンダー」)の作成を体験できます。<br><blockquote><b>TypeScript</b>を使うために必要な環境 <b>TypeScript</b>でプログラムの作成と実行を行うには以下の準備が必要です。 ➀ Node .jsのインストール ➁ <b>TypeScript</b>のインストール ➂ VS Codeのインストールと初期設定 <b>TypeScript</b>のコンパイラは、WindowsのPowerShell&nbsp;...</blockquote>",
-            "url": "http://books.google.com/books?id=e96lEAAAQBAJ&pg=PA26&dq=TypeScript&hl=&cd=10&source=gbs_api",
+            "url": "http://books.google.com/books?id=e96lEAAAQBAJ&pg=PA26&dq=TypeScript&hl=&cd=9&source=gbs_api",
             "title": "図解!TypeScriptのﾂﾎﾞとｺﾂがｾﾞｯﾀｲにわかる本“超”入門編",
             "summary": "TypeScriptをはじめて学ぶ方のための超入門書です。アプリケーションの作成に必要な文法を学び、まったくの未経験者でも実際に動くアプリケーション(「ストップウォッチ」「カレンダー」)の作成を体験できます。",
             "image": "http://books.google.com/books/content?id=e96lEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
             "date_modified": "2022-12-01T00:00:00.000Z"
+        },
+        {
+            "content_html": "HTMLとCSSがやさしくわかる! 会話形式でやさしくわかりやすいHTML/CSSの入門書です。 キャラクターと一緒に、楽しいイラストやわかりやすい例でサクサクHTMLとCSSを学んでいきます。 HTML/CSSの基本知識や文法から実践的なレイアウトまで。 はじめてHTMLとCSSを学ぶ方が知りたいことが詰まっています。 Webサイトをつくってみたい、管理しなきゃいけないという方は必読の内容です。<br><blockquote>HTMLとCSSがやさしくわかる! 会話形式でやさしくわかりやすいHTML/CSSの入門書です。 キャラクターと一緒に、楽しいイラストやわかりやすい例でサクサクHTMLとCSSを学んでいきます ...</blockquote>",
+            "url": "http://books.google.com/books?id=jig5zwEACAAJ&dq=TypeScript&hl=&cd=10&source=gbs_api",
+            "title": "やさしくわかるHTML&CSSの教室",
+            "summary": "HTMLとCSSがやさしくわかる! 会話形式でやさしくわかりやすいHTML/CSSの入門書です。 キャラクターと一緒に、楽しいイラストやわかりやすい例でサクサクHTMLとCSSを学んでいきます。 HTML/CSSの基本知識や文法から実践的なレイアウトまで。 はじめてHTMLとCSSを学ぶ方が知りたいことが詰まっています。 Webサイトをつくってみたい、管理しなきゃいけないという方は必読の内容です。",
+            "image": "http://books.google.com/books/content?id=jig5zwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+            "date_modified": "2022-08-27T00:00:00.000Z"
         }
     ]
 }

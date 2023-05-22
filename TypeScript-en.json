@@ -69,20 +69,20 @@
             "date_modified": "2021-06-16T00:00:00.000Z"
         },
         {
-            "content_html": "This book is a guide to the TypeScript language, from basic concepts to advanced features, and will get you up and running quickly. You'll learn TypeScript programming in depth as you use popular application frameworks and utilize modern design patterns and architectural patterns to build modular, testable and enterprise-ready applications.<br><blockquote>This book is about learning the language, understanding when to apply its features, and selecting the framework that fits your real-world project perfectly.</blockquote>",
-            "url": "http://books.google.com/books?id=O2wrEAAAQBAJ&pg=PP1&dq=TypeScript&hl=&cd=9&source=gbs_api",
-            "title": "Mastering TypeScript",
-            "summary": "This book is a guide to the TypeScript language, from basic concepts to advanced features, and will get you up and running quickly. You'll learn TypeScript programming in depth as you use popular application frameworks and utilize modern design patterns and architectural patterns to build modular, testable and enterprise-ready applications.",
-            "image": "http://books.google.com/books/content?id=O2wrEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-            "date_modified": "2021-04-23T00:00:00.000Z"
-        },
-        {
             "content_html": "Introduction to TypeScript -- Key concepts of TS -- Modules and namespaces -- TS runtime -- TypeScript architecture.<br><blockquote>Introduction to TypeScript -- Key concepts of TS -- Modules and namespaces -- TS runtime -- TypeScript architecture.</blockquote>",
-            "url": "http://books.google.com/books?id=1LSazgEACAAJ&dq=TypeScript&hl=&cd=10&source=gbs_api",
+            "url": "http://books.google.com/books?id=1LSazgEACAAJ&dq=TypeScript&hl=&cd=9&source=gbs_api",
             "title": "TypeScript for Beginners",
             "summary": "Introduction to TypeScript -- Key concepts of TS -- Modules and namespaces -- TS runtime -- TypeScript architecture.",
             "image": "http://books.google.com/books/content?id=1LSazgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
             "date_modified": "2022-01-01T00:00:00.000Z"
+        },
+        {
+            "content_html": "This book is a guide to the TypeScript language, from basic concepts to advanced features, and will get you up and running quickly. You'll learn TypeScript programming in depth as you use popular application frameworks and utilize modern design patterns and architectural patterns to build modular, testable and enterprise-ready applications.<br><blockquote>This book is about learning the language, understanding when to apply its features, and selecting the framework that fits your real-world project perfectly.</blockquote>",
+            "url": "http://books.google.com/books?id=O2wrEAAAQBAJ&pg=PP1&dq=TypeScript&hl=&cd=10&source=gbs_api",
+            "title": "Mastering TypeScript",
+            "summary": "This book is a guide to the TypeScript language, from basic concepts to advanced features, and will get you up and running quickly. You'll learn TypeScript programming in depth as you use popular application frameworks and utilize modern design patterns and architectural patterns to build modular, testable and enterprise-ready applications.",
+            "image": "http://books.google.com/books/content?id=O2wrEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+            "date_modified": "2021-04-23T00:00:00.000Z"
         }
     ]
 }

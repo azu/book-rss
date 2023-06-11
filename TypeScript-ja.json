@@ -77,12 +77,12 @@
             "date_modified": "2022-12-01T00:00:00.000Z"
         },
         {
-            "content_html": "本書は、組込みシステムやOSのような低レイヤーシステムの開発経験がないプログラマーが、自作OSをはじめるため解説書です。C言語を用いることが多い低レイヤーシステム開発について、本書ではRustを使います。RustはC言語と比較して、様々なモダンな機能やツールがそろっているだけでなく、C言語の長所である直接のメモリ制御が可能なため、高パフォーマンスな組込みシステム開発での利用が注目されています。本書はRustそのもの解説も含みますが、低レイヤーシステム開発特有のテクニックを中心に解説します。 【目次】 第1章 環境構築 第2章 ベアメタルでHello World 第3章 割り込み制御 第4章 プロセス切り替え 第5章 スケジューラを実装する 第6章 排他制御・データ共有の実装 第7章 デバイスドライバを実装する 第8章 ヒープ領域を使う 第9章 システムコールをつくる<br><blockquote>本書は、組込みシステムやOSのような低レイヤーシステムの開発経験がないプログラマーが、自作OSをはじめるため解説書です。C言語を用いることが多い低レイヤーシステム開発 ...</blockquote>",
-            "url": "http://books.google.com/books?id=j5pyEAAAQBAJ&pg=PA1&dq=TypeScript&hl=&cd=10&source=gbs_api",
-            "title": "Rustで始める自作組込みOS入門",
-            "summary": "本書は、組込みシステムやOSのような低レイヤーシステムの開発経験がないプログラマーが、自作OSをはじめるため解説書です。C言語を用いることが多い低レイヤーシステム開発について、本書ではRustを使います。RustはC言語と比較して、様々なモダンな機能やツールがそろっているだけでなく、C言語の長所である直接のメモリ制御が可能なため、高パフォーマンスな組込みシステム開発での利用が注目されています。本書はRustそのもの解説も含みますが、低レイヤーシステム開発特有のテクニックを中心に解説します。 【目次】 第1章 環境構築 第2章 ベアメタルでHello World 第3章 割り込み制御 第4章 プロセス切り替え 第5章 スケジューラを実装する 第6章 排他制御・データ共有の実装 第7章 デバイスドライバを実装する 第8章 ヒープ領域を使う 第9章 システムコールをつくる",
-            "image": "http://books.google.com/books/content?id=j5pyEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-            "date_modified": "2022-06-10T00:00:00.000Z"
+            "content_html": "TypeScriptをはじめて学ぶ方のための超入門書です。アプリケーションの作成に必要な文法を学び、まったくの未経験者でも実際に動くアプリケーション(「ストップウォッチ」「カレンダー」)の作成を体験できます。<br><blockquote>そこに型注釈などの拡張機能を追加した言語が<b>TypeScript</b>なので、結果的に<b>TypeScript</b>でもDOMを操作するプログラムが書けるというわけです。また、Windowオブジェクト(203ページ)を最上位オブジェクトとする階層構造をBOM(Browser Object Model)と呼びます&nbsp;...</blockquote>",
+            "url": "http://books.google.com/books?id=e96lEAAAQBAJ&pg=PA276&dq=TypeScript&hl=&cd=10&source=gbs_api",
+            "title": "図解!TypeScriptのﾂﾎﾞとｺﾂがｾﾞｯﾀｲにわかる本“超”入門編",
+            "summary": "TypeScriptをはじめて学ぶ方のための超入門書です。アプリケーションの作成に必要な文法を学び、まったくの未経験者でも実際に動くアプリケーション(「ストップウォッチ」「カレンダー」)の作成を体験できます。",
+            "image": "http://books.google.com/books/content?id=e96lEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+            "date_modified": "2022-12-01T00:00:00.000Z"
         }
     ]
 }

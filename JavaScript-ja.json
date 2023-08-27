@@ -5,18 +5,18 @@
     "description": "JavaScript(ja) on Google Book",
     "items": [
         {
-            "content_html": "",
-            "url": "http://books.google.com/books?id=nv4M0AEACAAJ&dq=JavaScript&hl=&cd=1&source=gbs_api",
-            "title": "はじめての “文字で打ちこむ” プログラミングの本 ——スクラッチのブロックとくらべて学べるJavaScriptの基本",
-            "date_modified": "2023-08-25T00:00:00.000Z"
-        },
-        {
             "content_html": "※この商品はタブレットなど大きいディスプレイを備えた端末で読むことに適しています。また、文字だけを拡大することや、文字列のハイライト、検索、辞書の参照、引用などの機能が使用できません。 本書はWebアプリ作成の初心者向けに、HTML＋JavaScriptを使って簡単なサンプルアプリを作りながら、Android／iPhoneの両方に対応したWebアプリを作成できる入門書です。全9章を順番に読み進めることで、HTMLアプリの基礎知識、アプリ作成に必要な準備、コードの書き方などを理解できます。章ごとに短いトピックで区切られているので、少しずつ自分のペースで学ぶことができます。コードエディターとして無償配布されている「Visual Studio Code」を使用するため、エディターの使い方の基礎も学べます。 本書は2019年発行の『作って楽しむプログラミング HTML5超入門』を、最新のHTML Living Standardに準拠して改訂したものです。アクセシビリティ対応などの“いまどき”の内容についても加筆しています。 ●本書の特長 ・手順どおりに進めるだけで、アプリが完成します ・アプリに使う画像や完成例のコードをダウンロードできます ・自分が書いたコードを完成例と比べながら学習できます<br><blockquote>※この商品はタブレットなど大きいディスプレイを備えた端末で読むことに適しています。また、文字だけを拡大することや、文字列のハイライト、検索、辞書の参照、引用など ...</blockquote>",
-            "url": "http://books.google.com/books?id=Rs7JEAAAQBAJ&dq=JavaScript&hl=&cd=2&source=gbs_api",
+            "url": "http://books.google.com/books?id=Rs7JEAAAQBAJ&dq=JavaScript&hl=&cd=1&source=gbs_api",
             "title": "作って学べるHTML＋JavaScriptの基本 ～ HTML Living Standard対応",
             "summary": "※この商品はタブレットなど大きいディスプレイを備えた端末で読むことに適しています。また、文字だけを拡大することや、文字列のハイライト、検索、辞書の参照、引用などの機能が使用できません。 本書はWebアプリ作成の初心者向けに、HTML＋JavaScriptを使って簡単なサンプルアプリを作りながら、Android／iPhoneの両方に対応したWebアプリを作成できる入門書です。全9章を順番に読み進めることで、HTMLアプリの基礎知識、アプリ作成に必要な準備、コードの書き方などを理解できます。章ごとに短いトピックで区切られているので、少しずつ自分のペースで学ぶことができます。コードエディターとして無償配布されている「Visual Studio Code」を使用するため、エディターの使い方の基礎も学べます。 本書は2019年発行の『作って楽しむプログラミング HTML5超入門』を、最新のHTML Living Standardに準拠して改訂したものです。アクセシビリティ対応などの“いまどき”の内容についても加筆しています。 ●本書の特長 ・手順どおりに進めるだけで、アプリが完成します ・アプリに使う画像や完成例のコードをダウンロードできます ・自分が書いたコードを完成例と比べながら学習できます",
             "image": "http://books.google.com/books/content?id=Rs7JEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
             "date_modified": "2023-07-07T00:00:00.000Z"
+        },
+        {
+            "content_html": "",
+            "url": "http://books.google.com/books?id=nv4M0AEACAAJ&dq=JavaScript&hl=&cd=2&source=gbs_api",
+            "title": "はじめての “文字で打ちこむ” プログラミングの本 ——スクラッチのブロックとくらべて学べるJavaScriptの基本",
+            "date_modified": "2023-08-25T00:00:00.000Z"
         },
         {
             "content_html": "※この商品はタブレットなど大きいディスプレイを備えた端末で読むことに適しています。また、文字だけを拡大することや、文字列のハイライト、検索、辞書の参照、引用などの機能が使用できません。 2020/7刊「Node.js超入門 第3版」の改訂版。対象読者はJavaScriptの入門書を読み終え、かつNode.js経験のない人。既存の入門書などで挫折した人もついていけるよう手取り足取り教える内容。<br><blockquote>※この商品はタブレットなど大きいディスプレイを備えた端末で読むことに適しています。また、文字だけを拡大することや、文字列のハイライト、検索、辞書の参照、引用など ...</blockquote>",

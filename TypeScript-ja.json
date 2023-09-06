@@ -13,8 +13,16 @@
             "date_modified": "2023-02-17T00:00:00.000Z"
         },
         {
+            "content_html": "本書はFirebaseを使ったウェブアプリケーションをTestableな形で開発していくための技術解説書です。 フレームワークとしてはVite/Reactを利用し、テストフレームワークとしてはVitest/Cypress、Firebaseもウェブアプリケーションとしては一般的なFirebase Authentication、Firestore、Firebase Functions、Firebase Storageを対象としています。 冒頭で開発する流れを説明した上で、サンプルコードを使ってなるべく具体的な例でテストを書きながら開発が進めていけるような形でまとめていますので、ご自身のユースケースのところだけを読んでいただいても理解できるようになっています。 【目次】 第1章 環境構築 第2章 モデリング 第3章 認証機能 第4章 チャット（メッセージ表示） 第5章 チャット（メッセージ一覧） 第6章 チャット（入力フォーム） 第7章 チャット（画像添付） 第8章 プッシュ通知 第9章 E2Eテスト<br><blockquote>本書はFirebaseを使ったウェブアプリケーションをTestableな形で開発していくための技術解説書です。 ...</blockquote>",
+            "url": "http://books.google.com/books?id=z2ycEAAAQBAJ&printsec=frontcover&dq=TypeScript&hl=&cd=2&source=gbs_api",
+            "title": "Testable Firebase",
+            "summary": "本書はFirebaseを使ったウェブアプリケーションをTestableな形で開発していくための技術解説書です。 フレームワークとしてはVite/Reactを利用し、テストフレームワークとしてはVitest/Cypress、Firebaseもウェブアプリケーションとしては一般的なFirebase Authentication、Firestore、Firebase Functions、Firebase Storageを対象としています。 冒頭で開発する流れを説明した上で、サンプルコードを使ってなるべく具体的な例でテストを書きながら開発が進めていけるような形でまとめていますので、ご自身のユースケースのところだけを読んでいただいても理解できるようになっています。 【目次】 第1章 環境構築 第2章 モデリング 第3章 認証機能 第4章 チャット（メッセージ表示） 第5章 チャット（メッセージ一覧） 第6章 チャット（入力フォーム） 第7章 チャット（画像添付） 第8章 プッシュ通知 第9章 E2Eテスト",
+            "image": "http://books.google.com/books/content?id=z2ycEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+            "date_modified": "2022-11-25T00:00:00.000Z"
+        },
+        {
             "content_html": "TypeScriptをはじめて学ぶ方のための超入門書です。アプリケーションの作成に必要な文法を学び、まったくの未経験者でも実際に動くアプリケーション(「ストップウォッチ」「カレンダー」)の作成を体験できます。<br><blockquote><b>TypeScript</b>を学ぶメリットなぜ<b>TypeScript</b>を学ぶのか? <b>TypeScript</b>を学ぶと、開発効率やプログラム品質の向上に役立ちます。以下の理由から、最新のJavaScript仕様の習熟にも役立ちます。最新の構文が使える JavaScriptはウェブアプリケーション開発の主要&nbsp;...</blockquote>",
-            "url": "http://books.google.com/books?id=e96lEAAAQBAJ&pg=PA22&dq=TypeScript&hl=&cd=2&source=gbs_api",
+            "url": "http://books.google.com/books?id=e96lEAAAQBAJ&pg=PA22&dq=TypeScript&hl=&cd=3&source=gbs_api",
             "title": "図解!TypeScriptのﾂﾎﾞとｺﾂがｾﾞｯﾀｲにわかる本“超”入門編",
             "summary": "TypeScriptをはじめて学ぶ方のための超入門書です。アプリケーションの作成に必要な文法を学び、まったくの未経験者でも実際に動くアプリケーション(「ストップウォッチ」「カレンダー」)の作成を体験できます。",
             "image": "http://books.google.com/books/content?id=e96lEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
@@ -22,7 +30,7 @@
         },
         {
             "content_html": "TypeScriptをはじめて学ぶ方のための超入門書です。アプリケーションの作成に必要な文法を学び、まったくの未経験者でも実際に動くアプリケーション(「ストップウォッチ」「カレンダー」)の作成を体験できます。<br><blockquote><b>TypeScript</b>とは? JavaScriptの上位互換 <b>TypeScript</b>はMicrosoft社が開発したプログラミング言語で、 JavaScriptを拡張して作られた上位互換です。JavaScriptはブラウザやNode.jsなどの実行環境で動作しますが、<b>TypeScript</b>はそのままでは実行できません。</blockquote>",
-            "url": "http://books.google.com/books?id=e96lEAAAQBAJ&pg=PA18&dq=TypeScript&hl=&cd=3&source=gbs_api",
+            "url": "http://books.google.com/books?id=e96lEAAAQBAJ&pg=PA18&dq=TypeScript&hl=&cd=4&source=gbs_api",
             "title": "図解!TypeScriptのﾂﾎﾞとｺﾂがｾﾞｯﾀｲにわかる本“超”入門編",
             "summary": "TypeScriptをはじめて学ぶ方のための超入門書です。アプリケーションの作成に必要な文法を学び、まったくの未経験者でも実際に動くアプリケーション(「ストップウォッチ」「カレンダー」)の作成を体験できます。",
             "image": "http://books.google.com/books/content?id=e96lEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
@@ -30,7 +38,7 @@
         },
         {
             "content_html": "TypeScriptをはじめて学ぶ方のための超入門書です。アプリケーションの作成に必要な文法を学び、まったくの未経験者でも実際に動くアプリケーション(「ストップウォッチ」「カレンダー」)の作成を体験できます。<br><blockquote>Chapter なぜ<b>TypeScript</b>を学ぶのか? . . . . . . . . . . . . . . 18 .18 .19 . 20 22 .22 02 開発環境を設定しよう 01 開発環境に何が必要? . . . . . . . . . . . VS Code(Visual Studio Code)との連携.</blockquote>",
-            "url": "http://books.google.com/books?id=e96lEAAAQBAJ&pg=PA7&dq=TypeScript&hl=&cd=4&source=gbs_api",
+            "url": "http://books.google.com/books?id=e96lEAAAQBAJ&pg=PA7&dq=TypeScript&hl=&cd=5&source=gbs_api",
             "title": "図解!TypeScriptのﾂﾎﾞとｺﾂがｾﾞｯﾀｲにわかる本“超”入門編",
             "summary": "TypeScriptをはじめて学ぶ方のための超入門書です。アプリケーションの作成に必要な文法を学び、まったくの未経験者でも実際に動くアプリケーション(「ストップウォッチ」「カレンダー」)の作成を体験できます。",
             "image": "http://books.google.com/books/content?id=e96lEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
@@ -38,7 +46,7 @@
         },
         {
             "content_html": "TypeScriptをはじめて学ぶ方のための超入門書です。アプリケーションの作成に必要な文法を学び、まったくの未経験者でも実際に動くアプリケーション(「ストップウォッチ」「カレンダー」)の作成を体験できます。<br><blockquote><b>TypeScript</b>を使うために必要な環境 <b>TypeScript</b>でプログラムの作成と実行を行うには以下の準備が必要です。 ➀ Node .jsのインストール ➁ <b>TypeScript</b>のインストール ➂ VS Codeのインストールと初期設定 <b>TypeScript</b>のコンパイラは、WindowsのPowerShell&nbsp;...</blockquote>",
-            "url": "http://books.google.com/books?id=e96lEAAAQBAJ&pg=PA26&dq=TypeScript&hl=&cd=5&source=gbs_api",
+            "url": "http://books.google.com/books?id=e96lEAAAQBAJ&pg=PA26&dq=TypeScript&hl=&cd=6&source=gbs_api",
             "title": "図解!TypeScriptのﾂﾎﾞとｺﾂがｾﾞｯﾀｲにわかる本“超”入門編",
             "summary": "TypeScriptをはじめて学ぶ方のための超入門書です。アプリケーションの作成に必要な文法を学び、まったくの未経験者でも実際に動くアプリケーション(「ストップウォッチ」「カレンダー」)の作成を体験できます。",
             "image": "http://books.google.com/books/content?id=e96lEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
@@ -46,7 +54,7 @@
         },
         {
             "content_html": "TypeScriptをはじめて学ぶ方のための超入門書です。アプリケーションの作成に必要な文法を学び、まったくの未経験者でも実際に動くアプリケーション(「ストップウォッチ」「カレンダー」)の作成を体験できます。<br><blockquote>JavaScriptとの互換性 <b>TypeScript</b>はJavaScriptのスーパーセット(上位互換)なので、 JavaScriptの機能を全て備えつつ、<b>TypeScript</b>独自の機能や利点が追加されています。そのため、<b>TypeScript</b>の開発環境でJavaScript のソースコードをそのまま記述して実行&nbsp;...</blockquote>",
-            "url": "http://books.google.com/books?id=e96lEAAAQBAJ&pg=PA23&dq=TypeScript&hl=&cd=6&source=gbs_api",
+            "url": "http://books.google.com/books?id=e96lEAAAQBAJ&pg=PA23&dq=TypeScript&hl=&cd=7&source=gbs_api",
             "title": "図解!TypeScriptのﾂﾎﾞとｺﾂがｾﾞｯﾀｲにわかる本“超”入門編",
             "summary": "TypeScriptをはじめて学ぶ方のための超入門書です。アプリケーションの作成に必要な文法を学び、まったくの未経験者でも実際に動くアプリケーション(「ストップウォッチ」「カレンダー」)の作成を体験できます。",
             "image": "http://books.google.com/books/content?id=e96lEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
@@ -54,7 +62,7 @@
         },
         {
             "content_html": "TypeScriptをはじめて学ぶ方のための超入門書です。アプリケーションの作成に必要な文法を学び、まったくの未経験者でも実際に動くアプリケーション(「ストップウォッチ」「カレンダー」)の作成を体験できます。<br><blockquote>Chapter 01 <b>TypeScript</b>とは? <b>TypeScript</b>とは? JavaScriptの上位互換 <b>TypeScript</b>はMicrosoft社が開発したプログラミング言語で、 JavaScriptを拡張して作られた上位互換です。JavaScriptはブラウザやNode.jsなどの実行環境で動作しますが、<b>TypeScript</b>は&nbsp;...</blockquote>",
-            "url": "http://books.google.com/books?id=e96lEAAAQBAJ&pg=PA17&dq=TypeScript&hl=&cd=7&source=gbs_api",
+            "url": "http://books.google.com/books?id=e96lEAAAQBAJ&pg=PA17&dq=TypeScript&hl=&cd=8&source=gbs_api",
             "title": "図解!TypeScriptのﾂﾎﾞとｺﾂがｾﾞｯﾀｲにわかる本“超”入門編",
             "summary": "TypeScriptをはじめて学ぶ方のための超入門書です。アプリケーションの作成に必要な文法を学び、まったくの未経験者でも実際に動くアプリケーション(「ストップウォッチ」「カレンダー」)の作成を体験できます。",
             "image": "http://books.google.com/books/content?id=e96lEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
@@ -62,7 +70,7 @@
         },
         {
             "content_html": "TypeScriptをはじめて学ぶ方のための超入門書です。アプリケーションの作成に必要な文法を学び、まったくの未経験者でも実際に動くアプリケーション(「ストップウォッチ」「カレンダー」)の作成を体験できます。<br><blockquote><b>TypeScript</b>のインストール <b>TypeScript</b>のインストールターミナルから次のnpmコマンドを実行すると、<b>TypeScript</b>のコンパイラがインストールされます。書式 npm install -g <b>typescript</b> 次のコマンドを実行して、「4.7.4」のように<b>TypeScript</b>のバージョンが&nbsp;...</blockquote>",
-            "url": "http://books.google.com/books?id=e96lEAAAQBAJ&pg=PA34&dq=TypeScript&hl=&cd=8&source=gbs_api",
+            "url": "http://books.google.com/books?id=e96lEAAAQBAJ&pg=PA34&dq=TypeScript&hl=&cd=9&source=gbs_api",
             "title": "図解!TypeScriptのﾂﾎﾞとｺﾂがｾﾞｯﾀｲにわかる本“超”入門編",
             "summary": "TypeScriptをはじめて学ぶ方のための超入門書です。アプリケーションの作成に必要な文法を学び、まったくの未経験者でも実際に動くアプリケーション(「ストップウォッチ」「カレンダー」)の作成を体験できます。",
             "image": "http://books.google.com/books/content?id=e96lEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
@@ -70,15 +78,7 @@
         },
         {
             "content_html": "TypeScriptをはじめて学ぶ方のための超入門書です。アプリケーションの作成に必要な文法を学び、まったくの未経験者でも実際に動くアプリケーション(「ストップウォッチ」「カレンダー」)の作成を体験できます。<br><blockquote>そこに型注釈などの拡張機能を追加した言語が<b>TypeScript</b>なので、結果的に<b>TypeScript</b>でもDOMを操作するプログラムが書けるというわけです。また、Windowオブジェクト(203ページ)を最上位オブジェクトとする階層構造をBOM(Browser Object Model)と呼びます&nbsp;...</blockquote>",
-            "url": "http://books.google.com/books?id=e96lEAAAQBAJ&pg=PA276&dq=TypeScript&hl=&cd=9&source=gbs_api",
-            "title": "図解!TypeScriptのﾂﾎﾞとｺﾂがｾﾞｯﾀｲにわかる本“超”入門編",
-            "summary": "TypeScriptをはじめて学ぶ方のための超入門書です。アプリケーションの作成に必要な文法を学び、まったくの未経験者でも実際に動くアプリケーション(「ストップウォッチ」「カレンダー」)の作成を体験できます。",
-            "image": "http://books.google.com/books/content?id=e96lEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-            "date_modified": "2022-12-01T00:00:00.000Z"
-        },
-        {
-            "content_html": "TypeScriptをはじめて学ぶ方のための超入門書です。アプリケーションの作成に必要な文法を学び、まったくの未経験者でも実際に動くアプリケーション(「ストップウォッチ」「カレンダー」)の作成を体験できます。<br><blockquote>04 <b>TypeScript</b>のインストール . . . <b>TypeScript</b>のインストール. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .34 . 34 エラーが出る場合の対処. . . . . . . . . . . . . . . . .35 <b>TypeScript</b>のコンパイル.</blockquote>",
-            "url": "http://books.google.com/books?id=e96lEAAAQBAJ&pg=PA8&dq=TypeScript&hl=&cd=10&source=gbs_api",
+            "url": "http://books.google.com/books?id=e96lEAAAQBAJ&pg=PA276&dq=TypeScript&hl=&cd=10&source=gbs_api",
             "title": "図解!TypeScriptのﾂﾎﾞとｺﾂがｾﾞｯﾀｲにわかる本“超”入門編",
             "summary": "TypeScriptをはじめて学ぶ方のための超入門書です。アプリケーションの作成に必要な文法を学び、まったくの未経験者でも実際に動くアプリケーション(「ストップウォッチ」「カレンダー」)の作成を体験できます。",
             "image": "http://books.google.com/books/content?id=e96lEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",

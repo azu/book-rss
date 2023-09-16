@@ -30,11 +30,19 @@
         },
         {
             "content_html": "「Svelte(スベルト)」は、ユーザーインターフェイスを構築するためのJavaScriptフレームワークのひとつです。Svelteには、ユーザインターフェイスで重要な役割を担う「状態管理」を特別な記法や関数を使うことなく記述できる、作成したコンポーネントをランタイムなしで実行可能な形に変換する(コンパイル)といった特徴があります。本書では、近年注目を集めているSvelteの基本について解説するとともに、SvelteをベースとしたWebフレームワーク「SvelteKit」によるWebアプリケーション開発についてもしっかり解説します。<br><blockquote>「Svelte(スベルト)」は、ユーザーインターフェイスを構築するためのJavaScriptフレームワークのひとつです。Svelteには、ユーザインターフェイスで重要な役割を担う「状態管理」を ...</blockquote>",
-            "url": "http://books.google.com/books?id=sze6zwEACAAJ&dq=JavaScript&hl=&cd=9&source=gbs_api",
+            "url": "http://books.google.com/books?id=sze6zwEACAAJ&dq=JavaScript&hl=&cd=8&source=gbs_api",
             "title": "実践 Svelte入門",
             "summary": "「Svelte(スベルト)」は、ユーザーインターフェイスを構築するためのJavaScriptフレームワークのひとつです。Svelteには、ユーザインターフェイスで重要な役割を担う「状態管理」を特別な記法や関数を使うことなく記述できる、作成したコンポーネントをランタイムなしで実行可能な形に変換する(コンパイル)といった特徴があります。本書では、近年注目を集めているSvelteの基本について解説するとともに、SvelteをベースとしたWebフレームワーク「SvelteKit」によるWebアプリケーション開発についてもしっかり解説します。",
             "image": "http://books.google.com/books/content?id=sze6zwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
             "date_modified": "2023-04-01T00:00:00.000Z"
+        },
+        {
+            "content_html": "本書は、『Node.js』の導入からWebスクレイピングの実施までの流れを、サンプルコードを中心に学ぶ解説書です。『Node.js』の開発環境の構築、「node」や「npm」コマンドの利用方法やJavaScriptの駆け足での基礎知識をはじめとして、「node-fetch」「jsdom」を利用したファイルのダウンロードやHTMLのパース。「Puppeteer」を利用したWebブラウザの操作や情報の取得などについて詳しく紹介しています。 【目次】 第1章 前提知識と開発環境の構築 第2章 nodeコマンドとnpmコマンド 第3章 プロジェクトの作成と実行 第4章 JavaScript速習1 基本 第5章 JavaScript速習2 配列やオブジェクト 第6章 JavaScript速習3 関数、制御構文他 第7章 JavaScript速習4 非同期処理とPromise 第8章 コア モジュールとnpmモジュール 第9章 シンプルなアプリケーションの作成 第10章 fsモジュールとpathモジュール 第11章 自作モジュール 第12章 ダウンロードとパース 第13章 Puppeteerを利用したスクレイピング 第14章 Puppeteerを利用したフォーム操作 第15章 サンプル用ローカル サーバー 第16章 Puppeteerを利用した画像とPDFのダウンロード<br><blockquote>本書は、『Node.js』の導入からWebスクレイピングの実施までの流れを、サンプルコードを中心に学ぶ解説書です。『Node ...</blockquote>",
+            "url": "http://books.google.com/books?id=Yn1vEAAAQBAJ&printsec=frontcover&dq=JavaScript&hl=&cd=10&source=gbs_api",
+            "title": "サンプルコードで学ぶ Node.js Webスクレイピング",
+            "summary": "本書は、『Node.js』の導入からWebスクレイピングの実施までの流れを、サンプルコードを中心に学ぶ解説書です。『Node.js』の開発環境の構築、「node」や「npm」コマンドの利用方法やJavaScriptの駆け足での基礎知識をはじめとして、「node-fetch」「jsdom」を利用したファイルのダウンロードやHTMLのパース。「Puppeteer」を利用したWebブラウザの操作や情報の取得などについて詳しく紹介しています。 【目次】 第1章 前提知識と開発環境の構築 第2章 nodeコマンドとnpmコマンド 第3章 プロジェクトの作成と実行 第4章 JavaScript速習1 基本 第5章 JavaScript速習2 配列やオブジェクト 第6章 JavaScript速習3 関数、制御構文他 第7章 JavaScript速習4 非同期処理とPromise 第8章 コア モジュールとnpmモジュール 第9章 シンプルなアプリケーションの作成 第10章 fsモジュールとpathモジュール 第11章 自作モジュール 第12章 ダウンロードとパース 第13章 Puppeteerを利用したスクレイピング 第14章 Puppeteerを利用したフォーム操作 第15章 サンプル用ローカル サーバー 第16章 Puppeteerを利用した画像とPDFのダウンロード",
+            "image": "http://books.google.com/books/content?id=Yn1vEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+            "date_modified": "2022-05-20T00:00:00.000Z"
         }
     ]
 }

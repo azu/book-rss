@@ -29,12 +29,12 @@
             "date_modified": "2023-02-13T00:00:00.000Z"
         },
         {
-            "content_html": "本書は、『Node.js』の導入からWebスクレイピングの実施までの流れを、サンプルコードを中心に学ぶ解説書です。『Node.js』の開発環境の構築、「node」や「npm」コマンドの利用方法やJavaScriptの駆け足での基礎知識をはじめとして、「node-fetch」「jsdom」を利用したファイルのダウンロードやHTMLのパース。「Puppeteer」を利用したWebブラウザの操作や情報の取得などについて詳しく紹介しています。 【目次】 第1章 前提知識と開発環境の構築 第2章 nodeコマンドとnpmコマンド 第3章 プロジェクトの作成と実行 第4章 JavaScript速習1 基本 第5章 JavaScript速習2 配列やオブジェクト 第6章 JavaScript速習3 関数、制御構文他 第7章 JavaScript速習4 非同期処理とPromise 第8章 コア モジュールとnpmモジュール 第9章 シンプルなアプリケーションの作成 第10章 fsモジュールとpathモジュール 第11章 自作モジュール 第12章 ダウンロードとパース 第13章 Puppeteerを利用したスクレイピング 第14章 Puppeteerを利用したフォーム操作 第15章 サンプル用ローカル サーバー 第16章 Puppeteerを利用した画像とPDFのダウンロード<br><blockquote>本書は、『Node.js』の導入からWebスクレイピングの実施までの流れを、サンプルコードを中心に学ぶ解説書です。『Node ...</blockquote>",
-            "url": "http://books.google.com/books?id=Yn1vEAAAQBAJ&printsec=frontcover&dq=JavaScript&hl=&cd=9&source=gbs_api",
-            "title": "サンプルコードで学ぶ Node.js Webスクレイピング",
-            "summary": "本書は、『Node.js』の導入からWebスクレイピングの実施までの流れを、サンプルコードを中心に学ぶ解説書です。『Node.js』の開発環境の構築、「node」や「npm」コマンドの利用方法やJavaScriptの駆け足での基礎知識をはじめとして、「node-fetch」「jsdom」を利用したファイルのダウンロードやHTMLのパース。「Puppeteer」を利用したWebブラウザの操作や情報の取得などについて詳しく紹介しています。 【目次】 第1章 前提知識と開発環境の構築 第2章 nodeコマンドとnpmコマンド 第3章 プロジェクトの作成と実行 第4章 JavaScript速習1 基本 第5章 JavaScript速習2 配列やオブジェクト 第6章 JavaScript速習3 関数、制御構文他 第7章 JavaScript速習4 非同期処理とPromise 第8章 コア モジュールとnpmモジュール 第9章 シンプルなアプリケーションの作成 第10章 fsモジュールとpathモジュール 第11章 自作モジュール 第12章 ダウンロードとパース 第13章 Puppeteerを利用したスクレイピング 第14章 Puppeteerを利用したフォーム操作 第15章 サンプル用ローカル サーバー 第16章 Puppeteerを利用した画像とPDFのダウンロード",
-            "image": "http://books.google.com/books/content?id=Yn1vEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-            "date_modified": "2022-05-20T00:00:00.000Z"
+            "content_html": "多様化・複雑化したWebサイト要件に 応える最新技術が一目でわかる！ React、Vue.js、Angular、Next.js… JavaScript フレームワーク・ライブラリ・API Web構築最前線 Webのフロントエンド開発には多様なフレームワーク、ライブラリ、APIなどが存在し、 開発手法もさまざま生まれ進化しています。 最近では「React」が話題となっていますが、クライアントの要求するWeb要件を鑑みると、 「いずれは使わないといけなくなる」と思っているWeb担当者・制作関係者は少なくないのではないでしょうか？ そこで、社会背景をベースにこれから求められるサイトの役割・機能などを紐解き、 現在主流のWeb技術を俯瞰しながら、 これから注目すべき＆導入すべきWeb技術とは何か、自社に必要な技術とは？を追究します。 ● 制作者・制作会社は今こそ！React、Vue.jsに舵を切れ ● モダンフロントエンド開発技術の使い分けと現場の実情 ● JavaScriptフレームワークの効率的な学び方 ●フロントエンド開発に必要なディレクターの基礎知識 など<br><blockquote>多様化・複雑化したWebサイト要件に 応える最新技術が一目でわかる！ React、Vue.js、Angular、Next.js… JavaScript フレームワーク・ライブラリ・API Web構築最前線 ...</blockquote>",
+            "url": "http://books.google.com/books?id=PGiVEAAAQBAJ&printsec=frontcover&dq=JavaScript&hl=&cd=7&source=gbs_api",
+            "title": "Web Designing 2022年12月号",
+            "summary": "多様化・複雑化したWebサイト要件に 応える最新技術が一目でわかる！ React、Vue.js、Angular、Next.js… JavaScript フレームワーク・ライブラリ・API Web構築最前線 Webのフロントエンド開発には多様なフレームワーク、ライブラリ、APIなどが存在し、 開発手法もさまざま生まれ進化しています。 最近では「React」が話題となっていますが、クライアントの要求するWeb要件を鑑みると、 「いずれは使わないといけなくなる」と思っているWeb担当者・制作関係者は少なくないのではないでしょうか？ そこで、社会背景をベースにこれから求められるサイトの役割・機能などを紐解き、 現在主流のWeb技術を俯瞰しながら、 これから注目すべき＆導入すべきWeb技術とは何か、自社に必要な技術とは？を追究します。 ● 制作者・制作会社は今こそ！React、Vue.jsに舵を切れ ● モダンフロントエンド開発技術の使い分けと現場の実情 ● JavaScriptフレームワークの効率的な学び方 ●フロントエンド開発に必要なディレクターの基礎知識 など",
+            "image": "http://books.google.com/books/content?id=PGiVEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+            "date_modified": "2022-10-18T00:00:00.000Z"
         }
     ]
 }

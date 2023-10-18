@@ -30,11 +30,19 @@
         },
         {
             "content_html": "多様化・複雑化したWebサイト要件に 応える最新技術が一目でわかる！ React、Vue.js、Angular、Next.js… JavaScript フレームワーク・ライブラリ・API Web構築最前線 Webのフロントエンド開発には多様なフレームワーク、ライブラリ、APIなどが存在し、 開発手法もさまざま生まれ進化しています。 最近では「React」が話題となっていますが、クライアントの要求するWeb要件を鑑みると、 「いずれは使わないといけなくなる」と思っているWeb担当者・制作関係者は少なくないのではないでしょうか？ そこで、社会背景をベースにこれから求められるサイトの役割・機能などを紐解き、 現在主流のWeb技術を俯瞰しながら、 これから注目すべき＆導入すべきWeb技術とは何か、自社に必要な技術とは？を追究します。 ● 制作者・制作会社は今こそ！React、Vue.jsに舵を切れ ● モダンフロントエンド開発技術の使い分けと現場の実情 ● JavaScriptフレームワークの効率的な学び方 ●フロントエンド開発に必要なディレクターの基礎知識 など<br><blockquote>多様化・複雑化したWebサイト要件に 応える最新技術が一目でわかる！ React、Vue.js、Angular、Next.js… JavaScript フレームワーク・ライブラリ・API Web構築最前線 ...</blockquote>",
-            "url": "http://books.google.com/books?id=PGiVEAAAQBAJ&printsec=frontcover&dq=JavaScript&hl=&cd=7&source=gbs_api",
+            "url": "http://books.google.com/books?id=PGiVEAAAQBAJ&printsec=frontcover&dq=JavaScript&hl=&cd=8&source=gbs_api",
             "title": "Web Designing 2022年12月号",
             "summary": "多様化・複雑化したWebサイト要件に 応える最新技術が一目でわかる！ React、Vue.js、Angular、Next.js… JavaScript フレームワーク・ライブラリ・API Web構築最前線 Webのフロントエンド開発には多様なフレームワーク、ライブラリ、APIなどが存在し、 開発手法もさまざま生まれ進化しています。 最近では「React」が話題となっていますが、クライアントの要求するWeb要件を鑑みると、 「いずれは使わないといけなくなる」と思っているWeb担当者・制作関係者は少なくないのではないでしょうか？ そこで、社会背景をベースにこれから求められるサイトの役割・機能などを紐解き、 現在主流のWeb技術を俯瞰しながら、 これから注目すべき＆導入すべきWeb技術とは何か、自社に必要な技術とは？を追究します。 ● 制作者・制作会社は今こそ！React、Vue.jsに舵を切れ ● モダンフロントエンド開発技術の使い分けと現場の実情 ● JavaScriptフレームワークの効率的な学び方 ●フロントエンド開発に必要なディレクターの基礎知識 など",
             "image": "http://books.google.com/books/content?id=PGiVEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
             "date_modified": "2022-10-18T00:00:00.000Z"
+        },
+        {
+            "content_html": "「Svelte(スベルト)」は、ユーザーインターフェイスを構築するためのJavaScriptフレームワークのひとつです。Svelteには、ユーザインターフェイスで重要な役割を担う「状態管理」を特別な記法や関数を使うことなく記述できる、作成したコンポーネントをランタイムなしで実行可能な形に変換する(コンパイル)といった特徴があります。本書では、近年注目を集めているSvelteの基本について解説するとともに、SvelteをベースとしたWebフレームワーク「SvelteKit」によるWebアプリケーション開発についてもしっかり解説します。<br><blockquote>「Svelte(スベルト)」は、ユーザーインターフェイスを構築するためのJavaScriptフレームワークのひとつです。Svelteには、ユーザインターフェイスで重要な役割を担う「状態管理」を ...</blockquote>",
+            "url": "http://books.google.com/books?id=sze6zwEACAAJ&dq=JavaScript&hl=&cd=10&source=gbs_api",
+            "title": "実践 Svelte入門",
+            "summary": "「Svelte(スベルト)」は、ユーザーインターフェイスを構築するためのJavaScriptフレームワークのひとつです。Svelteには、ユーザインターフェイスで重要な役割を担う「状態管理」を特別な記法や関数を使うことなく記述できる、作成したコンポーネントをランタイムなしで実行可能な形に変換する(コンパイル)といった特徴があります。本書では、近年注目を集めているSvelteの基本について解説するとともに、SvelteをベースとしたWebフレームワーク「SvelteKit」によるWebアプリケーション開発についてもしっかり解説します。",
+            "image": "http://books.google.com/books/content?id=sze6zwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+            "date_modified": "2023-04-01T00:00:00.000Z"
         }
     ]
 }

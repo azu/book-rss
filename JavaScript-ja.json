@@ -22,7 +22,7 @@
         },
         {
             "content_html": "ここから始める！ イマドキのWebページ作り 「Webページを作ってみたい」 「HTML/CSSの仕組みを知りたい」 「プログラミングを始めてみたい」 そんな皆さんに向けて、一番やさしい入門書が登場しました！ ★HTML/CSSの基礎がしっかり身につく！★ 本書では、Webコンテンツ作りに必要なHTML/CSSの考え方や概念を、見開き単位で一つ一つゆっくり学習できます。 「他のHTML/CSS解説書を読んでみたけれど難しくて……」といった方にもオススメです。 最新のHTML Living Standardに対応した本書を読めば、「イマドキ必要な基礎知識」を身につけられるはずです。 ★フルカラーイラストでわかりやすい！★ 絵本シリーズおなじみの豊富なイラストが、フルカラーになってさらにパワーアップ！ 頭ではイメージしにくい考え方や概念を、カラフルなイラストたちがわかりやすく伝えてくれます。 さあ、HTML/CSSの扉を開いて、Webの世界に足を踏み入れてみましょう！ ◆◆◆目次◆◆◆ ・第0章 HTMLとCSSの勉強をはじめる前に ・第1章 Webサイトの概要 ・第2章 HTMLの基礎 ・第3章 HTMLの要素 ・第4章 CSSの基礎 ・第5章 CSSのプロパティ（1） ・第6章 CSSのプロパティ（2） ・第7章 レスポンシブデザイン ・第8章 JavaScript ・第9章 付録<br><blockquote>ここから始める！ イマドキのWebページ作り 「Webページを作ってみたい」 「HTML/CSSの仕組みを知りたい」 「プログラミングを始めてみたい」 ...</blockquote>",
-            "url": "http://books.google.com/books?id=BuS9EAAAQBAJ&printsec=frontcover&dq=JavaScript&hl=&cd=5&source=gbs_api",
+            "url": "http://books.google.com/books?id=BuS9EAAAQBAJ&printsec=frontcover&dq=JavaScript&hl=&cd=4&source=gbs_api",
             "title": "HTML/CSSの絵本 Webコンテンツ作りの基本がわかる新しい9つの扉",
             "summary": "ここから始める！ イマドキのWebページ作り 「Webページを作ってみたい」 「HTML/CSSの仕組みを知りたい」 「プログラミングを始めてみたい」 そんな皆さんに向けて、一番やさしい入門書が登場しました！ ★HTML/CSSの基礎がしっかり身につく！★ 本書では、Webコンテンツ作りに必要なHTML/CSSの考え方や概念を、見開き単位で一つ一つゆっくり学習できます。 「他のHTML/CSS解説書を読んでみたけれど難しくて……」といった方にもオススメです。 最新のHTML Living Standardに対応した本書を読めば、「イマドキ必要な基礎知識」を身につけられるはずです。 ★フルカラーイラストでわかりやすい！★ 絵本シリーズおなじみの豊富なイラストが、フルカラーになってさらにパワーアップ！ 頭ではイメージしにくい考え方や概念を、カラフルなイラストたちがわかりやすく伝えてくれます。 さあ、HTML/CSSの扉を開いて、Webの世界に足を踏み入れてみましょう！ ◆◆◆目次◆◆◆ ・第0章 HTMLとCSSの勉強をはじめる前に ・第1章 Webサイトの概要 ・第2章 HTMLの基礎 ・第3章 HTMLの要素 ・第4章 CSSの基礎 ・第5章 CSSのプロパティ（1） ・第6章 CSSのプロパティ（2） ・第7章 レスポンシブデザイン ・第8章 JavaScript ・第9章 付録",
             "image": "http://books.google.com/books/content?id=BuS9EAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
@@ -37,19 +37,19 @@
             "date_modified": "2023-02-13T00:00:00.000Z"
         },
         {
+            "content_html": "「Svelte(スベルト)」は、ユーザーインターフェイスを構築するためのJavaScriptフレームワークのひとつです。Svelteには、ユーザインターフェイスで重要な役割を担う「状態管理」を特別な記法や関数を使うことなく記述できる、作成したコンポーネントをランタイムなしで実行可能な形に変換する(コンパイル)といった特徴があります。本書では、近年注目を集めているSvelteの基本について解説するとともに、SvelteをベースとしたWebフレームワーク「SvelteKit」によるWebアプリケーション開発についてもしっかり解説します。<br><blockquote>「Svelte(スベルト)」は、ユーザーインターフェイスを構築するためのJavaScriptフレームワークのひとつです。Svelteには、ユーザインターフェイスで重要な役割を担う「状態管理」を ...</blockquote>",
+            "url": "http://books.google.com/books?id=sze6zwEACAAJ&dq=JavaScript&hl=&cd=9&source=gbs_api",
+            "title": "実践 Svelte入門",
+            "summary": "「Svelte(スベルト)」は、ユーザーインターフェイスを構築するためのJavaScriptフレームワークのひとつです。Svelteには、ユーザインターフェイスで重要な役割を担う「状態管理」を特別な記法や関数を使うことなく記述できる、作成したコンポーネントをランタイムなしで実行可能な形に変換する(コンパイル)といった特徴があります。本書では、近年注目を集めているSvelteの基本について解説するとともに、SvelteをベースとしたWebフレームワーク「SvelteKit」によるWebアプリケーション開発についてもしっかり解説します。",
+            "image": "http://books.google.com/books/content?id=sze6zwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+            "date_modified": "2023-04-01T00:00:00.000Z"
+        },
+        {
             "content_html": "PHP・JavaScript未経験者向けのWordPressテーマの自作ガイド。<br><blockquote>PHP・JavaScript未経験者向けのWordPressテーマの自作ガイド。</blockquote>",
-            "url": "http://books.google.com/books?id=ASsn0AEACAAJ&dq=JavaScript&hl=&cd=9&source=gbs_api",
+            "url": "http://books.google.com/books?id=ASsn0AEACAAJ&dq=JavaScript&hl=&cd=10&source=gbs_api",
             "title": "プログラム未経験者向け!WordPressテーマ自作ガイド",
             "summary": "PHP・JavaScript未経験者向けのWordPressテーマの自作ガイド。",
             "date_modified": "2023-10-11T00:00:00.000Z"
-        },
-        {
-            "content_html": "本書は、『Node.js』の導入からWebスクレイピングの実施までの流れを、サンプルコードを中心に学ぶ解説書です。『Node.js』の開発環境の構築、「node」や「npm」コマンドの利用方法やJavaScriptの駆け足での基礎知識をはじめとして、「node-fetch」「jsdom」を利用したファイルのダウンロードやHTMLのパース。「Puppeteer」を利用したWebブラウザの操作や情報の取得などについて詳しく紹介しています。 【目次】 第1章 前提知識と開発環境の構築 第2章 nodeコマンドとnpmコマンド 第3章 プロジェクトの作成と実行 第4章 JavaScript速習1 基本 第5章 JavaScript速習2 配列やオブジェクト 第6章 JavaScript速習3 関数、制御構文他 第7章 JavaScript速習4 非同期処理とPromise 第8章 コア モジュールとnpmモジュール 第9章 シンプルなアプリケーションの作成 第10章 fsモジュールとpathモジュール 第11章 自作モジュール 第12章 ダウンロードとパース 第13章 Puppeteerを利用したスクレイピング 第14章 Puppeteerを利用したフォーム操作 第15章 サンプル用ローカル サーバー 第16章 Puppeteerを利用した画像とPDFのダウンロード<br><blockquote>本書は、『Node.js』の導入からWebスクレイピングの実施までの流れを、サンプルコードを中心に学ぶ解説書です。『Node ...</blockquote>",
-            "url": "http://books.google.com/books?id=Yn1vEAAAQBAJ&printsec=frontcover&dq=JavaScript&hl=&cd=10&source=gbs_api",
-            "title": "サンプルコードで学ぶ Node.js Webスクレイピング",
-            "summary": "本書は、『Node.js』の導入からWebスクレイピングの実施までの流れを、サンプルコードを中心に学ぶ解説書です。『Node.js』の開発環境の構築、「node」や「npm」コマンドの利用方法やJavaScriptの駆け足での基礎知識をはじめとして、「node-fetch」「jsdom」を利用したファイルのダウンロードやHTMLのパース。「Puppeteer」を利用したWebブラウザの操作や情報の取得などについて詳しく紹介しています。 【目次】 第1章 前提知識と開発環境の構築 第2章 nodeコマンドとnpmコマンド 第3章 プロジェクトの作成と実行 第4章 JavaScript速習1 基本 第5章 JavaScript速習2 配列やオブジェクト 第6章 JavaScript速習3 関数、制御構文他 第7章 JavaScript速習4 非同期処理とPromise 第8章 コア モジュールとnpmモジュール 第9章 シンプルなアプリケーションの作成 第10章 fsモジュールとpathモジュール 第11章 自作モジュール 第12章 ダウンロードとパース 第13章 Puppeteerを利用したスクレイピング 第14章 Puppeteerを利用したフォーム操作 第15章 サンプル用ローカル サーバー 第16章 Puppeteerを利用した画像とPDFのダウンロード",
-            "image": "http://books.google.com/books/content?id=Yn1vEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-            "date_modified": "2022-05-20T00:00:00.000Z"
         }
     ]
 }

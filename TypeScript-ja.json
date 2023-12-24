@@ -13,8 +13,15 @@
             "date_modified": "2023-10-06T00:00:00.000Z"
         },
         {
+            "content_html": "<br><blockquote>本書は、最近需要が急増しているSSR(Server Side Rendering)によるSPA開発に適したWebアプリケーションフレームワーク「Nuxt 3」の解説書です。Nuxtは、最新のバージョン3でVue ...</blockquote>",
+            "url": "http://books.google.com/books?id=9MUF0AEACAAJ&dq=TypeScript&hl=&cd=2&source=gbs_api",
+            "title": "Nuxt 3 フロントエンド開発の教科書",
+            "image": "http://books.google.com/books/content?id=9MUF0AEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+            "date_modified": "2023-09-22T00:00:00.000Z"
+        },
+        {
             "content_html": "本書は、おもにNext.js、Prisma、GraphQL Code Generatorを用いたWebアプリケーションの構築手法について解説した書籍です。そのほか、Tailwind CSS、NextAuth.js、Apollo GraphQLなど多彩な技術解説も掲載。モダンなWebアプリケーションの開発手法について興味がある方にオススメです。 【目次】 第1章 Next.jsのセットアップ 第2章 Prismaのセットアップ 第3章 GraphQL Code Generatorのセットアップ 第4章 テストコードの追加 第5章 本番環境へのデプロイ 第6章 次のステップ<br><blockquote>本書は、おもにNext.js、Prisma、GraphQL Code Generatorを用いたWebアプリケーションの構築手法について解説した書籍です。そのほか、Tailwind CSS、NextAuth.js、Apollo ...</blockquote>",
-            "url": "http://books.google.com/books?id=mEWtEAAAQBAJ&printsec=frontcover&dq=TypeScript&hl=&cd=2&source=gbs_api",
+            "url": "http://books.google.com/books?id=mEWtEAAAQBAJ&printsec=frontcover&dq=TypeScript&hl=&cd=3&source=gbs_api",
             "title": "Next.js、Prisma、GraphQL Code Generatorで作るフルスタックWebアプリケーション",
             "summary": "本書は、おもにNext.js、Prisma、GraphQL Code Generatorを用いたWebアプリケーションの構築手法について解説した書籍です。そのほか、Tailwind CSS、NextAuth.js、Apollo GraphQLなど多彩な技術解説も掲載。モダンなWebアプリケーションの開発手法について興味がある方にオススメです。 【目次】 第1章 Next.jsのセットアップ 第2章 Prismaのセットアップ 第3章 GraphQL Code Generatorのセットアップ 第4章 テストコードの追加 第5章 本番環境へのデプロイ 第6章 次のステップ",
             "image": "http://books.google.com/books/content?id=mEWtEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
@@ -22,7 +29,7 @@
         },
         {
             "content_html": "本書はFirebaseを使ったウェブアプリケーションをTestableな形で開発していくための技術解説書です。 フレームワークとしてはVite/Reactを利用し、テストフレームワークとしてはVitest/Cypress、Firebaseもウェブアプリケーションとしては一般的なFirebase Authentication、Firestore、Firebase Functions、Firebase Storageを対象としています。 冒頭で開発する流れを説明した上で、サンプルコードを使ってなるべく具体的な例でテストを書きながら開発が進めていけるような形でまとめていますので、ご自身のユースケースのところだけを読んでいただいても理解できるようになっています。 【目次】 第1章 環境構築 第2章 モデリング 第3章 認証機能 第4章 チャット（メッセージ表示） 第5章 チャット（メッセージ一覧） 第6章 チャット（入力フォーム） 第7章 チャット（画像添付） 第8章 プッシュ通知 第9章 E2Eテスト<br><blockquote>本書はFirebaseを使ったウェブアプリケーションをTestableな形で開発していくための技術解説書です。 ...</blockquote>",
-            "url": "http://books.google.com/books?id=z2ycEAAAQBAJ&printsec=frontcover&dq=TypeScript&hl=&cd=3&source=gbs_api",
+            "url": "http://books.google.com/books?id=z2ycEAAAQBAJ&printsec=frontcover&dq=TypeScript&hl=&cd=4&source=gbs_api",
             "title": "Testable Firebase",
             "summary": "本書はFirebaseを使ったウェブアプリケーションをTestableな形で開発していくための技術解説書です。 フレームワークとしてはVite/Reactを利用し、テストフレームワークとしてはVitest/Cypress、Firebaseもウェブアプリケーションとしては一般的なFirebase Authentication、Firestore、Firebase Functions、Firebase Storageを対象としています。 冒頭で開発する流れを説明した上で、サンプルコードを使ってなるべく具体的な例でテストを書きながら開発が進めていけるような形でまとめていますので、ご自身のユースケースのところだけを読んでいただいても理解できるようになっています。 【目次】 第1章 環境構築 第2章 モデリング 第3章 認証機能 第4章 チャット（メッセージ表示） 第5章 チャット（メッセージ一覧） 第6章 チャット（入力フォーム） 第7章 チャット（画像添付） 第8章 プッシュ通知 第9章 E2Eテスト",
             "image": "http://books.google.com/books/content?id=z2ycEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
@@ -30,34 +37,27 @@
         },
         {
             "content_html": "本書は、バックエンドをサーバレスで実装し、フロントエンドをSPAで実装する方法を解説しています。この本を読めば、サーバレスとSPAで構成されたアプリの開発がスタートできます。 本書の目的は、サーバレスとSPAで構成されたアプリの開発をスタートすることです。サンプルプログラムを用意しているので、これを動かしながら開発の流れを学びます。 ReactやTypeScriptなどを使用していますが、これらの入門的な内容は本書では扱っていません。 【目次】 第1章AWSの準備 第2章アプリをデプロイする 第3章サンプルアプリの動作確認と解説 第4章使用している技術スタック 第5章サンプルアプリのディレクトリー構成 第6章サンプルアプリを改修する 第7章デプロイしたサンプルアプリを削除する<br><blockquote>本書は、バックエンドをサーバレスで実装し、フロントエンドをSPAで実装する方法を解説しています。この本を読めば、サーバレスとSPAで構成されたアプリの開発がスタートでき ...</blockquote>",
-            "url": "http://books.google.com/books?id=6quTEAAAQBAJ&printsec=frontcover&dq=TypeScript&hl=&cd=4&source=gbs_api",
+            "url": "http://books.google.com/books?id=6quTEAAAQBAJ&printsec=frontcover&dq=TypeScript&hl=&cd=5&source=gbs_api",
             "title": "サーバレスとSPAで実装するWebアプリケーション",
             "summary": "本書は、バックエンドをサーバレスで実装し、フロントエンドをSPAで実装する方法を解説しています。この本を読めば、サーバレスとSPAで構成されたアプリの開発がスタートできます。 本書の目的は、サーバレスとSPAで構成されたアプリの開発をスタートすることです。サンプルプログラムを用意しているので、これを動かしながら開発の流れを学びます。 ReactやTypeScriptなどを使用していますが、これらの入門的な内容は本書では扱っていません。 【目次】 第1章AWSの準備 第2章アプリをデプロイする 第3章サンプルアプリの動作確認と解説 第4章使用している技術スタック 第5章サンプルアプリのディレクトリー構成 第6章サンプルアプリを改修する 第7章デプロイしたサンプルアプリを削除する",
             "image": "http://books.google.com/books/content?id=6quTEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
             "date_modified": "2022-10-14T00:00:00.000Z"
         },
         {
-            "content_html": "<br><blockquote>本書は、最近需要が急増しているSSR(Server Side Rendering)によるSPA開発に適したWebアプリケーションフレームワーク「Nuxt 3」の解説書です。Nuxtは、最新のバージョン3でVue ...</blockquote>",
-            "url": "http://books.google.com/books?id=9MUF0AEACAAJ&dq=TypeScript&hl=&cd=5&source=gbs_api",
-            "title": "Nuxt 3 フロントエンド開発の教科書",
-            "image": "http://books.google.com/books/content?id=9MUF0AEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-            "date_modified": "2023-09-22T00:00:00.000Z"
-        },
-        {
-            "content_html": "Vite・TypeScript・Babylon.jsを使ってWebARをするところまでの道筋を解説した本です。 Viteを使ったノンフレームワークなTypeScriptプロジェクトの作成から始まり、最後にはAzureにデプロイするまでをたどっていきます。 Babylon.jsやWebARについての詳細よりも開発環境の構築にフォーカスした内容です。ビルドツールを使って一歩進んだ開発をしてみたいWebAR初学者にオススメしたい一冊です。 【目次】 第1章 環境構築 第2章 Babylon.jsの導入 第3章 シーンをWebARに対応させる 第4章 Hit Testを使って現実空間にオブジェクトを配置する 第5章 Azureにデプロイする<br><blockquote>Vite・TypeScript・Babylon.jsを使ってWebARをするところまでの道筋を解説した本です。 Viteを使ったノンフレームワークなTypeScriptプロジェクトの作成から始まり、最後にはAzureにデプロ ...</blockquote>",
-            "url": "http://books.google.com/books?id=gCh-EAAAQBAJ&printsec=frontcover&dq=TypeScript&hl=&cd=6&source=gbs_api",
-            "title": "Vite+TypeScript+Babylon.jsでWebARをはじめる本",
-            "summary": "Vite・TypeScript・Babylon.jsを使ってWebARをするところまでの道筋を解説した本です。 Viteを使ったノンフレームワークなTypeScriptプロジェクトの作成から始まり、最後にはAzureにデプロイするまでをたどっていきます。 Babylon.jsやWebARについての詳細よりも開発環境の構築にフォーカスした内容です。ビルドツールを使って一歩進んだ開発をしてみたいWebAR初学者にオススメしたい一冊です。 【目次】 第1章 環境構築 第2章 Babylon.jsの導入 第3章 シーンをWebARに対応させる 第4章 Hit Testを使って現実空間にオブジェクトを配置する 第5章 Azureにデプロイする",
-            "image": "http://books.google.com/books/content?id=gCh-EAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-            "date_modified": "2022-08-05T00:00:00.000Z"
-        },
-        {
             "content_html": "TypeScriptをはじめて学ぶ方のための超入門書です。アプリケーションの作成に必要な文法を学び、まったくの未経験者でも実際に動くアプリケーション(「ストップウォッチ」「カレンダー」)の作成を体験できます。<br><blockquote>中田亨. <b>TypeScript</b>を学ぶメリットなぜ<b>TypeScript</b>を学ぶのか? <b>TypeScript</b>を学ぶと、開発効率やプログラム品質の向上に役立ちます。以下の理由から、最新のJavaScript仕様の習熟にも役立ちます。最新の構文が使える JavaScriptはウェブアプリケーション開発&nbsp;...</blockquote>",
-            "url": "http://books.google.com/books?id=e96lEAAAQBAJ&pg=PA22&dq=TypeScript&hl=&cd=7&source=gbs_api",
+            "url": "http://books.google.com/books?id=e96lEAAAQBAJ&pg=PA22&dq=TypeScript&hl=&cd=6&source=gbs_api",
             "title": "図解!TypeScriptのﾂﾎﾞとｺﾂがｾﾞｯﾀｲにわかる本“超”入門編",
             "summary": "TypeScriptをはじめて学ぶ方のための超入門書です。アプリケーションの作成に必要な文法を学び、まったくの未経験者でも実際に動くアプリケーション(「ストップウォッチ」「カレンダー」)の作成を体験できます。",
             "image": "http://books.google.com/books/content?id=e96lEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
             "date_modified": "2022-12-01T00:00:00.000Z"
+        },
+        {
+            "content_html": "Vite・TypeScript・Babylon.jsを使ってWebARをするところまでの道筋を解説した本です。 Viteを使ったノンフレームワークなTypeScriptプロジェクトの作成から始まり、最後にはAzureにデプロイするまでをたどっていきます。 Babylon.jsやWebARについての詳細よりも開発環境の構築にフォーカスした内容です。ビルドツールを使って一歩進んだ開発をしてみたいWebAR初学者にオススメしたい一冊です。 【目次】 第1章 環境構築 第2章 Babylon.jsの導入 第3章 シーンをWebARに対応させる 第4章 Hit Testを使って現実空間にオブジェクトを配置する 第5章 Azureにデプロイする<br><blockquote>Vite・TypeScript・Babylon.jsを使ってWebARをするところまでの道筋を解説した本です。 Viteを使ったノンフレームワークなTypeScriptプロジェクトの作成から始まり、最後にはAzureにデプロ ...</blockquote>",
+            "url": "http://books.google.com/books?id=gCh-EAAAQBAJ&printsec=frontcover&dq=TypeScript&hl=&cd=7&source=gbs_api",
+            "title": "Vite+TypeScript+Babylon.jsでWebARをはじめる本",
+            "summary": "Vite・TypeScript・Babylon.jsを使ってWebARをするところまでの道筋を解説した本です。 Viteを使ったノンフレームワークなTypeScriptプロジェクトの作成から始まり、最後にはAzureにデプロイするまでをたどっていきます。 Babylon.jsやWebARについての詳細よりも開発環境の構築にフォーカスした内容です。ビルドツールを使って一歩進んだ開発をしてみたいWebAR初学者にオススメしたい一冊です。 【目次】 第1章 環境構築 第2章 Babylon.jsの導入 第3章 シーンをWebARに対応させる 第4章 Hit Testを使って現実空間にオブジェクトを配置する 第5章 Azureにデプロイする",
+            "image": "http://books.google.com/books/content?id=gCh-EAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+            "date_modified": "2022-08-05T00:00:00.000Z"
         },
         {
             "content_html": "TypeScriptをはじめて学ぶ方のための超入門書です。アプリケーションの作成に必要な文法を学び、まったくの未経験者でも実際に動くアプリケーション(「ストップウォッチ」「カレンダー」)の作成を体験できます。<br><blockquote>中田亨. <b>TypeScript</b>とは? JavaScriptの上位互換 <b>TypeScript</b>はMicrosoft社が開発したプログラミング言語で、 JavaScriptを拡張して作られた上位互換です。JavaScriptはブラウザやNode.jsなどの実行環境で動作しますが、<b>TypeScript</b>はそのままでは実行&nbsp;...</blockquote>",

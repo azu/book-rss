@@ -5,15 +5,23 @@
     "description": "TypeScript(ja) on Google Book",
     "items": [
         {
+            "content_html": "※この商品はタブレットなど大きいディスプレイを備えた端末で読むことに適しています。また、文字だけを拡大することや、文字列のハイライト、検索、辞書の参照、引用などの機能が使用できません。 TypeScriptの基本を押さえたら、次はインターフェース、ジェネリクスなどを学ぼう。ブラウザで動くシューティングゲームの設計、クラスの実装、メインプログラムの作成を通し、アプリケーションの開発を体験しよう。<br><blockquote>※この商品はタブレットなど大きいディスプレイを備えた端末で読むことに適しています。また、文字だけを拡大することや、文字列のハイライト、検索、辞書の参照、引用など ...</blockquote>",
+            "url": "http://books.google.com/books?id=tErcEAAAQBAJ&dq=TypeScript&hl=&cd=1&source=gbs_api",
+            "title": "図解！　TypeScriptのツボとコツがゼッタイにわかる本　プログラミング実践編",
+            "summary": "※この商品はタブレットなど大きいディスプレイを備えた端末で読むことに適しています。また、文字だけを拡大することや、文字列のハイライト、検索、辞書の参照、引用などの機能が使用できません。 TypeScriptの基本を押さえたら、次はインターフェース、ジェネリクスなどを学ぼう。ブラウザで動くシューティングゲームの設計、クラスの実装、メインプログラムの作成を通し、アプリケーションの開発を体験しよう。",
+            "image": "http://books.google.com/books/content?id=tErcEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+            "date_modified": "2023-10-06T00:00:00.000Z"
+        },
+        {
             "content_html": "<br><blockquote>本書は、最近需要が急増しているSSR(Server Side Rendering)によるSPA開発に適したWebアプリケーションフレームワーク「Nuxt 3」の解説書です。Nuxtは、最新のバージョン3でVue ...</blockquote>",
-            "url": "http://books.google.com/books?id=9MUF0AEACAAJ&dq=TypeScript&hl=&cd=1&source=gbs_api",
+            "url": "http://books.google.com/books?id=9MUF0AEACAAJ&dq=TypeScript&hl=&cd=2&source=gbs_api",
             "title": "Nuxt 3 フロントエンド開発の教科書",
             "image": "http://books.google.com/books/content?id=9MUF0AEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
             "date_modified": "2023-09-22T00:00:00.000Z"
         },
         {
             "content_html": "本書は、おもにNext.js、Prisma、GraphQL Code Generatorを用いたWebアプリケーションの構築手法について解説した書籍です。そのほか、Tailwind CSS、NextAuth.js、Apollo GraphQLなど多彩な技術解説も掲載。モダンなWebアプリケーションの開発手法について興味がある方にオススメです。 【目次】 第1章 Next.jsのセットアップ 第2章 Prismaのセットアップ 第3章 GraphQL Code Generatorのセットアップ 第4章 テストコードの追加 第5章 本番環境へのデプロイ 第6章 次のステップ<br><blockquote>本書は、おもにNext.js、Prisma、GraphQL Code Generatorを用いたWebアプリケーションの構築手法について解説した書籍です。そのほか、Tailwind CSS、NextAuth.js、Apollo ...</blockquote>",
-            "url": "http://books.google.com/books?id=mEWtEAAAQBAJ&printsec=frontcover&dq=TypeScript&hl=&cd=2&source=gbs_api",
+            "url": "http://books.google.com/books?id=mEWtEAAAQBAJ&printsec=frontcover&dq=TypeScript&hl=&cd=3&source=gbs_api",
             "title": "Next.js、Prisma、GraphQL Code Generatorで作るフルスタックWebアプリケーション",
             "summary": "本書は、おもにNext.js、Prisma、GraphQL Code Generatorを用いたWebアプリケーションの構築手法について解説した書籍です。そのほか、Tailwind CSS、NextAuth.js、Apollo GraphQLなど多彩な技術解説も掲載。モダンなWebアプリケーションの開発手法について興味がある方にオススメです。 【目次】 第1章 Next.jsのセットアップ 第2章 Prismaのセットアップ 第3章 GraphQL Code Generatorのセットアップ 第4章 テストコードの追加 第5章 本番環境へのデプロイ 第6章 次のステップ",
             "image": "http://books.google.com/books/content?id=mEWtEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
@@ -21,7 +29,7 @@
         },
         {
             "content_html": "本書はFirebaseを使ったウェブアプリケーションをTestableな形で開発していくための技術解説書です。 フレームワークとしてはVite/Reactを利用し、テストフレームワークとしてはVitest/Cypress、Firebaseもウェブアプリケーションとしては一般的なFirebase Authentication、Firestore、Firebase Functions、Firebase Storageを対象としています。 冒頭で開発する流れを説明した上で、サンプルコードを使ってなるべく具体的な例でテストを書きながら開発が進めていけるような形でまとめていますので、ご自身のユースケースのところだけを読んでいただいても理解できるようになっています。 【目次】 第1章 環境構築 第2章 モデリング 第3章 認証機能 第4章 チャット（メッセージ表示） 第5章 チャット（メッセージ一覧） 第6章 チャット（入力フォーム） 第7章 チャット（画像添付） 第8章 プッシュ通知 第9章 E2Eテスト<br><blockquote>本書はFirebaseを使ったウェブアプリケーションをTestableな形で開発していくための技術解説書です。 ...</blockquote>",
-            "url": "http://books.google.com/books?id=z2ycEAAAQBAJ&printsec=frontcover&dq=TypeScript&hl=&cd=3&source=gbs_api",
+            "url": "http://books.google.com/books?id=z2ycEAAAQBAJ&printsec=frontcover&dq=TypeScript&hl=&cd=4&source=gbs_api",
             "title": "Testable Firebase",
             "summary": "本書はFirebaseを使ったウェブアプリケーションをTestableな形で開発していくための技術解説書です。 フレームワークとしてはVite/Reactを利用し、テストフレームワークとしてはVitest/Cypress、Firebaseもウェブアプリケーションとしては一般的なFirebase Authentication、Firestore、Firebase Functions、Firebase Storageを対象としています。 冒頭で開発する流れを説明した上で、サンプルコードを使ってなるべく具体的な例でテストを書きながら開発が進めていけるような形でまとめていますので、ご自身のユースケースのところだけを読んでいただいても理解できるようになっています。 【目次】 第1章 環境構築 第2章 モデリング 第3章 認証機能 第4章 チャット（メッセージ表示） 第5章 チャット（メッセージ一覧） 第6章 チャット（入力フォーム） 第7章 チャット（画像添付） 第8章 プッシュ通知 第9章 E2Eテスト",
             "image": "http://books.google.com/books/content?id=z2ycEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
@@ -29,7 +37,7 @@
         },
         {
             "content_html": "本書は、バックエンドをサーバレスで実装し、フロントエンドをSPAで実装する方法を解説しています。この本を読めば、サーバレスとSPAで構成されたアプリの開発がスタートできます。 本書の目的は、サーバレスとSPAで構成されたアプリの開発をスタートすることです。サンプルプログラムを用意しているので、これを動かしながら開発の流れを学びます。 ReactやTypeScriptなどを使用していますが、これらの入門的な内容は本書では扱っていません。 【目次】 第1章AWSの準備 第2章アプリをデプロイする 第3章サンプルアプリの動作確認と解説 第4章使用している技術スタック 第5章サンプルアプリのディレクトリー構成 第6章サンプルアプリを改修する 第7章デプロイしたサンプルアプリを削除する<br><blockquote>本書は、バックエンドをサーバレスで実装し、フロントエンドをSPAで実装する方法を解説しています。この本を読めば、サーバレスとSPAで構成されたアプリの開発がスタートでき ...</blockquote>",
-            "url": "http://books.google.com/books?id=6quTEAAAQBAJ&printsec=frontcover&dq=TypeScript&hl=&cd=4&source=gbs_api",
+            "url": "http://books.google.com/books?id=6quTEAAAQBAJ&printsec=frontcover&dq=TypeScript&hl=&cd=5&source=gbs_api",
             "title": "サーバレスとSPAで実装するWebアプリケーション",
             "summary": "本書は、バックエンドをサーバレスで実装し、フロントエンドをSPAで実装する方法を解説しています。この本を読めば、サーバレスとSPAで構成されたアプリの開発がスタートできます。 本書の目的は、サーバレスとSPAで構成されたアプリの開発をスタートすることです。サンプルプログラムを用意しているので、これを動かしながら開発の流れを学びます。 ReactやTypeScriptなどを使用していますが、これらの入門的な内容は本書では扱っていません。 【目次】 第1章AWSの準備 第2章アプリをデプロイする 第3章サンプルアプリの動作確認と解説 第4章使用している技術スタック 第5章サンプルアプリのディレクトリー構成 第6章サンプルアプリを改修する 第7章デプロイしたサンプルアプリを削除する",
             "image": "http://books.google.com/books/content?id=6quTEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
@@ -37,7 +45,7 @@
         },
         {
             "content_html": "Vite・TypeScript・Babylon.jsを使ってWebARをするところまでの道筋を解説した本です。 Viteを使ったノンフレームワークなTypeScriptプロジェクトの作成から始まり、最後にはAzureにデプロイするまでをたどっていきます。 Babylon.jsやWebARについての詳細よりも開発環境の構築にフォーカスした内容です。ビルドツールを使って一歩進んだ開発をしてみたいWebAR初学者にオススメしたい一冊です。 【目次】 第1章 環境構築 第2章 Babylon.jsの導入 第3章 シーンをWebARに対応させる 第4章 Hit Testを使って現実空間にオブジェクトを配置する 第5章 Azureにデプロイする<br><blockquote>Vite・TypeScript・Babylon.jsを使ってWebARをするところまでの道筋を解説した本です。 Viteを使ったノンフレームワークなTypeScriptプロジェクトの作成から始まり、最後にはAzureにデプロ ...</blockquote>",
-            "url": "http://books.google.com/books?id=gCh-EAAAQBAJ&printsec=frontcover&dq=TypeScript&hl=&cd=5&source=gbs_api",
+            "url": "http://books.google.com/books?id=gCh-EAAAQBAJ&printsec=frontcover&dq=TypeScript&hl=&cd=6&source=gbs_api",
             "title": "Vite+TypeScript+Babylon.jsでWebARをはじめる本",
             "summary": "Vite・TypeScript・Babylon.jsを使ってWebARをするところまでの道筋を解説した本です。 Viteを使ったノンフレームワークなTypeScriptプロジェクトの作成から始まり、最後にはAzureにデプロイするまでをたどっていきます。 Babylon.jsやWebARについての詳細よりも開発環境の構築にフォーカスした内容です。ビルドツールを使って一歩進んだ開発をしてみたいWebAR初学者にオススメしたい一冊です。 【目次】 第1章 環境構築 第2章 Babylon.jsの導入 第3章 シーンをWebARに対応させる 第4章 Hit Testを使って現実空間にオブジェクトを配置する 第5章 Azureにデプロイする",
             "image": "http://books.google.com/books/content?id=gCh-EAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
@@ -45,7 +53,7 @@
         },
         {
             "content_html": "本書は、組込みシステムやOSのような低レイヤーシステムの開発経験がないプログラマーが、自作OSをはじめるため解説書です。C言語を用いることが多い低レイヤーシステム開発について、本書ではRustを使います。RustはC言語と比較して、様々なモダンな機能やツールがそろっているだけでなく、C言語の長所である直接のメモリ制御が可能なため、高パフォーマンスな組込みシステム開発での利用が注目されています。本書はRustそのもの解説も含みますが、低レイヤーシステム開発特有のテクニックを中心に解説します。 【目次】 第1章 環境構築 第2章 ベアメタルでHello World 第3章 割り込み制御 第4章 プロセス切り替え 第5章 スケジューラを実装する 第6章 排他制御・データ共有の実装 第7章 デバイスドライバを実装する 第8章 ヒープ領域を使う 第9章 システムコールをつくる<br><blockquote>本書は、組込みシステムやOSのような低レイヤーシステムの開発経験がないプログラマーが、自作OSをはじめるため解説書です。C言語を用いることが多い低レイヤーシステム開発 ...</blockquote>",
-            "url": "http://books.google.com/books?id=j5pyEAAAQBAJ&printsec=frontcover&dq=TypeScript&hl=&cd=6&source=gbs_api",
+            "url": "http://books.google.com/books?id=j5pyEAAAQBAJ&printsec=frontcover&dq=TypeScript&hl=&cd=7&source=gbs_api",
             "title": "Rustで始める自作組込みOS入門",
             "summary": "本書は、組込みシステムやOSのような低レイヤーシステムの開発経験がないプログラマーが、自作OSをはじめるため解説書です。C言語を用いることが多い低レイヤーシステム開発について、本書ではRustを使います。RustはC言語と比較して、様々なモダンな機能やツールがそろっているだけでなく、C言語の長所である直接のメモリ制御が可能なため、高パフォーマンスな組込みシステム開発での利用が注目されています。本書はRustそのもの解説も含みますが、低レイヤーシステム開発特有のテクニックを中心に解説します。 【目次】 第1章 環境構築 第2章 ベアメタルでHello World 第3章 割り込み制御 第4章 プロセス切り替え 第5章 スケジューラを実装する 第6章 排他制御・データ共有の実装 第7章 デバイスドライバを実装する 第8章 ヒープ領域を使う 第9章 システムコールをつくる",
             "image": "http://books.google.com/books/content?id=j5pyEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
@@ -53,7 +61,7 @@
         },
         {
             "content_html": "※この商品はタブレットなど大きいディスプレイを備えた端末で読むことに適しています。また、文字だけを拡大することや、文字列のハイライト、検索、辞書の参照、引用などの機能が使用できません。 TypeScriptをはじめて学ぶ方のための超入門書です。アプリケーションの作成に必要な文法を学び、まったくの未経験者でも実際に動くアプリケーション（「ストップウォッチ」「カレンダー」）の作成を体験できます。<br><blockquote>※この商品はタブレットなど大きいディスプレイを備えた端末で読むことに適しています。また、文字だけを拡大することや、文字列のハイライト、検索、辞書の参照、引用など ...</blockquote>",
-            "url": "http://books.google.com/books?id=J1-eEAAAQBAJ&dq=TypeScript&hl=&cd=7&source=gbs_api",
+            "url": "http://books.google.com/books?id=J1-eEAAAQBAJ&dq=TypeScript&hl=&cd=8&source=gbs_api",
             "title": "図解！ TypeScriptのツボとコツがゼッタイにわかる本 “超”入門編",
             "summary": "※この商品はタブレットなど大きいディスプレイを備えた端末で読むことに適しています。また、文字だけを拡大することや、文字列のハイライト、検索、辞書の参照、引用などの機能が使用できません。 TypeScriptをはじめて学ぶ方のための超入門書です。アプリケーションの作成に必要な文法を学び、まったくの未経験者でも実際に動くアプリケーション（「ストップウォッチ」「カレンダー」）の作成を体験できます。",
             "image": "http://books.google.com/books/content?id=J1-eEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
@@ -61,7 +69,7 @@
         },
         {
             "content_html": "人気のWebフロントエンドフレームワーク「Vue.js」がバージョンアップして「Vue 3」となり、TypeScriptの標準採用、新機能Composition API、Vite、Piniaの搭載など、大幅に機能が更新・強化されました。それに伴い、Vue 3では、従来のOptions APIを利用したコンポーネント開発とは異なる開発手法が必要となります。本書では、Composition APIによるコンポーネント開発やPiniaによる状態管理、Vue RouterによるSPA開発、非同期処理やユニットテストなどを新機能を駆使して解説しており、Vue 3によるフロントエンド開発手法が1冊ですべて身に付く内容になっています。<br><blockquote>人気のWebフロントエンドフレームワーク「Vue.js」がバージョンアップして「Vue 3」となり、TypeScriptの標準採用、新機能Composition ...</blockquote>",
-            "url": "http://books.google.com/books?id=nDVMzwEACAAJ&dq=TypeScript&hl=&cd=8&source=gbs_api",
+            "url": "http://books.google.com/books?id=nDVMzwEACAAJ&dq=TypeScript&hl=&cd=9&source=gbs_api",
             "title": "Vue 3 フロントエンド開発の教科書",
             "summary": "人気のWebフロントエンドフレームワーク「Vue.js」がバージョンアップして「Vue 3」となり、TypeScriptの標準採用、新機能Composition API、Vite、Piniaの搭載など、大幅に機能が更新・強化されました。それに伴い、Vue 3では、従来のOptions APIを利用したコンポーネント開発とは異なる開発手法が必要となります。本書では、Composition APIによるコンポーネント開発やPiniaによる状態管理、Vue RouterによるSPA開発、非同期処理やユニットテストなどを新機能を駆使して解説しており、Vue 3によるフロントエンド開発手法が1冊ですべて身に付く内容になっています。",
             "image": "http://books.google.com/books/content?id=nDVMzwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
@@ -69,18 +77,10 @@
         },
         {
             "content_html": "※この商品はタブレットなど大きいディスプレイを備えた端末で読むことに適しています。また、文字だけを拡大することや、文字列のハイライト、検索、辞書の参照、引用などの機能が使用できません。 Web API設計のベストプラクティス集 APIとはアプリケーション、サービス、コンポーネントがどのように通信するかを定義する仕様です。本書『APIデザイン・パターン』は、Web APIを構築するための安全かつ柔軟で再利用可能なパターンを提供するために執筆されました。一般的な設計原則の説明からはじめ、APIを構築する際の仕様、デザイン・パターンを紹介していきます。Manning Publishing: API Design Patterns の翻訳書。 本書 ”APIデザイン・パターン（API Design Patterns）” は、Web APIを構築するための一連の設計原則、安全かつ柔軟で再利用可能なパターンを提供するために書かれました。Google Cloud PlatformとそのAPI設計に取り組む著者が、 ・APIの一貫性、拡張性、可用性を確保する方法について ・安全かつ柔軟で再利用可能なAPIパターン ・一般的なAPIの設計を改善する手法 について解説します。コード例はTypeScriptで解説。詳細なシナリオ・図解により、API設計についての理解が深まります。 提供するAPIが他の開発者から信頼され、便利に使ってもらえるようにするためのベストプラクティスを提供します。 ［本書まえがきより］ ソフトウェアが「うまく設計されている」とはどういうことなのか、「よく設計されたWeb API」とは何か。 私は自分自身で答えを出そうとし、実際に使ってみた情報などを何年もかけ集約し、Luke Sneeringerと私でGoogleのルールとして明文化し、それは最終的にAIP.dev（google.aip.dev）という形で提供することになりました。これらのルールはある種の法律のようなもので「何をすべきか」は書かれていても、「なぜそうすべきか」は書かれていません。この本で私が目指したのは実践的なガイドラインと、その理由を論理的に説明することです。この本で取り上げたトピックが、APIデザインという魅力的かつ複雑な世界において、多くの会話や将来の仕事のきっかけとなることを願っています。<br><blockquote>※この商品はタブレットなど大きいディスプレイを備えた端末で読むことに適しています。また、文字だけを拡大することや、文字列のハイライト、検索、辞書の参照、引用など ...</blockquote>",
-            "url": "http://books.google.com/books?id=JUWGEAAAQBAJ&dq=TypeScript&hl=&cd=9&source=gbs_api",
+            "url": "http://books.google.com/books?id=JUWGEAAAQBAJ&dq=TypeScript&hl=&cd=10&source=gbs_api",
             "title": "APIデザイン・パターン",
             "summary": "※この商品はタブレットなど大きいディスプレイを備えた端末で読むことに適しています。また、文字だけを拡大することや、文字列のハイライト、検索、辞書の参照、引用などの機能が使用できません。 Web API設計のベストプラクティス集 APIとはアプリケーション、サービス、コンポーネントがどのように通信するかを定義する仕様です。本書『APIデザイン・パターン』は、Web APIを構築するための安全かつ柔軟で再利用可能なパターンを提供するために執筆されました。一般的な設計原則の説明からはじめ、APIを構築する際の仕様、デザイン・パターンを紹介していきます。Manning Publishing: API Design Patterns の翻訳書。 本書 ”APIデザイン・パターン（API Design Patterns）” は、Web APIを構築するための一連の設計原則、安全かつ柔軟で再利用可能なパターンを提供するために書かれました。Google Cloud PlatformとそのAPI設計に取り組む著者が、 ・APIの一貫性、拡張性、可用性を確保する方法について ・安全かつ柔軟で再利用可能なAPIパターン ・一般的なAPIの設計を改善する手法 について解説します。コード例はTypeScriptで解説。詳細なシナリオ・図解により、API設計についての理解が深まります。 提供するAPIが他の開発者から信頼され、便利に使ってもらえるようにするためのベストプラクティスを提供します。 ［本書まえがきより］ ソフトウェアが「うまく設計されている」とはどういうことなのか、「よく設計されたWeb API」とは何か。 私は自分自身で答えを出そうとし、実際に使ってみた情報などを何年もかけ集約し、Luke Sneeringerと私でGoogleのルールとして明文化し、それは最終的にAIP.dev（google.aip.dev）という形で提供することになりました。これらのルールはある種の法律のようなもので「何をすべきか」は書かれていても、「なぜそうすべきか」は書かれていません。この本で私が目指したのは実践的なガイドラインと、その理由を論理的に説明することです。この本で取り上げたトピックが、APIデザインという魅力的かつ複雑な世界において、多くの会話や将来の仕事のきっかけとなることを願っています。",
             "image": "http://books.google.com/books/content?id=JUWGEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-            "date_modified": "2022-08-26T00:00:00.000Z"
-        },
-        {
-            "content_html": "Web API設計のベストプラクティス集<br><blockquote>Web API設計のベストプラクティス集</blockquote>",
-            "url": "http://books.google.com/books?id=52FGzwEACAAJ&dq=TypeScript&hl=&cd=10&source=gbs_api",
-            "title": "APIデザイン・パターン",
-            "summary": "Web API設計のベストプラクティス集",
-            "image": "http://books.google.com/books/content?id=52FGzwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
             "date_modified": "2022-08-26T00:00:00.000Z"
         }
     ]

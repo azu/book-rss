@@ -60,16 +60,8 @@
             "date_modified": "2022-06-10T00:00:00.000Z"
         },
         {
-            "content_html": "※この商品はタブレットなど大きいディスプレイを備えた端末で読むことに適しています。また、文字だけを拡大することや、文字列のハイライト、検索、辞書の参照、引用などの機能が使用できません。 TypeScriptをはじめて学ぶ方のための超入門書です。アプリケーションの作成に必要な文法を学び、まったくの未経験者でも実際に動くアプリケーション（「ストップウォッチ」「カレンダー」）の作成を体験できます。<br><blockquote>※この商品はタブレットなど大きいディスプレイを備えた端末で読むことに適しています。また、文字だけを拡大することや、文字列のハイライト、検索、辞書の参照、引用など ...</blockquote>",
-            "url": "http://books.google.com/books?id=J1-eEAAAQBAJ&dq=TypeScript&hl=&cd=8&source=gbs_api",
-            "title": "図解！ TypeScriptのツボとコツがゼッタイにわかる本 “超”入門編",
-            "summary": "※この商品はタブレットなど大きいディスプレイを備えた端末で読むことに適しています。また、文字だけを拡大することや、文字列のハイライト、検索、辞書の参照、引用などの機能が使用できません。 TypeScriptをはじめて学ぶ方のための超入門書です。アプリケーションの作成に必要な文法を学び、まったくの未経験者でも実際に動くアプリケーション（「ストップウォッチ」「カレンダー」）の作成を体験できます。",
-            "image": "http://books.google.com/books/content?id=J1-eEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-            "date_modified": "2022-11-30T00:00:00.000Z"
-        },
-        {
             "content_html": "人気のWebフロントエンドフレームワーク「Vue.js」がバージョンアップして「Vue 3」となり、TypeScriptの標準採用、新機能Composition API、Vite、Piniaの搭載など、大幅に機能が更新・強化されました。それに伴い、Vue 3では、従来のOptions APIを利用したコンポーネント開発とは異なる開発手法が必要となります。本書では、Composition APIによるコンポーネント開発やPiniaによる状態管理、Vue RouterによるSPA開発、非同期処理やユニットテストなどを新機能を駆使して解説しており、Vue 3によるフロントエンド開発手法が1冊ですべて身に付く内容になっています。<br><blockquote>人気のWebフロントエンドフレームワーク「Vue.js」がバージョンアップして「Vue 3」となり、TypeScriptの標準採用、新機能Composition ...</blockquote>",
-            "url": "http://books.google.com/books?id=nDVMzwEACAAJ&dq=TypeScript&hl=&cd=9&source=gbs_api",
+            "url": "http://books.google.com/books?id=nDVMzwEACAAJ&dq=TypeScript&hl=&cd=8&source=gbs_api",
             "title": "Vue 3 フロントエンド開発の教科書",
             "summary": "人気のWebフロントエンドフレームワーク「Vue.js」がバージョンアップして「Vue 3」となり、TypeScriptの標準採用、新機能Composition API、Vite、Piniaの搭載など、大幅に機能が更新・強化されました。それに伴い、Vue 3では、従来のOptions APIを利用したコンポーネント開発とは異なる開発手法が必要となります。本書では、Composition APIによるコンポーネント開発やPiniaによる状態管理、Vue RouterによるSPA開発、非同期処理やユニットテストなどを新機能を駆使して解説しており、Vue 3によるフロントエンド開発手法が1冊ですべて身に付く内容になっています。",
             "image": "http://books.google.com/books/content?id=nDVMzwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
@@ -77,10 +69,18 @@
         },
         {
             "content_html": "※この商品はタブレットなど大きいディスプレイを備えた端末で読むことに適しています。また、文字だけを拡大することや、文字列のハイライト、検索、辞書の参照、引用などの機能が使用できません。 Web API設計のベストプラクティス集 APIとはアプリケーション、サービス、コンポーネントがどのように通信するかを定義する仕様です。本書『APIデザイン・パターン』は、Web APIを構築するための安全かつ柔軟で再利用可能なパターンを提供するために執筆されました。一般的な設計原則の説明からはじめ、APIを構築する際の仕様、デザイン・パターンを紹介していきます。Manning Publishing: API Design Patterns の翻訳書。 本書 ”APIデザイン・パターン（API Design Patterns）” は、Web APIを構築するための一連の設計原則、安全かつ柔軟で再利用可能なパターンを提供するために書かれました。Google Cloud PlatformとそのAPI設計に取り組む著者が、 ・APIの一貫性、拡張性、可用性を確保する方法について ・安全かつ柔軟で再利用可能なAPIパターン ・一般的なAPIの設計を改善する手法 について解説します。コード例はTypeScriptで解説。詳細なシナリオ・図解により、API設計についての理解が深まります。 提供するAPIが他の開発者から信頼され、便利に使ってもらえるようにするためのベストプラクティスを提供します。 ［本書まえがきより］ ソフトウェアが「うまく設計されている」とはどういうことなのか、「よく設計されたWeb API」とは何か。 私は自分自身で答えを出そうとし、実際に使ってみた情報などを何年もかけ集約し、Luke Sneeringerと私でGoogleのルールとして明文化し、それは最終的にAIP.dev（google.aip.dev）という形で提供することになりました。これらのルールはある種の法律のようなもので「何をすべきか」は書かれていても、「なぜそうすべきか」は書かれていません。この本で私が目指したのは実践的なガイドラインと、その理由を論理的に説明することです。この本で取り上げたトピックが、APIデザインという魅力的かつ複雑な世界において、多くの会話や将来の仕事のきっかけとなることを願っています。<br><blockquote>※この商品はタブレットなど大きいディスプレイを備えた端末で読むことに適しています。また、文字だけを拡大することや、文字列のハイライト、検索、辞書の参照、引用など ...</blockquote>",
-            "url": "http://books.google.com/books?id=JUWGEAAAQBAJ&dq=TypeScript&hl=&cd=10&source=gbs_api",
+            "url": "http://books.google.com/books?id=JUWGEAAAQBAJ&dq=TypeScript&hl=&cd=9&source=gbs_api",
             "title": "APIデザイン・パターン",
             "summary": "※この商品はタブレットなど大きいディスプレイを備えた端末で読むことに適しています。また、文字だけを拡大することや、文字列のハイライト、検索、辞書の参照、引用などの機能が使用できません。 Web API設計のベストプラクティス集 APIとはアプリケーション、サービス、コンポーネントがどのように通信するかを定義する仕様です。本書『APIデザイン・パターン』は、Web APIを構築するための安全かつ柔軟で再利用可能なパターンを提供するために執筆されました。一般的な設計原則の説明からはじめ、APIを構築する際の仕様、デザイン・パターンを紹介していきます。Manning Publishing: API Design Patterns の翻訳書。 本書 ”APIデザイン・パターン（API Design Patterns）” は、Web APIを構築するための一連の設計原則、安全かつ柔軟で再利用可能なパターンを提供するために書かれました。Google Cloud PlatformとそのAPI設計に取り組む著者が、 ・APIの一貫性、拡張性、可用性を確保する方法について ・安全かつ柔軟で再利用可能なAPIパターン ・一般的なAPIの設計を改善する手法 について解説します。コード例はTypeScriptで解説。詳細なシナリオ・図解により、API設計についての理解が深まります。 提供するAPIが他の開発者から信頼され、便利に使ってもらえるようにするためのベストプラクティスを提供します。 ［本書まえがきより］ ソフトウェアが「うまく設計されている」とはどういうことなのか、「よく設計されたWeb API」とは何か。 私は自分自身で答えを出そうとし、実際に使ってみた情報などを何年もかけ集約し、Luke Sneeringerと私でGoogleのルールとして明文化し、それは最終的にAIP.dev（google.aip.dev）という形で提供することになりました。これらのルールはある種の法律のようなもので「何をすべきか」は書かれていても、「なぜそうすべきか」は書かれていません。この本で私が目指したのは実践的なガイドラインと、その理由を論理的に説明することです。この本で取り上げたトピックが、APIデザインという魅力的かつ複雑な世界において、多くの会話や将来の仕事のきっかけとなることを願っています。",
             "image": "http://books.google.com/books/content?id=JUWGEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+            "date_modified": "2022-08-26T00:00:00.000Z"
+        },
+        {
+            "content_html": "Web API設計のベストプラクティス集<br><blockquote>Web API設計のベストプラクティス集</blockquote>",
+            "url": "http://books.google.com/books?id=52FGzwEACAAJ&dq=TypeScript&hl=&cd=10&source=gbs_api",
+            "title": "APIデザイン・パターン",
+            "summary": "Web API設計のベストプラクティス集",
+            "image": "http://books.google.com/books/content?id=52FGzwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
             "date_modified": "2022-08-26T00:00:00.000Z"
         }
     ]

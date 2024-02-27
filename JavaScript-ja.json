@@ -37,16 +37,8 @@
             "date_modified": "2023-03-22T00:00:00.000Z"
         },
         {
-            "content_html": "※この商品はタブレットなど大きいディスプレイを備えた端末で読むことに適しています。また、文字だけを拡大することや、文字列のハイライト、検索、辞書の参照、引用などの機能が使用できません。 2020/7刊「Node.js超入門 第3版」の改訂版。対象読者はJavaScriptの入門書を読み終え、かつNode.js経験のない人。既存の入門書などで挫折した人もついていけるよう手取り足取り教える内容。<br><blockquote>※この商品はタブレットなど大きいディスプレイを備えた端末で読むことに適しています。また、文字だけを拡大することや、文字列のハイライト、検索、辞書の参照、引用など ...</blockquote>",
-            "url": "http://books.google.com/books?id=znHJEAAAQBAJ&dq=JavaScript&hl=&cd=6&source=gbs_api",
-            "title": "Node.js超入門［第4版］",
-            "summary": "※この商品はタブレットなど大きいディスプレイを備えた端末で読むことに適しています。また、文字だけを拡大することや、文字列のハイライト、検索、辞書の参照、引用などの機能が使用できません。 2020/7刊「Node.js超入門 第3版」の改訂版。対象読者はJavaScriptの入門書を読み終え、かつNode.js経験のない人。既存の入門書などで挫折した人もついていけるよう手取り足取り教える内容。",
-            "image": "http://books.google.com/books/content?id=znHJEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-            "date_modified": "2023-07-05T00:00:00.000Z"
-        },
-        {
             "content_html": "ブラウザ操作も安全かつ高速なRustでできる! WebAssemblyの登場で、JavaScriptを使わなくてもブラウザを操作することが可能になり、使い慣れた言語をブラウザ環境でも使うことができるようになりました。本書では、簡単なゲーム開発を通じて、JavaScriptやTypeScriptを使わずに、安全性、高速性、並列性で定評のあるRustを使って、従来より高速かつ安全にブラウザを動かす方法を学ぶことができます。<br><blockquote>簡単なゲーム開発を通じ、JavaScriptなどを使わず定評のあるRustを使い、高速かつ安全にブラウザを動かす方法を学ぶ。</blockquote>",
-            "url": "http://books.google.com/books?id=TG_9zwEACAAJ&dq=JavaScript&hl=&cd=7&source=gbs_api",
+            "url": "http://books.google.com/books?id=TG_9zwEACAAJ&dq=JavaScript&hl=&cd=6&source=gbs_api",
             "title": "RustとWebAssemblyによるゲーム開発",
             "summary": "ブラウザ操作も安全かつ高速なRustでできる! WebAssemblyの登場で、JavaScriptを使わなくてもブラウザを操作することが可能になり、使い慣れた言語をブラウザ環境でも使うことができるようになりました。本書では、簡単なゲーム開発を通じて、JavaScriptやTypeScriptを使わずに、安全性、高速性、並列性で定評のあるRustを使って、従来より高速かつ安全にブラウザを動かす方法を学ぶことができます。",
             "image": "http://books.google.com/books/content?id=TG_9zwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",

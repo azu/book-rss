@@ -44,20 +44,20 @@
             "date_modified": "2022-10-14T00:00:00.000Z"
         },
         {
-            "content_html": "ブラウザ操作も安全かつ高速なRustでできる! WebAssemblyの登場で、JavaScriptを使わなくてもブラウザを操作することが可能になり、使い慣れた言語をブラウザ環境でも使うことができるようになりました。本書では、簡単なゲーム開発を通じて、JavaScriptやTypeScriptを使わずに、安全性、高速性、並列性で定評のあるRustを使って、従来より高速かつ安全にブラウザを動かす方法を学ぶことができます。<br><blockquote>簡単なゲーム開発を通じ、JavaScriptなどを使わず定評のあるRustを使い、高速かつ安全にブラウザを動かす方法を学ぶ。</blockquote>",
-            "url": "http://books.google.com/books?id=TG_9zwEACAAJ&dq=TypeScript&hl=&cd=6&source=gbs_api",
-            "title": "RustとWebAssemblyによるゲーム開発",
-            "summary": "ブラウザ操作も安全かつ高速なRustでできる! WebAssemblyの登場で、JavaScriptを使わなくてもブラウザを操作することが可能になり、使い慣れた言語をブラウザ環境でも使うことができるようになりました。本書では、簡単なゲーム開発を通じて、JavaScriptやTypeScriptを使わずに、安全性、高速性、並列性で定評のあるRustを使って、従来より高速かつ安全にブラウザを動かす方法を学ぶことができます。",
-            "image": "http://books.google.com/books/content?id=TG_9zwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-            "date_modified": "2023-07-19T00:00:00.000Z"
-        },
-        {
             "content_html": "Vite・TypeScript・Babylon.jsを使ってWebARをするところまでの道筋を解説した本です。 Viteを使ったノンフレームワークなTypeScriptプロジェクトの作成から始まり、最後にはAzureにデプロイするまでをたどっていきます。 Babylon.jsやWebARについての詳細よりも開発環境の構築にフォーカスした内容です。ビルドツールを使って一歩進んだ開発をしてみたいWebAR初学者にオススメしたい一冊です。 【目次】 第1章 環境構築 第2章 Babylon.jsの導入 第3章 シーンをWebARに対応させる 第4章 Hit Testを使って現実空間にオブジェクトを配置する 第5章 Azureにデプロイする<br><blockquote>Vite・TypeScript・Babylon.jsを使ってWebARをするところまでの道筋を解説した本です。 Viteを使ったノンフレームワークなTypeScriptプロジェクトの作成から始まり、最後にはAzureにデプロ ...</blockquote>",
-            "url": "http://books.google.com/books?id=gCh-EAAAQBAJ&printsec=frontcover&dq=TypeScript&hl=&cd=7&source=gbs_api",
+            "url": "http://books.google.com/books?id=gCh-EAAAQBAJ&printsec=frontcover&dq=TypeScript&hl=&cd=6&source=gbs_api",
             "title": "Vite+TypeScript+Babylon.jsでWebARをはじめる本",
             "summary": "Vite・TypeScript・Babylon.jsを使ってWebARをするところまでの道筋を解説した本です。 Viteを使ったノンフレームワークなTypeScriptプロジェクトの作成から始まり、最後にはAzureにデプロイするまでをたどっていきます。 Babylon.jsやWebARについての詳細よりも開発環境の構築にフォーカスした内容です。ビルドツールを使って一歩進んだ開発をしてみたいWebAR初学者にオススメしたい一冊です。 【目次】 第1章 環境構築 第2章 Babylon.jsの導入 第3章 シーンをWebARに対応させる 第4章 Hit Testを使って現実空間にオブジェクトを配置する 第5章 Azureにデプロイする",
             "image": "http://books.google.com/books/content?id=gCh-EAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
             "date_modified": "2022-08-05T00:00:00.000Z"
+        },
+        {
+            "content_html": "ブラウザ操作も安全かつ高速なRustでできる! WebAssemblyの登場で、JavaScriptを使わなくてもブラウザを操作することが可能になり、使い慣れた言語をブラウザ環境でも使うことができるようになりました。本書では、簡単なゲーム開発を通じて、JavaScriptやTypeScriptを使わずに、安全性、高速性、並列性で定評のあるRustを使って、従来より高速かつ安全にブラウザを動かす方法を学ぶことができます。<br><blockquote>簡単なゲーム開発を通じ、JavaScriptなどを使わず定評のあるRustを使い、高速かつ安全にブラウザを動かす方法を学ぶ。</blockquote>",
+            "url": "http://books.google.com/books?id=TG_9zwEACAAJ&dq=TypeScript&hl=&cd=7&source=gbs_api",
+            "title": "RustとWebAssemblyによるゲーム開発",
+            "summary": "ブラウザ操作も安全かつ高速なRustでできる! WebAssemblyの登場で、JavaScriptを使わなくてもブラウザを操作することが可能になり、使い慣れた言語をブラウザ環境でも使うことができるようになりました。本書では、簡単なゲーム開発を通じて、JavaScriptやTypeScriptを使わずに、安全性、高速性、並列性で定評のあるRustを使って、従来より高速かつ安全にブラウザを動かす方法を学ぶことができます。",
+            "image": "http://books.google.com/books/content?id=TG_9zwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+            "date_modified": "2023-07-19T00:00:00.000Z"
         },
         {
             "content_html": "本書は、組込みシステムやOSのような低レイヤーシステムの開発経験がないプログラマーが、自作OSをはじめるため解説書です。C言語を用いることが多い低レイヤーシステム開発について、本書ではRustを使います。RustはC言語と比較して、様々なモダンな機能やツールがそろっているだけでなく、C言語の長所である直接のメモリ制御が可能なため、高パフォーマンスな組込みシステム開発での利用が注目されています。本書はRustそのもの解説も含みますが、低レイヤーシステム開発特有のテクニックを中心に解説します。 【目次】 第1章 環境構築 第2章 ベアメタルでHello World 第3章 割り込み制御 第4章 プロセス切り替え 第5章 スケジューラを実装する 第6章 排他制御・データ共有の実装 第7章 デバイスドライバを実装する 第8章 ヒープ領域を使う 第9章 システムコールをつくる<br><blockquote>本書は、組込みシステムやOSのような低レイヤーシステムの開発経験がないプログラマーが、自作OSをはじめるため解説書です。C言語を用いることが多い低レイヤーシステム開発 ...</blockquote>",

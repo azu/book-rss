@@ -13,19 +13,19 @@
             "date_modified": "2023-10-06T00:00:00.000Z"
         },
         {
-            "content_html": "<br><blockquote>本書は、最近需要が急増しているSSR(Server Side Rendering)によるSPA開発に適したWebアプリケーションフレームワーク「Nuxt 3」の解説書です。Nuxtは、最新のバージョン3でVue ...</blockquote>",
-            "url": "http://books.google.com/books?id=9MUF0AEACAAJ&dq=TypeScript&hl=&cd=2&source=gbs_api",
-            "title": "Nuxt 3 フロントエンド開発の教科書",
-            "image": "http://books.google.com/books/content?id=9MUF0AEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-            "date_modified": "2023-09-22T00:00:00.000Z"
-        },
-        {
             "content_html": "本書は、おもにNext.js、Prisma、GraphQL Code Generatorを用いたWebアプリケーションの構築手法について解説した書籍です。そのほか、Tailwind CSS、NextAuth.js、Apollo GraphQLなど多彩な技術解説も掲載。モダンなWebアプリケーションの開発手法について興味がある方にオススメです。 【目次】 第1章 Next.jsのセットアップ 第2章 Prismaのセットアップ 第3章 GraphQL Code Generatorのセットアップ 第4章 テストコードの追加 第5章 本番環境へのデプロイ 第6章 次のステップ<br><blockquote>本書は、おもにNext.js、Prisma、GraphQL Code Generatorを用いたWebアプリケーションの構築手法について解説した書籍です。そのほか、Tailwind CSS、NextAuth.js、Apollo ...</blockquote>",
-            "url": "http://books.google.com/books?id=mEWtEAAAQBAJ&printsec=frontcover&dq=TypeScript&hl=&cd=3&source=gbs_api",
+            "url": "http://books.google.com/books?id=mEWtEAAAQBAJ&printsec=frontcover&dq=TypeScript&hl=&cd=2&source=gbs_api",
             "title": "Next.js、Prisma、GraphQL Code Generatorで作るフルスタックWebアプリケーション",
             "summary": "本書は、おもにNext.js、Prisma、GraphQL Code Generatorを用いたWebアプリケーションの構築手法について解説した書籍です。そのほか、Tailwind CSS、NextAuth.js、Apollo GraphQLなど多彩な技術解説も掲載。モダンなWebアプリケーションの開発手法について興味がある方にオススメです。 【目次】 第1章 Next.jsのセットアップ 第2章 Prismaのセットアップ 第3章 GraphQL Code Generatorのセットアップ 第4章 テストコードの追加 第5章 本番環境へのデプロイ 第6章 次のステップ",
             "image": "http://books.google.com/books/content?id=mEWtEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
             "date_modified": "2023-02-17T00:00:00.000Z"
+        },
+        {
+            "content_html": "<br><blockquote>本書は、最近需要が急増しているSSR(Server Side Rendering)によるSPA開発に適したWebアプリケーションフレームワーク「Nuxt 3」の解説書です。Nuxtは、最新のバージョン3でVue ...</blockquote>",
+            "url": "http://books.google.com/books?id=9MUF0AEACAAJ&dq=TypeScript&hl=&cd=3&source=gbs_api",
+            "title": "Nuxt 3 フロントエンド開発の教科書",
+            "image": "http://books.google.com/books/content?id=9MUF0AEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+            "date_modified": "2023-09-22T00:00:00.000Z"
         },
         {
             "content_html": "本書はFirebaseを使ったウェブアプリケーションをTestableな形で開発していくための技術解説書です。 フレームワークとしてはVite/Reactを利用し、テストフレームワークとしてはVitest/Cypress、Firebaseもウェブアプリケーションとしては一般的なFirebase Authentication、Firestore、Firebase Functions、Firebase Storageを対象としています。 冒頭で開発する流れを説明した上で、サンプルコードを使ってなるべく具体的な例でテストを書きながら開発が進めていけるような形でまとめていますので、ご自身のユースケースのところだけを読んでいただいても理解できるようになっています。 【目次】 第1章 環境構築 第2章 モデリング 第3章 認証機能 第4章 チャット（メッセージ表示） 第5章 チャット（メッセージ一覧） 第6章 チャット（入力フォーム） 第7章 チャット（画像添付） 第8章 プッシュ通知 第9章 E2Eテスト<br><blockquote>本書はFirebaseを使ったウェブアプリケーションをTestableな形で開発していくための技術解説書です。 ...</blockquote>",

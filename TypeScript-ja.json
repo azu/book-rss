@@ -37,19 +37,19 @@
             "date_modified": "2022-11-25T00:00:00.000Z"
         },
         {
-            "content_html": "<br><blockquote>本書は、最近需要が急増しているSSR(Server Side Rendering)によるSPA開発に適したWebアプリケーションフレームワーク「Nuxt 3」の解説書です。Nuxtは、最新のバージョン3でVue ...</blockquote>",
-            "url": "http://books.google.com/books?id=9MUF0AEACAAJ&dq=TypeScript&hl=&cd=5&source=gbs_api",
-            "title": "Nuxt 3 フロントエンド開発の教科書",
-            "image": "http://books.google.com/books/content?id=9MUF0AEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-            "date_modified": "2023-09-22T00:00:00.000Z"
-        },
-        {
             "content_html": "本書は、バックエンドをサーバレスで実装し、フロントエンドをSPAで実装する方法を解説しています。この本を読めば、サーバレスとSPAで構成されたアプリの開発がスタートできます。 本書の目的は、サーバレスとSPAで構成されたアプリの開発をスタートすることです。サンプルプログラムを用意しているので、これを動かしながら開発の流れを学びます。 ReactやTypeScriptなどを使用していますが、これらの入門的な内容は本書では扱っていません。 【目次】 第1章AWSの準備 第2章アプリをデプロイする 第3章サンプルアプリの動作確認と解説 第4章使用している技術スタック 第5章サンプルアプリのディレクトリー構成 第6章サンプルアプリを改修する 第7章デプロイしたサンプルアプリを削除する<br><blockquote>本書は、バックエンドをサーバレスで実装し、フロントエンドをSPAで実装する方法を解説しています。この本を読めば、サーバレスとSPAで構成されたアプリの開発がスタートでき ...</blockquote>",
-            "url": "http://books.google.com/books?id=6quTEAAAQBAJ&printsec=frontcover&dq=TypeScript&hl=&cd=6&source=gbs_api",
+            "url": "http://books.google.com/books?id=6quTEAAAQBAJ&printsec=frontcover&dq=TypeScript&hl=&cd=5&source=gbs_api",
             "title": "サーバレスとSPAで実装するWebアプリケーション",
             "summary": "本書は、バックエンドをサーバレスで実装し、フロントエンドをSPAで実装する方法を解説しています。この本を読めば、サーバレスとSPAで構成されたアプリの開発がスタートできます。 本書の目的は、サーバレスとSPAで構成されたアプリの開発をスタートすることです。サンプルプログラムを用意しているので、これを動かしながら開発の流れを学びます。 ReactやTypeScriptなどを使用していますが、これらの入門的な内容は本書では扱っていません。 【目次】 第1章AWSの準備 第2章アプリをデプロイする 第3章サンプルアプリの動作確認と解説 第4章使用している技術スタック 第5章サンプルアプリのディレクトリー構成 第6章サンプルアプリを改修する 第7章デプロイしたサンプルアプリを削除する",
             "image": "http://books.google.com/books/content?id=6quTEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
             "date_modified": "2022-10-14T00:00:00.000Z"
+        },
+        {
+            "content_html": "<br><blockquote>本書は、最近需要が急増しているSSR(Server Side Rendering)によるSPA開発に適したWebアプリケーションフレームワーク「Nuxt 3」の解説書です。Nuxtは、最新のバージョン3でVue ...</blockquote>",
+            "url": "http://books.google.com/books?id=9MUF0AEACAAJ&dq=TypeScript&hl=&cd=6&source=gbs_api",
+            "title": "Nuxt 3 フロントエンド開発の教科書",
+            "image": "http://books.google.com/books/content?id=9MUF0AEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+            "date_modified": "2023-09-22T00:00:00.000Z"
         },
         {
             "content_html": "ブラウザ操作も安全かつ高速なRustでできる! WebAssemblyの登場で、JavaScriptを使わなくてもブラウザを操作することが可能になり、使い慣れた言語をブラウザ環境でも使うことができるようになりました。本書では、簡単なゲーム開発を通じて、JavaScriptやTypeScriptを使わずに、安全性、高速性、並列性で定評のあるRustを使って、従来より高速かつ安全にブラウザを動かす方法を学ぶことができます。<br><blockquote>簡単なゲーム開発を通じ、JavaScriptなどを使わず定評のあるRustを使い、高速かつ安全にブラウザを動かす方法を学ぶ。</blockquote>",

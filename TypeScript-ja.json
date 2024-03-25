@@ -13,12 +13,12 @@
             "date_modified": "2024-03-22T00:00:00.000Z"
         },
         {
-            "content_html": "※この商品はタブレットなど大きいディスプレイを備えた端末で読むことに適しています。また、文字だけを拡大することや、文字列のハイライト、検索、辞書の参照、引用などの機能が使用できません。 TypeScriptの基本を押さえたら、次はインターフェース、ジェネリクスなどを学ぼう。ブラウザで動くシューティングゲームの設計、クラスの実装、メインプログラムの作成を通し、アプリケーションの開発を体験しよう。<br><blockquote>※この商品はタブレットなど大きいディスプレイを備えた端末で読むことに適しています。また、文字だけを拡大することや、文字列のハイライト、検索、辞書の参照、引用など ...</blockquote>",
-            "url": "http://books.google.com/books?id=tErcEAAAQBAJ&dq=TypeScript&hl=&cd=2&source=gbs_api",
-            "title": "図解！　TypeScriptのツボとコツがゼッタイにわかる本　プログラミング実践編",
-            "summary": "※この商品はタブレットなど大きいディスプレイを備えた端末で読むことに適しています。また、文字だけを拡大することや、文字列のハイライト、検索、辞書の参照、引用などの機能が使用できません。 TypeScriptの基本を押さえたら、次はインターフェース、ジェネリクスなどを学ぼう。ブラウザで動くシューティングゲームの設計、クラスの実装、メインプログラムの作成を通し、アプリケーションの開発を体験しよう。",
-            "image": "http://books.google.com/books/content?id=tErcEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-            "date_modified": "2023-10-06T00:00:00.000Z"
+            "content_html": "※この商品はタブレットなど大きいディスプレイを備えた端末で読むことに適しています。また、文字だけを拡大することや、文字列のハイライト、検索、辞書の参照、引用などの機能が使用できません。 ※電子版には冊子付録のコンテンツも収録しております。 ※電子化にあたり、著作権・使用権のない記事、写真、図表は掲載しておりません。 特集1 四択穴埋め式クイズで学ぶPython入門 特集2 Q1 JavaScriptとTypeScriptのどちらから学習を始めた方がよいですか？ ほか 特集3 NASAの天体データを使って、「ハレー彗星」「はやぶさ2」の軌道も再現 特集4 「ベイズ推定」の初歩を理解する 特集5 「Python in Excel」がスゴイ！ 特集6 ゲームを完成させる 特集7 ライブラリを公開しよう 特集8 結果発表！「プログラミング言語利用実態調査2023」<br><blockquote>※この商品はタブレットなど大きいディスプレイを備えた端末で読むことに適しています。また、文字だけを拡大することや、文字列のハイライト、検索、辞書の参照、引用など ...</blockquote>",
+            "url": "http://books.google.com/books?id=ccnvEAAAQBAJ&dq=TypeScript&hl=&cd=2&source=gbs_api",
+            "title": "日経ソフトウエア 2024年3月号 [雑誌]",
+            "summary": "※この商品はタブレットなど大きいディスプレイを備えた端末で読むことに適しています。また、文字だけを拡大することや、文字列のハイライト、検索、辞書の参照、引用などの機能が使用できません。 ※電子版には冊子付録のコンテンツも収録しております。 ※電子化にあたり、著作権・使用権のない記事、写真、図表は掲載しておりません。 特集1 四択穴埋め式クイズで学ぶPython入門 特集2 Q1 JavaScriptとTypeScriptのどちらから学習を始めた方がよいですか？ ほか 特集3 NASAの天体データを使って、「ハレー彗星」「はやぶさ2」の軌道も再現 特集4 「ベイズ推定」の初歩を理解する 特集5 「Python in Excel」がスゴイ！ 特集6 ゲームを完成させる 特集7 ライブラリを公開しよう 特集8 結果発表！「プログラミング言語利用実態調査2023」",
+            "image": "http://books.google.com/books/content?id=ccnvEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+            "date_modified": "2024-01-24T00:00:00.000Z"
         },
         {
             "content_html": "本書は、おもにNext.js、Prisma、GraphQL Code Generatorを用いたWebアプリケーションの構築手法について解説した書籍です。そのほか、Tailwind CSS、NextAuth.js、Apollo GraphQLなど多彩な技術解説も掲載。モダンなWebアプリケーションの開発手法について興味がある方にオススメです。 【目次】 第1章 Next.jsのセットアップ 第2章 Prismaのセットアップ 第3章 GraphQL Code Generatorのセットアップ 第4章 テストコードの追加 第5章 本番環境へのデプロイ 第6章 次のステップ<br><blockquote>本書は、おもにNext.js、Prisma、GraphQL Code Generatorを用いたWebアプリケーションの構築手法について解説した書籍です。そのほか、Tailwind CSS、NextAuth.js、Apollo ...</blockquote>",
@@ -37,12 +37,12 @@
             "date_modified": "2022-11-25T00:00:00.000Z"
         },
         {
-            "content_html": "本書は、バックエンドをサーバレスで実装し、フロントエンドをSPAで実装する方法を解説しています。この本を読めば、サーバレスとSPAで構成されたアプリの開発がスタートできます。 本書の目的は、サーバレスとSPAで構成されたアプリの開発をスタートすることです。サンプルプログラムを用意しているので、これを動かしながら開発の流れを学びます。 ReactやTypeScriptなどを使用していますが、これらの入門的な内容は本書では扱っていません。 【目次】 第1章AWSの準備 第2章アプリをデプロイする 第3章サンプルアプリの動作確認と解説 第4章使用している技術スタック 第5章サンプルアプリのディレクトリー構成 第6章サンプルアプリを改修する 第7章デプロイしたサンプルアプリを削除する<br><blockquote>本書は、バックエンドをサーバレスで実装し、フロントエンドをSPAで実装する方法を解説しています。この本を読めば、サーバレスとSPAで構成されたアプリの開発がスタートでき ...</blockquote>",
-            "url": "http://books.google.com/books?id=6quTEAAAQBAJ&printsec=frontcover&dq=TypeScript&hl=&cd=5&source=gbs_api",
-            "title": "サーバレスとSPAで実装するWebアプリケーション",
-            "summary": "本書は、バックエンドをサーバレスで実装し、フロントエンドをSPAで実装する方法を解説しています。この本を読めば、サーバレスとSPAで構成されたアプリの開発がスタートできます。 本書の目的は、サーバレスとSPAで構成されたアプリの開発をスタートすることです。サンプルプログラムを用意しているので、これを動かしながら開発の流れを学びます。 ReactやTypeScriptなどを使用していますが、これらの入門的な内容は本書では扱っていません。 【目次】 第1章AWSの準備 第2章アプリをデプロイする 第3章サンプルアプリの動作確認と解説 第4章使用している技術スタック 第5章サンプルアプリのディレクトリー構成 第6章サンプルアプリを改修する 第7章デプロイしたサンプルアプリを削除する",
-            "image": "http://books.google.com/books/content?id=6quTEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-            "date_modified": "2022-10-14T00:00:00.000Z"
+            "content_html": "※この商品はタブレットなど大きいディスプレイを備えた端末で読むことに適しています。また、文字だけを拡大することや、文字列のハイライト、検索、辞書の参照、引用などの機能が使用できません。 TypeScriptの基本を押さえたら、次はインターフェース、ジェネリクスなどを学ぼう。ブラウザで動くシューティングゲームの設計、クラスの実装、メインプログラムの作成を通し、アプリケーションの開発を体験しよう。<br><blockquote>※この商品はタブレットなど大きいディスプレイを備えた端末で読むことに適しています。また、文字だけを拡大することや、文字列のハイライト、検索、辞書の参照、引用など ...</blockquote>",
+            "url": "http://books.google.com/books?id=tErcEAAAQBAJ&dq=TypeScript&hl=&cd=5&source=gbs_api",
+            "title": "図解！　TypeScriptのツボとコツがゼッタイにわかる本　プログラミング実践編",
+            "summary": "※この商品はタブレットなど大きいディスプレイを備えた端末で読むことに適しています。また、文字だけを拡大することや、文字列のハイライト、検索、辞書の参照、引用などの機能が使用できません。 TypeScriptの基本を押さえたら、次はインターフェース、ジェネリクスなどを学ぼう。ブラウザで動くシューティングゲームの設計、クラスの実装、メインプログラムの作成を通し、アプリケーションの開発を体験しよう。",
+            "image": "http://books.google.com/books/content?id=tErcEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+            "date_modified": "2023-10-06T00:00:00.000Z"
         },
         {
             "content_html": "<br><blockquote>本書は、最近需要が急増しているSSR(Server Side Rendering)によるSPA開発に適したWebアプリケーションフレームワーク「Nuxt 3」の解説書です。Nuxtは、最新のバージョン3でVue ...</blockquote>",
@@ -52,8 +52,16 @@
             "date_modified": "2023-09-22T00:00:00.000Z"
         },
         {
+            "content_html": "本書は、バックエンドをサーバレスで実装し、フロントエンドをSPAで実装する方法を解説しています。この本を読めば、サーバレスとSPAで構成されたアプリの開発がスタートできます。 本書の目的は、サーバレスとSPAで構成されたアプリの開発をスタートすることです。サンプルプログラムを用意しているので、これを動かしながら開発の流れを学びます。 ReactやTypeScriptなどを使用していますが、これらの入門的な内容は本書では扱っていません。 【目次】 第1章AWSの準備 第2章アプリをデプロイする 第3章サンプルアプリの動作確認と解説 第4章使用している技術スタック 第5章サンプルアプリのディレクトリー構成 第6章サンプルアプリを改修する 第7章デプロイしたサンプルアプリを削除する<br><blockquote>本書は、バックエンドをサーバレスで実装し、フロントエンドをSPAで実装する方法を解説しています。この本を読めば、サーバレスとSPAで構成されたアプリの開発がスタートでき ...</blockquote>",
+            "url": "http://books.google.com/books?id=6quTEAAAQBAJ&printsec=frontcover&dq=TypeScript&hl=&cd=7&source=gbs_api",
+            "title": "サーバレスとSPAで実装するWebアプリケーション",
+            "summary": "本書は、バックエンドをサーバレスで実装し、フロントエンドをSPAで実装する方法を解説しています。この本を読めば、サーバレスとSPAで構成されたアプリの開発がスタートできます。 本書の目的は、サーバレスとSPAで構成されたアプリの開発をスタートすることです。サンプルプログラムを用意しているので、これを動かしながら開発の流れを学びます。 ReactやTypeScriptなどを使用していますが、これらの入門的な内容は本書では扱っていません。 【目次】 第1章AWSの準備 第2章アプリをデプロイする 第3章サンプルアプリの動作確認と解説 第4章使用している技術スタック 第5章サンプルアプリのディレクトリー構成 第6章サンプルアプリを改修する 第7章デプロイしたサンプルアプリを削除する",
+            "image": "http://books.google.com/books/content?id=6quTEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+            "date_modified": "2022-10-14T00:00:00.000Z"
+        },
+        {
             "content_html": "ブラウザ操作も安全かつ高速なRustでできる! WebAssemblyの登場で、JavaScriptを使わなくてもブラウザを操作することが可能になり、使い慣れた言語をブラウザ環境でも使うことができるようになりました。本書では、簡単なゲーム開発を通じて、JavaScriptやTypeScriptを使わずに、安全性、高速性、並列性で定評のあるRustを使って、従来より高速かつ安全にブラウザを動かす方法を学ぶことができます。<br><blockquote>簡単なゲーム開発を通じ、JavaScriptなどを使わず定評のあるRustを使い、高速かつ安全にブラウザを動かす方法を学ぶ。</blockquote>",
-            "url": "http://books.google.com/books?id=TG_9zwEACAAJ&dq=TypeScript&hl=&cd=7&source=gbs_api",
+            "url": "http://books.google.com/books?id=TG_9zwEACAAJ&dq=TypeScript&hl=&cd=8&source=gbs_api",
             "title": "RustとWebAssemblyによるゲーム開発",
             "summary": "ブラウザ操作も安全かつ高速なRustでできる! WebAssemblyの登場で、JavaScriptを使わなくてもブラウザを操作することが可能になり、使い慣れた言語をブラウザ環境でも使うことができるようになりました。本書では、簡単なゲーム開発を通じて、JavaScriptやTypeScriptを使わずに、安全性、高速性、並列性で定評のあるRustを使って、従来より高速かつ安全にブラウザを動かす方法を学ぶことができます。",
             "image": "http://books.google.com/books/content?id=TG_9zwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
@@ -61,19 +69,11 @@
         },
         {
             "content_html": "Vite・TypeScript・Babylon.jsを使ってWebARをするところまでの道筋を解説した本です。 Viteを使ったノンフレームワークなTypeScriptプロジェクトの作成から始まり、最後にはAzureにデプロイするまでをたどっていきます。 Babylon.jsやWebARについての詳細よりも開発環境の構築にフォーカスした内容です。ビルドツールを使って一歩進んだ開発をしてみたいWebAR初学者にオススメしたい一冊です。 【目次】 第1章 環境構築 第2章 Babylon.jsの導入 第3章 シーンをWebARに対応させる 第4章 Hit Testを使って現実空間にオブジェクトを配置する 第5章 Azureにデプロイする<br><blockquote>Vite・TypeScript・Babylon.jsを使ってWebARをするところまでの道筋を解説した本です。 Viteを使ったノンフレームワークなTypeScriptプロジェクトの作成から始まり、最後にはAzureにデプロ ...</blockquote>",
-            "url": "http://books.google.com/books?id=gCh-EAAAQBAJ&printsec=frontcover&dq=TypeScript&hl=&cd=8&source=gbs_api",
+            "url": "http://books.google.com/books?id=gCh-EAAAQBAJ&printsec=frontcover&dq=TypeScript&hl=&cd=9&source=gbs_api",
             "title": "Vite+TypeScript+Babylon.jsでWebARをはじめる本",
             "summary": "Vite・TypeScript・Babylon.jsを使ってWebARをするところまでの道筋を解説した本です。 Viteを使ったノンフレームワークなTypeScriptプロジェクトの作成から始まり、最後にはAzureにデプロイするまでをたどっていきます。 Babylon.jsやWebARについての詳細よりも開発環境の構築にフォーカスした内容です。ビルドツールを使って一歩進んだ開発をしてみたいWebAR初学者にオススメしたい一冊です。 【目次】 第1章 環境構築 第2章 Babylon.jsの導入 第3章 シーンをWebARに対応させる 第4章 Hit Testを使って現実空間にオブジェクトを配置する 第5章 Azureにデプロイする",
             "image": "http://books.google.com/books/content?id=gCh-EAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
             "date_modified": "2022-08-05T00:00:00.000Z"
-        },
-        {
-            "content_html": "本書は、組込みシステムやOSのような低レイヤーシステムの開発経験がないプログラマーが、自作OSをはじめるため解説書です。C言語を用いることが多い低レイヤーシステム開発について、本書ではRustを使います。RustはC言語と比較して、様々なモダンな機能やツールがそろっているだけでなく、C言語の長所である直接のメモリ制御が可能なため、高パフォーマンスな組込みシステム開発での利用が注目されています。本書はRustそのもの解説も含みますが、低レイヤーシステム開発特有のテクニックを中心に解説します。 【目次】 第1章 環境構築 第2章 ベアメタルでHello World 第3章 割り込み制御 第4章 プロセス切り替え 第5章 スケジューラを実装する 第6章 排他制御・データ共有の実装 第7章 デバイスドライバを実装する 第8章 ヒープ領域を使う 第9章 システムコールをつくる<br><blockquote>本書は、組込みシステムやOSのような低レイヤーシステムの開発経験がないプログラマーが、自作OSをはじめるため解説書です。C言語を用いることが多い低レイヤーシステム開発 ...</blockquote>",
-            "url": "http://books.google.com/books?id=j5pyEAAAQBAJ&printsec=frontcover&dq=TypeScript&hl=&cd=9&source=gbs_api",
-            "title": "Rustで始める自作組込みOS入門",
-            "summary": "本書は、組込みシステムやOSのような低レイヤーシステムの開発経験がないプログラマーが、自作OSをはじめるため解説書です。C言語を用いることが多い低レイヤーシステム開発について、本書ではRustを使います。RustはC言語と比較して、様々なモダンな機能やツールがそろっているだけでなく、C言語の長所である直接のメモリ制御が可能なため、高パフォーマンスな組込みシステム開発での利用が注目されています。本書はRustそのもの解説も含みますが、低レイヤーシステム開発特有のテクニックを中心に解説します。 【目次】 第1章 環境構築 第2章 ベアメタルでHello World 第3章 割り込み制御 第4章 プロセス切り替え 第5章 スケジューラを実装する 第6章 排他制御・データ共有の実装 第7章 デバイスドライバを実装する 第8章 ヒープ領域を使う 第9章 システムコールをつくる",
-            "image": "http://books.google.com/books/content?id=j5pyEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-            "date_modified": "2022-06-10T00:00:00.000Z"
         },
         {
             "content_html": "人気のWebフロントエンドフレームワーク「Vue.js」がバージョンアップして「Vue 3」となり、TypeScriptの標準採用、新機能Composition API、Vite、Piniaの搭載など、大幅に機能が更新・強化されました。それに伴い、Vue 3では、従来のOptions APIを利用したコンポーネント開発とは異なる開発手法が必要となります。本書では、Composition APIによるコンポーネント開発やPiniaによる状態管理、Vue RouterによるSPA開発、非同期処理やユニットテストなどを新機能を駆使して解説しており、Vue 3によるフロントエンド開発手法が1冊ですべて身に付く内容になっています。<br><blockquote>人気のWebフロントエンドフレームワーク「Vue.js」がバージョンアップして「Vue 3」となり、TypeScriptの標準採用、新機能Composition ...</blockquote>",

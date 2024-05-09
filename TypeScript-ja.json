@@ -52,16 +52,8 @@
             "date_modified": "2023-10-26T00:00:00.000Z"
         },
         {
-            "content_html": "※この商品はタブレットなど大きいディスプレイを備えた端末で読むことに適しています。また、文字だけを拡大することや、文字列のハイライト、検索、辞書の参照、引用などの機能が使用できません。 TypeScriptの基本を押さえたら、次はインターフェース、ジェネリクスなどを学ぼう。ブラウザで動くシューティングゲームの設計、クラスの実装、メインプログラムの作成を通し、アプリケーションの開発を体験しよう。<br><blockquote>※この商品はタブレットなど大きいディスプレイを備えた端末で読むことに適しています。また、文字だけを拡大することや、文字列のハイライト、検索、辞書の参照、引用など ...</blockquote>",
-            "url": "http://books.google.com/books?id=tErcEAAAQBAJ&dq=TypeScript&hl=&cd=7&source=gbs_api",
-            "title": "図解！　TypeScriptのツボとコツがゼッタイにわかる本　プログラミング実践編",
-            "summary": "※この商品はタブレットなど大きいディスプレイを備えた端末で読むことに適しています。また、文字だけを拡大することや、文字列のハイライト、検索、辞書の参照、引用などの機能が使用できません。 TypeScriptの基本を押さえたら、次はインターフェース、ジェネリクスなどを学ぼう。ブラウザで動くシューティングゲームの設計、クラスの実装、メインプログラムの作成を通し、アプリケーションの開発を体験しよう。",
-            "image": "http://books.google.com/books/content?id=tErcEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-            "date_modified": "2023-10-06T00:00:00.000Z"
-        },
-        {
             "content_html": "TypeScriptの基本を押さえたら、次はインターフェース、ジェネリクスなどを学ぼう。ブラウザで動くシューティングゲームの設計、クラスの実装、メインプログラムの作成を通し、アプリケーションの開発を体験しよう。<br><blockquote>TypeScriptの基本を押さえたら、次はインターフェース、ジェネリクスなどを学ぼう。ブラウザで動くシューティングゲームの設計、クラスの実装、メインプログラムの作成を通し ...</blockquote>",
-            "url": "http://books.google.com/books?id=JxEP0AEACAAJ&dq=TypeScript&hl=&cd=8&source=gbs_api",
+            "url": "http://books.google.com/books?id=JxEP0AEACAAJ&dq=TypeScript&hl=&cd=7&source=gbs_api",
             "title": "図解! TypeScriptのツボとコツがゼッタイにわかる本プログラミング実践編",
             "summary": "TypeScriptの基本を押さえたら、次はインターフェース、ジェネリクスなどを学ぼう。ブラウザで動くシューティングゲームの設計、クラスの実装、メインプログラムの作成を通し、アプリケーションの開発を体験しよう。",
             "image": "http://books.google.com/books/content?id=JxEP0AEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
@@ -69,7 +61,7 @@
         },
         {
             "content_html": "React／Next.jsによるWebアプリケーション開発で役立つ応用力が身につく！ ※この電子書籍は固定レイアウト型で配信されております。固定レイアウト型は文字だけを拡大することや、文字列のハイライト、検索、辞書の参照、引用などの機能が使用できません。 たくさんのサンプルを動かしながら、Reactの機能を基礎からしっかり、さらにモダンJavaScript、TypeScript、Next.jsによる本格的なアプリ開発まで、この1冊で総合的に学べます。 とことん丁寧でわかりやすく、開発に必要な応用力が身につけられる、必読の入門書です。 最新 React 18以降／Next.js 13以降に対応 ※カバー画像が異なる場合があります。<br><blockquote>React/Next.jsによるWebアプリケーション開発で役立つ応用力が身につく!</blockquote>",
-            "url": "http://books.google.com/books?id=nf0Q0AEACAAJ&dq=TypeScript&hl=&cd=9&source=gbs_api",
+            "url": "http://books.google.com/books?id=nf0Q0AEACAAJ&dq=TypeScript&hl=&cd=8&source=gbs_api",
             "title": "これからはじめるReact実践入門",
             "summary": "React／Next.jsによるWebアプリケーション開発で役立つ応用力が身につく！ ※この電子書籍は固定レイアウト型で配信されております。固定レイアウト型は文字だけを拡大することや、文字列のハイライト、検索、辞書の参照、引用などの機能が使用できません。 たくさんのサンプルを動かしながら、Reactの機能を基礎からしっかり、さらにモダンJavaScript、TypeScript、Next.jsによる本格的なアプリ開発まで、この1冊で総合的に学べます。 とことん丁寧でわかりやすく、開発に必要な応用力が身につけられる、必読の入門書です。 最新 React 18以降／Next.js 13以降に対応 ※カバー画像が異なる場合があります。",
             "image": "http://books.google.com/books/content?id=nf0Q0AEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
@@ -77,11 +69,19 @@
         },
         {
             "content_html": "TypeScriptの本格的な入門書。JavaScriptの基礎知識があるプログラマーを対象に基本から明快かつ包括的に解説。<br><blockquote>TypeScriptの本格的な入門書。JavaScriptの基礎知識があるプログラマーを対象に基本から明快かつ包括的に解説。</blockquote>",
-            "url": "http://books.google.com/books?id=CcLvzwEACAAJ&dq=TypeScript&hl=&cd=10&source=gbs_api",
+            "url": "http://books.google.com/books?id=CcLvzwEACAAJ&dq=TypeScript&hl=&cd=9&source=gbs_api",
             "title": "初めてのTypeScript",
             "summary": "TypeScriptの本格的な入門書。JavaScriptの基礎知識があるプログラマーを対象に基本から明快かつ包括的に解説。",
             "image": "http://books.google.com/books/content?id=CcLvzwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
             "date_modified": "2023-06-16T00:00:00.000Z"
+        },
+        {
+            "content_html": "React／Next.jsによるWebアプリケーション開発で役立つ応用力が身につく！ ※この電子書籍は固定レイアウト型で配信されております。固定レイアウト型は文字だけを拡大することや、文字列のハイライト、検索、辞書の参照、引用などの機能が使用できません。 たくさんのサンプルを動かしながら、Reactの機能を基礎からしっかり、さらにモダンJavaScript、TypeScript、Next.jsによる本格的なアプリ開発まで、この1冊で総合的に学べます。 とことん丁寧でわかりやすく、開発に必要な応用力が身につけられる、必読の入門書です。 最新 React 18以降／Next.js 13以降に対応 ※カバー画像が異なる場合があります。<br><blockquote>React／Next.jsによるWebアプリケーション開発で役立つ応用力が身につく！ ※この電子書籍は固定レイアウト型で配信されております。固定レイアウト型は文字だけを拡大すること ...</blockquote>",
+            "url": "http://books.google.com/books?id=_4nYEAAAQBAJ&dq=TypeScript&hl=&cd=10&source=gbs_api",
+            "title": "これからはじめるReact実践入門",
+            "summary": "React／Next.jsによるWebアプリケーション開発で役立つ応用力が身につく！ ※この電子書籍は固定レイアウト型で配信されております。固定レイアウト型は文字だけを拡大することや、文字列のハイライト、検索、辞書の参照、引用などの機能が使用できません。 たくさんのサンプルを動かしながら、Reactの機能を基礎からしっかり、さらにモダンJavaScript、TypeScript、Next.jsによる本格的なアプリ開発まで、この1冊で総合的に学べます。 とことん丁寧でわかりやすく、開発に必要な応用力が身につけられる、必読の入門書です。 最新 React 18以降／Next.js 13以降に対応 ※カバー画像が異なる場合があります。",
+            "image": "http://books.google.com/books/content?id=_4nYEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+            "date_modified": "2023-09-27T00:00:00.000Z"
         }
     ]
 }

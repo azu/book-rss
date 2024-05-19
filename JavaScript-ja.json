@@ -38,7 +38,7 @@
         },
         {
             "content_html": "Webアプリケーションの開発において、長らくJavaScript(JS)やTypeScript(TS)などのトランスパイル言語が主流でした。しかし、WebAssembly(Wasm)の出現により、WasmとJSのハイブリッド実行環境が新たな潮流として注目されています。この変化は、JSが完全にWasmに取って代わられるというものではなく、両者の組み合わせによる新しい可能性を示唆しています。 本書では、Wasmの特性を理解することで、なぜハイブリッドな実行環境が有効であるのか、そしてWasmをどのようなシチュエーションで活用すべきかを明らかにします。単に「Wasmの時代が来た」と主張するのではなく、Wasmの真の価値とその活用方法に焦点を当てています。 本書はWasmの適切な利用方法や、どの部分をWasmに置き換えるべきかのヒントを提供することで、読者がより効果的なWebアプリケーション開発を行えるようサポートする解説書です。 【目次】 第1章 WebAssemblyの概要 第2章 WebAssemblyの基本的な使い方 第3章 コンパイル言語からビルドする 第4章 WebAssemblyの活用<br><blockquote>Webアプリケーションの開発において、長らくJavaScript(JS)やTypeScript(TS)などのトランスパイル言語が主流でした。しかし、WebAssembly(Wasm)の出現により、WasmとJSのハイブリッド実行環境 ...</blockquote>",
-            "url": "http://books.google.com/books?id=wi3eEAAAQBAJ&printsec=frontcover&dq=JavaScript&hl=&cd=7&source=gbs_api",
+            "url": "http://books.google.com/books?id=wi3eEAAAQBAJ&printsec=frontcover&dq=JavaScript&hl=&cd=8&source=gbs_api",
             "title": "実践入門WebAssembly",
             "summary": "Webアプリケーションの開発において、長らくJavaScript(JS)やTypeScript(TS)などのトランスパイル言語が主流でした。しかし、WebAssembly(Wasm)の出現により、WasmとJSのハイブリッド実行環境が新たな潮流として注目されています。この変化は、JSが完全にWasmに取って代わられるというものではなく、両者の組み合わせによる新しい可能性を示唆しています。 本書では、Wasmの特性を理解することで、なぜハイブリッドな実行環境が有効であるのか、そしてWasmをどのようなシチュエーションで活用すべきかを明らかにします。単に「Wasmの時代が来た」と主張するのではなく、Wasmの真の価値とその活用方法に焦点を当てています。 本書はWasmの適切な利用方法や、どの部分をWasmに置き換えるべきかのヒントを提供することで、読者がより効果的なWebアプリケーション開発を行えるようサポートする解説書です。 【目次】 第1章 WebAssemblyの概要 第2章 WebAssemblyの基本的な使い方 第3章 コンパイル言語からビルドする 第4章 WebAssemblyの活用",
             "image": "http://books.google.com/books/content?id=wi3eEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
@@ -46,19 +46,11 @@
         },
         {
             "content_html": "※この商品はタブレットなど大きいディスプレイを備えた端末で読むことに適しています。また、文字だけを拡大することや、文字列のハイライト、検索、辞書の参照、引用などの機能が使用できません。 JavaScriptの入門書。リバーシを作りながら、プログラマとして押さえておくべき言語の基本（繰り返し処理、非同期処理）や、Webブラウザーの仕様（イベント受け付け、canvasによる描画）を学べます。<br><blockquote>※この商品はタブレットなど大きいディスプレイを備えた端末で読むことに適しています。また、文字だけを拡大することや、文字列のハイライト、検索、辞書の参照、引用など ...</blockquote>",
-            "url": "http://books.google.com/books?id=dz72EAAAQBAJ&dq=JavaScript&hl=&cd=8&source=gbs_api",
+            "url": "http://books.google.com/books?id=dz72EAAAQBAJ&dq=JavaScript&hl=&cd=10&source=gbs_api",
             "title": "リバーシを作りながら学ぶJavaScript　AIの基本　対戦プログラムの開発に挑戦！",
             "summary": "※この商品はタブレットなど大きいディスプレイを備えた端末で読むことに適しています。また、文字だけを拡大することや、文字列のハイライト、検索、辞書の参照、引用などの機能が使用できません。 JavaScriptの入門書。リバーシを作りながら、プログラマとして押さえておくべき言語の基本（繰り返し処理、非同期処理）や、Webブラウザーの仕様（イベント受け付け、canvasによる描画）を学べます。",
             "image": "http://books.google.com/books/content?id=dz72EAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
             "date_modified": "2024-02-19T00:00:00.000Z"
-        },
-        {
-            "content_html": "※この商品はタブレットなど大きいディスプレイを備えた端末で読むことに適しています。また、文字だけを拡大することや、文字列のハイライト、検索、辞書の参照、引用などの機能が使用できません。 Next.jsの入門書。Webアプリ開発を基礎から解説。JavaScript入門層やNext.jsの経験がすくない層へ手取り足取り教える内容。最終章ではOpenAIと連携したアプリケーション開発の手法も解説。<br><blockquote>※この商品はタブレットなど大きいディスプレイを備えた端末で読むことに適しています。また、文字だけを拡大することや、文字列のハイライト、検索、辞書の参照、引用など ...</blockquote>",
-            "url": "http://books.google.com/books?id=80TxEAAAQBAJ&dq=JavaScript&hl=&cd=10&source=gbs_api",
-            "title": "Next.js超入門",
-            "summary": "※この商品はタブレットなど大きいディスプレイを備えた端末で読むことに適しています。また、文字だけを拡大することや、文字列のハイライト、検索、辞書の参照、引用などの機能が使用できません。 Next.jsの入門書。Webアプリ開発を基礎から解説。JavaScript入門層やNext.jsの経験がすくない層へ手取り足取り教える内容。最終章ではOpenAIと連携したアプリケーション開発の手法も解説。",
-            "image": "http://books.google.com/books/content?id=80TxEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-            "date_modified": "2024-01-31T00:00:00.000Z"
         }
     ]
 }

@@ -53,8 +53,16 @@
             "date_modified": "2024-03-04T00:00:00.000Z"
         },
         {
+            "content_html": "本書は、サイボウズ株式会社の「kintone」のプラグイン作成についての入門書です。読者はハンズオン形式を通じて、kintoneのJavaScriptカスタマイズやプラグインの基本から、プラグインの設定画面の作成、フィールド情報を活用した設定画面の構築、秘匿情報の取り扱い、開発に便利なツールの使用方法に至るまでを学ぶことができます。特に、kintoneカスタマイズとプラグインの違いを理解したい方、自身でプラグインを作成してみたい方、さらにはkintoneプラグイン開発のためのツールを効果的に活用したい方に最適です。実践的な内容で、kintoneのプラグイン開発のスキルを磨きたい方には特にお勧めの一冊です。 【目次】 第1章 kintone JavaScriptカスタマイズとプラグイン 第2章 初めてのkintone JavaScriptカスタマイズを行う 第3章 初めてのプラグインを作る 第4章 プラグインの設定画面を作る 第5章 フィールド情報を使った設定画面を作る 第6章 kintoneプラグインで秘匿情報を扱う 第7章 kintone UI Componentで設定画面を作成する 第8章 kintoneプラグイン開発に便利なツールを使いこなす<br><blockquote>... <b>JavaScript</b> カスタマイズを行うための基本的な知識を学びます。 kintone には kintone <b>JavaScript</b> API という、 kintone の画面の要素を取得したり表示されたデータを操作したりできる API が用意されています。 kintone カスタマイズでは、 kintone&nbsp;...</blockquote>",
+            "url": "http://books.google.com/books?id=GxwLEQAAQBAJ&pg=PT9&dq=JavaScript&hl=&cd=9&source=gbs_api",
+            "title": "kintoneプラグイン開発入門",
+            "summary": "本書は、サイボウズ株式会社の「kintone」のプラグイン作成についての入門書です。読者はハンズオン形式を通じて、kintoneのJavaScriptカスタマイズやプラグインの基本から、プラグインの設定画面の作成、フィールド情報を活用した設定画面の構築、秘匿情報の取り扱い、開発に便利なツールの使用方法に至るまでを学ぶことができます。特に、kintoneカスタマイズとプラグインの違いを理解したい方、自身でプラグインを作成してみたい方、さらにはkintoneプラグイン開発のためのツールを効果的に活用したい方に最適です。実践的な内容で、kintoneのプラグイン開発のスキルを磨きたい方には特にお勧めの一冊です。 【目次】 第1章 kintone JavaScriptカスタマイズとプラグイン 第2章 初めてのkintone JavaScriptカスタマイズを行う 第3章 初めてのプラグインを作る 第4章 プラグインの設定画面を作る 第5章 フィールド情報を使った設定画面を作る 第6章 kintoneプラグインで秘匿情報を扱う 第7章 kintone UI Componentで設定画面を作成する 第8章 kintoneプラグイン開発に便利なツールを使いこなす",
+            "image": "http://books.google.com/books/content?id=GxwLEQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+            "date_modified": "2024-06-07T00:00:00.000Z"
+        },
+        {
             "content_html": "Webアプリケーションの開発において、長らくJavaScript(JS)やTypeScript(TS)などのトランスパイル言語が主流でした。しかし、WebAssembly(Wasm)の出現により、WasmとJSのハイブリッド実行環境が新たな潮流として注目されています。この変化は、JSが完全にWasmに取って代わられるというものではなく、両者の組み合わせによる新しい可能性を示唆しています。 本書では、Wasmの特性を理解することで、なぜハイブリッドな実行環境が有効であるのか、そしてWasmをどのようなシチュエーションで活用すべきかを明らかにします。単に「Wasmの時代が来た」と主張するのではなく、Wasmの真の価値とその活用方法に焦点を当てています。 本書はWasmの適切な利用方法や、どの部分をWasmに置き換えるべきかのヒントを提供することで、読者がより効果的なWebアプリケーション開発を行えるようサポートする解説書です。 【目次】 第1章 WebAssemblyの概要 第2章 WebAssemblyの基本的な使い方 第3章 コンパイル言語からビルドする 第4章 WebAssemblyの活用<br><blockquote>Webアプリケーションの開発において、長らくJavaScript(JS)やTypeScript(TS)などのトランスパイル言語が主流でした。しかし、WebAssembly(Wasm)の出現により、WasmとJSのハイブリッド実行環境 ...</blockquote>",
-            "url": "http://books.google.com/books?id=wi3eEAAAQBAJ&printsec=frontcover&dq=JavaScript&hl=&cd=9&source=gbs_api",
+            "url": "http://books.google.com/books?id=wi3eEAAAQBAJ&printsec=frontcover&dq=JavaScript&hl=&cd=10&source=gbs_api",
             "title": "実践入門WebAssembly",
             "summary": "Webアプリケーションの開発において、長らくJavaScript(JS)やTypeScript(TS)などのトランスパイル言語が主流でした。しかし、WebAssembly(Wasm)の出現により、WasmとJSのハイブリッド実行環境が新たな潮流として注目されています。この変化は、JSが完全にWasmに取って代わられるというものではなく、両者の組み合わせによる新しい可能性を示唆しています。 本書では、Wasmの特性を理解することで、なぜハイブリッドな実行環境が有効であるのか、そしてWasmをどのようなシチュエーションで活用すべきかを明らかにします。単に「Wasmの時代が来た」と主張するのではなく、Wasmの真の価値とその活用方法に焦点を当てています。 本書はWasmの適切な利用方法や、どの部分をWasmに置き換えるべきかのヒントを提供することで、読者がより効果的なWebアプリケーション開発を行えるようサポートする解説書です。 【目次】 第1章 WebAssemblyの概要 第2章 WebAssemblyの基本的な使い方 第3章 コンパイル言語からビルドする 第4章 WebAssemblyの活用",
             "image": "http://books.google.com/books/content?id=wi3eEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",

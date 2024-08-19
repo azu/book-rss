@@ -60,27 +60,28 @@
             "date_modified": "2023-10-06T00:00:00.000Z"
         },
         {
+            "content_html": "TypeScriptの基本を押さえたら、次はインターフェース、ジェネリクスなどを学ぼう。ブラウザで動くシューティングゲームの設計、クラスの実装、メインプログラムの作成を通し、アプリケーションの開発を体験しよう。<br><blockquote>TypeScriptの基本を押さえたら、次はインターフェース、ジェネリクスなどを学ぼう。ブラウザで動くシューティングゲームの設計、クラスの実装、メインプログラムの作成を通し ...</blockquote>",
+            "url": "http://books.google.com/books?id=JxEP0AEACAAJ&dq=TypeScript&hl=&cd=8&source=gbs_api",
+            "title": "図解! TypeScriptのツボとコツがゼッタイにわかる本プログラミング実践編",
+            "summary": "TypeScriptの基本を押さえたら、次はインターフェース、ジェネリクスなどを学ぼう。ブラウザで動くシューティングゲームの設計、クラスの実装、メインプログラムの作成を通し、アプリケーションの開発を体験しよう。",
+            "image": "http://books.google.com/books/content?id=JxEP0AEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+            "date_modified": "2023-10-07T00:00:00.000Z"
+        },
+        {
             "content_html": "React／Next.jsによるWebアプリケーション開発で役立つ応用力が身につく！ ※この電子書籍は固定レイアウト型で配信されております。固定レイアウト型は文字だけを拡大することや、文字列のハイライト、検索、辞書の参照、引用などの機能が使用できません。 たくさんのサンプルを動かしながら、Reactの機能を基礎からしっかり、さらにモダンJavaScript、TypeScript、Next.jsによる本格的なアプリ開発まで、この1冊で総合的に学べます。 とことん丁寧でわかりやすく、開発に必要な応用力が身につけられる、必読の入門書です。 最新 React 18以降／Next.js 13以降に対応 ※カバー画像が異なる場合があります。<br><blockquote>React/Next.jsによるWebアプリケーション開発で役立つ応用力が身につく!</blockquote>",
-            "url": "http://books.google.com/books?id=nf0Q0AEACAAJ&dq=TypeScript&hl=&cd=8&source=gbs_api",
+            "url": "http://books.google.com/books?id=nf0Q0AEACAAJ&dq=TypeScript&hl=&cd=9&source=gbs_api",
             "title": "これからはじめるReact実践入門",
             "summary": "React／Next.jsによるWebアプリケーション開発で役立つ応用力が身につく！ ※この電子書籍は固定レイアウト型で配信されております。固定レイアウト型は文字だけを拡大することや、文字列のハイライト、検索、辞書の参照、引用などの機能が使用できません。 たくさんのサンプルを動かしながら、Reactの機能を基礎からしっかり、さらにモダンJavaScript、TypeScript、Next.jsによる本格的なアプリ開発まで、この1冊で総合的に学べます。 とことん丁寧でわかりやすく、開発に必要な応用力が身につけられる、必読の入門書です。 最新 React 18以降／Next.js 13以降に対応 ※カバー画像が異なる場合があります。",
             "image": "http://books.google.com/books/content?id=nf0Q0AEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
             "date_modified": "2023-09-27T00:00:00.000Z"
         },
         {
-            "content_html": "React／Next.jsによるWebアプリケーション開発で役立つ応用力が身につく！ ※この電子書籍は固定レイアウト型で配信されております。固定レイアウト型は文字だけを拡大することや、文字列のハイライト、検索、辞書の参照、引用などの機能が使用できません。 たくさんのサンプルを動かしながら、Reactの機能を基礎からしっかり、さらにモダンJavaScript、TypeScript、Next.jsによる本格的なアプリ開発まで、この1冊で総合的に学べます。 とことん丁寧でわかりやすく、開発に必要な応用力が身につけられる、必読の入門書です。 最新 React 18以降／Next.js 13以降に対応 ※カバー画像が異なる場合があります。<br><blockquote>React／Next.jsによるWebアプリケーション開発で役立つ応用力が身につく！ ※この電子書籍は固定レイアウト型で配信されております。固定レイアウト型は文字だけを拡大すること ...</blockquote>",
-            "url": "http://books.google.com/books?id=_4nYEAAAQBAJ&dq=TypeScript&hl=&cd=9&source=gbs_api",
-            "title": "これからはじめるReact実践入門",
-            "summary": "React／Next.jsによるWebアプリケーション開発で役立つ応用力が身につく！ ※この電子書籍は固定レイアウト型で配信されております。固定レイアウト型は文字だけを拡大することや、文字列のハイライト、検索、辞書の参照、引用などの機能が使用できません。 たくさんのサンプルを動かしながら、Reactの機能を基礎からしっかり、さらにモダンJavaScript、TypeScript、Next.jsによる本格的なアプリ開発まで、この1冊で総合的に学べます。 とことん丁寧でわかりやすく、開発に必要な応用力が身につけられる、必読の入門書です。 最新 React 18以降／Next.js 13以降に対応 ※カバー画像が異なる場合があります。",
-            "image": "http://books.google.com/books/content?id=_4nYEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-            "date_modified": "2023-09-27T00:00:00.000Z"
-        },
-        {
-            "content_html": "<br><blockquote>本書は、最近需要が急増しているSSR(Server Side Rendering)によるSPA開発に適したWebアプリケーションフレームワーク「Nuxt 3」の解説書です。Nuxtは、最新のバージョン3でVue ...</blockquote>",
-            "url": "http://books.google.com/books?id=9MUF0AEACAAJ&dq=TypeScript&hl=&cd=10&source=gbs_api",
-            "title": "Nuxt 3 フロントエンド開発の教科書",
-            "image": "http://books.google.com/books/content?id=9MUF0AEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-            "date_modified": "2023-09-22T00:00:00.000Z"
+            "content_html": "今一番ホットなサービスであるCloudflare！そんなCloudflareのサービスを駆使して、今回アプリ的なサイトを作ってみました。この本から、Cloudflare活用術の第一歩を踏み出してみませんか？ 内容として、Cloudflare Workersやその周辺のサービスを利用してAPIを構築し、Pagesを利用してサイトをホストしています。どれも導入から利用まで簡単に進められますので、Cloudflareの開発者サービスの利用のしやすさはもちろん、構築や運用のしやすさというのまで体験できる１冊になっています。 【目次】 第1章 環境構築 第2章 記事のAPI作成 第3章 画像管理のAPI作成 第4章 フロント作成と連結 第5章 R2をパブリックにする 第6章 D1を利用する 第7章 Queuesを利用する<br><blockquote>今一番ホットなサービスであるCloudflare！そんなCloudflareのサービスを駆使して、今回アプリ的なサイトを作ってみました。この本から、Cloudflare活用術の第一歩を踏み出してみませ ...</blockquote>",
+            "url": "http://books.google.com/books?id=QwDKEAAAQBAJ&printsec=frontcover&dq=TypeScript&hl=&cd=10&source=gbs_api",
+            "title": "Cloudflare Workers+Pagesで旅行メモのサイトを作ってみよう！",
+            "summary": "今一番ホットなサービスであるCloudflare！そんなCloudflareのサービスを駆使して、今回アプリ的なサイトを作ってみました。この本から、Cloudflare活用術の第一歩を踏み出してみませんか？ 内容として、Cloudflare Workersやその周辺のサービスを利用してAPIを構築し、Pagesを利用してサイトをホストしています。どれも導入から利用まで簡単に進められますので、Cloudflareの開発者サービスの利用のしやすさはもちろん、構築や運用のしやすさというのまで体験できる１冊になっています。 【目次】 第1章 環境構築 第2章 記事のAPI作成 第3章 画像管理のAPI作成 第4章 フロント作成と連結 第5章 R2をパブリックにする 第6章 D1を利用する 第7章 Queuesを利用する",
+            "image": "http://books.google.com/books/content?id=QwDKEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+            "date_modified": "2023-07-14T00:00:00.000Z"
         }
     ]
 }

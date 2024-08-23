@@ -62,7 +62,7 @@
         },
         {
             "content_html": "本書は、サイボウズ株式会社の「kintone」のプラグイン作成についての入門書です。読者はハンズオン形式を通じて、kintoneのJavaScriptカスタマイズやプラグインの基本から、プラグインの設定画面の作成、フィールド情報を活用した設定画面の構築、秘匿情報の取り扱い、開発に便利なツールの使用方法に至るまでを学ぶことができます。特に、kintoneカスタマイズとプラグインの違いを理解したい方、自身でプラグインを作成してみたい方、さらにはkintoneプラグイン開発のためのツールを効果的に活用したい方に最適です。実践的な内容で、kintoneのプラグイン開発のスキルを磨きたい方には特にお勧めの一冊です。 【目次】 第1章 kintone JavaScriptカスタマイズとプラグイン 第2章 初めてのkintone JavaScriptカスタマイズを行う 第3章 初めてのプラグインを作る 第4章 プラグインの設定画面を作る 第5章 フィールド情報を使った設定画面を作る 第6章 kintoneプラグインで秘匿情報を扱う 第7章 kintone UI Componentで設定画面を作成する 第8章 kintoneプラグイン開発に便利なツールを使いこなす<br><blockquote>... <b>JavaScript</b> カスタマイズとは <b>JavaScript</b> カスタマイズとは、 kintone アプリに <b>JavaScript</b> で書かれたコードや CSS を適用することで、アプリの動作や表示を制御するといった機能を追加できる仕組みです。 kintone は基本機能だけでも日々の業務に&nbsp;...</blockquote>",
-            "url": "http://books.google.com/books?id=GxwLEQAAQBAJ&pg=PT4&dq=JavaScript&hl=&cd=10&source=gbs_api",
+            "url": "http://books.google.com/books?id=GxwLEQAAQBAJ&pg=PT4&dq=JavaScript&hl=&cd=8&source=gbs_api",
             "title": "kintoneプラグイン開発入門",
             "summary": "本書は、サイボウズ株式会社の「kintone」のプラグイン作成についての入門書です。読者はハンズオン形式を通じて、kintoneのJavaScriptカスタマイズやプラグインの基本から、プラグインの設定画面の作成、フィールド情報を活用した設定画面の構築、秘匿情報の取り扱い、開発に便利なツールの使用方法に至るまでを学ぶことができます。特に、kintoneカスタマイズとプラグインの違いを理解したい方、自身でプラグインを作成してみたい方、さらにはkintoneプラグイン開発のためのツールを効果的に活用したい方に最適です。実践的な内容で、kintoneのプラグイン開発のスキルを磨きたい方には特にお勧めの一冊です。 【目次】 第1章 kintone JavaScriptカスタマイズとプラグイン 第2章 初めてのkintone JavaScriptカスタマイズを行う 第3章 初めてのプラグインを作る 第4章 プラグインの設定画面を作る 第5章 フィールド情報を使った設定画面を作る 第6章 kintoneプラグインで秘匿情報を扱う 第7章 kintone UI Componentで設定画面を作成する 第8章 kintoneプラグイン開発に便利なツールを使いこなす",
             "image": "http://books.google.com/books/content?id=GxwLEQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",

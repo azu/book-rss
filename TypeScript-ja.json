@@ -76,12 +76,12 @@
             "date_modified": "2023-09-27T00:00:00.000Z"
         },
         {
-            "content_html": "今一番ホットなサービスであるCloudflare！そんなCloudflareのサービスを駆使して、今回アプリ的なサイトを作ってみました。この本から、Cloudflare活用術の第一歩を踏み出してみませんか？ 内容として、Cloudflare Workersやその周辺のサービスを利用してAPIを構築し、Pagesを利用してサイトをホストしています。どれも導入から利用まで簡単に進められますので、Cloudflareの開発者サービスの利用のしやすさはもちろん、構築や運用のしやすさというのまで体験できる１冊になっています。 【目次】 第1章 環境構築 第2章 記事のAPI作成 第3章 画像管理のAPI作成 第4章 フロント作成と連結 第5章 R2をパブリックにする 第6章 D1を利用する 第7章 Queuesを利用する<br><blockquote>今一番ホットなサービスであるCloudflare！そんなCloudflareのサービスを駆使して、今回アプリ的なサイトを作ってみました。この本から、Cloudflare活用術の第一歩を踏み出してみませ ...</blockquote>",
-            "url": "http://books.google.com/books?id=QwDKEAAAQBAJ&printsec=frontcover&dq=TypeScript&hl=&cd=10&source=gbs_api",
-            "title": "Cloudflare Workers+Pagesで旅行メモのサイトを作ってみよう！",
-            "summary": "今一番ホットなサービスであるCloudflare！そんなCloudflareのサービスを駆使して、今回アプリ的なサイトを作ってみました。この本から、Cloudflare活用術の第一歩を踏み出してみませんか？ 内容として、Cloudflare Workersやその周辺のサービスを利用してAPIを構築し、Pagesを利用してサイトをホストしています。どれも導入から利用まで簡単に進められますので、Cloudflareの開発者サービスの利用のしやすさはもちろん、構築や運用のしやすさというのまで体験できる１冊になっています。 【目次】 第1章 環境構築 第2章 記事のAPI作成 第3章 画像管理のAPI作成 第4章 フロント作成と連結 第5章 R2をパブリックにする 第6章 D1を利用する 第7章 Queuesを利用する",
-            "image": "http://books.google.com/books/content?id=QwDKEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-            "date_modified": "2023-07-14T00:00:00.000Z"
+            "content_html": "TypeScriptをはじめて学ぶ方のための超入門書です。アプリケーションの作成に必要な文法を学び、まったくの未経験者でも実際に動くアプリケーション(「ストップウォッチ」「カレンダー」)の作成を体験できます。<br><blockquote>中田亨. <b>TypeScript</b>を学ぶメリットなぜ<b>TypeScript</b>を学ぶのか? <b>TypeScript</b>を学ぶと、開発効率やプログラム品質の向上に役立ちます。以下の理由から、最新のJavaScript仕様の習熟にも役立ちます。最新の構文が使える JavaScriptはウェブアプリケーション開発&nbsp;...</blockquote>",
+            "url": "http://books.google.com/books?id=e96lEAAAQBAJ&pg=PA22&dq=TypeScript&hl=&cd=10&source=gbs_api",
+            "title": "図解!TypeScriptのﾂﾎﾞとｺﾂがｾﾞｯﾀｲにわかる本“超”入門編",
+            "summary": "TypeScriptをはじめて学ぶ方のための超入門書です。アプリケーションの作成に必要な文法を学び、まったくの未経験者でも実際に動くアプリケーション(「ストップウォッチ」「カレンダー」)の作成を体験できます。",
+            "image": "http://books.google.com/books/content?id=e96lEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+            "date_modified": "2022-12-01T00:00:00.000Z"
         }
     ]
 }

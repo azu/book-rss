@@ -13,8 +13,16 @@
             "date_modified": "2024-10-12T00:00:00.000Z"
         },
         {
+            "content_html": "1つのプログラミング言語にこだわらず、それぞれの言語のベストプラクティスを学ぶ。プログラミング言語を支える技術を凝縮した一冊<br><blockquote>1つのプログラミング言語にこだわらず、それぞれの言語のベストプラクティスを学ぶ。プログラミング言語を支える技術を凝縮した一冊</blockquote>",
+            "url": "http://books.google.com/books?id=_IXT0AEACAAJ&dq=TypeScript&hl=&cd=2&source=gbs_api",
+            "title": "プログラミング〈新〉作法これからプログラムを書く人のために",
+            "summary": "1つのプログラミング言語にこだわらず、それぞれの言語のベストプラクティスを学ぶ。プログラミング言語を支える技術を凝縮した一冊",
+            "image": "http://books.google.com/books/content?id=_IXT0AEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+            "date_modified": "2024-09-30T00:00:00.000Z"
+        },
+        {
             "content_html": "これさえあれば、TypeScriptで困らない!<br><blockquote>これさえあれば、TypeScriptで困らない!</blockquote>",
-            "url": "http://books.google.com/books?id=fw6X0AEACAAJ&dq=TypeScript&hl=&cd=2&source=gbs_api",
+            "url": "http://books.google.com/books?id=fw6X0AEACAAJ&dq=TypeScript&hl=&cd=3&source=gbs_api",
             "title": "現場で使えるTypeScript 詳解実践ガイド",
             "summary": "これさえあれば、TypeScriptで困らない!",
             "image": "http://books.google.com/books/content?id=fw6X0AEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
@@ -22,7 +30,7 @@
         },
         {
             "content_html": "Webアプリケーションの開発において、長らくJavaScript(JS)やTypeScript(TS)などのトランスパイル言語が主流でした。しかし、WebAssembly(Wasm)の出現により、WasmとJSのハイブリッド実行環境が新たな潮流として注目されています。この変化は、JSが完全にWasmに取って代わられるというものではなく、両者の組み合わせによる新しい可能性を示唆しています。 本書では、Wasmの特性を理解することで、なぜハイブリッドな実行環境が有効であるのか、そしてWasmをどのようなシチュエーションで活用すべきかを明らかにします。単に「Wasmの時代が来た」と主張するのではなく、Wasmの真の価値とその活用方法に焦点を当てています。 本書はWasmの適切な利用方法や、どの部分をWasmに置き換えるべきかのヒントを提供することで、読者がより効果的なWebアプリケーション開発を行えるようサポートする解説書です。 【目次】 第1章 WebAssemblyの概要 第2章 WebAssemblyの基本的な使い方 第3章 コンパイル言語からビルドする 第4章 WebAssemblyの活用<br><blockquote>Webアプリケーションの開発において、長らくJavaScript(JS)やTypeScript(TS)などのトランスパイル言語が主流でした。しかし、WebAssembly(Wasm)の出現により、WasmとJSのハイブリッド実行環境 ...</blockquote>",
-            "url": "http://books.google.com/books?id=wi3eEAAAQBAJ&printsec=frontcover&dq=TypeScript&hl=&cd=3&source=gbs_api",
+            "url": "http://books.google.com/books?id=wi3eEAAAQBAJ&printsec=frontcover&dq=TypeScript&hl=&cd=4&source=gbs_api",
             "title": "実践入門WebAssembly",
             "summary": "Webアプリケーションの開発において、長らくJavaScript(JS)やTypeScript(TS)などのトランスパイル言語が主流でした。しかし、WebAssembly(Wasm)の出現により、WasmとJSのハイブリッド実行環境が新たな潮流として注目されています。この変化は、JSが完全にWasmに取って代わられるというものではなく、両者の組み合わせによる新しい可能性を示唆しています。 本書では、Wasmの特性を理解することで、なぜハイブリッドな実行環境が有効であるのか、そしてWasmをどのようなシチュエーションで活用すべきかを明らかにします。単に「Wasmの時代が来た」と主張するのではなく、Wasmの真の価値とその活用方法に焦点を当てています。 本書はWasmの適切な利用方法や、どの部分をWasmに置き換えるべきかのヒントを提供することで、読者がより効果的なWebアプリケーション開発を行えるようサポートする解説書です。 【目次】 第1章 WebAssemblyの概要 第2章 WebAssemblyの基本的な使い方 第3章 コンパイル言語からビルドする 第4章 WebAssemblyの活用",
             "image": "http://books.google.com/books/content?id=wi3eEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
@@ -30,7 +38,7 @@
         },
         {
             "content_html": "※この商品はタブレットなど大きいディスプレイを備えた端末で読むことに適しています。また、文字だけを拡大することや、文字列のハイライト、検索、辞書の参照、引用などの機能が使用できません。 これさえあれば、TypeScriptで困らない！ 本書は、TypeScriptの入門者を対象にしています。 TypeScriptの基本から始め、その主要な概念や機能について解説していきます。後半の章では応用的な内容を取り上げています。さらに最終章では、ハンズオン形式でのアプリケーション開発を通じて、学んだ内容の実践的に活用します。 Chapter1 イントロダクション Chapter2 TypeScriptの基礎知識 Chapter3 基本の型 Chapter4 クラスとインターフェイス Chapter5 型の高度な概念 Chapter6 ジェネリクス Chapter7 デコレータ Chapter8 モジュールとライブラリ Chapter9 TSConfigファイルの設定 Chapter10 アプリケーションの作成 Appendix JavaScript Lessons 著者：菅原 浩之（すがはら ひろゆき） 1987年、兵庫県姫路市生まれ。2012年、北海道大学応用物理学専攻修了。同年、大手電気機器メーカーに入社。産業用光源の光学設計や熱設計に携わり、欧米向けの製品開発の主担当として設計や海外製造ラインの立ち上げに従事。 趣味で始めたプログラミング学習を通じて、その面白さと可能性に惹かれ、ソフトウェアエンジニアとしてLeapIn株式会社に入社。現在は、同社にてスマホアプリやWebアプリの開発と新規サービスの立ち上げに従事。 監修者：外村 将大（とのむら まさひろ） 1987年、大阪府枚方市生まれ。2012年、北海道大学応用物理学専攻修了。同年、ソフトバンク株式会社入社。システムエンジニアとしてシステムの設計、開発、運用に従事。2016年、世界的なIT起業家になることを夢見て独立。その後、フリーのWeb開発者として働くかたわら、数々のネットサービスの立ち上げを試みるが尽く失敗。2019年、CodeMafiaのハンドルネームで、インターネット上でプログラミング講師として活動を開始。オンライン学習サイト（Udemy）で動画形式のプログラミング学習教材の提供を開始し、受講者数は9万人を突破。LeapIn株式会社代表。著書に「独習JavaScript新版」。 ※この商品は固定レイアウト型の電子書籍です。 ※この商品はタブレットなど大きいディスプレイを備えた端末で読むことに適しています。また、文字列のハイライトや検索、辞書の参照、引用などの機能が使用できません。 ※お使いの端末で無料サンプルをお試しいただいた上でのご購入をお願いいたします。 ※本書内容はカラーで制作されているため、カラー表示可能な端末での閲覧を推奨いたします<br><blockquote>※この商品はタブレットなど大きいディスプレイを備えた端末で読むことに適しています。また、文字だけを拡大することや、文字列のハイライト、検索、辞書の参照、引用など ...</blockquote>",
-            "url": "http://books.google.com/books?id=l2j-EAAAQBAJ&dq=TypeScript&hl=&cd=4&source=gbs_api",
+            "url": "http://books.google.com/books?id=l2j-EAAAQBAJ&dq=TypeScript&hl=&cd=5&source=gbs_api",
             "title": "現場で使えるTypeScript 詳解実践ガイド",
             "summary": "※この商品はタブレットなど大きいディスプレイを備えた端末で読むことに適しています。また、文字だけを拡大することや、文字列のハイライト、検索、辞書の参照、引用などの機能が使用できません。 これさえあれば、TypeScriptで困らない！ 本書は、TypeScriptの入門者を対象にしています。 TypeScriptの基本から始め、その主要な概念や機能について解説していきます。後半の章では応用的な内容を取り上げています。さらに最終章では、ハンズオン形式でのアプリケーション開発を通じて、学んだ内容の実践的に活用します。 Chapter1 イントロダクション Chapter2 TypeScriptの基礎知識 Chapter3 基本の型 Chapter4 クラスとインターフェイス Chapter5 型の高度な概念 Chapter6 ジェネリクス Chapter7 デコレータ Chapter8 モジュールとライブラリ Chapter9 TSConfigファイルの設定 Chapter10 アプリケーションの作成 Appendix JavaScript Lessons 著者：菅原 浩之（すがはら ひろゆき） 1987年、兵庫県姫路市生まれ。2012年、北海道大学応用物理学専攻修了。同年、大手電気機器メーカーに入社。産業用光源の光学設計や熱設計に携わり、欧米向けの製品開発の主担当として設計や海外製造ラインの立ち上げに従事。 趣味で始めたプログラミング学習を通じて、その面白さと可能性に惹かれ、ソフトウェアエンジニアとしてLeapIn株式会社に入社。現在は、同社にてスマホアプリやWebアプリの開発と新規サービスの立ち上げに従事。 監修者：外村 将大（とのむら まさひろ） 1987年、大阪府枚方市生まれ。2012年、北海道大学応用物理学専攻修了。同年、ソフトバンク株式会社入社。システムエンジニアとしてシステムの設計、開発、運用に従事。2016年、世界的なIT起業家になることを夢見て独立。その後、フリーのWeb開発者として働くかたわら、数々のネットサービスの立ち上げを試みるが尽く失敗。2019年、CodeMafiaのハンドルネームで、インターネット上でプログラミング講師として活動を開始。オンライン学習サイト（Udemy）で動画形式のプログラミング学習教材の提供を開始し、受講者数は9万人を突破。LeapIn株式会社代表。著書に「独習JavaScript新版」。 ※この商品は固定レイアウト型の電子書籍です。 ※この商品はタブレットなど大きいディスプレイを備えた端末で読むことに適しています。また、文字列のハイライトや検索、辞書の参照、引用などの機能が使用できません。 ※お使いの端末で無料サンプルをお試しいただいた上でのご購入をお願いいたします。 ※本書内容はカラーで制作されているため、カラー表示可能な端末での閲覧を推奨いたします",
             "image": "http://books.google.com/books/content?id=l2j-EAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
@@ -38,7 +46,7 @@
         },
         {
             "content_html": "定番のマルチプラットフォーム向けエディタ「Visual Studio Code」の使い方を解説する書籍の改訂新版です。最新のVisual Studio Codeに全面対応するほか、リモート開発機能やGitHubとの連携とった解説も拡充し、さらにパワーアップした決定版です。<br><blockquote>定番のマルチプラットフォーム向けエディタ「Visual Studio Code」の使い方を解説する書籍の改訂新版です。最新のVisual Studio ...</blockquote>",
-            "url": "http://books.google.com/books?id=XKNX0AEACAAJ&dq=TypeScript&hl=&cd=5&source=gbs_api",
+            "url": "http://books.google.com/books?id=XKNX0AEACAAJ&dq=TypeScript&hl=&cd=6&source=gbs_api",
             "title": "改訂新版 Visual Studio Code実践ガイド —— 定番コードエディタを使い倒すテクニック",
             "summary": "定番のマルチプラットフォーム向けエディタ「Visual Studio Code」の使い方を解説する書籍の改訂新版です。最新のVisual Studio Codeに全面対応するほか、リモート開発機能やGitHubとの連携とった解説も拡充し、さらにパワーアップした決定版です。",
             "image": "http://books.google.com/books/content?id=XKNX0AEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
@@ -46,42 +54,34 @@
         },
         {
             "content_html": "※この商品はタブレットなど大きいディスプレイを備えた端末で読むことに適しています。また、文字だけを拡大することや、文字列のハイライト、検索、辞書の参照、引用などの機能が使用できません。 ※電子版には冊子付録のコンテンツも収録しております。 ※電子化にあたり、著作権・使用権のない記事、写真、図表は掲載しておりません。 特集1 四択穴埋め式クイズで学ぶPython入門 特集2 Q1 JavaScriptとTypeScriptのどちらから学習を始めた方がよいですか？ ほか 特集3 NASAの天体データを使って、「ハレー彗星」「はやぶさ2」の軌道も再現 特集4 「ベイズ推定」の初歩を理解する 特集5 「Python in Excel」がスゴイ！ 特集6 ゲームを完成させる 特集7 ライブラリを公開しよう 特集8 結果発表！「プログラミング言語利用実態調査2023」<br><blockquote>※この商品はタブレットなど大きいディスプレイを備えた端末で読むことに適しています。また、文字だけを拡大することや、文字列のハイライト、検索、辞書の参照、引用など ...</blockquote>",
-            "url": "http://books.google.com/books?id=ccnvEAAAQBAJ&dq=TypeScript&hl=&cd=6&source=gbs_api",
+            "url": "http://books.google.com/books?id=ccnvEAAAQBAJ&dq=TypeScript&hl=&cd=7&source=gbs_api",
             "title": "日経ソフトウエア 2024年3月号 [雑誌]",
             "summary": "※この商品はタブレットなど大きいディスプレイを備えた端末で読むことに適しています。また、文字だけを拡大することや、文字列のハイライト、検索、辞書の参照、引用などの機能が使用できません。 ※電子版には冊子付録のコンテンツも収録しております。 ※電子化にあたり、著作権・使用権のない記事、写真、図表は掲載しておりません。 特集1 四択穴埋め式クイズで学ぶPython入門 特集2 Q1 JavaScriptとTypeScriptのどちらから学習を始めた方がよいですか？ ほか 特集3 NASAの天体データを使って、「ハレー彗星」「はやぶさ2」の軌道も再現 特集4 「ベイズ推定」の初歩を理解する 特集5 「Python in Excel」がスゴイ！ 特集6 ゲームを完成させる 特集7 ライブラリを公開しよう 特集8 結果発表！「プログラミング言語利用実態調査2023」",
             "image": "http://books.google.com/books/content?id=ccnvEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
             "date_modified": "2024-01-24T00:00:00.000Z"
         },
         {
-            "content_html": "TypeScriptをはじめて学ぶ方のための超入門書です。アプリケーションの作成に必要な文法を学び、まったくの未経験者でも実際に動くアプリケーション(「ストップウォッチ」「カレンダー」)の作成を体験できます。<br><blockquote>中田亨. <b>TypeScript</b>とは? JavaScriptの上位互換 <b>TypeScript</b>はMicrosoft社が開発したプログラミング言語で、 JavaScriptを拡張して作られた上位互換です。JavaScriptはブラウザやNode.jsなどの実行環境で動作しますが、<b>TypeScript</b>はそのままでは実行&nbsp;...</blockquote>",
-            "url": "http://books.google.com/books?id=e96lEAAAQBAJ&pg=PA18&dq=TypeScript&hl=&cd=7&source=gbs_api",
-            "title": "図解!TypeScriptのﾂﾎﾞとｺﾂがｾﾞｯﾀｲにわかる本“超”入門編",
-            "summary": "TypeScriptをはじめて学ぶ方のための超入門書です。アプリケーションの作成に必要な文法を学び、まったくの未経験者でも実際に動くアプリケーション(「ストップウォッチ」「カレンダー」)の作成を体験できます。",
-            "image": "http://books.google.com/books/content?id=e96lEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-            "date_modified": "2022-12-01T00:00:00.000Z"
-        },
-        {
-            "content_html": "TypeScriptをはじめて学ぶ方のための超入門書です。アプリケーションの作成に必要な文法を学び、まったくの未経験者でも実際に動くアプリケーション(「ストップウォッチ」「カレンダー」)の作成を体験できます。<br><blockquote>中田亨. <b>TypeScript</b>を学ぶメリットなぜ<b>TypeScript</b>を学ぶのか? <b>TypeScript</b>を学ぶと、開発効率やプログラム品質の向上に役立ちます。以下の理由から、最新のJavaScript仕様の習熟にも役立ちます。最新の構文が使える JavaScriptはウェブアプリケーション開発&nbsp;...</blockquote>",
-            "url": "http://books.google.com/books?id=e96lEAAAQBAJ&pg=PA22&dq=TypeScript&hl=&cd=8&source=gbs_api",
-            "title": "図解!TypeScriptのﾂﾎﾞとｺﾂがｾﾞｯﾀｲにわかる本“超”入門編",
-            "summary": "TypeScriptをはじめて学ぶ方のための超入門書です。アプリケーションの作成に必要な文法を学び、まったくの未経験者でも実際に動くアプリケーション(「ストップウォッチ」「カレンダー」)の作成を体験できます。",
-            "image": "http://books.google.com/books/content?id=e96lEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-            "date_modified": "2022-12-01T00:00:00.000Z"
-        },
-        {
-            "content_html": "TypeScriptをはじめて学ぶ方のための超入門書です。アプリケーションの作成に必要な文法を学び、まったくの未経験者でも実際に動くアプリケーション(「ストップウォッチ」「カレンダー」)の作成を体験できます。<br><blockquote>... <b>TypeScript</b>とは? 01 <b>TypeScript</b>とは? . . . JavaScriptの上位互換. <b>TypeScript</b>の特徴. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .クラスベースのオブジェクト指向言語&nbsp;...</blockquote>",
-            "url": "http://books.google.com/books?id=e96lEAAAQBAJ&pg=PA7&dq=TypeScript&hl=&cd=9&source=gbs_api",
-            "title": "図解!TypeScriptのﾂﾎﾞとｺﾂがｾﾞｯﾀｲにわかる本“超”入門編",
-            "summary": "TypeScriptをはじめて学ぶ方のための超入門書です。アプリケーションの作成に必要な文法を学び、まったくの未経験者でも実際に動くアプリケーション(「ストップウォッチ」「カレンダー」)の作成を体験できます。",
-            "image": "http://books.google.com/books/content?id=e96lEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-            "date_modified": "2022-12-01T00:00:00.000Z"
-        },
-        {
             "content_html": "<br><blockquote>本書は、「広く・正しく・新しく」をコンセプトにTypeScriptでプログラミングをはじめるにあたって基本的なことはすべて学習できる内容となっています。また、イラストによる ...</blockquote>",
-            "url": "http://books.google.com/books?id=F_0O0AEACAAJ&dq=TypeScript&hl=&cd=10&source=gbs_api",
+            "url": "http://books.google.com/books?id=F_0O0AEACAAJ&dq=TypeScript&hl=&cd=8&source=gbs_api",
             "title": "かんたん TypeScript",
             "image": "http://books.google.com/books/content?id=F_0O0AEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
             "date_modified": "2023-10-26T00:00:00.000Z"
+        },
+        {
+            "content_html": "TypeScriptの基本を押さえたら、次はインターフェース、ジェネリクスなどを学ぼう。ブラウザで動くシューティングゲームの設計、クラスの実装、メインプログラムの作成を通し、アプリケーションの開発を体験しよう。<br><blockquote>TypeScriptの基本を押さえたら、次はインターフェース、ジェネリクスなどを学ぼう。ブラウザで動くシューティングゲームの設計、クラスの実装、メインプログラムの作成を通し ...</blockquote>",
+            "url": "http://books.google.com/books?id=JxEP0AEACAAJ&dq=TypeScript&hl=&cd=9&source=gbs_api",
+            "title": "図解! TypeScriptのツボとコツがゼッタイにわかる本プログラミング実践編",
+            "summary": "TypeScriptの基本を押さえたら、次はインターフェース、ジェネリクスなどを学ぼう。ブラウザで動くシューティングゲームの設計、クラスの実装、メインプログラムの作成を通し、アプリケーションの開発を体験しよう。",
+            "image": "http://books.google.com/books/content?id=JxEP0AEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+            "date_modified": "2023-10-07T00:00:00.000Z"
+        },
+        {
+            "content_html": "React／Next.jsによるWebアプリケーション開発で役立つ応用力が身につく！ ※この電子書籍は固定レイアウト型で配信されております。固定レイアウト型は文字だけを拡大することや、文字列のハイライト、検索、辞書の参照、引用などの機能が使用できません。 たくさんのサンプルを動かしながら、Reactの機能を基礎からしっかり、さらにモダンJavaScript、TypeScript、Next.jsによる本格的なアプリ開発まで、この1冊で総合的に学べます。 とことん丁寧でわかりやすく、開発に必要な応用力が身につけられる、必読の入門書です。 最新 React 18以降／Next.js 13以降に対応 ※カバー画像が異なる場合があります。<br><blockquote>React/Next.jsによるWebアプリケーション開発で役立つ応用力が身につく!</blockquote>",
+            "url": "http://books.google.com/books?id=nf0Q0AEACAAJ&dq=TypeScript&hl=&cd=10&source=gbs_api",
+            "title": "これからはじめるReact実践入門",
+            "summary": "React／Next.jsによるWebアプリケーション開発で役立つ応用力が身につく！ ※この電子書籍は固定レイアウト型で配信されております。固定レイアウト型は文字だけを拡大することや、文字列のハイライト、検索、辞書の参照、引用などの機能が使用できません。 たくさんのサンプルを動かしながら、Reactの機能を基礎からしっかり、さらにモダンJavaScript、TypeScript、Next.jsによる本格的なアプリ開発まで、この1冊で総合的に学べます。 とことん丁寧でわかりやすく、開発に必要な応用力が身につけられる、必読の入門書です。 最新 React 18以降／Next.js 13以降に対応 ※カバー画像が異なる場合があります。",
+            "image": "http://books.google.com/books/content?id=nf0Q0AEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+            "date_modified": "2023-09-27T00:00:00.000Z"
         }
     ]
 }
